@@ -1,0 +1,1103 @@
+Unnamed: 0,index,PDB,Variation,ddG,pH ,Temp,chain,N residues, Protein  , Organism,Measurement,Unnamed: 10,wt,mut,location,FoldX_dGG
+0,0,1aky,V8I,1.19,7.5,25,A,220,Adenylate Kinase,Saccharomyces cerevi,Fluorescence ,,V,I,8,0.569841
+1,1,1aky,Q48E,0.96,7.7,25,A,220,Adenylate Kinase,Saccharomyces cerevi,Fluorescence ,,Q,E,48,-0.811517
+2,2,1aky,T77H,2.15,7.5,25,A,220,Adenylate Kinase,Saccharomyces cerevi,Fluorescence ,,T,H,77,1.57398
+3,3,1aky,T110H,2.63,7.6,25,A,220,Adenylate Kinase,Saccharomyces cerevi,Fluorescence ,,T,H,110,-1.18166
+4,4,1aky,N169D,2.15,7.5,25,A,220,Adenylate Kinase,Saccharomyces cerevi,Fluorescence ,,N,D,169,0.0967586
+5,5,1aky,I213F,1.91,7.5,25,A,220,Adenylate Kinase,Saccharomyces cerevi,Fluorescence ,,I,F,213,6.79017
+6,6,1am7,H31D,1.6,6,25,A,158,Lysozyme,Lambda phage,Fluorescence ,,H,D,31,1.05239
+7,7,1ank,D84H,1.4,7.2,52,A,214,Adenylate Kinase,Escherichia Coli,DSC,,D,H,84,3.37595
+8,8,1ank,G85V,2.4,7.2,52,A,214,Adenylate Kinase,Escherichia Coli,DSC,,G,V,85,5.81864
+9,9,1ank,F86L,0.8,7.2,52,A,214,Adenylate Kinase,Escherichia Coli,DSC,,F,L,86,1.24032
+10,10,1ank,R88G,0.2,7.4,52,A,214,Adenylate Kinase,Escherichia Coli,DSC,,R,G,88,1.22791
+11,21,1ayf,T54A,1.48,8.5,25,A,105,Adrenodoxin,Bos Taurus,CD,,T,A,54,1.25373
+12,22,1ayf,T54S,0.12,8.5,25,A,105,Adrenodoxin,Bos Taurus,CD,,T,S,54,1.7509
+13,23,1ayf,H56Q,2.17,8.5,25,A,105,Adrenodoxin,Bos Taurus,DSC,,H,Q,56,1.68232
+14,24,1ayf,H56R,1.36,8.5,25,A,105,Adrenodoxin,Bos Taurus,DSC,,H,R,56,6.2757
+15,25,1ayf,H56T,1.41,8.5,25,A,105,Adrenodoxin,Bos Taurus,DSC,,H,T,56,1.18419
+16,29,1ayf,D76E,0.48,8.5,25,A,105,Adrenodoxin,Bos Taurus,DSC,,D,E,76,-0.306599
+17,30,1ayf,Y82F,0.1,8.5,25,A,105,Adrenodoxin,Bos Taurus,DSC,,Y,F,82,0.547119
+18,31,1ayf,Y82L,0.69,8.5,25,A,105,Adrenodoxin,Bos Taurus,DSC,,Y,L,82,0.863418
+19,32,1ayf,Y82S,0.65,8.5,25,A,105,Adrenodoxin,Bos Taurus,DSC,,Y,S,82,0.823578
+20,36,1ayf,C95S,-0.93,8.5,25,A,105,Adrenodoxin,Bos Taurus,DSC,,C,S,95,0.312473
+21,37,1azp,W24A,2.03,7,25,A,61,Sac7d,Sulfolobus acidocaldarius,DSC,,W,A,24,5.2058
+22,38,1azp,V30I,-0.53,7,25,A,61,Sac7d,Sulfolobus acidocaldarius,DSC,,V,I,30,-0.408462
+23,39,1bni,D8A,0.6,6.3,25,A,110,Barnase,Bacillus amyloliquef,CD,,D,A,8,0.923165
+24,40,1bni,D8G,1,6.3,25,A,110,Barnase,Bacillus amyloliquef,CD,,D,G,8,0.44745
+25,41,1bni,D12G,0.6,4.4,25,A,110,Barnase,Bacillus amyloliquef,DSC,,D,G,12,1.11651
+26,42,1bni,L14A,4.2,6.3,25,A,110,Barnase,Bacillus amyloliquef,Fluorescence ,,L,A,14,3.01607
+27,43,1bni,T16R,-0.38,4.4,25,A,110,Barnase,Bacillus amyloliquef,DSC,,T,R,16,-0.967721
+28,44,1bni,T17A,1.9,6.3,25,A,110,Barnase,Bacillus amyloliquef,CD,,T,A,17,
+29,45,1bni,D22M,0.09,4.4,25,A,110,Barnase,Bacillus amyloliquef,DSC,,D,M,22,0.137788
+30,46,1bni,T26G,1.9,4.4,25,A,110,Barnase,Bacillus amyloliquef,DSC,,T,G,26,-1.00973
+31,47,1bni,I51V,1.86,4.4,25,A,110,Barnase,Bacillus amyloliquef,DSC,,I,V,51,0.99687
+32,48,1bni,G52A, 5.30(a),6.3,54,A,110,Barnase,Bacillus amyloliquef,DSC,,G,A,52,6.57131
+33,49,1bni,G53A,3.40(a),6.3,54,A,110,Barnase,Bacillus amyloliquef,DSC,,G,A,53,3.23044
+34,50,1bni,G53V,7.80 (a),6.3,54,A,110,Barnase,Bacillus amyloliquef,DSC,,G,V,53,5.30498
+35,51,1bni,D54N,2.38,4.4,25,A,110,Barnase,Bacillus amyloliquef,DSC,,D,N,54,0.741113
+36,52,1bni,R69M,2.68,4.4,25,A,110,Barnase,Bacillus amyloliquef,DSC,,R,M,69,-0.95126
+37,53,1bni,R83Q,1.4,4.4,25,A,110,Barnase,Bacillus amyloliquef,DSC,,R,Q,83,0.937308
+38,54,1bni,I88A,4.2,6.3,25,A,110,Barnase,Bacillus amyloliquef,Fluorescence ,,I,A,88,3.56368
+39,55,1bni,I88V,1.4,6.3,25,A,110,Barnase,Bacillus amyloliquef,Fluorescence ,,I,V,88,0.72812
+40,56,1bni,S91A,1.38,4.4,25,A,110,Barnase,Bacillus amyloliquef,DSC,,S,A,91,2.59002
+41,57,1bni,S92A,2.65,4.4,25,A,110,Barnase,Bacillus amyloliquef,DSC,,S,A,92,0.0665177
+42,58,1bni,I96A,3.3,6.3,25,A,110,Barnase,Bacillus amyloliquef,Fluorescence ,,I,A,96,4.0363
+43,59,1bni,I96V,0.9,6.3,25,A,110,Barnase,Bacillus amyloliquef,Fluorescence ,,I,V,96,0.494635
+44,75,1bvc,L9A,0.41 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,L,A,9,0.893572
+45,76,1bvc,L11A,0.44 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,L,A,11,2.28073
+46,77,1bvc,V13A,0.67 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,V,A,13,2.44917
+47,78,1bvc,G23A,1.12 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,G,A,23,0.579447
+48,79,1bvc,I28A,1.33 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,I,A,28,3.43182
+49,80,1bvc,I28L,0.55 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,I,L,28,1.43332
+50,81,1bvc,I28M,0.56 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,I,M,28,-0.593598
+51,82,1bvc,I28V,-0.04 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,I,V,28,1.24048
+52,83,1bvc,L29A,2.37 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,A,29,2.66826
+53,84,1bvc,L29I,1.12 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,I,29,4.08564
+54,85,1bvc,L29M,-0.12 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,M,29,-0.223477
+55,86,1bvc,L29V,1.72 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,V,29,2.20353
+56,87,1bvc,L49I,0.80 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,I,49,0.276517
+57,88,1bvc,T51A,1.41 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,T,A,51,1.03995
+58,89,1bvc,V66A,-0.75 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,V,A,66,0.585672
+59,90,1bvc,T67A,0.26 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,T,A,67,-0.4589
+60,91,1bvc,L69A,1.18 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,A,69,3.71095
+61,92,1bvc,L69I,0.02 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,I,69,0.802074
+62,93,1bvc,L69M,0.00 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,M,69,-0.0675703
+63,94,1bvc,L69V,0.10 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,V,69,2.05596
+64,95,1bvc,P88A,-0.59 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,P,A,88,2.13055
+65,96,1bvc,I111A,1.84 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,I,A,111,3.72891
+66,97,1bvc,I111L,0.64 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,I,L,111,-0.30027
+67,98,1bvc,I111M,1.14 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,I,M,111,0.492551
+68,99,1bvc,V114A,1.45 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,V,A,114,1.79699
+69,100,1bvc,H116A,-0.16 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,H,A,116,-0.552479
+70,101,1bvc,S117A,0.26 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,S,A,117,0.112656
+71,102,1bvc,G129A,-1.05 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,G,A,129,-0.782675
+72,103,1bvc,L135I,1.54 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,I,135,1.0446
+73,104,1bvc,L135M,0.79 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,M,135,-0.587379
+74,105,1bvc,L135V,2.25 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,L,V,135,2.64333
+75,106,1bvc,L137A,1.78 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,L,A,137,1.07098
+76,107,1bvc,I142A,1.92 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,I,A,142,3.51506
+77,108,1bvc,I142L,-0.63 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,I,L,142,0.174163
+78,109,1bvc,I142M,-0.93 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,I,M,142,0.716658
+79,110,1bvc,I142V,0.12 (d),11,77,A,153,Myoglobin,Physeter catodon,DSC,,I,V,142,1.67264
+80,111,1bvc,L149A,1.60 (d),9.6,82,A,153,Myoglobin,Physeter catodon,CD,,L,A,149,1.80691
+81,112,1c52,M69A,-5.01,7,25,A,131,Cytochrome c-552,Thermus thermophilus,CD,,M,A,69,1.67208
+82,113,1c52,M69H,0.71,7,25,A,131,Cytochrome c-552,Thermus thermophilus,CD,,M,H,69,1.03469
+83,114,1c8c,W24A,0.75,7,25,A,64,Sso7d,Sulfolobus solfataricus,DSC,,W,A,24,6.09961
+84,115,1c8c,I30V,0.73,7,25,A,64,Sso7d,Sulfolobus solfataricus,DSC,,I,V,30,0.713037
+85,116,1c8c,F32Y,2.14,7.2,25,A,64,Sso7d,Sulfolobus solfataricus,DSC,,F,Y,32,1.43558
+86,117,1c9o,Q2L,-0.55,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,Q,L,2,1.39511
+87,118,1c9o,R3A,1.89,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,R,A,3,0.630176
+88,119,1c9o,R3E,2.75,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,R,E,3,0.06272
+89,120,1c9o,R3K,0.19,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,R,K,3,0.250136
+90,121,1c9o,R3L,0.93,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,R,L,3,0.275412
+91,122,1c9o,N11S,-0.33,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,N,S,11,0.194021
+92,123,1c9o,E12K,0.43,7,75,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,E,K,12,-0.402884
+93,124,1c9o,Y15F,0.05,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,Y,F,15,-0.37336
+94,125,1c9o,E21A,0.29,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,E,A,21,-0.0244634
+95,126,1c9o,E21K,0.26,7,75,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,E,K,21,-0.241877
+96,127,1c9o,G23Q,0.29,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,G,Q,23,0.0709087
+97,128,1c9o,S24D,-0.22,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,S,D,24,0.592169
+98,129,1c9o,H29E,0.76,7,75,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,H,E,29,0.783845
+99,130,1c9o,T31S,-0.17,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,T,S,31,1.09965
+100,131,1c9o,E36K,0.19,7,75,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,E,K,36,0.111005
+101,132,1c9o,E46A,0.22,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,E,A,46,0.0739576
+102,133,1c9o,E46K,0.64,7,75,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,E,K,46,-0.88
+103,134,1c9o,E50K,0.5,7,75,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,E,K,50,0.789095
+104,135,1c9o,Q53E,0.1,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,Q,E,53,0.277477
+105,136,1c9o,N55K,-0.1,7,75,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,N,K,55,-0.423104
+106,137,1c9o,R56E,-0.76,7,75,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,R,E,56,1.28075
+107,138,1c9o,V64T,0.26,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,V,T,64,0.802641
+108,139,1c9o,L66E,1.24,7,70,A,66,Cold Schock Protein,Bacillus caldoliticus,CD,,L,E,66,1.42294
+109,140,1chk,W28F,4.43(a),7,43,A,238,Chitosanase,Streptpmyces N174,Fluorescence ,,W,F,28,1.29631
+110,141,1chk,W101F,4.27(a),7,43,A,238,Chitosanase,Streptpmyces N174,Fluorescence ,,W,F,101,1.41006
+111,144,1chk,W227F,2.51(a),7,43,A,238,Chitosanase,Streptpmyces N174,Fluorescence ,,W,F,227,1.35085
+112,145,1csp,M1R,-1.74,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,M,R,1,0.610711
+113,146,1csp,L2R,0.36,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,L,R,2,0.02022
+114,147,1csp,E3K,-2.75,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,E,K,3,0.340751
+115,148,1csp,E3L,-1.62,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,E,L,3,0.793121
+116,149,1csp,E3Q,-1.31,7.5,55,A,67,Cold Schock Protein,Bacillus subtilis,CD,,E,Q,3,0.0879226
+117,150,1csp,E3R,-2.65,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,E,R,3,0.295685
+118,151,1csp,E3V,-1.77,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,E,V,3,0.0799326
+119,152,1csp,N10D,-0.67,7.5,55,A,67,Cold Schock Protein,Bacillus subtilis,CD,,N,D,10,0.208061
+120,153,1csp,F15A,2.27,7,25,A,67,Cold Schock Protein,Bacillus subtilis,CD,,F,A,15,2.14408
+121,154,1csp,F17A,1.53,7,25,A,67,Cold Schock Protein,Bacillus subtilis,CD,,F,A,17,2.14074
+122,155,1csp,D25Q,0.81,7.5,55,A,67,Cold Schock Protein,Bacillus subtilis,CD,,D,Q,25,-1.6252
+123,156,1csp,F27A,0.84,7,25,A,67,Cold Schock Protein,Bacillus subtilis,CD,,F,A,27,2.08726
+124,157,1csp,F38A,-0.14,7,25,A,67,Cold Schock Protein,Bacillus subtilis,CD,,F,A,38,0.448654
+125,158,1csp,E43S,-0.29,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,E,S,43,-0.275935
+126,159,1csp,A46E,0.6,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,A,E,46,2.18667
+127,160,1csp,A46K,-1.41,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,A,K,46,-0.305045
+128,161,1csp,A46L,-0.81,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,A,L,46,-0.54154
+129,162,1csp,S48E,-0.1,7.5,55,A,67,Cold Schock Protein,Bacillus subtilis,CD,,S,E,48,0.543609
+130,163,1csp,S48K,-1.41,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,S,K,48,-1.54632
+131,164,1csp,S48R,-1.58,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,S,R,48,-1.0137
+132,165,1csp,E50Q,1.22,7.5,55,A,67,Cold Schock Protein,Bacillus subtilis,CD,,E,Q,50,-0.27242
+133,166,1csp,R56Q,-0.38,7.5,55,A,67,Cold Schock Protein,Bacillus subtilis,CD,,R,Q,56,-0.0904685
+134,167,1csp,T64R,-1.07,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,T,R,64,-0.721885
+135,168,1csp,K65I,-1.53,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,K,I,65,-0.369719
+136,169,1csp,E66K,-2.17,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,E,K,66,-1.53401
+137,170,1csp,E66L,-2.1,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,E,L,66,-1.04635
+138,171,1csp,E66V,-1.72,7,70,A,67,Cold Schock Protein,Bacillus subtilis,CD,,E,V,66,1.26971
+139,172,1cyo,F35H,3.41(a),7,71,A,93,Cytochrome b5,Bos Taurus,Abs,,F,H,35,3.03762
+140,173,1cyo,F35L,1.92(a),7,71,A,93,Cytochrome b5,Bos Taurus,Abs,,F,L,35,0.923601
+141,174,1cyo,F35Y,-0.12(a),7,71,A,93,Cytochrome b5,Bos Taurus,Abs,,F,Y,35,0.704097
+142,175,1cyo,V45E,2.37(a),7,71,A,93,Cytochrome b5,Bos Taurus,Abs,,V,E,45,0.292017
+143,176,1cyo,V45H,1.36(a),7,71,A,93,Cytochrome b5,Bos Taurus,Abs,,V,H,45,1.20858
+144,177,1cyo,V45Y,1.54(a),7,71,A,93,Cytochrome b5,Bos Taurus,Abs,,V,Y,45,0.91773
+145,178,1cyo,V61E,1.10(a),7,71,A,93,Cytochrome b5,Bos Taurus,Abs,,V,E,61,0.418551
+146,179,1cyo,V61H,1.63(a),7,71,A,93,Cytochrome b5,Bos Taurus,Abs,,V,H,61,-0.167726
+147,180,1cyo,V61K,2.34(a),7,71,A,93,Cytochrome b5,Bos Taurus,Abs,,V,K,61,-0.168306
+148,181,1cyo,V61Y,1.29(a),7,71,A,93,Cytochrome b5,Bos Taurus,Abs,,V,Y,61,-0.207769
+149,182,1e0w,W85A,-1.08(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,W,A,85,2.65069
+150,183,1e0w,W85F,2.20(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,W,F,85,1.85246
+151,184,1e0w,W85H,0.53(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,W,H,85,3.03245
+152,185,1e0w,Y172A,2.77(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,Y,A,172,5.09804
+153,186,1e0w,Y172F,0.50(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,Y,F,172,2.8289
+154,187,1e0w,Y172S,-0.86(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,Y,S,172,4.98709
+155,188,1e0w,W266A,2.58(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,W,A,266,2.37124
+156,189,1e0w,W266F,1.81(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,W,F,266,0.120059
+157,190,1e0w,W266H,3.99(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,W,H,266,2.96983
+158,191,1e0w,W274A,-2.27(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,W,A,274,1.38464
+159,192,1e0w,W274F,-0.43(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,W,F,274,1.34552
+160,193,1e0w,W274H,-0.14(a),6,68,A,313,Xylanase,Streptpmyces Lividans,CD,,W,H,274,0.398483
+161,202,1ey0,I18M,0.21,5.4,40,A,149,Staphylococcal Nuclease,Staphylococcus aureus,NMR,,I,M,18,0.726858
+162,204,1ey0,D21K,-1,7,20,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,D,K,21,1.31308
+163,205,1ey0,D21N,-1.4,7,20,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,D,N,21,-1.88021
+164,210,1ey0,V23A,1.72,7,20,A,149,Staphylococcal Nuclease,Staphylococcus aureus,DSC,,V,A,23,2.44167
+165,213,1ey0,K24G,0.41,7,20,A,149,Staphylococcal Nuclease,Staphylococcus aureus,DSC,,K,G,24,2.93507
+166,214,1ey0,L25A,1.78,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,DSC,,L,A,25,4.4199
+167,217,1ey0,G29C,1.1,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,G,C,29,2.65649
+168,218,1ey0,G29F,1.1,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence-CD,,G,F,29,3.86679
+169,219,1ey0,M32I,0.6,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,M,I,32,0.167281
+170,220,1ey0,M32L,0.8,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,M,L,32,0.410736
+171,224,1ey0,T33V,-0.4,7,20,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence-CD,,T,V,33,-0.44139
+172,228,1ey0,T41I,-0.7,7,20,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence-CD,,T,I,41,0.190825
+173,235,1ey0,H46Y,0,5.4,40,A,149,Staphylococcal Nuclease,Staphylococcus aureus,NMR,,H,Y,46,0.186785
+174,239,1ey0,G50C,0.8,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,G,C,50,2.38104
+175,240,1ey0,G50F,0.4,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,G,F,50,1.8129
+176,246,1ey0,E57C,0.7,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,E,C,57,0.712562
+177,248,1ey0,E57F,0.9,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence-CD,,E,F,57,-0.344174
+178,249,1ey0,S59A,-0.5,7,20,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,S,A,59,-0.4087
+179,250,1ey0,A60C,1.2,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,A,C,60,0.504436
+180,265,1ey0,V66A,1.72,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,CD,,V,A,66,2.71301
+181,266,1ey0,V66L,0.11,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,DSC,,V,L,66,-1.47641
+182,269,1ey0,V66W,1.22,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,CD,,V,W,66,2.56616
+183,270,1ey0,A69T,2.08,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,DSC,,A,T,69,2.68777
+184,271,1ey0,K70C,0.5,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,K,C,70,1.01518
+185,272,1ey0,K70F,0,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,K,F,70,0.875412
+186,279,1ey0,K78C,0.4,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,K,C,78,0.919984
+187,280,1ey0,K78F,-0.1,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,K,F,78,0.0592069
+188,281,1ey0,G79S,2,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,DSC,,G,S,79,1.79484
+189,291,1ey0,G88V,1.18,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,DSC,,G,V,88,7.85334
+190,292,1ey0,L89F,1.22,5.4,40,A,149,Staphylococcal Nuclease,Staphylococcus aureus,NMR,,L,F,89,0.509344
+191,293,1ey0,A90S,1.46,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,DSC,,A,S,90,0.280117
+192,301,1ey0,R105C,2.7,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,R,C,105,1.65225
+193,302,1ey0,R105F,3.1,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,R,F,105,0.720467
+194,304,1ey0,A112C,0.8,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,A,C,112,0.706536
+195,305,1ey0,A112F,1.3,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence-CD,,A,F,112,0.32807
+196,314,1ey0,P117G,-1,7,20,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,P,G,117,1.11305
+197,322,1ey0,H124L,-1.57,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence-DSC,,H,L,124,-1.51302
+198,324,1ey0,S128A,-0.7,7,20,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence-CD,,S,A,128,-0.788284
+199,326,1ey0,K134C,0.7,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,K,C,134,0.821133
+200,327,1ey0,K134F,0.3,7,25,A,149,Staphylococcal Nuclease,Staphylococcus aureus,Fluorescence,,K,F,134,0.571732
+201,332,1f6r,H32A,2.12(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,H,A,32,0.900764
+202,333,1f6r,H32Y,-0.07(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,H,Y,32,-1.63946
+203,334,1f6r,V42A,0.93(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,V,A,42,0.329927
+204,335,1f6r,V42G,1.15(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,V,G,42,1.40422
+205,336,1f6r,V42N,0.24(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,V,N,42,-0.635449
+206,337,1f6r,Q54A,0.41(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,Q,A,54,0.521663
+207,338,1f6r,I59W,0.93(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,I,W,59,2.60794
+208,339,1f6r,Y103A,2.56(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,Y,A,103,2.49004
+209,340,1f6r,Y103P,0.26(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,Y,P,103,9.09643
+210,341,1f6r,W104Y,2.44(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,W,Y,104,2.40599
+211,342,1f6r,A106S,1.05(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,A,S,106,1.56543
+212,343,1f6r,H107A,0.79(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,H,A,107,0.273314
+213,344,1f6r,H107W,1.72(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,H,W,107,-2.93073
+214,345,1f6r,H107Y,0.19(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,H,Y,107,-1.78658
+215,346,1f6r,L110E,0.19(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,L,E,110,4.92749
+216,347,1f6r,L110H,-1.39(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,L,H,110,3.80693
+217,348,1f6r,L110R,-0.43(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,L,R,110,0.363639
+218,349,1f6r,K114E,0.65(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,K,E,114,0.837485
+219,350,1f6r,K114N,-2.65(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,K,N,114,0.168398
+220,351,1f6r,K114Q,0.60(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,K,Q,114,0.319463
+221,352,1f6r,Q117A,0.96(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,Q,A,117,0.458804
+222,353,1f6r,W118H,0.60(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,W,H,118,3.64629
+223,354,1f6r,W118Y,1.17(a),7.4,56,A,124,Alpha-Lactalbumin,Bos Taurus,CD,,W,Y,118,3.26209
+224,361,1fvk,P151A,6.82,7,-,A,189,Disulfide Bond Formation ,Escherichia Coli,DSC,,P,A,151,4.14551
+225,415,1gv5,V103I,-0.72,7,25,A,52,c-Myb R2,Mus Musculus,CD-DSC,,V,I,103,0.525523
+226,416,1h7m,D2A,0.53,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,D,A,2,0.79227
+227,417,1h7m,E6A,0.89,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,E,A,6,0.29399
+228,418,1h7m,R8A,0.76,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,R,A,8,0.56795
+229,419,1h7m,K9A,0.62,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,K,A,9,0.36005
+230,420,1h7m,K9M,0.49,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,K,M,9,0.322294
+231,421,1h7m,D12A,-0.24,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,D,A,12,-0.508903
+232,422,1h7m,K15A,0.91,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,K,A,15,1.47475
+233,423,1h7m,R21A,-0.07,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,R,A,21,-0.181619
+234,424,1h7m,K22A,-0.43,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,K,A,22,0.614656
+235,425,1h7m,K28A,1.2,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,K,A,28,0.785153
+236,426,1h7m,K33A,-0.12,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,K,A,33,1.50098
+237,427,1h7m,R39A,0.07,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,R,A,39,-0.223889
+238,428,1h7m,R42A,-0.33,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,R,A,42,-1.3267
+239,429,1h7m,D44A,-0.05,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,D,A,44,0.168797
+240,430,1h7m,K46A,1.09,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,K,A,46,1.52036
+241,431,1h7m,E47A,0.05,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,E,A,47,0.277766
+242,432,1h7m,D48A,-0.36,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,D,A,48,0.0126509
+243,433,1h7m,E50A,-0.57,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,E,A,50,0.294732
+244,434,1h7m,R54A,0.26,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,R,A,54,0.450669
+245,435,1h7m,E62A,1.29,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,E,A,62,0.302804
+246,436,1h7m,E64A,0.26,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,E,A,64,-0.646785
+247,437,1h7m,E69A,0.74,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,E,A,69,1.05464
+248,438,1h7m,R76A,-0.19,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,R,A,76,1.18929
+249,439,1h7m,H78A,0.5,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,H,A,78,0.474958
+250,440,1h7m,D87A,1.36,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,D,A,87,0.653131
+251,441,1h7m,E90A,0.45,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,E,A,90,0.425662
+252,442,1h7m,R92A,0.52,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,R,A,92,1.4842
+253,443,1h7m,R92M,0.79,7.4,25,A,102,Ribosomal L30e,Themococcus celer,CD,,R,M,92,0.713786
+254,460,1hfy,T38A,1.6,7,59,A,123,Alpha-Lactalbumin,Capra hircus,CD,,T,A,38,-1.19625
+255,466,1ihb,F37H,1.24,7.5,23,A,162,p18INK4c,Homo sapiens,CD,,F,H,37,1.2093
+256,467,1ihb,R55V,0.32,7.5,23,A,162,p18INK4c,Homo sapiens,CD,,R,V,55,0.579712
+257,468,1ihb,F71N,-0.71,7.5,23,A,162,p18INK4c,Homo sapiens,CD,,F,N,71,1.98566
+258,469,1ihb,F82Q,0.46,7.5,23,A,162,p18INK4c,Homo sapiens,CD,,F,Q,82,1.90308
+259,471,1ihb,F92N,1.08,7.5,-,A,162,p18INK4c,Homo sapiens,CD,,F,N,92,2.17666
+260,473,1io2,I6A,2.91,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,CD,,I,A,6,0.32031
+261,474,1io2,D7N,-1.67,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,DSC,,D,N,7,0.0536763
+262,475,1io2,E8A,-2.65,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,DSC,,E,A,8,1.64088
+263,476,1io2,E8Q,-0.6,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,DSC,,E,Q,8,2.3652
+264,477,1io2,I15A,2.12,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,CD,,I,A,15,3.99235
+265,478,1io2,I20A,4.42,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,CD,,I,A,20,4.00359
+266,479,1io2,L33A,4.54,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,CD,,L,A,33,3.24713
+267,480,1io2,I56A,3.97,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,CD,,I,A,56,3.5057
+268,481,1io2,L92A,2.87,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,CD,,L,A,92,3.34801
+269,482,1io2,I102A,4.04,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,CD,,I,A,102,4.14481
+270,483,1io2,D105A,-1.58,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,DSC,,D,A,105,-1.55341
+271,484,1io2,L118A,5.26,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,CD,,L,A,118,3.7503
+272,485,1io2,D135A,-2.56,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,DSC,,D,A,135,-1.73452
+273,486,1io2,L147A,2.61,9,50,A,213,Ribonuclease hii,Thermococcus kodakarensis,CD,,L,A,147,3.88593
+274,489,1jiw,A8P,0.2,7.1,25,I,106,Alkaline Proteinase Inhibitor,Pseudomonas aeruginosa,CD,,A,P,8,1.73581
+275,490,1jiw,D10A,0.7,7.1,25,I,106,Alkaline Proteinase Inhibitor,Pseudomonas aeruginosa,CD,,D,A,10,0.335878
+276,491,1jiw,D10P,0.5,7.1,25,I,106,Alkaline Proteinase Inhibitor,Pseudomonas aeruginosa,CD,,D,P,10,0.7627
+277,492,1jiw,W15F,2.3,7.1,25,I,106,Alkaline Proteinase Inhibitor,Pseudomonas aeruginosa,CD,,W,F,15,1.81909
+278,493,1jnx,R1699W,3.4,9,25,X,214,BRAC1,Homo sapiens,DSC,,R,W,1699,
+279,494,1jnx,M1775R,4.19,9,25,X,214,BRAC1,Homo sapiens,DSC,,M,R,1775,
+280,495,1jnx,V1833M,1.7,9,25,X,214,BRAC1,Homo sapiens,DSC,,V,M,1833,
+281,499,1ke4,Y150F,0.70(a),6.8,55,A,358,AmpC Beta Lactamase,Escherichia Coli,CD,,Y,F,150,0.983793
+282,504,1kf2,V47A,3.72,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,A,47,3.24364
+283,505,1kf2,V54A,2.58,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,A,54,2.86436
+284,506,1kf2,V54G,4.87,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,G,54,4.63949
+285,507,1kf2,V54I,1.95,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,I,54,-0.189899
+286,508,1kf2,V54L,1.08,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,L,54,0.290992
+287,509,1kf2,V57A,2.85,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,A,57,1.53356
+288,510,1kf2,V57G,5.52,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,G,57,3.44912
+289,511,1kf2,V57I,1.3,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,I,57,0.176249
+290,512,1kf2,V57L,2.37,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,L,57,1.55559
+291,513,1kf2,V63A,2.02,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,A,63,1.51251
+292,514,1kf2,V63G,3.5,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,G,63,2.41402
+293,515,1kf2,A64G,0.43,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,A,G,64,0.496624
+294,518,1kf2,I81A,2.99,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,I,A,81,3.39023
+295,519,1kf2,I81G,4.8,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,I,G,81,4.48432
+296,520,1kf2,I81V,0.43,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,I,V,81,0.428033
+297,523,1kf2,Y97F,3.54,5,64,A,124,Ribonuclease,Bos Taurus,Abs,,Y,F,97,0.474041
+298,525,1kf2,I106A,4.37,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,I,A,106,4.00095
+299,526,1kf2,I106L,1.79,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,I,L,106,1.11814
+300,527,1kf2,I106V,0.8,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,I,V,106,0.954038
+301,528,1kf2,I107A,2.84,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,I,A,107,3.0834
+302,529,1kf2,I107L,2.19,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,I,L,107,0.630784
+303,530,1kf2,I107V,0.08,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,I,V,107,0.48583
+304,531,1kf2,V108A,4.2,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,A,108,3.13681
+305,532,1kf2,V108I,0.43,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,I,108,0.411144
+306,533,1kf2,V108L,0.7,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,L,108,-0.400904
+307,534,1kf2,A109G,0.43,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,A,G,109,1.38036
+308,537,1kf2,V116A,0.66,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,A,116,1.30493
+309,538,1kf2,V116G,1.18,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,G,116,1.9908
+310,540,1kf2,V118A,1.92,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,A,118,1.67631
+311,541,1kf2,V118G,2.77,5,40,A,124,Ribonuclease,Bos Taurus,Abs,,V,G,118,2.50125
+312,543,1kf3,F46L,3.2,6,25,A,124,Ribonuclease,Bos Taurus,CD,,F,L,46,1.46733
+313,544,1kf3,F46V,4.54,6,25,A,124,Ribonuclease,Bos Taurus,DSC-CD,,F,V,46,2.98027
+314,545,1kf3,N67D,-0.61,6,25,A,124,Ribonuclease,Bos Taurus,DSC,,N,D,67,0.989699
+315,546,1kf3,S75A,2.5,6,-,A,124,Ribonuclease,Bos Taurus,CD,,S,A,75,0.553772
+316,548,1kf3,S75T,2.8,6,25,A,124,Ribonuclease,Bos Taurus,CD,,S,T,75,2.04637
+317,550,1kf3,P93G,2.2,6,62,A,124,Ribonuclease,Bos Taurus,DSC,,P,G,93,1.23338
+318,551,1kf3,P114G,3.3,6,62,A,124,Ribonuclease,Bos Taurus,DSC,,P,G,114,1.57547
+319,552,1kf5,A4S,0.51,7,61,A,124,Ribonuclease,Bos Taurus,CD,,A,S,4,0.644357
+320,553,1kf5,A5S,0.37,7,61,A,124,Ribonuclease,Bos Taurus,CD,,A,S,5,0.277395
+321,554,1kf5,S123A,-0.46,7,61,A,124,Ribonuclease,Bos Taurus,CD,,S,A,123,0.183385
+322,555,1kfw,G92P,-0.5,7.5,16,A,435,Chitinase B,Arthrobacter sp TAD20,Fluorescence,,G,P,92,-1.57753
+323,556,1kfw,N197K,-0.8,7.5,16,A,435,Chitinase B,Arthrobacter sp TAD20,Fluorescence,,N,K,197,-0.420325
+324,557,1kfw,G405Q,-0.62,7.5,16,A,435,Chitinase B,Arthrobacter sp TAD20,Fluorescence,,G,Q,405,2.24006
+325,558,1l63,M6A,1.22(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,M,A,6,0.87534
+326,559,1l63,M6L,4.98(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,M,L,6,0.17383
+327,560,1l63,L7A,2.26(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,A,7,0.48879
+328,561,1l63,E11H,0.71(b),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,E,H,11,2.66242
+329,562,1l63,E11N,1.43(b),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,E,N,11,-0.847748
+330,563,1l63,R14K,0.03(a),6.8,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,R,K,14,0.260444
+331,564,1l63,I17A,4.21(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,I,A,17,2.59203
+332,565,1l63,I17M,3.28(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,I,M,17,0.735539
+333,566,1l63,D20A,0.50(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,D,A,20,1.44122
+334,567,1l63,D20N,-1.11(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,D,N,20,-1.4385
+335,568,1l63,D20S,0.18(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,D,S,20,1.09995
+336,569,1l63,D20T,-0.58(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,D,T,20,2.67829
+337,570,1l63,E22K,-0.57(a),6.8,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,E,K,22,-0.18562
+338,571,1l63,T26S,-0.57(a),6.8,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,S,26,0.957031
+339,572,1l63,I27A,3.10(a),3,44,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,I,A,27,3.06551
+340,573,1l63,I27M,7.09(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,I,M,27,2.59085
+341,574,1l63,G28A,2.20(b),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,G,A,28,3.82194
+342,575,1l63,I29A,2.60(a),3,44,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,I,A,29,2.74076
+343,577,1l63,L33A,5.17(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,A,33,3.4715
+344,578,1l63,L33M,2.64(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,M,33,0.0365761
+345,579,1l63,S38N,0.00(a),6.7,62,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,N,38,-0.193319
+346,580,1l63,L39A,0.90(a),5.5,53,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,A,39,1.42371
+347,581,1l63,N40A,0.17(b),6.7,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,N,A,40,-0.294039
+348,582,1l63,N40D,-0.44(a),6.8,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,N,D,40,-1.38522
+349,583,1l63,A41D,-0.29(a),6.8,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,D,41,-0.659904
+350,584,1l63,A41S,0.76(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,S,41,0.692181
+351,585,1l63,A42F,5.18(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,F,42,27.9372
+352,586,1l63,A42I,4.40(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,I,42,6.57481
+353,587,1l63,A42L,5.10(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,L,42,6.24413
+354,588,1l63,A42K,3.70(a),5.5,53,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,K,42,12.6958
+355,589,1l63,A42V,3.54(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,V,42,3.86966
+356,590,1l63,A42S,2.56(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,S,42,0.831322
+357,591,1l63,K43A,2.17(b),6.7,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,K,A,43,0.762836
+358,592,1l63,S44A,-0.43(a),6.7,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,A,44,-0.52427
+359,593,1l63,S44C,0.11(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,C,44,0.45404
+360,594,1l63,S44D,0.11(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,D,44,0.290814
+361,595,1l63,S44E,0,3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,E,44,-0.296902
+362,596,1l63,S44F,-0.06(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,F,44,-0.553902
+363,597,1l63,S44G,0.53(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,G,44,0.468627
+364,598,1l63,S44H,-0.04(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,H,44,-0.107038
+365,599,1l63,S44I,-0.31(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,I,44,0.75576
+366,600,1l63,S44K,-0.20(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,K,44,-0.506347
+367,601,1l63,S44L,-0.39(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,L,44,-0.662815
+368,602,1l63,S44M,-0.33(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,M,44,-0.531021
+369,603,1l63,S44N,0.14(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,N,44,-0.334418
+370,604,1l63,S44P,3.03(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,P,44,4.04644
+371,605,1l63,S44Q,-0.27(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,Q,44,-0.0732754
+372,606,1l63,S44R,-0.24(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,R,44,-0.547998
+373,607,1l63,S44T,-0.01(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,T,44,1.43082
+374,608,1l63,S44V,-0.10(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,V,44,1.30231
+375,609,1l63,S44W,-0.05(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,W,44,-0.503293
+376,610,1l63,S44Y,-0.19(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,Y,44,-0.771581
+377,611,1l63,E45A,0.33(b),6.7,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,E,A,45,-0.31768
+378,612,1l63,L46A,4.21(b),6.7,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,A,46,3.24942
+379,613,1l63,D47A,1.64(b),6.7,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,D,A,47,1.7092
+380,614,1l63,K48A,1.92(b),6.7,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,K,A,48,0.059964
+381,615,1l63,A49S,0.42(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,S,49,0.304259
+382,616,1l63,I50A,1.75(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,I,A,50,2.0355
+383,617,1l63,I50M,1.19(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,I,M,50,0.264335
+384,619,1l63,I58A,3.20(a),3,44,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,I,A,58,3.60258
+385,620,1l63,I58T,3.40(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,I,T,58,2.96766
+386,621,1l63,T59A,1.50(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,A,59,0.184608
+387,622,1l63,T59D,1.20(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,D,59,-1.95183
+388,623,1l63,T59G,1.60(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,G,59,-0.36145
+389,624,1l63,T59N,1.10(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,N,59,-0.469513
+390,625,1l63,T59S,0.20(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,S,59,-1.07606
+391,626,1l63,T59V,1.50(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,V,59,1.38719
+392,627,1l63,K60H,0.10(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,K,H,60,0.779902
+393,628,1l63,L66A,5.08(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,A,66,2.35837
+394,629,1l63,L66M,1.03(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,M,66,-0.456748
+395,630,1l63,F67A,1.90(a),3,44,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,F,A,67,4.40124
+396,631,1l63,Q69P,2.90(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,Q,P,69,1.87669
+397,633,1l63,V71A,1.50(a),3,44,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,A,71,2.50233
+398,634,1l63,D72P,2.70(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,D,P,72,2.15481
+399,635,1l63,A73S,0.31(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,S,73,0.55041
+400,636,1l63,A74P,4.60(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,P,74,4.12494
+401,637,1l63,V75T,0.49(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,T,75,0.304467
+402,638,1l63,I78A,0.57(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,I,A,78,3.57035
+403,639,1l63,I78M,1.62(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,I,M,78,0.130378
+404,640,1l63,I78V,0.68(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,I,V,78,1.08182
+405,642,1l63,R80K,0.17(b),6.8,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,R,K,80,0.340761
+406,643,1l63,A82S,0.20(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,S,82,0.224182
+407,644,1l63,K83H,0.40(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,K,H,83,0.460795
+408,645,1l63,L84A,3.53(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,A,84,4.09854
+409,646,1l63,L84M,2.42(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,M,84,0.424727
+410,647,1l63,V87A,0.57(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,V,A,87,1.9925
+411,648,1l63,V87I,0.63(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,I,87,-0.606203
+412,649,1l63,V87M,2.16(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,V,M,87,-0.0305153
+413,650,1l63,V87T,1.17(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,T,87,1.38765
+414,651,1l63,S90H,1.10(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,H,90,0.33281
+415,652,1l63,L91A,2.22(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,A,91,3.29041
+416,653,1l63,L91M,0.66(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,M,91,0.238318
+417,654,1l63,D92N,1.40(a),6.7,62,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,D,N,92,4.96011
+418,655,1l63,A93S,0.14(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,S,93,0.401358
+419,656,1l63,A93T,-0.06(a),6.8,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,T,93,0.339036
+420,657,1l63,V94A,1.80(a),3,44,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,A,94,1.072
+421,659,1l63,A98S,2.08(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,S,98,0.837931
+422,660,1l63,A98C,1.06(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,C,98,2.67016
+423,661,1l63,A98M,4.00(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,M,98,10.1556
+424,662,1l63,A98V,4.43(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,V,98,4.32218
+425,663,1l63,L99A,3.34(b),5.7,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,A,99,3.42841
+426,664,1l63,L99F,0.30(a),5.7,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,F,99,0.877875
+427,665,1l63,L99I,1.50(a),5.7,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,I,99,2.23643
+428,666,1l63,L99M,-0.41(b),5.7,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,M,99,-0.403991
+429,667,1l63,L99V,2.00(a),5.7,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,V,99,2.28064
+430,668,1l63,I100A,1.70(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,I,A,100,2.92529
+431,669,1l63,I100M,0.80(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,I,M,100,0.58338
+432,670,1l63,I100V,0.40(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,I,V,100,0.909062
+433,671,1l63,N101A,1.50(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,N,A,101,1.70108
+434,672,1l63,M102A,2.76(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,M,A,102,4.15321
+435,673,1l63,M102L,1.71(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,M,L,102,2.1348
+436,674,1l63,V103A,1.11(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,V,A,103,1.81951
+437,675,1l63,V103I,0.26(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,I,103,-0.127986
+438,676,1l63,V103M,1.60(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,V,M,103,-0.00507166
+439,677,1l63,F104A,2.62(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,F,A,104,3.24568
+440,678,1l63,F104M,1.08(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,F,M,104,0.403541
+441,679,1l63,Q105M,1.20(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,Q,M,105,-1.36211
+442,680,1l63,M106A,2.00(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,M,A,106,3.65414
+443,681,1l63,M106I,-0.02(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,M,I,106,2.11114
+444,682,1l63,M106K,3.50(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,M,K,106,2.58456
+445,683,1l63,M106L,0.00(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,M,L,106,0.42642
+446,684,1l63,E108V,-0.26(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,E,V,108,0.89183
+447,685,1l63,T109D,-0.60(a),6.7,62,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,D,109,-0.8646
+448,686,1l63,T109N,-0.10(a),6.7,62,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,N,109,0.290842
+449,687,1l63,V111A,0.94(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,V,A,111,2.4461
+450,688,1l63,V111F,1.69(a),5.7,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,F,111,6.91825
+451,689,1l63,V111I,0.85(a),5.7,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,I,111,-0.65383
+452,690,1l63,V111M,0.43(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,V,M,111,-1.08187
+453,691,1l63,G113E,-0.30(a),6.8,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,G,E,113,0.800703
+454,692,1l63,T115A,0.14(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,A,115,0.0532705
+455,693,1l63,N116A,-0.17(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,N,A,116,-0.529822
+456,694,1l63,S117A,-1.27(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,A,117,-1.36983
+457,695,1l63,S117F,-1.1(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,S,F,117,5.59447
+458,696,1l63,L118A,2.71(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,A,118,3.12666
+459,697,1l63,L118I,1.18(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,I,118,1.54274
+460,698,1l63,L118M,0.08(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,M,118,-0.480873
+461,699,1l63,R119A,0.18(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,R,A,119,0.48534
+462,701,1l63,R119H,0.29(a),6.8,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,R,H,119,0.637499
+463,702,1l63,M120A,0.20(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,M,A,120,1.24854
+464,703,1l63,M120K,1.98(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,M,K,120,0.585868
+465,704,1l63,M120L,-0.42(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,M,L,120,-0.205893
+466,705,1l63,M120Y,0.72(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,M,Y,120,0.318515
+467,706,1l63,L121A,2.67(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,A,121,3.66891
+468,707,1l63,L121M,0.21(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,L,M,121,-0.42548
+469,708,1l63,Q122A,0.24(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,Q,A,122,0.515084
+470,709,1l63,Q123A,0.22(a),3,52,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,Q,A,123,-0.472652
+471,710,1l63,A129L,1.93(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,L,129,2.10385
+472,711,1l63,A129M,2.53(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,A,M,129,0.546032
+473,712,1l63,A129F,1.85(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,F,129,12.7456
+474,713,1l63,A129W,3.20(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,W,129,21.8007
+475,714,1l63,A130S,0.81(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,S,130,-0.129532
+476,715,1l63,L133D,7.52(b),6.5,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,D,133,3.35315
+477,716,1l63,L133F,0.27(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,F,133,-0.795905
+478,717,1l63,L133M,0.27(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,L,M,133,-0.394297
+479,718,1l63,A134S,0.21(b),3,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,A,S,134,-0.0458205
+480,721,1l63,N144H,-0.30(a),6.7,62,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,N,H,144,-0.51229
+481,722,1l63,N144E,-0.50(a),6.5,63,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,N,E,144,-1.41504
+482,724,1l63,V149A,0.71(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,V,A,149,1.97049
+483,725,1l63,V149C,2.00(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,C,149,2.00029
+484,726,1l63,V149G,4.90(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,G,149,3.84696
+485,727,1l63,V149I,0.48(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,I,149,-0.666202
+486,728,1l63,V149M,2.44(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,Fluorescence-CD,,V,M,149,-0.058011
+487,729,1l63,V149S,4.40(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,S,149,3.68566
+488,730,1l63,V149T,3.00(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,V,T,149,2.18752
+489,731,1l63,T151S,-0.39(a),6.8,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,S,151,0.558489
+490,732,1l63,T152A,1.50(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,A,152,-0.000554724
+491,733,1l63,T152C,0.50(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,C,152,0.0393492
+492,734,1l63,T152I,0.40(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,I,152,-1.45874
+493,735,1l63,T152S,2.00(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,S,152,1.11733
+494,736,1l63,T152V,-0.20(a),5.4,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,T,V,152,-1.7624
+495,737,1l63,F153A,2.84(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,F,A,153,4.06351
+496,738,1l63,F153I,0.20(a),5.7,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,F,I,153,2.00393
+497,739,1l63,F153L,-0.30(a),5.7,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,F,L,153,0.95821
+498,740,1l63,F153M,0.30(b),5.4,25,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,F,M,153,1.07204
+499,741,1l63,F153V,1.80(a),5.7,65,A,164,T4 Lyzozyme (pseudoWT) ,Enterobacteria phage T4,CD,,F,V,153,3.82878
+500,742,1lhm,V2A,1.8,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,V,A,2,0.440539
+501,743,1lhm,I23V,0.37,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,I,V,23,1.21198
+502,744,1lhm,I56V,1.18,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,I,V,56,1.31597
+503,745,1lhm,I59A,1.06,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,I,A,59,3.26208
+504,746,1lhm,I59V,1.2,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,I,V,59,1.22778
+505,747,1lhm,V74A,0.67,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,V,A,74,0.465288
+506,748,1lhm,I89V,0.67,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,I,V,89,1.35146
+507,749,1lhm,V93A,0.79,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,V,A,93,1.9264
+508,750,1lhm,V99A,1.21,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,V,A,99,1.7889
+509,751,1lhm,V100A,1.08,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,V,A,100,2.59886
+510,752,1lhm,I106V,1.31,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,I,V,106,1.42722
+511,753,1lhm,V110A,-0.12,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,V,A,110,-0.138335
+512,754,1lhm,V121A,1.96,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,V,A,121,0.78691
+513,755,1lhm,V125A,1.06,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,V,A,125,2.15475
+514,756,1lhm,V130A,0.93,2.7,25,A,130,Lysozyme (mutant C77/95A),Homo sapiens,DSC,,V,A,130,1.54346
+515,757,1lni,V2T,0.90(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,V,T,2,0.50247
+516,758,1lni,T5V,0.00(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,T,V,5,0.150523
+517,759,1lni,T16V,-0.30(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,T,V,16,-0.0565645
+518,760,1lni,T18V,1.40(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,T,V,18,0.456438
+519,761,1lni,D25K,-0.90(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,K,25,-1.23413
+520,762,1lni,D33A,4.05(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,A,33,2.39204
+521,763,1lni,V36T,1.30(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,V,T,36,1.37559
+522,764,1lni,Q38A,-1.00(a),7,49,A,96,Ribonuclease sa,Streptomyces aureofaciens,DSC,,Q,A,38,0.204158
+523,765,1lni,N39A,2.20(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,N,A,39,1.83703
+524,766,1lni,N39D,1.50(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,N,D,39,3.6069
+525,767,1lni,N39S,2.30(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,N,S,39,3.13247
+526,768,1lni,E41K,0.70(a),7,49,A,96,Ribonuclease sa,Streptomyces aureofaciens,DSC,,E,K,41,-0.53578
+527,769,1lni,V43T,0.50(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,V,T,43,0.62254
+528,770,1lni,E54Q,1.70(a),7,49,A,96,Ribonuclease sa,Streptomyces aureofaciens,DSC,,E,Q,54,2.0285
+529,771,1lni,T56V,1.90(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,T,V,56,3.29596
+530,772,1lni,V57T,4.40(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,V,T,57,2.59504
+531,773,1lni,T59V,1.70(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,T,V,59,-0.902801
+532,774,1lni,R65A,1.00(a),7,49,A,96,Ribonuclease sa,Streptomyces aureofaciens,DSC,,R,A,65,2.95008
+533,775,1lni,T67V,0.00(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,T,V,67,-0.163702
+534,776,1lni,T72V,0.20(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,T,V,72,-0.515265
+535,777,1lni,E74K,-1.10(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,E,K,74,-0.0875734
+536,778,1lni,D79A,-1.47(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,A,79,-0.827569
+537,779,1lni,D79E,-1.26(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,E,79,0.0583103
+538,780,1lni,D79F,-1.06(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,F,79,-2.96467
+539,781,1lni,D79H,-1.21(b),91,,A,25,1,Ribonuclease sa,[7.0],CD,D,H,79,-0.674443
+540,782,1lni,D79I,-1.02(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,I,79,-2.43219
+541,783,1lni,D79K,-0.73(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,K,79,-2.17743
+542,784,1lni,D79L,0.39(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,L,79,-1.35358
+543,785,1lni,D79N,-1.21(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,N,79,-0.200523
+544,786,1lni,D79R,0.19(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,R,79,-1.68247
+545,787,1lni,D79W,-0.73(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,W,79,-1.60414
+546,788,1lni,D79Y,-0.53(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,D,Y,79,-2.63507
+547,789,1lni,T82V,1.70(a),7,48,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,T,V,82,4.20673
+548,790,1lni,H85Q,0.00(a),7,49,A,96,Ribonuclease sa,Streptomyces aureofaciens,DSC,,H,Q,85,-0.105433
+549,791,1lni,Q94K,-0.49(b),7,25,A,96,Ribonuclease sa,Streptomyces aureofaciens,CD,,Q,K,94,-0.604285
+550,792,1lz1,K1A,2.3,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,K,A,1,0.781481
+551,793,1lz1,K1M,1.39,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,K,M,1,0.281432
+552,794,1lz1,V2A,0.76,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,A,2,0.545678
+553,795,1lz1,V2D,0.84,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,D,2,0.1717
+554,796,1lz1,V2F,0.84,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,F,2,0.154228
+555,797,1lz1,V2G,1.3,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,G,2,0.785263
+556,798,1lz1,V2I,0.41,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,I,2,0.303806
+557,799,1lz1,V2L,-0.31,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,L,2,0.260494
+558,800,1lz1,V2M,0.22,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,M,2,0.121111
+559,801,1lz1,V2N,0.77,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,N,2,0.787895
+560,802,1lz1,V2R,0.64,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,R,2,0.269619
+561,803,1lz1,V2S,0.81,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,S,2,0.69461
+562,804,1lz1,V2Y,1.6,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,Y,2,0.012453
+563,805,1lz1,E7Q,1.43,4,65,A,130,Lysozyme,Homo sapiens,DSC,,E,Q,7,0.732097
+564,806,1lz1,L8T,2.24,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,L,T,8,0.95405
+565,807,1lz1,A9S,0.18,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,A,S,9,0.846339
+566,808,1lz1,T11A,0,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,T,A,11,-0.0448382
+567,809,1lz1,T11V,-0.07,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,T,V,11,-1.19681
+568,810,1lz1,G16A,1.69,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,A,16,2.68927
+569,811,1lz1,D18N,1.7,4,65,A,130,Lysozyme,Homo sapiens,DSC,,D,N,18,0.797658
+570,812,1lz1,G19A,1.04,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,A,19,3.50179
+571,813,1lz1,Y20F,0.42,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,Y,F,20,-0.262921
+572,814,1lz1,R21A,1.48,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,R,A,21,0.162986
+573,815,1lz1,R21G,0.72,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,R,G,21,0.80706
+574,816,1lz1,G22A,3.48,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,A,22,2.66965
+575,817,1lz1,I23A,0.73,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,A,23,3.42214
+576,818,1lz1,I23V,0.36,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,V,23,1.30477
+577,819,1lz1,S24A,0.46,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,S,A,24,0.160501
+578,821,1lz1,A32L,1.13,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,A,L,32,4.75992
+579,822,1lz1,A32S,0.67,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,A,S,32,0.835928
+580,823,1lz1,E35L,0.74,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,E,L,35,-2.68861
+581,824,1lz1,S36A,0.46,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,S,A,36,1.23118
+582,825,1lz1,G37A,0.74,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,A,37,2.92455
+583,826,1lz1,G37Q,-0.18,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,Q,37,2.32558
+584,827,1lz1,Y38A,2.77,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,Y,A,38,3.67454
+585,828,1lz1,Y38F,-0.56,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,Y,F,38,-0.492956
+586,829,1lz1,Y38G,2.54,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,Y,G,38,2.39787
+587,830,1lz1,T40A,1.24,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,T,A,40,-0.838033
+588,831,1lz1,T40V,1.02,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,T,V,40,-0.525291
+589,832,1lz1,T43A,-0.16,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,T,A,43,0.737124
+590,833,1lz1,T43V,0.27,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,T,V,43,-0.429606
+591,834,1lz1,Y45F,-0.98,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,Y,F,45,-0.740398
+592,835,1lz1,A47P,0.02,2.8,25,A,130,Lysozyme,Homo sapiens,DSC,,A,P,47,-1.00295
+593,836,1lz1,G48A,1.53,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,A,48,-0.0595143
+594,837,1lz1,D49N,1,4,65,A,130,Lysozyme,Homo sapiens,DSC,,D,N,49,0.854149
+595,838,1lz1,R50A,0.63,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,R,A,50,0.707431
+596,839,1lz1,R50G,1.08,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,R,G,50,-1.53673
+597,840,1lz1,S51A,-0.01,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,S,A,51,0.842871
+598,841,1lz1,T52A,-0.38,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,T,A,52,0.528746
+599,842,1lz1,T52V,0.44,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,T,V,52,-0.79526
+600,843,1lz1,Y54F,0.98,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,Y,F,54,0.825129
+601,844,1lz1,I56A,2.32,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,A,56,3.35689
+602,845,1lz1,I56F,3.54,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,F,56,5.84799
+603,847,1lz1,I56L,0.41,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,L,56,-0.125384
+604,848,1lz1,I56M,1.49,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,M,56,-0.625992
+605,849,1lz1,I56T,2.31,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,T,56,3.48801
+606,850,1lz1,I56V,0,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,V,56,1.47208
+607,851,1lz1,Q58A,1.23,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,Q,A,58,1.02461
+608,852,1lz1,Q58G,-1.61,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,Q,G,58,0.147878
+609,853,1lz1,I59A,0.36,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,A,59,2.93494
+610,854,1lz1,I59F,0.67,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,F,59,6.14062
+611,855,1lz1,I59G,2.17,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,G,59,4.36538
+612,856,1lz1,I59L,-0.7,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,L,59,-0.546228
+613,857,1lz1,I59M,0.8,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,M,59,-0.388628
+614,858,1lz1,I59S,2.05,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,S,59,4.11903
+615,859,1lz1,I59T,1,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,T,59,3.08685
+616,860,1lz1,I59V,1.19,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,V,59,1.17844
+617,861,1lz1,I59Y,3.16,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,Y,59,12.6479
+618,862,1lz1,S61A,0.5,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,S,A,61,0.808072
+619,863,1lz1,Y63F,0.35,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,Y,F,63,-0.432862
+620,864,1lz1,D67N,2.25,4,25,A,130,Lysozyme,Homo sapiens,DSC,,D,N,67,3.27687
+621,865,1lz1,G68A,0.97,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,A,68,2.15667
+622,866,1lz1,T70A,0.58,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,T,A,70,2.4509
+623,867,1lz1,T70V,0.62,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,T,V,70,1.74144
+624,868,1lz1,P71G,0.51,2.8,25,A,130,Lysozyme,Homo sapiens, DSC,,P,G,71,1.1688
+625,869,1lz1,G72A,0.31,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,A,72,3.313
+626,870,1lz1,V74A,-0.07,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,A,74,-0.51605
+627,871,1lz1,V74D,0.98,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,D,74,-0.606412
+628,872,1lz1,V74F,0.04,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,F,74,-1.27874
+629,873,1lz1,V74G,0.25,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,G,74,-0.0744174
+630,874,1lz1,V74I,1.93,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,I,74,-0.269617
+631,875,1lz1,V74L,0.4,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,L,74,-1.49142
+632,876,1lz1,V74M,0.35,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,M,74,0.407635
+633,877,1lz1,V74N,-1.16,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,N,74,-0.722105
+634,878,1lz1,V74R,1.44,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,R,74,-1.09194
+635,879,1lz1,V74S,0,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,S,74,-0.166412
+636,880,1lz1,V74Y,1.13,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,Y,74,-1.10169
+637,881,1lz1,H78A,1.2,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,H,A,78,0.27177
+638,882,1lz1,H78G,0.76,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,H,G,78,0.000663543
+639,883,1lz1,S80A,-0.82,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,S,A,80,0.430743
+640,884,1lz1,S82A,-0.98,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,S,A,82,0.188871
+641,885,1lz1,I89A,1.73,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,A,89,3.60692
+642,886,1lz1,I89V,0.67,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,V,89,1.91379
+643,887,1lz1,D91P,0.7,2.8,25,A,130,Lysozyme,Homo sapiens,DSC,,D,P,91,-0.96928
+644,888,1lz1,A92S,2.2,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,A,S,92,0.511407
+645,889,1lz1,V93A,0.46,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,A,93,1.94672
+646,890,1lz1,V93T,0.78,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,T,93,1.96376
+647,891,1lz1,A96M,1.15,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,A,M,96,5.14759
+648,892,1lz1,A96S,0.98,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,A,S,96,0.730591
+649,893,1lz1,V99A,0.72,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,A,99,2.13832
+650,894,1lz1,V99T,0.89,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,T,99,1.29043
+651,895,1lz1,V100A,-0.82,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,A,100,2.28871
+652,896,1lz1,V100F,2.42,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,F,100,8.32225
+653,897,1lz1,V100T,0.82,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,T,100,1.49443
+654,898,1lz1,D102N,0.67,4,65,A,130,Lysozyme,Homo sapiens,DSC,,D,N,102,0.122385
+655,899,1lz1,P103G,0.07,2.8,25,A,130,Lysozyme,Homo sapiens,DSC,,P,G,103,1.27714
+656,900,1lz1,G105A,1.06,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,A,105,3.75915
+657,901,1lz1,I106A,0.8,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,A,106,3.40267
+658,902,1lz1,I106V,1.31,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,I,V,106,1.26066
+659,903,1lz1,V110A,-1.24,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,A,110,-0.304757
+660,904,1lz1,V110D,2.6,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,D,110,-1.12224
+661,905,1lz1,V110F,1.88,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,F,110,-0.472572
+662,906,1lz1,V110G,2.18,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,G,110,-0.373838
+663,907,1lz1,V110I,0.81,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,I,110,-0.111875
+664,908,1lz1,V110L,-0.08,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,L,110,-0.487046
+665,909,1lz1,V110M,-0.35,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,M,110,-0.590386
+666,910,1lz1,V110N,0.48,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,N,110,-0.565753
+667,911,1lz1,V110P,-0.16,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,P,110,-1.94588
+668,912,1lz1,V110R,1.58,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,R,110,-0.200712
+669,913,1lz1,V110Y,0.84,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,Y,110,-0.352555
+670,914,1lz1,N118A,0.26,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,N,A,118,0.337429
+671,915,1lz1,N118G,1.68,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,N,G,118,-0.447431
+672,916,1lz1,D120N,0.67,4,65,A,130,Lysozyme,Homo sapiens,DSC,,D,N,120,1.53264
+673,917,1lz1,V121A,0.9,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,A,121,1.31127
+674,918,1lz1,Y124F,-0.15,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,Y,F,124,0.256905
+675,919,1lz1,V125A,0.04,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,A,125,1.89518
+676,920,1lz1,G127A,0.5,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,A,127,2.48513
+677,921,1lz1,G129A,0.94,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,G,A,129,2.74478
+678,922,1lz1,V130A,0.5,2.7,25,A,130,Lysozyme,Homo sapiens,DSC,,V,A,130,1.66538
+679,1022,1mjc,Y42W,-0.2,7,25,A,69,Cold Schock Protein,Escherichia Coli,CD,,Y,W,42,0.40887
+680,1023,1mjc,S52W,0.2,7,25,A,69,Cold Schock Protein,Escherichia Coli,CD,,S,W,52,7.68387
+681,1024,1mjc,T68W,-0.7,7,25,A,69,Cold Schock Protein,Escherichia Coli,CD,,T,W,68,-0.0564819
+682,1031,1onc,M23L,2.22,7,25,A,104,Onconase,Rana pipiens,DSC,,M,L,23,-0.116247
+683,1032,1onc,F28A,5.04,5.5,20,A,104,Onconase,Rana pipiens,DSC,,F,A,28,4.1319
+684,1033,1onc,F28T,4.92,5.5,20,A,104,Onconase,Rana pipiens,DSC,,F,T,28,6.56005
+685,1034,1onc,F36Y,3.7,5.5,20,A,104,Onconase,Rana pipiens,DSC,,F,Y,36,-0.229625
+686,1035,1pga,T2P,2.7,5.5,25,A,56,Protein G,Streptococcus sp.GX7805,CD,,T,P,2,0.215273
+687,1036,1pga,I6N,1.53,5.2,25,A,56,Protein G,Streptococcus sp.GX7805,DSC,,I,N,6,0.53716
+688,1037,1pga,I6T,1.6,5.2,25,A,56,Protein G,Streptococcus sp.GX7805,DSC,,I,T,6,0.32497
+689,1038,1pga,G9P,2.4,5.5,25,A,56,Protein G,Streptococcus sp.GX7805,CD,,G,P,9,0.57225
+690,1039,1pga,K10P,0.2,5.5,25,A,56,Protein G,Streptococcus sp.GX7805,CD,,K,P,10,0.43744
+691,1040,1pga,V21P,-0.5,5.5,25,A,56,Protein G,Streptococcus sp.GX7805,CD,,V,P,21,-1.31218
+692,1041,1pga,A23P,0.3,5.5,25,A,56,Protein G,Streptococcus sp.GX7805,CD,,A,P,23,-1.54476
+693,1042,1pga,A24P,0.5,5.5,25,A,56,Protein G,Streptococcus sp.GX7805,CD,,A,P,24,-0.28484
+694,1043,1pga,A48P,0.7,5.5,25,A,56,Protein G,Streptococcus sp.GX7805,CD,,A,P,48,-0.334474
+695,1044,1pga,T53F,-1.01,5.2,25,A,56,Protein G,Streptococcus sp.GX7805,DSC,,T,F,53,0.86584
+696,1045,1pga,T53I,0.3,5.2,25,A,56,Protein G,Streptococcus sp.GX7805,DSC,,T,I,53,-1.70496
+697,1046,1pga,T53V,0.8,5.2,25,A,56,Protein G,Streptococcus sp.GX7805,DSC,,T,V,53,-1.25481
+698,1047,1pga,T53Y,-0.5,5.2,25,A,56,Protein G,Streptococcus sp.GX7805,DSC,,T,Y,53,1.38239
+699,1048,1poh,K49A,-1.6,7,25,A,85,HPr,Escherichia Coli,CD,,K,A,49,0.20156
+700,1049,1poh,K49D,-1.8,7,25,A,85,HPr,Escherichia Coli,CD,,K,D,49,0.955993
+701,1050,1poh,K49E,-2.1,7,25,A,85,HPr,Escherichia Coli,CD,,K,E,49,-0.300706
+702,1051,1poh,K49G,-1.2,7,25,A,85,HPr,Escherichia Coli,CD,,K,G,49,0.920596
+703,1052,1poh,K49M,-1,7,25,A,85,HPr,Escherichia Coli,CD,,K,M,49,-0.440266
+704,1053,1poh,K49N,-0.4,7,25,A,85,HPr,Escherichia Coli,CD,,K,N,49,0.214612
+705,1054,1poh,K49Q,-1.5,7,25,A,85,HPr,Escherichia Coli,CD,,K,Q,49,-0.245353
+706,1055,1poh,K49R,0.2,7,25,A,85,HPr,Escherichia Coli,CD,,K,R,49,0.0111719
+707,1056,1poh,K49S,-1.2,7,25,A,85,HPr,Escherichia Coli,CD,,K,S,49,0.812096
+708,1066,1rbp,W24F,2.52(a),7.4,69,A,182,Retinol Binding Protein,Homo sapiens,CD ,,W,F,24,1.98107
+709,1067,1rbp,W24L,2.60(a),7.4,69,A,182,Retinol Binding Protein,Homo sapiens,CD ,,W,L,24,1.92641
+710,1068,1rbp,W24Y,2.20(a),7.4,69,A,182,Retinol Binding Protein,Homo sapiens,CD ,,W,Y,24,2.38381
+711,1069,1rbp,W91H,0.10(a),7.4,69,A,182,Retinol Binding Protein,Homo sapiens,CD ,,W,H,91,2.43819
+712,1070,1rbp,W105F,0.44(a),7.4,69,A,182,Retinol Binding Protein,Homo sapiens,CD ,,W,F,105,0.712925
+713,1071,1rbp,R139Q,2.60(a),7.4,69,A,182,Retinol Binding Protein,Homo sapiens,CD ,,R,Q,139,3.50864
+714,1072,1rn1,V16A,2.34,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD-DSC,,V,A,16,2.57783
+715,1073,1rn1,V16C,4.99,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD-DSC,,V,C,16,2.82115
+716,1074,1rn1,V16S,4.69,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD-DSC,,V,S,16,4.25906
+717,1075,1rn1,V16T,3.65,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD-DSC,,V,T,16,2.2004
+718,1076,1rn1,Y24W,-1.24(b),6,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,Y,W,24,0.856641
+719,1077,1rn1,Q25K,-1.4,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,Fluorescence,,Q,K,25,-0.30876
+720,1078,1rn1,H40T,0.26(b),6,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,H,T,40,0.750424
+721,1079,1rn1,Y42W,0.14(b),6,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,Y,W,42,6.40478
+722,1080,1rn1,N44A,1.60(a),7,51,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD,,N,A,44,2.01725
+723,1081,1rn1,N44D,1.60(a),7,51,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD,,N,D,44,1.1953
+724,1082,1rn1,N44S,1.50(a),7,51,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD,,N,S,44,3.3485
+725,1083,1rn1,Y45W,-0.74(b),6,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,Y,W,45,0.0356989
+726,1084,1rn1,D49A,-0.50(a),7,52,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,D,A,49,-0.198261
+727,1085,1rn1,D49F,0.40(a),7,52,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,D,F,49,3.58688
+728,1086,1rn1,D49H,-1.10(a),7,55,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,D,H,49,1.06177
+729,1087,1rn1,D49Y,0.50(a),7,52,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,D,Y,49,6.44211
+730,1088,1rn1,D49W,0.90(a),7,52,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,D,W,49,4.12074
+731,1089,1rn1,E58A,1,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,Fluorescence,,E,A,58,0.997259
+732,1090,1rn1,W59Y,0.93(b),6,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,W,Y,59,0.594295
+733,1091,1rn1,D76A,3.8,7,15,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,D,A,76,2.15728
+734,1092,1rn1,D76N,3.1,7,15,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,D,N,76,1.86695
+735,1093,1rn1,D76S,3.1,7,15,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,D,S,76,1.61821
+736,1094,1rn1,V78A,4.08,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD-DSC,,V,A,78,3.40657
+737,1095,1rn1,V78S,4.87,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD-DSC,,V,S,78,4.92548
+738,1096,1rn1,V78T,3.59,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD-DSC,,V,T,78,2.56366
+739,1097,1rn1,V89C,3.54,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD-DSC,,V,C,89,2.33725
+740,1098,1rn1,V89T,3.07,7,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,CD-DSC,,V,T,89,2.47659
+741,1099,1rn1,H92A,1.53(b),6,25,C,104,Ribonuclease T1 (pseudoWT) ,Aspergillus oryzae,DSC,,H,A,92,0.942929
+742,1100,1rro,P21A,0.74(a),7.4,54,A,108,Oncomodulin (Parvalbumin beta),Rattus Rattus,DSC,,P,A,21,1.21054
+743,1101,1rro,P26A,0.74(a),7.4,54,A,108,Oncomodulin (Parvalbumin beta),Rattus Rattus,DSC,,P,A,26,2.16928
+744,1102,1rtp,A21P,1.92(a),7.4,46,1,109,Parvalbumin (alpha),Rattus Rattus,DSC,,A,P,21,
+745,1103,1rtp,H26P,-1.25(a),7.4,46,1,109,Parvalbumin (alpha),Rattus Rattus,DSC,,H,P,26,
+746,1104,1rtp,K80S,0.29(a),7.4,46,1,109,Parvalbumin (alpha),Rattus Rattus,DSC,,K,S,80,
+747,1105,1shf,F87A,1.34,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,F,A,87,3.61879
+748,1106,1shf,F87L,1.99,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,F,L,87,1.10884
+749,1107,1shf,F87V,0.47,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,F,V,87,1.35204
+750,1108,1shf,A89G,1.56,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,A,G,89,1.63068
+751,1109,1shf,A89S,1.26,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,A,S,89,0.770123
+752,1110,1shf,L101F,1.2,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,L,F,101,0.421269
+753,1111,1shf,L101I,0.69,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,L,I,101,1.28449
+754,1112,1shf,L101V,1.63,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,L,V,101,1.9223
+755,1113,1shf,F103L,1.11,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,F,L,103,4.73014
+756,1114,1shf,F103V,1.88,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,F,V,103,3.45672
+757,1115,1shf,E107A,1.27,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,A,107,0.964728
+758,1116,1shf,E107D,-0.68,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,D,107,1.08016
+759,1117,1shf,E107F,1.63,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,F,107,6.4288
+760,1118,1shf,E107H,0.99,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,H,107,5.49319
+761,1119,1shf,E107K,0.97,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,K,107,0.693281
+762,1120,1shf,E107P,1.71,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,P,107,8.10921
+763,1121,1shf,E107Q,0.74,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,Q,107,1.13932
+764,1122,1shf,E107S,1.64,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,S,107,1.46759
+765,1123,1shf,E107T,0.6,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,T,107,0.557967
+766,1124,1shf,E107V,2,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,V,107,0.0284597
+767,1125,1shf,E107Y,2.4,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,E,Y,107,11.9856
+768,1126,1shf,F109I,1.99,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,F,I,109,2.99628
+769,1127,1shf,F109L,0.76,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,F,L,109,1.73063
+770,1128,1shf,F109V,2.11,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,F,V,109,2.61561
+771,1129,1shf,I111L,1.01,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,I,L,111,-0.177721
+772,1130,1shf,I111V,0.16,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,I,V,111,1.17481
+773,1131,1shf,W120F,0.55(c),8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,W,F,120,2.00752
+774,1132,1shf,W120L,0.40(c),8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,W,L,120,0.373858
+775,1133,1shf,W120V,0.99(c),8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,W,V,120,1.15891
+776,1134,1shf,A122G,1.35,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,A,G,122,1.77604
+777,1135,1shf,A122V,-0.18,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,A,V,122,-1.30634
+778,1136,1shf,S124A,0.71,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,A,124,0.630732
+779,1137,1shf,S124F,1.9,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,F,124,3.53189
+780,1138,1shf,S124H,1.25,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,H,124,2.78415
+781,1139,1shf,S124I,1.41,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,I,124,1.86111
+782,1140,1shf,S124K,-0.11,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,K,124,-1.12334
+783,1141,1shf,S124L,0.37,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,L,124,0.459059
+784,1142,1shf,S124N,0.73,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,N,124,1.79733
+785,1143,1shf,S124R,0.18,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,R,124,-1.00236
+786,1144,1shf,S124T,1.65,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,T,124,0.967924
+787,1145,1shf,S124V,1.1,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,V,124,1.62888
+788,1146,1shf,S124Y,2.27,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,S,Y,124,7.46302
+789,1147,1shf,I133L,0.75,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,I,L,133,0.370197
+790,1148,1shf,I133V,0.04,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,I,V,133,0.552158
+791,1149,1shf,V138A,2.13,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,V,A,138,2.9006
+792,1150,1shf,V138F,0.73,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,V,F,138,8.15732
+793,1151,1shf,V138I,-0.17,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,V,I,138,-0.227596
+794,1152,1shf,V138L,0.12,8,25,A,59,Fyn Tyrosine Kinase SH3,Homo sapiens,CD,,V,L,138,0.90222
+795,1154,1shg,N47A,0.46(a),3.5,59,A,62,Alpha spectrin SH3,Gallus gallus,DSC,,N,A,47,1.6335
+796,1155,1shg,D48G,-1.05,3.5,25,A,62,Alpha spectrin SH3,Gallus gallus,DSC,,D,G,48,-0.197821
+797,1156,1shg,A56G,0.55(a),3.2,54,A,62,Alpha spectrin SH3,Gallus gallus,DSC,,A,G,56,0.465101
+798,1157,1shg,A56E,0.46(a),3.2,54,A,62,Alpha spectrin SH3,Gallus gallus,DSC,,A,E,56,-0.405694
+799,1158,1shg,A56K,0.07(a),3.2,54,A,62,Alpha spectrin SH3,Gallus gallus,DSC,,A,K,56,-0.496845
+800,1176,1tpk,V65A,2,4.5,64,A,88,Tissue Plasminogen Activator,Homo sapiens,DSC,,V,A,65,2.16369
+801,1177,1tpk,V65I,-0.3,4.5,64,A,88,Tissue Plasminogen Activator,Homo sapiens,DSC,,V,I,65,0.0809373
+802,1178,1tpk,V65L,1.9,4.5,64,A,88,Tissue Plasminogen Activator,Homo sapiens,DSC,,V,L,65,1.40314
+803,1179,1tpk,V65M,2.2,4.5,64,A,88,Tissue Plasminogen Activator,Homo sapiens,DSC,,V,M,65,3.91009
+804,1180,1tpk,V65S,2.4,4.5,64,A,88,Tissue Plasminogen Activator,Homo sapiens,DSC,,V,S,65,2.84677
+805,1181,1tpk,V65T,1,4.5,64,A,88,Tissue Plasminogen Activator,Homo sapiens,DSC,,V,T,65,2.10928
+806,1221,1wq5,C81A,-0.18,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,C,A,81,-0.00953462
+807,1222,1wq5,C81G,0.45,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,C,G,81,2.04863
+808,1223,1wq5,C81S,-0.26,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,C,S,81,0.644907
+809,1224,1wq5,C81V,1.71,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,C,V,81,-1.12429
+810,1225,1wq5,P96A,-0.48,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,P,A,96,3.39325
+811,1231,1wq5,K109N,0.09,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,K,N,109,1.18464
+812,1236,1wq5,C118A,-1.07,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,C,A,118,0.0373507
+813,1237,1wq5,C118S,-1.24,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,C,S,118,1.40276
+814,1238,1wq5,C118V,-1.19,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,C,V,118,0.698963
+815,1239,1wq5,P132A,0.01,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,P,A,132,1.82577
+816,1240,1wq5,P132G,0.75,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,P,G,132,2.45288
+817,1241,1wq5,C154A,0.54,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,C,A,154,0.827999
+818,1242,1wq5,C154S,1.4,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,C,S,154,1.96502
+819,1243,1wq5,C154V,-0.91,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,C,V,154,0.128874
+820,1244,1wq5,P207A,1.85,9,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,P,A,207,2.21431
+821,1245,1wq5,G211E,-0.53,7.8,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,G,E,211,19.54
+822,1246,1wq5,G211R,-0.53,7.8,25,A,268,Tryptophan Synthase Alpha SU,Escherichia Coli,DSC,,G,R,211,17.6973
+823,1247,1ycc,A7L,-0.35,2.1,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,A,L,7,0.396789
+824,1248,1ycc,A7Y,-0.27,2.1,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,A,Y,7,0.2541
+825,1249,1ycc,F10I,0.91,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,F,I,10,4.88071
+826,1250,1ycc,F10M,3.32,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,F,M,10,1.50557
+827,1251,1ycc,F10W,1.34,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,F,W,10,2.54247
+828,1252,1ycc,F10Y,0.67,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,F,Y,10,0.115362
+829,1253,1ycc,V20C,1.06,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,DSC,,V,C,20,1.25992
+830,1254,1ycc,T69E,-1.5,6,57,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,DSC,,T,E,69,-0.75801
+831,1255,1ycc,K73I,0.4,5,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,K,I,73,0.310167
+832,1256,1ycc,K73V,-0.1,5,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,K,V,73,0.609704
+833,1257,1ycc,K73W,1.6,5,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,K,W,73,-0.353382
+834,1258,1ycc,P76G,0.78,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,P,G,76,2.45569
+835,1259,1ycc,P76L,3.44,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,P,L,76,1.67127
+836,1260,1ycc,P76R,0.97,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,P,R,76,1.52705
+837,1261,1ycc,P76S,1.89,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,P,S,76,2.0145
+838,1262,1ycc,P76V,1.07,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,P,V,76,1.51011
+839,1263,1ycc,P76W,2.38,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,P,W,76,2.38693
+840,1264,1ycc,P76Y,2.07,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,P,Y,76,2.07623
+841,1265,1ycc,F82Y,0.70(b),6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,DSC,,F,Y,82,2.26589
+842,1266,1ycc,L85A,2.80(b),6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,DSC,,L,A,85,2.92602
+843,1267,1ycc,L94A,3.82,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,L,A,94,3.56522
+844,1268,1ycc,L94I,0.02,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,L,I,94,2.891
+845,1269,1ycc,L94T,3.27,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,L,T,94,4.11479
+846,1270,1ycc,L94V,0.72,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,L,V,94,4.0151
+847,1271,1ycc,T96A,-1,6,57,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,DSC,,T,A,96,-0.95858
+848,1272,1ycc,Y97F,-0.08,4.6,25,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,CD,,Y,F,97,-0.480506
+849,1273,1ycc,C102A,-2.90(a),6,47,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,Abs,,C,A,102,0.37732
+850,1274,1ycc,C102S,-2.80(a),6,47,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,Abs,,C,S,102,1.65785
+851,1275,1ycc,C102T,-0.8,6,57,A,108,Cytochrome c (Iso-1),Saccharomyces cerevisiae,DSC,,C,T,102,-0.603835
+852,1285,1yea,N52I,-2.4(b),6,25,A,112,Cytochrome c (Iso-2),Saccharomyces cerevisiae,DSC,,N,I,52,-0.430316
+853,1287,1yu5,H41Y,-1.1,7,25,X,67,Headpiece Villin Domain,Gallus gallus,CD,,H,Y,41,3.94101
+854,1290,1zym,H189A,0.9,7.5,25,B,258,Amino Terminal Enzyme I,Escherichia Coli,DSC-CD,,H,A,189,0.89916
+855,1291,1zym,H189E,1.31,7.5,25,B,258,Amino Terminal Enzyme I,Escherichia Coli,DSC-CD,,H,E,189,0.711191
+856,1297,2a01,L141R,0.3,7.4,25,A,243,Apolipoprotein A-I,Homo sapiens,CD,,L,R,141,0.112772
+857,1299,2ci2,L27A,2.66(b),3,25,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,DSC,,L,A,27,3.40368
+858,1300,2ci2,S31A,0.84(a),3,64,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,DSC,,S,A,31,0.729745
+859,1301,2ci2,S31G,1.00(a),3.5,74,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,DSC,,S,G,31,0.702069
+860,1302,2ci2,V38A,0.46(b),3,25,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,DSC,,V,A,38,0.787499
+861,1303,2ci2,I39V,1.20(b),3.5,25,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,DSC,,I,V,39,1.2865
+862,1304,2ci2,K43A,0.26(a),4.2,74,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,CD,,K,A,43,2.25332
+863,1305,2ci2,P44A,1.82(a),4.2,74,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,CD,,P,A,44,1.80225
+864,1306,2ci2,E45A,0.82(a),4.2,74,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,CD,,E,A,45,0.531855
+865,1307,2ci2,I48V,0.92(b),3.5,25,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,DSC,,I,V,48,0.931159
+866,1308,2ci2,V70A,2.17(b),3,25,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,DSC,,V,A,70,1.92845
+867,1309,2ci2,I76V,-0.09(b),3,25,I,83,Chymotrypsin Inhibitor 2,Hordeum vulgare,DSC,,I,V,76,0.709574
+868,1314,2hbb,K12M,-1.9,5.5,25,A,51,Ribosomal L9 (N-terminal),Geobacillus stearotherm.,CD,,K,M,12,-0.507217
+869,1315,2hbb,D23A,0.46,5.4,25,A,51,Ribosomal L9 (N-terminal),Geobacillus stearotherm.,CD,,D,A,23,5.87596
+870,1316,2hbb,D23N,0.72,5.4,25,A,51,Ribosomal L9 (N-terminal),Geobacillus stearotherm.,CD,,D,N,23,5.90317
+871,1317,2hip,Y12F,2.3,7,25,A,72,High potential iron sulfur,Halorhodospira halophila,DSC,,Y,F,12,1.34079
+872,1318,2lzm,I3A,0.7,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,A,3,0.65468
+873,1319,2lzm,I3C,-0.43,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,C,3,0.64891
+874,1320,2lzm,I3D,3.2,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,D,3,0.58259
+875,1321,2lzm,I3E,2,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,E,3,0.33955
+876,1322,2lzm,I3F,1.1,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,F,3,0.48116
+877,1323,2lzm,I3G,2.1,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,G,3,0.21775
+878,1324,2lzm,I3L,-0.4,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,L,3,0.594025
+879,1325,2lzm,I3M,0.9,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,M,3,0.0737171
+880,1326,2lzm,I3P,2.53,3,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,DSC,,I,P,3,0.766749
+881,1327,2lzm,I3S,1.7,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,S,3,0.88718
+882,1328,2lzm,I3T,2.3,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,T,3,0.51649
+883,1329,2lzm,I3V,0.4,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,V,3,0.10527
+884,1330,2lzm,I3W,2.8,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,W,3,0.45712
+885,1331,2lzm,I3Y,2.3,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,I,Y,3,0.82127
+886,1332,2lzm,M6I,1.38,6,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,M,I,6,0.11946
+887,1333,2lzm,E11A,-1.1,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,E,A,11,0.640432
+888,1334,2lzm,E11F,-1.7,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,E,F,11,2.50117
+889,1335,2lzm,E11M,-1.6,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,E,M,11,-0.179953
+890,1336,2lzm,K16E,-0.50(a),5.3,67,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,K,E,16,0.0362928
+891,1338,2lzm,G30A,-0.1,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,G,A,30,4.57556
+892,1339,2lzm,G30F,1.5,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,G,F,30,7.84484
+893,1340,2lzm,P37A,0.3,2,12,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,P,A,37,0.242681
+894,1341,2lzm,S38A,0.77,3,50,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,S,A,38,0.591303
+895,1342,2lzm,S38D,-0.2,6.9,50,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,S,D,38,-3.49582
+896,1343,2lzm,L39P,2.8,2,12,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,L,P,39,-0.635055
+897,1344,2lzm,A41V,-0.16(b),5.4,25,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,A,V,41,0.0499086
+898,1345,2lzm,S44A,-0.44(a),2.5,48,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,S,A,44,-0.139997
+899,1346,2lzm,C54T,-0.3,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,C,T,54,-0.640475
+900,1347,2lzm,C54V,0.7,6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,C,V,54,1.73037
+901,1348,2lzm,N55G,0.60(a),6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,N,G,55,-0.985527
+902,1349,2lzm,K60P,0.00(a),6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,K,P,60,-0.641775
+903,1350,2lzm,N68A,-0.05(a),2.5,48,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,N,A,68,0.045215
+904,1351,2lzm,G77A,-0.40(a),6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,G,A,77,-1.18964
+905,1352,2lzm,A82P,-0.80(a),6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,A,P,82,-1.2712
+906,1353,2lzm,P86A,0.4,2,12,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,P,A,86,2.20964
+907,1363,2lzm,A93P,-0.10(a),6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,A,P,93,-1.43583
+908,1364,2lzm,R96H,2.80(a),6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,R,H,96,43.0664
+909,1365,2lzm,A98V,8.05,3,25,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,A,V,98,3.27221
+910,1367,2lzm,M102V,3.9,3,25,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,M,V,102,2.97469
+911,1368,2lzm,Q105A,0.60(a),5.8,66,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,Q,A,105,0.457592
+912,1369,2lzm,Q105E,1.10(a),5.8,66,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,Q,E,105,0.350426
+913,1370,2lzm,Q105G,1.50(a),5.8,66,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,Q,G,105,1.8169
+914,1371,2lzm,G113A,-0.30(a),6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,G,A,113,-0.211079
+915,1372,2lzm,T115E,-0.30(a),6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,E,115,-0.427683
+916,1373,2lzm,N116D,0.06(b),5.7,25,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,N,D,116,-0.732871
+917,1374,2lzm,S117F,-1.1,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,S,F,117,8.35332
+918,1375,2lzm,S117I,-1.7,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,S,I,117,-2.40318
+919,1376,2lzm,S117V,-2,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,S,V,117,-0.972396
+920,1377,2lzm,R119E,0.04(a),5.3,67,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,R,E,119,-0.219785
+921,1378,2lzm,R119M,-0.10(a),5.7,66,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,R,M,119,-0.745787
+922,1379,2lzm,Q123E,-0.40(a),6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,Q,E,123,-0.173843
+923,1380,2lzm,K124G,0.10(a),6.5,65,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,K,G,124,0.213517
+924,1381,2lzm,E128A,-0.16(a),2,86,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,E,A,128,-0.0100952
+925,1382,2lzm,E128K,1.33,3,25,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,E,K,128,-0.420399
+926,1383,2lzm,A129V,0.80(a),2.9,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,A,V,129,-1.20874
+927,1384,2lzm,V131A,-0.05(b),5.4,25,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,V,A,131,-0.251018
+928,1385,2lzm,V131D,-0.08(a),3,53,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,V,D,131,-0.0582617
+929,1386,2lzm,V131E,-0.20(a),3,53,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,V,E,131,-0.464588
+930,1387,2lzm,V131G,0.68(a),3,53,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,V,G,131,0.451179
+931,1388,2lzm,V131I,-0.16(a),3,53,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,V,I,131,-0.55024
+932,1389,2lzm,V131L,-0.09(a),3,53,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,V,L,131,-0.509795
+933,1390,2lzm,V131M,-0.12(a),3,53,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,V,M,131,-0.410734
+934,1391,2lzm,V131S,0.05(a),3,53,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,V,S,131,0.452979
+935,1392,2lzm,V131T,0.12(a),2.8,51,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,V,T,131,0.078148
+936,1393,2lzm,N132F,-1.3,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,N,F,132,0.400204
+937,1394,2lzm,N132I,-1.2,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,N,I,132,0.501173
+938,1395,2lzm,N132M,-1.5,5.4,69,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,N,M,132,-0.458843
+939,1396,2lzm,L133A,3.6,3,52,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,L,A,133,3.40583
+940,1397,2lzm,L133F,0.2,2.9,41,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,L,F,133,-0.95196
+941,1398,2lzm,K135E,1.00(a),5.3,67,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,K,E,135,1.70946
+942,1400,2lzm,P143A,1,2,12,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,P,A,143,1.88676
+943,1401,2lzm,N144D,-0.30(b),5.7,25,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,N,D,144,-2.41303
+944,1402,2lzm,A146T,4.07,6.5,25,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,A,T,146,0.560547
+945,1403,2lzm,K147E,0.70(a),5.3,67,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,K,E,147,0.147679
+946,1404,2lzm,V149C,2.44(b),3,25,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,V,C,149,1.96756
+947,1405,2lzm,T152S,2.88(b),3,25,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,S,152,1.4084
+948,1406,2lzm,R154E,1.10(a),5.3,67,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,R,E,154,0.156015
+949,1408,2lzm,T157A,1.40(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,A,157,2.16674
+950,1409,2lzm,T157C,1.30(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,C,157,2.29457
+951,1410,2lzm,T157N,0.45(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,N,157,0.97493
+952,1411,2lzm,T157E,1.50(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,E,157,2.05596
+953,1412,2lzm,T157F,2.40(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,F,157,1.57952
+954,1413,2lzm,T157G,1.10(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,G,157,2.37399
+955,1414,2lzm,T157H,2.10(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,H,157,1.59041
+956,1415,2lzm,T157I,2.90(a),3,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,I,157,2.89966
+957,1416,2lzm,T157L,1.30(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,L,157,2.21752
+958,1417,2lzm,T157D,1.10(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,D,157,2.1915
+959,1418,2lzm,T157R,1.30(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,R,157,0.980441
+960,1419,2lzm,T157S,0.66(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,S,157,0.236146
+961,1420,2lzm,T157V,1.60(a),2,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,T,V,157,2.87551
+962,1421,2lzm,A160T,1.65(a),6,42,A,164,T4 Lyzozyme ,Enterobacteria phage T4,CD,,A,T,160,2.60101
+963,1422,2rn2,D10A,-1.72(a),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,A,10,-2.18645
+964,1423,2rn2,D10E,-0.52,9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,E,10,-0.265244
+965,1424,2rn2,D10H,-1.15(a),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,H,10,-2.4409
+966,1425,2rn2,D10N,-0.98(a),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,N,10,-2.30973
+967,1426,2rn2,D10S,-1.27(a),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,S,10,-2.39526
+968,1427,2rn2,G23A,-1.02(b),5.5,25,A,155,Ribonuclease H,Escherichia Coli,CD,,G,A,23,2.84259
+969,1428,2rn2,A24V,-0.88(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,A,V,24,2.78843
+970,1429,2rn2,R41C,-0.44(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,R,C,41,0.301461
+971,1430,2rn2,E48A,0.16(a),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,E,A,48,-0.287756
+972,1431,2rn2,E48D,0.13(a),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,E,D,48,1.38224
+973,1432,2rn2,E48Q,-0.16(a),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,E,Q,48,0.977472
+974,1433,2rn2,A52C,-0.76(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,C,52,-0.174356
+975,1434,2rn2,A52D,1.85(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,D,52,1.12251
+976,1435,2rn2,A52E,1.52(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,E,52,2.15715
+977,1436,2rn2,A52F,0.46(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,F,52,1.77072
+978,1437,2rn2,A52G,2.71(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,G,52,2.02363
+979,1438,2rn2,A52H,3.59(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,H,52,3.0499
+980,1439,2rn2,A52I,-1.88(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,I,52,-1.89066
+981,1440,2rn2,A52K,5.93(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,K,52,-0.0489123
+982,1441,2rn2,A52L,-1.31(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,L,52,-2.88988
+983,1442,2rn2,A52M,-0.49(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,M,52,-2.01589
+984,1443,2rn2,A52N,1.79(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,N,52,0.537938
+985,1444,2rn2,A52P,1.64(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,P,52,0.287745
+986,1445,2rn2,A52Q,1.19(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,Q,52,0.650243
+987,1446,2rn2,A52S,1.76(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,S,52,0.61703
+988,1447,2rn2,A52T,0.82(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,T,52,-0.954533
+989,1448,2rn2,A52V,-1.67(a),3.0-5.5,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,V,52,-2.43615
+990,1449,2rn2,A52Y,2.31(a),3,53,A,155,Ribonuclease H,Escherichia Coli,CD,,A,Y,52,8.27525
+991,1450,2rn2,H62A,-0.55,7.8,25,A,155,Ribonuclease H,Escherichia Coli,CD,,H,A,62,0.334484
+992,1451,2rn2,H62D,0.17(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,H,D,62,0.775641
+993,1452,2rn2,H62P,-2.21(b),5.5,25,A,155,Ribonuclease H,Escherichia Coli,CD,,H,P,62,-0.294493
+994,1453,2rn2,H62R,-0.36(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,H,R,62,-0.130087
+995,1454,2rn2,S68A,0.45(a),3,52,A,155,Ribonuclease H,Escherichia Coli,CD,,S,A,68,0.561662
+996,1455,2rn2,S68G,2.40(a),3,52,A,155,Ribonuclease H,Escherichia Coli,CD,,S,G,68,2.175
+997,1456,2rn2,S68L,0.48(a),3,52,A,155,Ribonuclease H,Escherichia Coli,CD,,S,L,68,-1.25557
+998,1457,2rn2,S68T,0.20(a),3,52,A,155,Ribonuclease H,Escherichia Coli,CD,,S,T,68,1.18013
+999,1458,2rn2,S68V,-0.57(a),3,52,A,155,Ribonuclease H,Escherichia Coli,CD,,S,V,68,-0.790764
+1000,1459,2rn2,D70A,-0.58(a),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,A,70,-1.42234
+1001,1460,2rn2,D70E,-0.06(a),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,E,70,-0.320326
+1002,1461,2rn2,D70N,-0.81(a),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,N,70,-1.02036
+1003,1462,2rn2,V74A,3.40(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,V,A,74,2.25705
+1004,1463,2rn2,V74I,-0.60(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,V,I,74,-0.340301
+1005,1464,2rn2,V74L,-1.10(b),5.5,25,A,155,Ribonuclease H,Escherichia Coli,CD,,V,L,74,-1.35006
+1006,1466,2rn2,G77A,0.90(a),3,50,A,155,Ribonuclease H,Escherichia Coli,CD,,G,A,77,2.8988
+1007,1468,2rn2,H83A,0.12,7.8,25,A,155,Ribonuclease H,Escherichia Coli,CD,,H,A,83,0.0592213
+1008,1469,2rn2,K91R,0.00(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,K,R,91,-0.296605
+1009,1470,2rn2,D94E,0.4,5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,D,E,94,-0.0500826
+1010,1471,2rn2,K95A,-0.10(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,K,A,95,0.453552
+1011,1472,2rn2,K95G,-1.28(b),5.5,25,A,155,Ribonuclease H,Escherichia Coli,CD,,K,G,95,-1.57953
+1012,1473,2rn2,K95N,-0.88(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,K,N,95,-0.976738
+1013,1474,2rn2,Q113P,0.60(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,Q,P,113,0.819585
+1014,1476,2rn2,K117R,-0.03,5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,K,R,117,-0.18125
+1015,1477,2rn2,E119V,-0.74,5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,E,V,119,0.916603
+1016,1478,2rn2,H124A,-0.05,7.9,-,A,155,Ribonuclease H,Escherichia Coli,CD,,H,A,124,0.276304
+1017,1479,2rn2,A125T,0.00(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,A,T,125,1.13335
+1018,1480,2rn2,H127A,0.31(a),3,25,A,155,Ribonuclease H,Escherichia Coli,CD,,H,A,127,0.630423
+1019,1481,2rn2,D134A,-0.98(b),9,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,A,134,-1.18775
+1020,1482,2rn2,D134E,-0.91(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,D,E,134,-0.605081
+1021,1483,2rn2,D134H,-2.97(b),5.5,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,H,134,-1.45618
+1022,1484,2rn2,D134I,-1.37(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,D,I,134,-1.13942
+1023,1485,2rn2,D134L,-1.54(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,D,L,134,-1.13425
+1024,1486,2rn2,D134N,-1.64(b),5.5,25,A,155,Ribonuclease H,Escherichia Coli,CD,,D,N,134,-2.79872
+1025,1487,2rn2,D134Q,-1.33(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,D,Q,134,-1.30742
+1026,1488,2rn2,D134S,-1.14(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,D,S,134,-1.7047
+1027,1489,2rn2,D134T,-1.07(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,D,T,134,-1.8441
+1028,1490,2rn2,D134V,-1.20(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,D,V,134,-0.797066
+1029,1491,2rn2,E135K,0.22(a),5.5,52,A,155,Ribonuclease H,Escherichia Coli,CD,,E,K,135,-0.596196
+1030,1493,2trx,D26I,-3.1,7,25,A,108,Thioredoxin,Escherichia Coli,DSC,,D,I,26,-5.06334
+1031,1494,2trx,C32A,3.7,7,25,A,108,Thioredoxin,Escherichia Coli,DSC,,C,A,32,3.19651
+1032,1495,2trx,C35A,3.1,7,25,A,108,Thioredoxin,Escherichia Coli,DSC,,C,A,35,0.959791
+1033,1496,2trx,P40S,-1.45,7,25,A,108,Thioredoxin,Escherichia Coli,DSC,,P,S,40,1.87068
+1034,1497,2trx,T66L,1.4,7,25,A,108,Thioredoxin,Escherichia Coli,DSC,,T,L,66,0.203986
+1035,1498,2trx,T77V,1.1,7,25,A,108,Thioredoxin,Escherichia Coli,DSC,,T,V,77,-0.674353
+1036,1499,2trx,L78K,3.9,7,85,A,108,Thioredoxin,Escherichia Coli,DSC,,L,K,78,2.02118
+1037,1500,2trx,L78R,4,7,85,A,108,Thioredoxin,Escherichia Coli,DSC,,L,R,78,2.23441
+1038,1501,3d2c,M134E,-3.02,7.2,25,A,181,Lipase 4D3,Bacillus subtilis,CD,,M,E,134,1.37415
+1039,1502,3d2c,M137P,-3.34,7.2,25,A,181,Lipase 4D3,Bacillus subtilis,CD,,M,P,137,0.13255
+1040,1503,3d2c,S163P,-2.11,7.2,25,A,181,Lipase 4D3,Bacillus subtilis,CD,,S,P,163,-1.87801
+1041,1506,3mbp,P48A,2.7,7,25,A,370,Maltodextrin binding protein,Escherichia Coli,DSC,,P,A,48,2.76525
+1042,1507,3mbp,P48S,2.55,7,25,A,370,Maltodextrin binding protein,Escherichia Coli,DSC,,P,S,48,3.31015
+1043,1508,3mbp,P133A,7.8,7.4,25,A,370,Maltodextrin binding protein,Escherichia Coli,DSC,,P,A,133,2.99765
+1044,1509,3mbp,P133S,-1.16,7.4,25,A,370,Maltodextrin binding protein,Escherichia Coli,DSC,,P,S,133,3.98658
+1045,1510,3mbp,P159A,0.22,7.4,25,A,370,Maltodextrin binding protein,Escherichia Coli,DSC,,P,A,159,2.99155
+1046,1511,3mbp,P159S,4.72,7.4,25,A,370,Maltodextrin binding protein,Escherichia Coli,DSC,,P,S,159,4.80532
+1047,1512,3sil,A53L,-0.81,7,25,A,379,Sialidase,Salmonella Typhimurium,CD,,A,L,53,6.10291
+1048,1513,3sil,A69V,-0.62,7,25,A,379,Sialidase,Salmonella Typhimurium,CD,,A,V,69,2.172
+1049,1518,451c,F7A,-1.10(a),5,51,A,82,Cytochrome c-551,Pseudomonas aeruginosa,CD,,F,A,7,0.32639
+1050,1519,451c,V13M,-0.40(a),5,51,A,82,Cytochrome c-551,Pseudomonas aeruginosa,CD,,V,M,13,-0.234498
+1051,1521,451c,F34Y,-1.90(a),5,51,A,82,Cytochrome c-551,Pseudomonas aeruginosa,CD,,F,Y,34,0.535665
+1052,1522,451c,Q37R,-0.50(a),5,51,A,82,Cytochrome c-551,Pseudomonas aeruginosa,CD,,Q,R,37,-0.379726
+1053,1523,451c,E43Y,-0.60(a),5,51,A,82,Cytochrome c-551,Pseudomonas aeruginosa,CD,,E,Y,43,0.167454
+1054,1524,451c,V78I,-1.00(a),5,51,A,82,Cytochrome c-551,Pseudomonas aeruginosa,CD,,V,I,78,-1.03776
+1055,1525,4blm,S126C,-0.5,7,25,A,265,Beta-Lactamase,Bacillus licheniformis,CD,,S,C,126,-1.86121
+1056,1528,4blm,S265C,1.66,7,25,A,265,Beta-Lactamase,Bacillus licheniformis,CD,,S,C,265,-0.121053
+1057,1529,4lyz,F3Y,0.45(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,F,Y,3,0.691256
+1058,1532,4lyz,H15L,-0.76(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,H,L,15,-0.394354
+1059,1533,4lyz,N19K,1.06(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,N,K,19,-0.381811
+1060,1534,4lyz,R21Q,0.15(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,R,Q,21,0.198433
+1061,1535,4lyz,A31I,-1.40(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,A,I,31,1.45875
+1062,1536,4lyz,A31L,-1.80(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,A,L,31,-2.24901
+1063,1537,4lyz,A31V,-1.20(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,A,V,31,1.66896
+1064,1538,4lyz,F34Y,-0.19(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,F,Y,34,-0.730003
+1065,1539,4lyz,T40I,2.20(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,T,I,40,1.51656
+1066,1540,4lyz,T40S,0.27(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,T,S,40,-0.524961
+1067,1541,4lyz,G49A,0.73,2.7,25,A,129,Hen egg white Lysozyme,Gallus gallus,DSC,,G,A,49,2.16795
+1068,1542,4lyz,I55A,4.40(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,I,A,55,0.50366
+1069,1543,4lyz,I55F,2.46(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,I,F,55,9.37241
+1070,1544,4lyz,I55L,0.45(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,I,L,55,-2.47034
+1071,1545,4lyz,I55M,2.27(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,I,M,55,-0.898133
+1072,1546,4lyz,I55T,4.96(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,I,T,55,0.880321
+1073,1547,4lyz,I55V,0.91(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,I,V,55,0.113332
+1074,1548,4lyz,G67A,0.52,2.7,25,A,129,Hen egg white Lysozyme,Gallus gallus,DSC,,G,A,67,2.83956
+1075,1549,4lyz,R68K,0.04(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,R,K,68,0.23012
+1076,1550,4lyz,G71A,2.12,2.7,25,A,129,Hen egg white Lysozyme,Gallus gallus,DSC,,G,A,71,0.0539123
+1077,1551,4lyz,R73K,-0.23(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,R,K,73,-0.165236
+1078,1552,4lyz,N77H,0.38(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,N,H,77,0.501433
+1079,1553,4lyz,S91A,0.15(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,S,A,91,-1.29356
+1080,1554,4lyz,S91D,2.31(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,S,D,91,2.97741
+1081,1555,4lyz,S91T,-1.00(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,S,T,91,0.253096
+1082,1556,4lyz,S91V,0.08(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,S,V,91,-1.27389
+1083,1557,4lyz,S91Y,3.07(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,S,Y,91,18.9232
+1084,1558,4lyz,D101A,-0.76(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,D,A,101,-0.212179
+1085,1559,4lyz,D101E,0.00(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,D,E,101,-0.307277
+1086,1560,4lyz,D101F,-0.72(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,D,F,101,-0.245951
+1087,1561,4lyz,D101G,-0.45(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,D,G,101,0.16969
+1088,1562,4lyz,D101K,-0.19(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,D,K,101,-0.450481
+1089,1563,4lyz,D101N,-0.04(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,D,N,101,-0.626398
+1090,1564,4lyz,D101Q,0.08(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,D,Q,101,-0.560226
+1091,1565,4lyz,D101R,-0.27(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,D,R,101,-0.301273
+1092,1566,4lyz,D101S,-0.87(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,D,S,101,-0.50943
+1093,1567,4lyz,G102A,1.2,2.7,25,A,129,Hen egg white Lysozyme,Gallus gallus,DSC,,G,A,102,2.82637
+1094,1568,4lyz,G102R,-0.38(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,G,R,102,2.41313
+1095,1569,4lyz,G102V,0.04(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,G,V,102,3.77734
+1096,1570,4lyz,R114H,-0.68(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,R,H,114,0.771237
+1097,1571,4lyz,G117A,0.82,2.7,25,A,129,Hen egg white Lysozyme,Gallus gallus,DSC,,G,A,117,3.59388
+1098,1572,4lyz,Q121H,0.45(a),6.4,74,A,129,Hen egg white Lysozyme,Gallus gallus,Abs,,Q,H,121,1.00159
+1099,1599,5pti,F22A,1.2,2,25,A,58,Pancreatic Trypsin Inhibitor,Bos Taurus,DSC,,F,A,22,3.56483
+1100,1602,5pti,Y35A,5,3,25,A,58,Pancreatic Trypsin Inhibitor,Bos Taurus,CD,,Y,A,35,1.92123
+1101,1605,5pti,G36S,0.70(a),4.6,73,A,58,Pancreatic Trypsin Inhibitor,Bos Taurus,CD,,G,S,36,3.22943
