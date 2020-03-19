@@ -1,12 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv("FoldX_predictions.csv")
+#data1 = pd.read_csv("FoldX_predictions.csv")
+data2 = pd.read_csv("data/processed_missense.csv")
 
-pdb_ids = list(data["PDB"])
-
-dict = {}
-
-for pdb_id in pdb_ids:
-    dict[pdb_id] = 1
-
-print(len(dict))
+print(data2)
