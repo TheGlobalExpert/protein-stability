@@ -37,7 +37,7 @@ plt.xlabel("False Positive Rate")
 plt.ylabel("True Postive Rate")
 plt.xlim(0,1)
 plt.ylim(0,1)
-plt.title("ROC curve of FoldX and Missense3D predictions of thermal\nstability with relation to varying ddG threshold (HotMusic dataset)")
+#plt.title("ROC curve of FoldX and Missense3D predictions of thermal\nstability with relation to varying ddG threshold (HotMusic dataset)")
 plt.legend()
 
 for threshold in foldx_toi:

@@ -24,13 +24,13 @@ matrix = np.round(matrix,1)
 
 print(matrix)
 heat_map = sb.heatmap(matrix, cmap=sb.color_palette("coolwarm", 100000),
-                    center=1,vmin=0, vmax=2.4, annot=True, square=True)
+                    center=1,vmin=0, vmax=4, annot=True, square=True)
 
 heat_map.set_xticklabels(alphabet)
 heat_map.set_yticklabels(alphabet,va='center')
 heat_map.set_ylabel("Wild type residue")
 heat_map.set_xlabel("Mutant residue")
-heat_map.set_title("Ratio between percentage occurances of mutations in the HotMusic\ndataset vs. the Missense3D dataset (Correlation coefficent = {})".format(corr))
+#heat_map.set_title("Ratio between percentage occurances of mutations in the HotMusic\ndataset vs. the Missense3D dataset (Correlation coefficent = {})".format(corr))
 
 no_data = [[6,3],[7,3],[5,5,],[7,5],[3,6],[6,6],[7,6],[3,7],[5,7],[6,7],[7,7]]
 
