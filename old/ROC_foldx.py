@@ -41,7 +41,7 @@ x = np.array(x)
 y = np.array(y)
 
 data = {"x":x,"y":y}
-plt.scatter("x","y", data=data)
+plt.scatter("x","y", data=data, label=None)
 
 plt.plot(x,y,"o")
 
@@ -50,13 +50,13 @@ plt.xlabel("Experimental ddG")
 x = np.array(x)
 #plt.xticks(np.arange(x.min(), x.max(), 0.5))
 corr = np.corrcoef(x, y)[0,1]
-plt.text(-2.5, 6, 'Spearman correlation \ncoefficent: '+str(round(corr,3)))
+plt.text(-2.5, 7, 'Spearman correlation \ncoefficent: '+str(round(corr,3)))
 print(corr)
 
 m, b = np.polyfit(x, y, 1)
 plt.plot(x, m*x + b, label="Best Fit")
-plt.text(4.7, 1.8, 'm = '+str(round(m,2)))
-plt.text(4.7, 1.3, 'c = '+str(round(b,2)))
+plt.text(3.3, -1.3, 'slope = '+str(round(m,2)))
+plt.text(3.3, -1.7, 'y-intercept = '+str(round(b,2)))
 
 x_hori = list(np.arange(-10,10, 0.5))
 y_hori = list(np.arange(-10,10, 0.5))
