@@ -1,9 +1,10 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from pypdb import describe_pdb
+#from pypdb import describe_pdb
 import os, sys
 import tqdm
+import Bio
 
 def ProTherm_data():
 
@@ -274,3 +275,19 @@ def get_ASA(pdb_id, position):
 
 
     return asa_dict["res_" + str(position)]
+
+from Bio.Data.IUPACData import protein_letters_3to1
+
+def generate_missense3d_input_file(path):
+
+    data = pd.read_csv(path)
+
+    input_file = open("missense_input.csv", "w")
+
+    for i in range(data.shape[0]):
+        line = "P\tPDB\t \t" + data.loc[i, "pdb_id"] + "\tA\t" + str(data.loc[i, "pos"]) + "\t" + Bio.Data.IUPACData.protein_letters_1to3[data.loc[i, "wt"]] + "\t" + Bio.Data.IUPACData.protein_letters_1to3[data.loc[i, "mut"]] + "\n"
+
+        input_file.write(line)
+
+
+generate_missense3d_input_file("FoldX_predictions.csv")

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eebba9f3-96bf-4e48-be76-d09d2a22f881" name="Default Changelist" comment="" />
+    <list default="true" id="eebba9f3-96bf-4e48-be76-d09d2a22f881" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foldx_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/foldx_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,6 +51,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2602" y="414" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588347540079">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="2602" y="414" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3840.1080@0.0.3840.1080" timestamp="1588347540079" />
+    <state x="2624" y="348" width="544" height="491" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588274919335">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="2624" y="348" width="544" height="491" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1588274919335" />
+    <state x="2790" y="412" width="434" height="464" key="FileChooserDialogImpl" timestamp="1588339465423">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="2790" y="412" width="434" height="464" key="FileChooserDialogImpl/0.0.3840.1080@0.0.3840.1080" timestamp="1588339465423" />
+    <state x="2380" y="233" width="1022" height="710" key="SettingsEditor" timestamp="1588339759019">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="2380" y="233" width="1022" height="710" key="SettingsEditor/0.0.3840.1080@0.0.3840.1080" timestamp="1588339759019" />
+    <state x="2643" y="477" width="712" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1588339466897">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="2643" y="477" width="712" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1588339466897" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1586707431899">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -43,7 +81,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tools.py</url>
-          <line>6</line>
+          <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
