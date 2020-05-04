@@ -2,11 +2,11 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import sys
+from tools import Master_results
+import math
 
-data1 = pd.read_csv("data/processed_hotmusic.csv")
-data2 = pd.read_csv("data/processed_missense.csv")
-
-data1.set_index("mut_info", inplace=True)
+data = Master_results()
+print(data)
 
 labels = "Disulphide breakage,Buried Pro introduced,Clash,Buried hydropilic introduced,Buried charge introduced,Secondary structure altered,Buried charge switch,Disallowed phi/psi,Buried charge replaced,Buried Gly replaced,Buried H-bond breakage,Buried salt bridge breakage,Cavity altered,Buried / exposed switch,Cis pro replaced,Gly in a bend".split(",")
 
@@ -16,57 +16,57 @@ plot_threshold = False
 plot_combined = False
 plot_abs = True
 
-def plot_bar_chart(threshold):
+def plot_bar_chart(threshold, data):
 
-    for i in range(data2.shape[0]):
-        mut_info = data2.loc[i,"mut_info"]
+    for i in range(data.shape[0]):
 
-        ddG = data1.loc[mut_info, "ddG"]
-
+        ddG = data.loc[i, "ddG"]
 
         try:
             ddG = ddG.iloc[0]
         except:
             pass
-
-
+        print(ddG)
+        """
         if ddG[-1] == ")":
             ddG = ddG[:-3]
-
-
-
+        """
         try:
             ddG = float(ddG)
 
             if ddG >= threshold:
-                data2.loc[i, "true_damage"] = 1
+                data.loc[i, "true_damage"] = 1
             elif ddG < threshold:
-                data2.loc[i, "true_damage"] = 0
+                data.loc[i, "true_damage"] = 0
         except:
-            data2.drop(i)
+            data.drop(i)
+            exit()
 
-    data2.reset_index()
-
-    data = data2[data2.columns[13:]]
-
-
+    data.info()
     positive = []
     negative = []
 
     for i in range(data.shape[0]):
+        print(i)
+        print([char for char in data.loc[i, "one_hot_features"]][:-1])
+        features = np.array([char for char in data.loc[i, "one_hot_features"]][:-1]).astype(np.float)
+        print(features)
+
         if data.loc[i, "true_damage"] == 1.0:
-            positive.append(np.array(data.loc[i, data.columns[:-1]]).reshape(16,1))
+            positive.append(features)
         elif data.loc[i, "true_damage"] == 0.0:
-            negative.append(np.array(data.loc[i, data.columns[:-1]]).reshape(16,1))
+            negative.append(features)
 
     positive = np.stack(positive)
-    positive = positive.reshape(positive.shape[:2])
     negative = np.stack(negative)
-    negative = negative.reshape(negative.shape[:2])
+    print(negative)
+    print(positive.shape)
+    print(negative.shape)
 
+    np.sum(positive, axis=0)
 
-    TPR = 100*np.sum(positive, axis=0)/positive.shape[0]
-    FPR = 100*np.sum(negative, axis=0)/negative.shape[0]
+    TPR = np.sum(positive, axis=0)/positive.shape[0]
+    FPR = np.sum(negative, axis=0)/negative.shape[0]
     n_positive = positive.shape[0]
     n_negative = negative.shape[0]
     abs_postive = np.sum(positive, axis=0)
@@ -128,31 +128,62 @@ if plot_abs == True:
     r5 = [x + barWidth for x in r4]
     r6 = [x + barWidth for x in r5]
 
-    x_positions = [[r1, r2], [r3, r4], [r5, r6]]
+    x_positions = [[r1, r4], [r2, r5], [r3, r6]]
 
     for threshold, x_pos, colour in zip(thresholds, x_positions, colours):
 
-        ratios, TPR, FPR, n_positive, n_negative, abs_postive, abs_negative = plot_bar_chart(threshold)
-        print(threshold)
-        print("Postives: ", n_positive)
-        print("Negatives: ", n_negative)
+        ratios, TPRs, FPRs, n_positive, n_negative, abs_postive, abs_negative = plot_bar_chart(threshold, data)
+
+        #FPR_CI = [FPR + (1.96 * math.sqrt((FPR * (1 - FPR) / n_positive))), FPR - (1.96 * math.sqrt((FPR * (1 - FPR) / n_negative)))]
+
+        TPR_sig = []
+        FPR_sig = []
+
+        for TPR in TPRs:
+
+            TPR_CI = [TPR + (1.96 * math.sqrt((TPR * (1 - TPR) / n_positive))), TPR - (1.96 * math.sqrt((TPR * (1 - TPR) / n_positive)))]
+            if TPR < TPR_CI[0] and TPR > TPR_CI[1]:
+                TPR_sig.append(True)
+            else:
+                TPR_sig.append(False)
+
+        for FPR in FPRs:
+
+            FPR_CI = [FPR + (1.96 * math.sqrt((FPR * (1 - FPR) / n_positive))), FPR - (1.96 * math.sqrt((FPR * (1 - FPR) / n_negative)))]
+            if FPR < FPR_CI[0] and FPR > FPR_CI[1]:
+                FPR_sig.append(True)
+            else:
+                FPR_sig.append(False)
 
         ax1.bar(x_pos[0], abs_postive, align='center', alpha=1, width=barWidth, edgecolor='white', color=colour, label=str(threshold))
         ax1.bar(x_pos[1], abs_negative, align='center', alpha=0.5, width=barWidth, edgecolor='white', color=colour)
 
         ax1.set_ylabel('Absolute positives', fontweight='bold')
-        ax1.set_xticks([r + barWidth/2 for r in range(len(FPR))])
+        ax1.set_xticks([r + barWidth/2 for r in range(len(FPRs))])
         ax1.set_xticklabels(labels, fontsize=10)
         fig.autofmt_xdate(bottom=0.2, rotation=45, ha='right')
 
 
-        ax2.plot([r + barWidth/2 for r in range(len(FPR))], ratios, color=colour, label="Ratio", alpha=0.5)
+        ax2.plot([r + barWidth/2 for r in range(len(FPRs))], ratios, color=colour, label="Ratio", alpha=0.5)
         ax2.set_ylabel('TPR/FPR ratio', fontweight='bold', rotation=270, labelpad=13)
 
-        marker_x = [r + barWidth/2 for r in range(len(FPR))]
+        marker_x = [r + barWidth/2 for r in range(len(FPRs))]
+
+        print(FPR_sig)
+        print(TPR_sig)
+
+        for i, ratio in enumerate(ratios):
+            if FPR_sig[i] == True and TPR_sig[i] == True:
+                ax2.scatter(marker_x[i], ratio)
+                ax2.text(marker_x[i], ratio, str(round(ratio, 1)),
+                         bbox={'facecolor': 'white', 'alpha': 0.2, 'edgecolor': 'black', 'pad': 1.5}, ha='center',
+                         va='center')
+
+        """
         for i, ratio in enumerate(ratios):
             ax2.text(marker_x[i], ratio, str(round(ratio,1)),
                 bbox={'facecolor':'white','alpha':0.2,'edgecolor':'black','pad':1.5}, ha='center', va='center')
+        """
 
     ax1.text(15, 42, "Solid bar = True Positives\nLight bar = False Positives", ha='center', va='center')
     ax2.set_ylim(bottom=0)

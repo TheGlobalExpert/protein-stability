@@ -14,6 +14,14 @@ def ProTherm_data():
 
     return dataset
 
+def Master_results():
+
+    data_path = "results/master.csv"
+
+    dataset = pd.read_csv(data_path)
+
+    return dataset
+
 class HotMusic_data(object):
 
     def __init__(self, data_path="HotMusic_dataset.csv"):
@@ -40,12 +48,10 @@ class Missense3D_data(object):
         self.data_path = data_path
         self.tsv_path = tsv_path
 
-
         try:
             self.load_dataset()
         except:
             self.read_tsv()
-
 
     def load_dataset(self):
 
@@ -88,12 +94,14 @@ class Missense3D_data(object):
 
         #Save prediction and description information
 
+        dataset.astype("object")
+
         for i in range(dataset.shape[0]):
             descriptions = dataset.loc[i, "#Description"]
-
             descriptions = descriptions.split("|")
 
-            bool_list = [0] *  16
+            dataset.loc[i, "one_hot_features"] = ""
+
 
             if dataset.loc[i,"#Prediction"].split()[1] == "Damaging":
                 dataset.loc[i, "BoolPrediction"] = 1
@@ -103,9 +111,19 @@ class Missense3D_data(object):
             for j in range(16):
                 description = descriptions[j].split(":")[2]
                 if description[0] == "Y":
-                    dataset.loc[i, headers[j]] = 1
+                    dataset.loc[i, "one_hot_features"] = dataset.loc[i, "one_hot_features"]+ "1"
                 else:
-                    dataset.loc[i, headers[j]] = 0
+                    dataset.loc[i, "one_hot_features"]= dataset.loc[i, "one_hot_features"]+ "0"
+
+            # CONSTRUCT VARIANT INFO FOR DATA MERGING
+
+            dataset.loc[i, "#Orig"] = dataset.loc[i, "#Orig"][0] + dataset.loc[i, "#Orig"][1:].lower()
+            dataset.loc[i, "#Mutant"] = dataset.loc[i, "#Mutant"][0] + dataset.loc[i, "#Mutant"][1:].lower()
+
+            dataset.loc[i, "variant_info"] = dataset.loc[i, "#PDB ID"] + "_" + Bio.Data.IUPACData.protein_letters_3to1[dataset.loc[i, "#Orig"]] + str(dataset.loc[i, "#PosInPDB"]) + Bio.Data.IUPACData.protein_letters_3to1[dataset.loc[i, "#Mutant"]]
+
+
+            print(dataset.loc[i])
 
         self.dataset = dataset
 
@@ -285,9 +303,6 @@ def generate_missense3d_input_file(path):
     input_file = open("missense_input.csv", "w")
 
     for i in range(data.shape[0]):
-        line = "P\tPDB\t \t" + data.loc[i, "pdb_id"] + "\tA\t" + str(data.loc[i, "pos"]) + "\t" + Bio.Data.IUPACData.protein_letters_1to3[data.loc[i, "wt"]] + "\t" + Bio.Data.IUPACData.protein_letters_1to3[data.loc[i, "mut"]] + "\n"
+        line = "P\tPDB\t-\tfiles/pdb/" + data.loc[i, "pdb_id"] + ".pdb\tA\t" + str(data.loc[i, "pos"]) + "\t" + Bio.Data.IUPACData.protein_letters_1to3[data.loc[i, "wt"]] + "\t" + Bio.Data.IUPACData.protein_letters_1to3[data.loc[i, "mut"]] + "\n"
 
         input_file.write(line)
-
-
-generate_missense3d_input_file("FoldX_predictions.csv")
