@@ -1,0 +1,12 @@
+
+:  1238: A 126 SER  N   : A 125 ALA  CA  :   -0.824:       23
+
+:  1238: A   2 VAL  CB  : A   2 VAL  N   :   -0.787:       37
+
+:  1238: A  59 LEU  HG  : A  55 LEU HD12 :   -0.547:       59
+
+:  1238: A   1 MET  SD  : A  89 LYS  HE2 :   -0.522:       63
+
+:  1238: A  15 LEU HD12 : A  15 LEU  HA  :   -0.435:       27
+#sum2 ::4.04 clashscore : 2.77 clashscore B<40 
+#summary::1238 atoms:1083 atoms B<40:144342 potential dots:9021.0 A^2:5 bumps:3 bumps B<40:436.9 score

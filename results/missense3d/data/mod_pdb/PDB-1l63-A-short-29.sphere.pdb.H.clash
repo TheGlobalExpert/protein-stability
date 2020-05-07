@@ -1,0 +1,25 @@
+
+:  1548: A 111 VAL  N   : A 110 GLY  CA  :   -0.860:       25
+
+:  1548: A 108 GLU  CG  : A 108 GLU  OE2 :   -0.828:      100
+:  1548: A 108 GLU  CB  : A 108 GLU  OE2 :   -0.610:      100
+
+:  1548: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1548: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1548: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1548: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1548: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1548: A  40 ASN  C   : A  40 ASN  N   :   -0.751:       29
+
+:  1548: A  88 TYR  CE2 : A  88 TYR  OH  :   -0.735:       29
+
+:  1548: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1548: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1548: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1548: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1548: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::9.69 clashscore : 4.24 clashscore B<40 
+#summary::1548 atoms:1414 atoms B<40:183334 potential dots:11460.0 A^2:15 bumps:6 bumps B<40:554.5 score

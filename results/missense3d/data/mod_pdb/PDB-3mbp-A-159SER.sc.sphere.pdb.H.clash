@@ -1,0 +1,111 @@
+
+:  2311: A 256 LYS  HG3 : A 326 LYS  O   :   -1.068:        0
+:  2311: A 256 LYS  CG  : A 326 LYS  O   :   -0.802:        0
+:  2311: A 254 PRO  HD3 : A 253 GLN  HA  :   -0.467:        0
+:  2311: A 254 PRO  CB  : A 326 LYS  HD2 :   -0.426:        0
+:  2311: A 257 PRO  HD2 : A 256 LYS  HA  :   -0.415:        0
+:  2311: A 254 PRO  HB3 : A 326 LYS  HD2 :   -0.406:        0
+
+:  2311: A  62 TRP  CD2 : A  62 TRP  CZ3 :   -1.053:        0
+:  2311: A  62 TRP  CG  : A  62 TRP  CA  :   -0.955:        0
+:  2311: A  62 TRP  CD1 : A  66 ARG  HB2 :   -0.427:        0
+
+:  2311: A 224 MET  CE  : A 115 LEU HD21 :   -1.051:        0
+:  2311: A 115 LEU HD21 : A 224 MET  HE1 :   -1.022:        0
+:  2311: A 224 MET  CE  : A 126 PRO  HD2 :   -0.851:        0
+:  2311: A 224 MET  HE1 : A 126 PRO  HD2 :   -0.760:        0
+:  2311: A 127 LYS  N   : A 127 LYS  HD3 :   -0.684:        0
+:  2311: A 224 MET  CE  : A 115 LEU  CD2 :   -0.662:        0
+:  2311: A 224 MET  HE1 : A 115 LEU  CD2 :   -0.616:        0
+:  2311: A 127 LYS  HD3 : A 126 PRO  C   :   -0.525:        0
+:  2311: A 122 LEU  CD2 : A 125 PRO  HA  :   -0.482:        0
+:  2311: A 125 PRO  O   : A 127 LYS  NZ  :   -0.476:        0
+:  2311: A 117 TYR  CB  : A 224 MET  HG2 :   -0.469:        0
+:  2311: A 126 PRO  HD3 : A 122 LEU  CD2 :   -0.418:        0
+
+:  2311: A 155 TYR  HE2 : A 113 LEU HD21 :   -0.976:        0
+:  2311: A 113 LEU HD21 : A 155 TYR  CE2 :   -0.698:        0
+:  2311: A 155 TYR  HE2 : A 113 LEU  CD2 :   -0.678:        0
+:  2311: A 155 TYR  CE2 : A 113 LEU HD11 :   -0.514:        0
+:  2311: A 155 TYR  CD2 : A 113 LEU HD11 :   -0.505:        0
+:  2311: A 113 LEU  CG  : A 155 TYR  CE2 :   -0.421:        0
+
+:  2311: A 222 THR  CB  : A 222 THR  C   :   -0.867:        0
+:  2311: A 222 THR  C   : A 222 THR  CG2 :   -0.577:        0
+:  2311: A 222 THR  OG1 : A 148 MET  HG3 :   -0.425:        0
+
+:  2311: A 136 ASP  CB  : A 136 ASP  N   :   -0.820:        0
+
+:  2311: A 232 TRP  CE2 : A 229 PRO  HA  :   -0.813:        0
+
+:  2311: A  96 ALA  CA  : A  96 ALA  O   :   -0.800:        0
+
+:  2311: A 359 GLU  N   : A 359 GLU  C   :   -0.770:        0
+
+:  2311: A 357 VAL HG13 : A 192 LEU HD23 :   -0.750:        0
+:  2311: A 192 LEU HD22 : A 361 LEU HD21 :   -0.700:        0
+:  2311: A 189 LYS  HE2 : A 186 ALA  HA  :   -0.581:        0
+:  2311: A 361 LEU HD12 : A 189 LYS  HG2 :   -0.443:        0
+
+:  2311: A 150 ASN  HB3 : A 156 PHE  CD1 :   -0.737:        0
+:  2311: A 150 ASN  HB3 : A 156 PHE  CE1 :   -0.434:        0
+
+:  2311: A 363 ASP  C   : A 363 ASP  N   :   -0.698:        0
+
+:  2311: A 339 PHE  HZ  : A 158 TRP  CZ3 :   -0.632:        0
+:  2311: A 158 TRP  CZ3 : A 339 PHE  CZ  :   -0.411:        0
+
+:  2311: A 129 TRP  CE3 : A 132 ILE HD12 :   -0.586:        0
+:  2311: A 133 PRO  CD  : A 132 ILE  N   :   -0.531:        0
+
+:  2311: A 204 MET  SD  : A 198 LEU HD13 :   -0.563:        0
+:  2311: A 204 MET  HG2 : A 203 HIS  C   :   -0.550:        0
+:  2311: A 204 MET  CG  : A 198 LEU  HB3 :   -0.546:        0
+:  2311: A 204 MET  HE3 : A 204 MET  HB3 :   -0.484:        0
+:  2311: A 204 MET  HG3 : A 198 LEU  HB3 :   -0.466:        0
+:  2311: A 198 LEU HD23 : A 198 LEU  HA  :   -0.412:        0
+
+:  2311: A 182 GLY  HA3 : A 167 TYR  CD2 :   -0.552:        0
+:  2311: A 167 TYR  CE2 : A 182 GLY  HA3 :   -0.503:        0
+
+:  2311: A 340 TRP  HH2 : A 258 PHE  HD2 :   -0.522:        0
+:  2311: A 258 PHE  CD1 : A 330 MET  HG2 :   -0.443:        0
+:  2311: A 340 TRP  HA  : A 340 TRP  CE3 :   -0.435:        0
+:  2311: A 258 PHE  HD2 : A 340 TRP  CH2 :   -0.431:        0
+
+:  2311: A 171 TYR  HD2 : A 176 TYR  CZ  :   -0.482:        0
+:  2311: A 331 PRO  HG3 : A 176 TYR  CZ  :   -0.482:        0
+
+:  2311: A 184 ASP  CG  : A 184 ASP  O   :   -0.481:        0
+
+:  2311: A 349 ASN  OD1 : A 345 THR HG22 :   -0.475:        0
+
+:  2311: A 322 GLU  HG2 : A 246 VAL HG22 :   -0.447:        0
+
+:  2311: A 196 VAL  O   : A 199 ILE  HB  :   -0.447:        0
+
+:  2311: A 322 GLU  CD  : A 246 VAL  CG2 :   -0.421:        0
+
+:  2311: A 185 ASN  OD1 : A 185 ASN  C   :   -0.429:        0
+
+:  2311: A 153 GLU  OE1 : A 154 PRO  HD2 :   -0.424:        0
+
+:  2311: A 146 ALA  HB1 : A 135 LEU HD23 :   -0.424:        0
+
+:  2311: A 180 ASP  OD2 : A 170 LYS  NZ  :   -0.421:        0
+
+:  2311: A 181 VAL  HA  : A 168 ALA  O   :   -0.414:        0
+:  2311: A 183 VAL HG13 : A 181 VAL  CG1 :   -0.404:        0
+:  2311: A 183 VAL  H   : A 181 VAL HG12 :   -0.402:        0
+
+:  2311: A 337 SER  O   : A 341 TYR  CD2 :   -0.412:        0
+
+:  2311: A 299 LEU  CA  : A 298 PRO  O   :   -0.408:        0
+
+:  2311: A 159 SER  HB2 : A 255 SER  HB3 :   -0.406:        0
+
+:  2311: A 151 LEU HD12 : A 151 LEU  HA  :   -0.401:        0
+
+:  2311: A 131 GLU  H   : A 131 GLU  HG2 :   -0.400:        0
+#sum2 ::32.89 clashscore : 32.89 clashscore B<40 
+#summary::2311 atoms:2311 atoms B<40:279125 potential dots:17450.0 A^2:76 bumps:76 bumps B<40:544.6 score

@@ -1,0 +1,11 @@
+
+:   402: A  63 VAL  N   : A  63 VAL  CB  :   -0.864:       20
+:   402: A  63 VAL  N   : A  63 VAL  CG2 :   -0.472:       20
+
+:   402: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   402: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+
+:   402: A  14 GLY  O   : A  15 PHE  CA  :   -0.403:       19
+#sum2 ::12.44 clashscore : 13.66 clashscore B<40 
+#summary::402 atoms:366 atoms B<40:48572 potential dots:3036.0 A^2:5 bumps:5 bumps B<40:73.38 score

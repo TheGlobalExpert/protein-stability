@@ -1,0 +1,37 @@
+
+:  1539: A  63 TYR  CD2 : A  63 TYR  CZ  :   -0.988:       98
+
+:  1539: A  20 TYR  CD2 : A  20 TYR  CB  :   -0.968:       12
+
+:  1539: A 130 VAL  CG1 : A 130 VAL  CG2 :   -0.933:       24
+
+:  1539: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:  1539: A 107 ARG  NH1 : A 112 TRP  CZ3 :   -0.738:      106
+:  1539: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+
+:  1539: A  48 GLY  CA  : A  49 ASP  N   :   -0.847:       41
+:  1539: A  49 ASP  N   : A  49 ASP  CB  :   -0.832:       20
+:  1539: A  49 ASP  CB  : A  49 ASP  C   :   -0.826:       19
+:  1539: A  49 ASP  N   : A  49 ASP  C   :   -0.713:       20
+
+:  1539: A  10 ARG  CG  : A  10 ARG  NE  :   -0.831:       16
+
+:  1539: A 111 ALA  O   : A 115 ARG  HG2 :   -0.767:       46
+
+:  1539: A  16 GLY  N   : A  16 GLY  C   :   -0.701:       13
+
+:  1539: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.495:       22
+:  1539: A  84 LEU HD22 : A  92 ALA  HA  :   -0.465:       22
+
+:  1539: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1539: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+:  1539: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:  1539: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:  1539: A  52 THR  HB  : A  54 TYR  CE2 :   -0.421:       15
+
+:  1539: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+#sum2 ::13.65 clashscore : 8.43 clashscore B<40 
+#summary::1539 atoms:1424 atoms B<40:185789 potential dots:11610.0 A^2:21 bumps:12 bumps B<40:457.4 score

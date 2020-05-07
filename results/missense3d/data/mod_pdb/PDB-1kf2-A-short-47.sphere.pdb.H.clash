@@ -1,0 +1,19 @@
+
+:  1497: A  95 CYS  CB  : A  95 CYS  C   :   -0.912:       14
+
+:  1497: A 114 PRO  C   : A 114 PRO  CB  :   -0.909:       25
+
+:  1497: A   2 GLU  C   : A   2 GLU  CB  :   -0.883:       15
+
+:  1497: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.502:       29
+:  1497: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.426:       29
+
+:  1497: A  85 ARG  NH2 : A  83 ASP  OD1 :   -0.447:      158
+
+:  1497: A  40 CYS  CA  : A  39 ARG  O   :   -0.438:       14
+
+:  1497: A  87 THR  CG2 : A  87 THR  N   :   -0.405:       27
+
+:  1497: A  29 MET  HG3 : A  25 TYR  CZ  :   -0.402:       15
+#sum2 ::6.01 clashscore : 5.58 clashscore B<40 
+#summary::1497 atoms:1433 atoms B<40:175523 potential dots:10970.0 A^2:9 bumps:8 bumps B<40:517 score

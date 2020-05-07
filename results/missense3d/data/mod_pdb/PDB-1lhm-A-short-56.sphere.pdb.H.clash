@@ -1,0 +1,26 @@
+
+:  1724: A  74 VAL  C   : A  74 VAL  N   :   -0.826:       25
+
+:  1724: A 102 ASP  O   : A 102 ASP  CA  :   -0.778:       18
+:  1724: A 102 ASP  O   : A 102 ASP  N   :   -0.400:       18
+
+:  1724: A 121 VAL  N   : A 120 ASP  O   :   -0.683:       18
+
+:  1724: A  22 GLY  C   : A  22 GLY  N   :   -0.668:       13
+
+:  1724: A  62 ARG  CD  : A  62 ARG  NH1 :   -0.651:       29
+
+:  1724: A  64 TRP  O   : A  77 ALA  HB3 :   -0.498:       24
+:  1724: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.479:       24
+:  1724: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.429:       15
+:  1724: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.400:       17
+
+:  1724: A  53 ASP  HB3 : A  58 GLN  HB3 :   -0.461:       12
+
+:  1724: A  33 LYS  HG2 : A 124 TYR  HE1 :   -0.438:       20
+
+:  1724: A  97 LYS  O   : A 101 ARG  HG3 :   -0.416:       16
+
+:  1724: A 112 TRP  CD1 : A 116 CYS  HB2 :   -0.411:       12
+#sum2 ::8.12 clashscore : 8.15 clashscore B<40 
+#summary::1724 atoms:1717 atoms B<40:203473 potential dots:12720.0 A^2:14 bumps:14 bumps B<40:680.1 score

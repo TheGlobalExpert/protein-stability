@@ -1,0 +1,16 @@
+
+:  1160: A  47 GLN  N   : A  46 THR  CA  :   -0.869:        8
+:  1160: A  47 GLN  N   : A  47 GLN  CB  :   -0.852:        8
+:  1160: A  46 THR  CA  : A  46 THR  OG1 :   -0.711:       11
+
+:  1160: A  31 SER  OG  : A  31 SER  CA  :   -0.775:       16
+
+:  1160: A   9 SER  C   : A   9 SER  N   :   -0.694:        7
+
+:  1160: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:  1160: A  29 PRO  HD3 : A  21 LEU HD13 :   -0.431:       12
+
+:  1160: A  35 VAL HG11 : A  32 GLN  OE1 :   -0.408:       11
+#sum2 ::6.90 clashscore : 6.90 clashscore B<40 
+#summary::1160 atoms:1159 atoms B<40:136139 potential dots:8509.0 A^2:8 bumps:8 bumps B<40:392.5 score

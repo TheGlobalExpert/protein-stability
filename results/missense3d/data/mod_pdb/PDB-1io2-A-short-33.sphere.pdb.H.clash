@@ -1,0 +1,42 @@
+
+:  1287: A   3 ILE HD12 : A  30 LEU HD11 :   -1.057:       23
+:  1287: A  30 LEU HD11 : A   3 ILE  CD1 :   -0.856:       23
+:  1287: A   3 ILE HD12 : A  30 LEU  CD1 :   -0.554:       23
+:  1287: A  30 LEU  N   : A  31 PRO  CD  :   -0.413:       24
+
+:  1287: A  20 ILE  CA  : A  20 ILE  CG2 :   -0.986:       11
+:  1287: A  20 ILE  CG2 : A  20 ILE  C   :   -0.480:       11
+
+:  1287: A 152 ARG  N   : A 151 THR  CA  :   -0.886:       15
+
+:  1287: A  95 LEU  CA  : A  96 LYS  N   :   -0.876:       13
+:  1287: A  64 VAL HG23 : A  95 LEU HD23 :   -0.422:       12
+
+:  1287: A 146 ILE HD13 : A  52 LEU HD13 :   -0.794:       17
+
+:  1287: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.658:       13
+:  1287: A   4 ALA  HB2 : A  99 PRO  CB  :   -0.435:       13
+
+:  1287: A  49 ARG  HG2 : A 150 VAL  CG2 :   -0.605:       20
+:  1287: A  50 GLU  O   : A  53 PHE  HB3 :   -0.490:       19
+:  1287: A  53 PHE  HB2 : A 150 VAL HG21 :   -0.402:       17
+
+:  1287: A  48 ARG  HG3 : A  48 ARG HH11 :   -0.565:       22
+:  1287: A  48 ARG  HG3 : A  48 ARG  NH1 :   -0.449:       22
+
+:  1287: A  60 LEU HD23 : A  25 VAL HG22 :   -0.483:       15
+:  1287: A  26 ASP  O   : A  25 VAL HG12 :   -0.473:       18
+
+:  1287: A  19 VAL  C   : A  19 VAL  CG1 :   -0.480:       11
+
+:  1287: A 133 LYS  O   : A 133 LYS  HG3 :   -0.474:       24
+
+:  1287: A  63 TYR  CE2 : A  57 LEU HD22 :   -0.455:       17
+
+:  1287: A   1 MET  HB2 : A  27 GLU  OE1 :   -0.436:       21
+
+:  1287: A  32 LYS  HB2 : A  29 SER  O   :   -0.421:       24
+
+:  1287: A  41 SER  HA  : A  44 LEU  HG  :   -0.407:       24
+#sum2 ::19.43 clashscore : 19.43 clashscore B<40 
+#summary::1287 atoms:1287 atoms B<40:152274 potential dots:9517.0 A^2:25 bumps:25 bumps B<40:385.7 score

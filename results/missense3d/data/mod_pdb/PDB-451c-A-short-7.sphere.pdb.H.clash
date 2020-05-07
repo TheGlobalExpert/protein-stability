@@ -1,0 +1,15 @@
+
+:  1054: A  59 ILE  CB  : A  59 ILE  C   :   -0.878:       15
+:  1054: A  59 ILE  C   : A  59 ILE  CG1 :   -0.418:       15
+
+:  1054: A  33 LYS  N   : A  33 LYS  CB  :   -0.776:       11
+
+:  1054: A  17 ALA  HB2 : A  22 MET  CE  :   -0.546:       80
+
+:  1054: A  82 LYS  HB2 : A  31 ALA  CB  :   -0.440:       71
+
+:  1054: A  76 LYS  HE3 : A  73 THR  HA  :   -0.409:       49
+
+:  1054: A  79 LEU HD23 : A  79 LEU  HA  :   -0.405:       19
+#sum2 ::6.64 clashscore : 4.24 clashscore B<40 
+#summary::1054 atoms:944 atoms B<40:122327 potential dots:7645.0 A^2:7 bumps:4 bumps B<40:347.7 score

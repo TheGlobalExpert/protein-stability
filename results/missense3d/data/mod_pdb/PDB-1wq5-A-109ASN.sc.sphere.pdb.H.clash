@@ -1,0 +1,25 @@
+
+:  1095: A  53 PRO  N   : A  53 PRO  CD  :   -1.382:        0
+:  1095: A  53 PRO  CD  : A  52 ILE  C   :   -0.630:        0
+:  1095: A  52 ILE  CD1 : A  99 LEU HD13 :   -0.597:        0
+:  1095: A  99 LEU HD13 : A  52 ILE HD11 :   -0.560:        0
+:  1095: A  52 ILE  HA  : A  53 PRO  CD  :   -0.507:        0
+:  1095: A  53 PRO  CD  : A  52 ILE  CA  :   -0.481:        0
+
+:  1095: A 105 LEU HD23 : A 101 MET  HE3 :   -0.992:        0
+:  1095: A 101 MET  CE  : A 105 LEU HD23 :   -0.696:        0
+:  1095: A 114 PHE  CZ  : A 101 MET  SD  :   -0.635:        0
+:  1095: A 114 PHE  HZ  : A 101 MET  SD  :   -0.591:        0
+:  1095: A 105 LEU HD13 : A  54 PHE  CD1 :   -0.431:        0
+
+:  1095: A  97 ILE  CB  : A  97 ILE  C   :   -0.888:        0
+:  1095: A  97 ILE  CG2 : A  97 ILE  C   :   -0.507:        0
+
+:  1095: A  25 LEU HD11 : A  85 LEU HD21 :   -0.551:        0
+:  1095: A  85 LEU HD12 : A  82 PHE  HA  :   -0.454:        0
+
+:  1095: A 111 ILE HD13 : A 138 PRO  HB2 :   -0.416:        0
+
+:  1095: A  23 VAL  O   : A  24 THR  CA  :   -0.408:        0
+#sum2 ::15.53 clashscore : 15.53 clashscore B<40 
+#summary::1095 atoms:1095 atoms B<40:131332 potential dots:8208.0 A^2:17 bumps:17 bumps B<40:299.5 score

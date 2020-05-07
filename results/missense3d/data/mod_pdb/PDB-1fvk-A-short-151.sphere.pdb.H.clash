@@ -1,0 +1,39 @@
+
+:  1896: A 108 ILE  CG1 : A 108 ILE  CG2 :   -0.991:       18
+:  1896: A 108 ILE  CG2 : A 108 ILE  CD1 :   -0.493:       16
+
+:  1896: A 184 TYR  CB  : A 184 TYR  CD2 :   -0.968:       32
+
+:  1896: A  48 LYS  CD  : A  48 LYS  CB  :   -0.942:       56
+:  1896: A  48 LYS  CB  : A  48 LYS  CE  :   -0.534:       62
+
+:  1896: A  54 VAL  C   : A  54 VAL  CB  :   -0.853:       57
+
+:  1896: A   5 ASP  CG  : A   5 ASP  CA  :   -0.851:       54
+
+:  1896: A  13 GLU  CA  : A  14 LYS  N   :   -0.848:       68
+
+:  1896: A  87 LYS  C   : A  87 LYS  N   :   -0.751:       31
+
+:  1896: A  21 GLN  CG  : A  21 GLN  OE1 :   -0.739:       58
+
+:  1896: A 172 ASP  CB  : A 172 ASP  OD1 :   -0.716:       36
+
+:  1896: A 166 MET  HB3 : A 177 GLN  OE1 :   -0.502:       54
+:  1896: A 166 MET  HG3 : A 163 PRO  O   :   -0.453:       49
+
+:  1896: A 176 GLN  HA  : A 176 GLN  OE1 :   -0.485:       29
+
+:  1896: A  43 SER  O   : A  47 LYS  HG3 :   -0.464:       46
+
+:  1896: A  25 PHE  CE2 : A  23 LEU HD13 :   -0.429:       28
+
+:  1896: A  31 PRO  HD3 : A  30 CYS  HA  :   -0.424:       20
+
+:  1896: A  59 TYR  CD1 : A 138 GLN  HG2 :   -0.417:       23
+
+:  1896: A  92 LEU HD23 : A  92 LEU  HA  :   -0.406:       15
+
+:  1896: A  72 LEU HD13 : A  28 PHE  HB2 :   -0.403:       19
+#sum2 ::10.55 clashscore : 7.06 clashscore B<40 
+#summary::1896 atoms:1558 atoms B<40:229760 potential dots:14360.0 A^2:20 bumps:11 bumps B<40:578.5 score

@@ -1,0 +1,74 @@
+
+:   851: A 106 PHE  HE2 : A  89 LEU  CD1 :   -1.301:        0
+:   851: A 106 PHE  CE2 : A  89 LEU HD13 :   -1.238:        0
+:   851: A  56 PHE  HE2 : A  63 LEU HD12 :   -1.043:        0
+:   851: A 106 PHE  HE2 : A  89 LEU HD13 :   -1.037:        0
+:   851: A  56 PHE  HE2 : A  63 LEU  CD1 :   -0.951:        0
+:   851: A  89 LEU HD22 : A  63 LEU HD11 :   -0.949:        0
+:   851: A  63 LEU HD12 : A  56 PHE  CE2 :   -0.929:        0
+:   851: A  63 LEU  CD1 : A  56 PHE  CE2 :   -0.904:        0
+:   851: A 106 PHE  CE2 : A  89 LEU  CD1 :   -0.869:        0
+:   851: A  89 LEU  CD2 : A  56 PHE  CD2 :   -0.792:        0
+:   851: A  63 LEU  CD1 : A  89 LEU HD22 :   -0.714:        0
+:   851: A  89 LEU HD13 : A 106 PHE  CD2 :   -0.684:        0
+:   851: A 106 PHE  HE2 : A  89 LEU HD11 :   -0.670:        0
+:   851: A  56 PHE  CE1 : A 103 TYR  CD2 :   -0.564:        0
+:   851: A  89 LEU HD21 : A  56 PHE  CG  :   -0.547:        0
+:   851: A  56 PHE  CE2 : A  89 LEU  CD2 :   -0.543:        0
+:   851: A  56 PHE  CD2 : A  89 LEU HD21 :   -0.542:        0
+:   851: A 106 PHE  CZ  : A 103 TYR  HA  :   -0.511:        0
+:   851: A  89 LEU  CD2 : A  56 PHE  CG  :   -0.457:        0
+:   851: A  62 ARG  NH1 : A 106 PHE  O   :   -0.441:        0
+:   851: A  56 PHE  CE2 : A  63 LEU HD11 :   -0.416:        0
+:   851: A 103 TYR  HD2 : A 106 PHE  HZ  :   -0.414:        0
+
+:   851: A  59 ARG HH21 : A  59 ARG  CG  :   -1.151:        0
+:   851: A  59 ARG HH22 : A  60 GLU  CB  :   -1.099:        0
+:   851: A  59 ARG HH22 : A  60 GLU  HB3 :   -1.087:        0
+:   851: A  59 ARG  HG3 : A  59 ARG  NH2 :   -0.946:        0
+:   851: A  59 ARG  NH2 : A  60 GLU  HB3 :   -0.903:        0
+:   851: A  59 ARG  NH2 : A  60 GLU  N   :   -0.782:        0
+:   851: A  59 ARG HH21 : A  59 ARG  HG3 :   -0.694:        0
+:   851: A  59 ARG HH22 : A  60 GLU  CA  :   -0.622:        0
+:   851: A  60 GLU  CB  : A  59 ARG  NH2 :   -0.572:        0
+:   851: A  59 ARG  NH2 : A  59 ARG  CG  :   -0.536:        0
+:   851: A  59 ARG  NH2 : A  60 GLU  CA  :   -0.486:        0
+:   851: A  60 GLU  N   : A  59 ARG HH21 :   -0.486:        0
+:   851: A  60 GLU  HB3 : A  59 ARG  CZ  :   -0.427:        0
+:   851: A  59 ARG  NH2 : A  60 GLU  H   :   -0.416:        0
+
+:   851: A 110 ARG  CD  : A 110 ARG  CZ  :   -1.025:        0
+:   851: A  96 ILE  CG2 : A 109 ILE HD11 :   -0.869:        0
+:   851: A   7 PHE  CA  : A   7 PHE  O   :   -0.762:        0
+:   851: A 109 ILE HD11 : A  96 ILE HG22 :   -0.724:        0
+:   851: A 110 ARG  NH2 : A 109 ILE  O   :   -0.681:        0
+:   851: A 110 ARG  HB3 : A  15 GLN  NE2 :   -0.644:        0
+:   851: A  96 ILE  HB  : A 110 ARG  HB2 :   -0.629:        0
+:   851: A  96 ILE HG22 : A 109 ILE  CD1 :   -0.614:        0
+:   851: A  98 LYS  HB2 : A   7 PHE  CE1 :   -0.559:        0
+:   851: A 109 ILE  CG1 : A  96 ILE HG22 :   -0.555:        0
+:   851: A 109 ILE  CG2 : A  98 LYS  HG2 :   -0.529:        0
+:   851: A  96 ILE HG21 : A 109 ILE HD11 :   -0.516:        0
+:   851: A 110 ARG  CD  : A 110 ARG  NH2 :   -0.468:        0
+:   851: A  96 ILE HG21 : A  88 ILE HD11 :   -0.433:        0
+:   851: A  96 ILE  CG2 : A 109 ILE  CD1 :   -0.431:        0
+:   851: A  88 ILE HD11 : A 109 ILE HD11 :   -0.403:        0
+
+:   851: A 102 HIS  HB2 : A 101 ASP  O   :   -0.866:        0
+:   851: A 101 ASP  O   : A 102 HIS  CB  :   -0.682:        0
+:   851: A 104 GLN  HB2 : A 101 ASP  CG  :   -0.621:        0
+:   851: A 101 ASP  OD1 : A 104 GLN  HB2 :   -0.433:        0
+
+:   851: A  90 TYR  HA  : A  95 LEU  O   :   -0.631:        0
+
+:   851: A  93 ASP  OD1 : A  93 ASP  N   :   -0.587:        0
+
+:   851: A  99 THR HG22 : A  87 ARG  HB2 :   -0.574:        0
+:   851: A  75 ASP  HA  : A  87 ARG  HD3 :   -0.567:        0
+:   851: A  87 ARG  HB2 : A  99 THR  CG2 :   -0.526:        0
+
+:   851: A  71 TRP  CZ3 : A  91 SER  HB3 :   -0.488:        0
+
+:   851: A  84 ASN  OD1 : A  84 ASN  C   :   -0.402:        0
+#sum2 ::74.03 clashscore : 74.03 clashscore B<40 
+#summary::851 atoms:851 atoms B<40:99717 potential dots:6232.0 A^2:63 bumps:63 bumps B<40:-11.74 score

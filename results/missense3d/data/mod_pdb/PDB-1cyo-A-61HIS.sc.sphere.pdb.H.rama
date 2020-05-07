@@ -1,0 +1,47 @@
+#residue:score%:phi:psi:evaluation:type
+A  22 TRP:26.24:-107.11:151.26:Favored:General case
+A  23 LEU:20.77:-149.49:169.08:Favored:General case
+A  24 ILE:57.45:-108.33:133.87:Favored:General case
+A  25 LEU:41.15:-130.66:122.08:Favored:General case
+A  26 HIS:17.07:49.87:46.94:Favored:General case
+A  27 TYR:2.60:72.49:2.78:Favored:General case
+A  28 LYS:32.16:-102.90:143.30:Favored:General case
+A  29 VAL:56.37:-103.28:130.62:Favored:General case
+A  30 TYR:60.05:-122.67:136.43:Favored:General case
+A  36 LEU:61.55:-51.11:-47.54:Favored:General case
+A  37 GLU:54.39:-79.23:-10.61:Favored:General case
+A  38 GLU:16.63:-98.96:-18.28:Favored:General case
+A  39 HIS:88.93:-62.85:125.78:Favored:Pre-proline
+A  40 PRO:80.93:-61.60:-25.62:Favored:Proline
+A  41 GLY:78.56:-87.70:6.14:Favored:Glycine
+A  42 GLY:42.60:93.52:169.62:Favored:Glycine
+A  43 GLU:33.35:-80.69:-37.29:Favored:General case
+A  44 GLU:96.64:-62.97:-44.59:Favored:General case
+A  45 VAL:69.13:-59.76:-29.26:Favored:General case
+A  46 LEU:22.59:-78.56:-46.64:Favored:General case
+A  47 ARG:72.35:-56.83:-37.00:Favored:General case
+A  48 GLU:70.64:-63.89:-26.93:Favored:General case
+A  49 GLN:28.44:-100.50:-2.61:Favored:General case
+A  50 ALA:52.66:-60.88:140.54:Favored:General case
+A  51 GLY:82.49:85.37:9.01:Favored:Glycine
+A  52 GLY:22.79:-154.88:-172.73:Favored:Glycine
+A  53 ASP:42.08:-78.55:129.85:Favored:General case
+A  54 ALA:7.71:-125.25:23.14:Favored:General case
+A  55 THR:77.72:-58.28:-49.56:Favored:General case
+A  56 GLU:89.31:-65.46:-37.47:Favored:General case
+A  57 ASN:98.42:-62.24:-41.62:Favored:General case
+A  58 PHE:76.47:-63.60:-49.54:Favored:General case
+A  59 GLU:68.07:-71.86:-30.37:Favored:General case
+A  60 ASP:63.40:-72.36:-17.12:Favored:General case
+A  61 HIS:8.22:-112.81:29.82:Favored:General case
+A  62 GLY:64.43:54.12:47.61:Favored:Glycine
+A  63 HIS:53.18:-60.71:134.96:Favored:General case
+A  64 SER:13.71:-74.30:170.62:Favored:General case
+A  65 THR:74.14:-56.87:-38.24:Favored:General case
+A  66 ASP:94.81:-60.25:-42.81:Favored:General case
+A  67 ALA:91.08:-59.25:-43.84:Favored:General case
+A  68 ARG:99.20:-63.42:-42.26:Favored:General case
+A  69 GLU:93.31:-65.33:-43.34:Favored:General case
+A  70 LEU:77.44:-62.47:-33.60:Favored:General case
+A  71 SER:65.44:-59.23:-25.14:Favored:General case
+A  72 LYS:68.25:-61.30:-25.21:Favored:General case

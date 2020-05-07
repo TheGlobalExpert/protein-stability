@@ -1,0 +1,22 @@
+
+:   844: A   2 VAL  CA  : A   2 VAL  CG1 :   -0.957:       15
+:   844: A   2 VAL  CG1 : A   2 VAL  C   :   -0.466:       15
+
+:   844: A 100 VAL  CG1 : A 100 VAL  CG2 :   -0.916:       11
+
+:   844: A  92 ALA  C   : A  92 ALA  CB  :   -0.909:       13
+
+:   844: A  88 ASN  CA  : A  88 ASN  CG  :   -0.880:       21
+
+:   844: A 120 ASP  OD1 : A 122 ARG  HG2 :   -0.624:       31
+:   844: A 122 ARG HH11 : A 122 ARG  HD2 :   -0.446:       45
+
+:   844: A  13 LYS  HE2 : A 130 VAL  OXT :   -0.564:       26
+
+:   844: A 126 GLN  HG2 : A 123 GLN  O   :   -0.450:       31
+
+:   844: A  33 LYS  HG2 : A 124 TYR  HE1 :   -0.438:       20
+
+:   844: A 112 TRP  CD1 : A 116 CYS  HB2 :   -0.411:       12
+#sum2 ::13.03 clashscore : 11.98 clashscore B<40 
+#summary::844 atoms:835 atoms B<40:104599 potential dots:6537.0 A^2:11 bumps:10 bumps B<40:233.2 score

@@ -1,0 +1,56 @@
+
+:  1012: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:  1012: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:  1012: A 106 MET  CG  : A 111 VAL HG23 :   -0.934:        0
+:  1012: A 111 VAL HG23 : A 106 MET  SD  :   -0.634:        0
+:  1012: A 111 VAL HG23 : A 106 MET  HG2 :   -0.614:        0
+:  1012: A 106 MET  CG  : A 111 VAL  CG2 :   -0.485:        0
+:  1012: A 106 MET  HE3 : A 106 MET  HB3 :   -0.454:        0
+
+:  1012: A 119 ARG  HB3 : A 119 ARG HH21 :   -1.038:        0
+:  1012: A 119 ARG  NH2 : A 119 ARG  HB3 :   -0.727:        0
+:  1012: A 119 ARG  CD  : A 123 GLN  NE2 :   -0.466:        0
+:  1012: A 123 GLN  NE2 : A 119 ARG  HD2 :   -0.433:        0
+
+:  1012: A   7 LEU  CD2 : A   7 LEU  CD1 :   -0.997:        0
+
+:  1012: A 150 ILE  CG1 : A 150 ILE  CA  :   -0.974:        0
+:  1012: A 150 ILE  CA  : A 150 ILE  O   :   -0.697:        0
+
+:  1012: A 108 GLU  OE2 : A  77 GLY  O   :   -0.959:        0
+:  1012: A  77 GLY  C   : A 108 GLU  OE2 :   -0.859:        0
+:  1012: A  77 GLY  CA  : A 108 GLU  OE2 :   -0.730:        0
+
+:  1012: A 135 LYS  C   : A 135 LYS  CB  :   -0.882:        0
+:  1012: A 135 LYS  CB  : A 135 LYS  N   :   -0.841:        0
+:  1012: A 135 LYS  N   : A 135 LYS  C   :   -0.751:        0
+:  1012: A 135 LYS  CB  : A 135 LYS  O   :   -0.434:        0
+:  1012: A 135 LYS  N   : A 134 ALA  N   :   -0.419:        0
+
+:  1012: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.715:        0
+:  1012: A  86 PRO  HD2 : A  85 LYS  N   :   -0.571:        0
+:  1012: A  85 LYS  HB3 : A  86 PRO  CD  :   -0.463:        0
+:  1012: A  85 LYS  N   : A  86 PRO  CD  :   -0.445:        0
+
+:  1012: A  92 ASP  OD2 : A  95 ARG  NH2 :   -0.652:        0
+:  1012: A  95 ARG  HD2 : A  92 ASP  OD2 :   -0.413:        0
+
+:  1012: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:  1012: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:  1012: A  81 ASN  CB  : A  84 LEU HD12 :   -0.566:        0
+:  1012: A  84 LEU HD12 : A  81 ASN  HB3 :   -0.440:        0
+
+:  1012: A  75 VAL  O   : A  79 LEU  HG  :   -0.559:        0
+
+:  1012: A  87 VAL HG22 : A 122 GLN  HG3 :   -0.551:        0
+
+:  1012: A 114 PHE  O   : A 118 LEU  HG  :   -0.475:        0
+
+:  1012: A 152 THR  CG2 : A 152 THR  C   :   -0.443:        0
+
+:  1012: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+
+:  1012: A 132 ASN  OD1 : A 117 SER  OG  :   -0.402:        0
+#sum2 ::37.55 clashscore : 37.55 clashscore B<40 
+#summary::1012 atoms:1012 atoms B<40:121822 potential dots:7614.0 A^2:38 bumps:38 bumps B<40:123.4 score

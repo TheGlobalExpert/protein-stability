@@ -1,0 +1,16 @@
+
+:   636: A  17 PHE  CB  : A  17 PHE  CD1 :   -1.076:       20
+:   636: A  17 PHE  CD1 : A  17 PHE  CA  :   -0.445:       20
+
+:   636: A  59 GLN  C   : A  59 GLN  CB  :   -0.877:       19
+:   636: A  59 GLN  C   : A  59 GLN  CG  :   -0.428:       19
+
+:   636: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   636: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   636: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   636: A  50 GLU  O   : A  50 GLU  N   :   -0.410:       24
+#sum2 ::12.58 clashscore : 14.17 clashscore B<40 
+#summary::636 atoms:494 atoms B<40:75765 potential dots:4735.0 A^2:8 bumps:7 bumps B<40:145.8 score

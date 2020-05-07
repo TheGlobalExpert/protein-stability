@@ -1,0 +1,13 @@
+
+:   824: A 125 ARG  N   : A 124 LYS  CA  :   -0.881:       18
+
+:   824: A  94 VAL  O   : A  95 ARG  N   :   -0.704:       16
+
+:   824: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:   824: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:   824: A  69 GLN  O   : A  70 ASP  CA  :   -0.424:       19
+
+:   824: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::7.28 clashscore : 8.17 clashscore B<40 
+#summary::824 atoms:734 atoms B<40:98441 potential dots:6153.0 A^2:6 bumps:6 bumps B<40:290.9 score

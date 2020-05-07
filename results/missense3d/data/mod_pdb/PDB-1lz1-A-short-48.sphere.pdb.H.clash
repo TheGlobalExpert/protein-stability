@@ -1,0 +1,21 @@
+
+:   549: A  85 LEU  CD1 : A  85 LEU  CD2 :   -0.993:       14
+
+:   549: A  64 TRP  CE3 : A  64 TRP  CH2 :   -0.931:       18
+
+:   549: A  42 ALA  N   : A  41 ARG  O   :   -0.674:       19
+
+:   549: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   549: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   549: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   549: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   549: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   549: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:   549: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:   549: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+#sum2 ::20.04 clashscore : 8.66 clashscore B<40 
+#summary::549 atoms:462 atoms B<40:69154 potential dots:4322.0 A^2:11 bumps:4 bumps B<40:138.4 score

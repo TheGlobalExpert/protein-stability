@@ -1,0 +1,22 @@
+
+:   877: A   4 GLU  CA  : A   4 GLU  CG  :   -0.996:       31
+:   877: A   4 GLU  CG  : A   4 GLU  N   :   -0.422:       31
+
+:   877: A  66 VAL  CG1 : A  66 VAL  CG2 :   -0.945:        7
+
+:   877: A  59 ILE  CG1 : A  59 ILE  CA  :   -0.938:       10
+:   877: A  59 ILE  CG1 : A  59 ILE  C   :   -0.409:       15
+
+:   877: A  68 ASP  CA  : A  68 ASP  CG  :   -0.931:       75
+:   877: A  68 ASP  CA  : A  67 SER  O   :   -0.403:       14
+
+:   877: A  32 ALA  HA  : A  82 LYS  HE2 :   -0.877:       78
+:   877: A  82 LYS  HB2 : A  31 ALA  CB  :   -0.440:       71
+
+:   877: A  56 TRP  CZ2 : A  33 LYS  HE2 :   -0.496:       75
+
+:   877: A  76 LYS  HE3 : A  73 THR  HA  :   -0.409:       49
+
+:   877: A  79 LEU HD23 : A  79 LEU  HA  :   -0.405:       19
+#sum2 ::13.68 clashscore : 9.26 clashscore B<40 
+#summary::877 atoms:756 atoms B<40:106521 potential dots:6658.0 A^2:12 bumps:7 bumps B<40:186.8 score

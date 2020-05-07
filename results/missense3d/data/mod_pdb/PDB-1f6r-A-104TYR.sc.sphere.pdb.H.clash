@@ -1,0 +1,83 @@
+
+:  1458: A  60 TRP  CH2 : A  95 ILE HG12 :   -1.117:        0
+:  1458: A  60 TRP  CZ2 : A  95 ILE HG12 :   -1.023:        0
+:  1458: A  95 ILE HG12 : A  60 TRP  CZ3 :   -0.849:        0
+:  1458: A  95 ILE HG12 : A  60 TRP  CE2 :   -0.725:        0
+:  1458: A  95 ILE  CG1 : A  60 TRP  CZ3 :   -0.661:        0
+:  1458: A  60 TRP  CH2 : A  95 ILE  CG1 :   -0.659:        0
+:  1458: A  60 TRP  CH2 : A  95 ILE  HA  :   -0.554:        0
+:  1458: A  95 ILE HG12 : A  60 TRP  CE3 :   -0.527:        0
+:  1458: A  60 TRP  CD2 : A  95 ILE HG12 :   -0.471:        0
+:  1458: A  60 TRP  CE3 : A  95 ILE  CG1 :   -0.453:        0
+
+:  1458: A 103 TYR  CD1 : A  99 VAL HG11 :   -1.083:        0
+:  1458: A 103 TYR  HD1 : A  99 VAL HG11 :   -0.986:        0
+:  1458: A 103 TYR  CD1 : A  99 VAL  CG1 :   -0.608:        0
+:  1458: A  99 VAL  O   : A  99 VAL HG12 :   -0.459:        0
+
+:  1458: A   9 PHE  CD2 : A   9 PHE  CZ  :   -0.995:        0
+:  1458: A  27 VAL HG21 : A   9 PHE  HD1 :   -0.406:        0
+
+:  1458: A  75 ILE  CB  : A  75 ILE  CD1 :   -0.946:        0
+:  1458: A  75 ILE  CB  : A  75 ILE  N   :   -0.828:        0
+
+:  1458: A  21 VAL  CG2 : A  26 TRP  NE1 :   -0.926:        0
+:  1458: A  21 VAL HG22 : A  26 TRP  NE1 :   -0.925:        0
+:  1458: A  96 LEU HD11 : A  26 TRP  CZ2 :   -0.821:        0
+:  1458: A  21 VAL HG22 : A  26 TRP  HE1 :   -0.811:        0
+:  1458: A  21 VAL HG21 : A  26 TRP  CE2 :   -0.656:        0
+:  1458: A  26 TRP  HZ2 : A  96 LEU HD11 :   -0.610:        0
+:  1458: A  26 TRP  CH2 : A  96 LEU HD11 :   -0.561:        0
+:  1458: A  26 TRP  NE1 : A  21 VAL HG21 :   -0.559:        0
+:  1458: A  21 VAL  CG2 : A  26 TRP  CD1 :   -0.519:        0
+:  1458: A  21 VAL HG22 : A  26 TRP  CD1 :   -0.452:        0
+:  1458: A  96 LEU HD21 : A  26 TRP  CH2 :   -0.407:        0
+:  1458: A  26 TRP  CH2 : A 101 ILE HD13 :   -0.406:        0
+:  1458: A  26 TRP  HZ2 : A  96 LEU  CD1 :   -0.405:        0
+:  1458: A 107 HIS  CG  : A 101 ILE HG13 :   -0.400:        0
+
+:  1458: A  90 MET  HE3 : A  87 ASP  O   :   -0.923:        0
+:  1458: A  87 ASP  O   : A  90 MET  CE  :   -0.572:        0
+
+:  1458: A  65 GLN  NE2 : A  57 ASN HD21 :   -0.922:        0
+
+:  1458: A  79 LYS  N   : A  79 LYS  C   :   -0.763:        0
+:  1458: A  80 PHE  N   : A  79 LYS  N   :   -0.499:        0
+
+:  1458: A  58 LYS  CD  : A  66 ASN  ND2 :   -0.730:        0
+:  1458: A  66 ASN  ND2 : A  58 LYS  HD3 :   -0.646:        0
+:  1458: A  66 ASN  ND2 : A  58 LYS  HD2 :   -0.546:        0
+
+:  1458: A  36 TYR  CZ  : A  31 PHE  HB2 :   -0.713:        0
+:  1458: A  31 PHE  CD2 : A 118 TRP  HH2 :   -0.647:        0
+:  1458: A  31 PHE  HB2 : A  36 TYR  OH  :   -0.519:        0
+:  1458: A 118 TRP  CD1 : A  28 CYS  HB2 :   -0.510:        0
+:  1458: A  36 TYR  CD2 : A   8 VAL HG21 :   -0.417:        0
+:  1458: A 118 TRP  CG  : A  28 CYS  HB2 :   -0.407:        0
+:  1458: A  31 PHE  HB2 : A  36 TYR  CE2 :   -0.405:        0
+:  1458: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.403:        0
+
+:  1458: A  18 TYR  CE2 : A  93 LYS  HG2 :   -0.659:        0
+:  1458: A  93 LYS  HG2 : A  18 TYR  CZ  :   -0.557:        0
+:  1458: A  18 TYR  CD1 : A  93 LYS  HE2 :   -0.436:        0
+:  1458: A  93 LYS  HE2 : A  18 TYR  CE1 :   -0.422:        0
+
+:  1458: A  56 ASN  OD1 : A  56 ASN  C   :   -0.628:        0
+
+:  1458: A  16 LYS  HB2 : A  13 LYS  O   :   -0.583:        0
+:  1458: A  16 LYS  CG  : A  23 LEU  HG  :   -0.455:        0
+:  1458: A  23 LEU  HA  : A  23 LEU HD23 :   -0.417:        0
+
+:  1458: A 104 TYR  HE2 : A  53 PHE  O   :   -0.563:        0
+
+:  1458: A  34 SER  OG  : A  52 LEU HD12 :   -0.503:        0
+
+:  1458: A  89 ILE HG13 : A  85 LEU  O   :   -0.478:        0
+
+:  1458: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.427:        0
+
+:  1458: A  11 GLU  OE1 : A  11 GLU  CB  :   -0.425:        0
+
+:  1458: A  92 VAL HG23 : A  88 ASP  O   :   -0.419:        0
+#sum2 ::42.52 clashscore : 42.52 clashscore B<40 
+#summary::1458 atoms:1458 atoms B<40:174564 potential dots:10910.0 A^2:62 bumps:62 bumps B<40:234.4 score

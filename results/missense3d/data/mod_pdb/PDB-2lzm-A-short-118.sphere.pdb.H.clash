@@ -1,0 +1,21 @@
+
+:  1309: A 147 LYS  CG  : A 147 LYS  CE  :   -0.956:       42
+:  1309: A 147 LYS  CE  : A 147 LYS  CB  :   -0.823:       42
+:  1309: A 147 LYS  HB3 : A 147 LYS  CE  :   -0.577:       42
+
+:  1309: A 141 GLN  CB  : A 141 GLN  N   :   -0.892:       15
+
+:  1309: A 137 ARG  NH1 : A 137 ARG  NE  :   -0.748:       39
+:  1309: A 137 ARG  NH1 : A 137 ARG  CD  :   -0.429:       39
+
+:  1309: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1309: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1309: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1309: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1309: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1309: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::9.17 clashscore : 4.20 clashscore B<40 
+#summary::1309 atoms:1190 atoms B<40:153872 potential dots:9617.0 A^2:12 bumps:5 bumps B<40:487.9 score

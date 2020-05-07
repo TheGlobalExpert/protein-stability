@@ -1,0 +1,11 @@
+
+:   708: A  63 VAL  CG2 : A  63 VAL  CA  :   -0.947:       18
+:   708: A  63 VAL  CG2 : A  63 VAL  C   :   -0.412:       18
+
+:   708: A  65 CYS  N   : A  65 CYS  CB  :   -0.863:       12
+
+:   708: A  10 ARG  CG  : A  10 ARG  NE  :   -0.798:       13
+
+:   708: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.485:       16
+#sum2 ::7.06 clashscore : 7.32 clashscore B<40 
+#summary::708 atoms:683 atoms B<40:87516 potential dots:5470.0 A^2:5 bumps:5 bumps B<40:221.4 score

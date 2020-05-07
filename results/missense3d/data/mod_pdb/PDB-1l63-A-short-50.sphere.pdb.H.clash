@@ -1,0 +1,15 @@
+
+:   959: A   7 LEU  CB  : A   7 LEU  CD1 :   -0.987:       18
+:   959: A   8 ARG  CA  : A   7 LEU  O   :   -0.458:       18
+
+:   959: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:   959: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:   959: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:   959: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:   959: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:   959: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:   959: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::9.38 clashscore : 3.60 clashscore B<40 
+#summary::959 atoms:834 atoms B<40:111479 potential dots:6967.0 A^2:9 bumps:3 bumps B<40:322.7 score

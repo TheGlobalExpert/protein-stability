@@ -1,0 +1,56 @@
+
+:  1378: A  63 TYR  CB  : A  63 TYR  CD1 :   -0.970:        0
+
+:  1378: A  23 ILE  CD1 : A  23 ILE  CB  :   -0.949:        0
+
+:  1378: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:  1378: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:  1378: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:  1378: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:  1378: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:  1378: A 128 CYS  CA  : A 128 CYS  O   :   -0.787:        0
+
+:  1378: A  76 ALA  N   : A  76 ALA  C   :   -0.727:        0
+
+:  1378: A 111 ALA  O   : A 115 ARG  HG2 :   -0.725:        0
+:  1378: A 111 ALA  HB3 : A  35 GLU  OE2 :   -0.510:        0
+:  1378: A 115 ARG  HB2 : A  34 TRP  CD1 :   -0.413:        0
+
+:  1378: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:  1378: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:  1378: A  33 LYS  HD3 : A  38 TYR  OH  :   -0.604:        0
+:  1378: A  38 TYR  CE2 : A  33 LYS  CA  :   -0.431:        0
+:  1378: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:  1378: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:  1378: A  41 ARG  NH2 : A  85 LEU  HB3 :   -0.701:        0
+:  1378: A  85 LEU  CB  : A  41 ARG  NH2 :   -0.445:        0
+:  1378: A  85 LEU  HB3 : A  41 ARG HH21 :   -0.405:        0
+
+:  1378: A  40 VAL HG22 : A   1 LYS  N   :   -0.647:        0
+:  1378: A  40 VAL HG22 : A   1 LYS  H2  :   -0.590:        0
+:  1378: A  40 VAL  CG2 : A   1 LYS  N   :   -0.587:        0
+:  1378: A   1 LYS  H3  : A  40 VAL  CG2 :   -0.563:        0
+:  1378: A  87 ASP  HA  : A  40 VAL HG21 :   -0.455:        0
+
+:  1378: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:  1378: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1378: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+
+:  1378: A 106 ILE  N   : A 105 GLY  O   :   -0.643:        0
+
+:  1378: A  69 LYS  N   : A  69 LYS  CG  :   -0.628:        0
+
+:  1378: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1378: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.499:        0
+:  1378: A  84 LEU HD22 : A  92 ALA  HA  :   -0.455:        0
+
+:  1378: A  52 THR  HB  : A  54 TYR  CE2 :   -0.476:        0
+
+:  1378: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+
+:  1378: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::26.85 clashscore : 26.85 clashscore B<40 
+#summary::1378 atoms:1378 atoms B<40:166790 potential dots:10420.0 A^2:37 bumps:37 bumps B<40:373 score

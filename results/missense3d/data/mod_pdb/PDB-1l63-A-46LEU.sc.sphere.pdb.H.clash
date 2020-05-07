@@ -1,0 +1,48 @@
+
+:  1037: A  76 ARG  NH1 : A  73 ALA  HA  :   -1.138:        0
+:  1037: A  73 ALA  CA  : A  76 ARG  NH1 :   -0.809:        0
+:  1037: A  76 ARG  CZ  : A  73 ALA  HA  :   -0.713:        0
+
+:  1037: A   7 LEU  CD2 : A   7 LEU  CD1 :   -1.000:        0
+:  1037: A   8 ARG  CA  : A   7 LEU  C   :   -0.998:        0
+:  1037: A   7 LEU  CB  : A   7 LEU  CD1 :   -0.985:        0
+:  1037: A   7 LEU  CB  : A   7 LEU  CD2 :   -0.982:        0
+:  1037: A   7 LEU  CB  : A   7 LEU  C   :   -0.898:        0
+:  1037: A   8 ARG  CA  : A   7 LEU  O   :   -0.435:        0
+
+:  1037: A 145 ARG  NH1 : A 145 ARG  NH2 :   -0.785:        0
+:  1037: A  11 GLU  OE1 : A 145 ARG  NH2 :   -0.630:        0
+
+:  1037: A  14 ARG  NH2 : A  18 TYR  HB2 :   -0.777:        0
+:  1037: A  14 ARG  NH2 : A  18 TYR  CB  :   -0.699:        0
+:  1037: A  14 ARG  CZ  : A  18 TYR  HB3 :   -0.417:        0
+
+:  1037: A  16 LYS  HE3 : A  57 VAL HG23 :   -0.714:        0
+:  1037: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.669:        0
+:  1037: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.638:        0
+:  1037: A  16 LYS  HE2 : A  56 GLY  O   :   -0.632:        0
+:  1037: A  16 LYS  CE  : A  56 GLY  O   :   -0.486:        0
+:  1037: A  57 VAL HG22 : A  16 LYS  CD  :   -0.429:        0
+:  1037: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.403:        0
+
+:  1037: A  52 ARG  CZ  : A  54 THR HG22 :   -0.706:        0
+:  1037: A  54 THR  HA  : A  52 ARG  NH2 :   -0.600:        0
+:  1037: A  52 ARG HH22 : A  54 THR  HA  :   -0.448:        0
+:  1037: A  54 THR HG22 : A  52 ARG  NH2 :   -0.424:        0
+
+:  1037: A  26 THR HG22 : A  27 ILE  N   :   -0.563:        0
+:  1037: A  58 ILE HG12 : A  27 ILE HD11 :   -0.525:        0
+:  1037: A  26 THR HG23 : A  31 HIS  C   :   -0.491:        0
+:  1037: A  31 HIS  O   : A  26 THR HG23 :   -0.455:        0
+:  1037: A  58 ILE  HB  : A  62 GLU  OE1 :   -0.434:        0
+:  1037: A  27 ILE  N   : A  26 THR  CG2 :   -0.421:        0
+
+:  1037: A  67 PHE  CD1 : A  29 ILE HD13 :   -0.526:        0
+:  1037: A  29 ILE HG22 : A  29 ILE  O   :   -0.465:        0
+:  1037: A  67 PHE  HB2 : A  29 ILE HD12 :   -0.452:        0
+
+:  1037: A  20 ASP  OD2 : A  20 ASP  C   :   -0.498:        0
+
+:  1037: A  48 LYS  HB3 : A  48 LYS  HE3 :   -0.410:        0
+#sum2 ::34.72 clashscore : 34.72 clashscore B<40 
+#summary::1037 atoms:1037 atoms B<40:120866 potential dots:7554.0 A^2:36 bumps:36 bumps B<40:152.6 score

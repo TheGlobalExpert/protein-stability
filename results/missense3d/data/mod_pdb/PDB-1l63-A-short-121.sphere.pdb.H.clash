@@ -1,0 +1,11 @@
+
+:  1309: A 161 TYR  N   : A 161 TYR  CB  :   -0.813:       20
+
+:  1309: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1309: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1309: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1309: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::3.82 clashscore : 4.14 clashscore B<40 
+#summary::1309 atoms:1208 atoms B<40:152459 potential dots:9529.0 A^2:5 bumps:5 bumps B<40:547.9 score

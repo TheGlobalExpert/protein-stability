@@ -1,0 +1,20 @@
+
+:   876: A  34 LEU  C   : A  34 LEU  CB  :   -0.926:       13
+
+:   876: A  80 VAL HG21 : A  18 MET  CE  :   -0.825:       31
+:   876: A  80 VAL  CG2 : A  18 MET  CE  :   -0.761:       31
+:   876: A  80 VAL HG21 : A  18 MET  HE1 :   -0.745:       31
+:   876: A  80 VAL  CG2 : A  18 MET  HE3 :   -0.687:       31
+
+:   876: A  42 ARG  CA  : A  42 ARG  O   :   -0.717:       14
+:   876: A  42 ARG HH11 : A  42 ARG  HD3 :   -0.436:       14
+
+:   876: A  93 ILE HD13 : A  85 VAL HG21 :   -0.643:       27
+
+:   876: A  76 ARG  HA  : A  77 PRO  HD3 :   -0.433:       45
+
+:   876: A  79 THR  H   : A  79 THR HG23 :   -0.430:       33
+
+:   876: A  73 LEU HD12 : A  73 LEU  HA  :   -0.413:       30
+#sum2 ::12.56 clashscore : 12.00 clashscore B<40 
+#summary::876 atoms:833 atoms B<40:105288 potential dots:6580.0 A^2:11 bumps:10 bumps B<40:275.2 score

@@ -1,0 +1,8 @@
+SGFILE missense3d/data/mod_pdb/PDB-1hfy-A-33ILE.sc.pdb             
+NUMCYS      7
+NUMSGA      7
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap
+INTRA   28  CYS A  SG   . -  111  CYS A  SG   .     2.072    84
+INTRA   61  CYS A  SG   . -   77  CYS A  SG   .     2.301    17
+INTRA   73  CYS A  SG   . -   91  CYS A  SG   .     1.897    19

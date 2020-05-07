@@ -1,0 +1,28 @@
+
+:  1656: A   7 GLU  O   : A  11 GLU  HG3 :   -0.864:       47
+:  1656: A   7 GLU  HG3 : A   4 THR  OG1 :   -0.534:       53
+:  1656: A   7 GLU  OE1 : A   4 THR HG23 :   -0.516:       61
+
+:  1656: A 118 TRP  O   : A 118 TRP  CA  :   -0.760:       50
+
+:  1656: A  22 SER  CA  : A  22 SER  OG  :   -0.755:       28
+:  1656: A  25 GLU  HB2 : A  22 SER  O   :   -0.423:       26
+
+:  1656: A   8 VAL HG21 : A  36 TYR  CD2 :   -0.613:       36
+
+:  1656: A   1 GLU  HB3 : A  38 THR  OG1 :   -0.564:       56
+
+:  1656: A  85 LEU  O   : A  89 ILE HG13 :   -0.496:       27
+
+:  1656: A 103 TYR  HD1 : A  99 VAL HG11 :   -0.482:       35
+:  1656: A  99 VAL  O   : A  99 VAL HG12 :   -0.406:       37
+
+:  1656: A  56 ASN  OD1 : A  56 ASN  C   :   -0.469:       45
+
+:  1656: A  63 ASP  OD2 : A  50 TYR  OH  :   -0.469:       27
+
+:  1656: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.407:       28
+
+:  1656: A  48 THR  HA  : A  42 VAL  O   :   -0.404:       29
+#sum2 ::9.06 clashscore : 6.44 clashscore B<40 
+#summary::1656 atoms:1398 atoms B<40:190925 potential dots:11930.0 A^2:15 bumps:9 bumps B<40:608.7 score

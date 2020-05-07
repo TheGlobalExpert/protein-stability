@@ -1,0 +1,45 @@
+
+:  2136: A 177 LEU  CA  : A 177 LEU  CG  :   -0.886:        0
+
+:  2136: A 204 GLN  CB  : A 204 GLN  C   :   -0.880:        0
+:  2136: A 204 GLN  N   : A 204 GLN  CB  :   -0.842:        0
+:  2136: A 204 GLN  C   : A 204 GLN  N   :   -0.748:        0
+
+:  2136: A  40 ARG  N   : A  40 ARG  CB  :   -0.843:        0
+
+:  2136: A 141 SER  N   : A 140 ARG  CA  :   -0.831:        0
+
+:  2136: A 220 ASN  HA  : A 214 LEU  HB3 :   -0.791:        0
+:  2136: A 219 LYS  O   : A 220 ASN  HB2 :   -0.546:        0
+
+:  2136: A 179 ALA  N   : A 178 ALA  O   :   -0.699:        0
+
+:  2136: A  68 MET  CE  : A  35 THR  HB  :   -0.578:        0
+
+:  2136: A 198 ALA  HB3 : A 116 ILE HD13 :   -0.529:        0
+
+:  2136: A 125 LEU HD21 : A 120 VAL  CG1 :   -0.498:        0
+:  2136: A 125 LEU HD21 : A 120 VAL HG13 :   -0.404:        0
+
+:  2136: A  10 ILE HG13 : A   8 VAL HG12 :   -0.495:        0
+:  2136: A  10 ILE HD11 : A 191 TYR  HE2 :   -0.480:        0
+:  2136: A 191 TYR  HA  : A 194 THR  OG1 :   -0.402:        0
+
+:  2136: A   9 LEU HD12 : A   9 LEU  HA  :   -0.490:        0
+:  2136: A   7 MET  CE  : A   9 LEU HD13 :   -0.435:        0
+
+:  2136: A  75 GLU  O   : A  79 ASN  HB3 :   -0.478:        0
+
+:  2136: A  95 ILE  HB  : A  96 PRO  HD3 :   -0.460:        0
+
+:  2136: A  73 LYS  HB2 : A  73 LYS  HE3 :   -0.456:        0
+
+:  2136: A 105 LEU  CD1 : A 112 LEU  HG  :   -0.448:        0
+
+:  2136: A 114 LYS  HA  : A 114 LYS  HD3 :   -0.441:        0
+
+:  2136: A  93 ARG HH21 : A  93 ARG  HD3 :   -0.418:        0
+
+:  2136: A 100 LYS  CD  : A  69 VAL HG21 :   -0.404:        0
+#sum2 ::11.70 clashscore : 11.70 clashscore B<40 
+#summary::2136 atoms:2136 atoms B<40:249838 potential dots:15610.0 A^2:25 bumps:25 bumps B<40:608.3 score

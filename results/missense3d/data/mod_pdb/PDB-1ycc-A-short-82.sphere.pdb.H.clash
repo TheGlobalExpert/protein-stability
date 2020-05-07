@@ -1,0 +1,37 @@
+
+:  1213: A  25 PRO  CA  : A  25 PRO  CG  :   -1.098:        9
+
+:  1213: A  36 PHE  CG  : A  36 PHE  CA  :   -1.058:       21
+:  1213: A  36 PHE  CA  : A  36 PHE  CD1 :   -0.477:       21
+
+:  1213: A   5 LYS  CG  : A   5 LYS  CE  :   -0.969:       29
+:  1213: A   5 LYS  CG  : A   5 LYS  NZ  :   -0.503:       32
+:  1213: A   4 LYS  O   : A   5 LYS  CA  :   -0.427:       14
+
+:  1213: A  57 VAL  CG2 : A  55 LYS  HG3 :   -0.748:       28
+:  1213: A  55 LYS  HG3 : A  57 VAL HG23 :   -0.724:       28
+:  1213: A  55 LYS  CG  : A  57 VAL  CG2 :   -0.555:       28
+:  1213: A  55 LYS  CE  : A  57 VAL HG22 :   -0.483:       28
+:  1213: A  57 VAL  CG1 : A  63 ASN  OD1 :   -0.446:       30
+:  1213: A  57 VAL HG23 : A  55 LYS  CG  :   -0.426:       28
+
+:  1213: A  43 ALA  CA  : A  43 ALA  O   :   -0.595:       16
+
+:  1213: A  85 LEU HD22 : A  90 ASP  HB3 :   -0.535:       22
+
+:  1213: A  86 LYS  HD3 : A  86 LYS  N   :   -0.511:       30
+:  1213: A  69 THR  O   : A  86 LYS  NZ  :   -0.426:       34
+
+:  1213: A  78 THR HG22 : A  75 ILE  O   :   -0.508:       16
+
+:  1213: A  62 ASN  N   : A  60 ASP  OD1 :   -0.500:       31
+:  1213: A  60 ASP  OD1 : A  60 ASP  C   :   -0.487:       31
+
+:  1213: A   9 LEU  HB3 : A  94 LEU HD13 :   -0.491:       13
+:  1213: A  68 LEU HD13 : A  94 LEU HD23 :   -0.450:       13
+
+:  1213: A  20 VAL HG13 : A  10 PHE  CZ  :   -0.451:       12
+
+:  1213: A  64 MET  O   : A  64 MET  HG3 :   -0.437:       20
+#sum2 ::18.96 clashscore : 19.06 clashscore B<40 
+#summary::1213 atoms:1207 atoms B<40:146484 potential dots:9155.0 A^2:23 bumps:23 bumps B<40:332 score

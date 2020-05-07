@@ -1,0 +1,38 @@
+
+:  1278: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1278: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1278: A 141 GLN  C   : A 142 THR  CA  :   -0.917:       22
+:  1278: A 141 GLN  CB  : A 141 GLN  C   :   -0.855:       22
+:  1278: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1278: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1278: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+:  1278: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1278: A 141 GLN  HG2 : A 137 ARG  CZ  :   -0.450:       39
+
+:  1278: A  76 ARG  N   : A  75 VAL  CA  :   -0.869:       21
+:  1278: A  76 ARG  NE  : A  76 ARG  CB  :   -0.475:       49
+
+:  1278: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.650:       48
+:  1278: A  43 LYS  HD3 : A  39 LEU  O   :   -0.441:       42
+
+:  1278: A  41 ALA  H   : A  38 SER  HB2 :   -0.643:       26
+
+:  1278: A  50 ILE HG22 : A  52 ARG  HG2 :   -0.571:       48
+:  1278: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:  1278: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.496:       48
+:  1278: A  52 ARG  NH1 : A  52 ARG  HG3 :   -0.473:       48
+
+:  1278: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1278: A   3 ILE  O   : A   4 PHE  CA  :   -0.512:       13
+
+:  1278: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1278: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1278: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:  1278: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+
+:  1278: A  99 LEU  O   : A 100 ILE  CA  :   -0.416:       11
+#sum2 ::19.56 clashscore : 10.82 clashscore B<40 
+#summary::1278 atoms:1109 atoms B<40:150202 potential dots:9388.0 A^2:25 bumps:12 bumps B<40:350.8 score

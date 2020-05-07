@@ -1,0 +1,56 @@
+
+:  2020: A  79 ALA  C   : A  80 GLN  CA  :   -1.003:       23
+:  2020: A  80 GLN  CA  : A  79 ALA  O   :   -0.434:       24
+
+:  2020: A 106 VAL  CG2 : A 106 VAL  CG1 :   -1.002:       30
+
+:  2020: A 139 PHE  CB  : A 139 PHE  CD2 :   -0.978:       22
+
+:  2020: A 258 PHE  CE1 : A 258 PHE  CG  :   -0.970:       32
+:  2020: A 258 PHE  C   : A 258 PHE  CG  :   -0.630:       30
+
+:  2020: A 167 ALA  CA  : A 166 ILE  C   :   -0.953:       26
+:  2020: A 166 ILE  CG2 : A 166 ILE  C   :   -0.527:       32
+
+:  2020: A 223 ALA  CB  : A 223 ALA  C   :   -0.887:       23
+
+:  2020: A 255 LEU  C   : A 255 LEU  CB  :   -0.878:       25
+:  2020: A 237 ILE HG23 : A 255 LEU  CD2 :   -0.418:       32
+
+:  2020: A 154 CYS  N   : A 154 CYS  CB  :   -0.831:       17
+
+:  2020: A 102 TYR  CA  : A 102 TYR  O   :   -0.757:       22
+
+:  2020: A 256 LYS  CA  : A 256 LYS  O   :   -0.745:       33
+
+:  2020: A 141 GLN  C   : A 141 GLN  N   :   -0.707:       26
+
+:  2020: A   2 GLU  HA  : A   2 GLU  OE1 :   -0.650:       78
+:  2020: A   5 GLU  CB  : A   2 GLU  HG3 :   -0.500:       68
+:  2020: A   5 GLU  OE1 : A   2 GLU  HG2 :   -0.424:       68
+
+:  2020: A  11 LEU  CD1 : A  18 ALA  HB2 :   -0.599:       30
+
+:  2020: A  99 LEU HD13 : A  52 ILE  CD1 :   -0.576:       43
+
+:  2020: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.555:       30
+:  2020: A  22 PHE  HA  : A  49 GLU  O   :   -0.531:       24
+:  2020: A  22 PHE  CD1 : A  22 PHE  C   :   -0.410:       20
+
+:  2020: A  20 VAL  HB  : A 232 ILE HG12 :   -0.552:       25
+:  2020: A  20 VAL  O   : A 232 ILE  HA  :   -0.532:       21
+:  2020: A  20 VAL  O   : A 232 ILE HG23 :   -0.430:       25
+
+:  2020: A  16 GLU  HG2 : A 267 ARG  HG2 :   -0.543:       41
+
+:  2020: A 125 SER  HB2 : A 151 ILE HD11 :   -0.535:       22
+
+:  2020: A  85 LEU HD21 : A  25 LEU HD11 :   -0.500:       34
+:  2020: A  85 LEU HD12 : A  82 PHE  HA  :   -0.405:       23
+
+:  2020: A 220 VAL  O   : A 224 ILE HD13 :   -0.456:       40
+
+:  2020: A 124 ASP  OD2 : A   3 ARG  HD2 :   -0.424:       37
+:  2020: A   3 ARG  HD2 : A 124 ASP  CG  :   -0.411:       32
+#sum2 ::16.34 clashscore : 14.41 clashscore B<40 
+#summary::2020 atoms:1874 atoms B<40:243637 potential dots:15230.0 A^2:33 bumps:27 bumps B<40:590.4 score

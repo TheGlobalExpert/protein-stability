@@ -1,0 +1,100 @@
+
+:  1061: A  39 HIS  NE2 : A  58 LYS  HD3 :   -1.307:        0
+:  1061: A  39 HIS  NE2 : A  58 LYS  CD  :   -1.304:        0
+:  1061: A  39 HIS  CE1 : A  58 LYS  HD3 :   -1.141:        0
+:  1061: A  43 VAL  HA  : A  44 LYS  HZ2 :   -1.103:        0
+:  1061: A  38 ARG HH11 : A  35 ILE HD12 :   -1.018:        0
+:  1061: A  44 LYS  CD  : A  44 LYS  H   :   -1.007:        0
+:  1061: A  44 LYS  NZ  : A  43 VAL  HA  :   -0.996:        0
+:  1061: A  38 ARG HH11 : A  35 ILE  CD1 :   -0.962:        0
+:  1061: A  57 VAL  CG2 : A  55 LYS  HG3 :   -0.939:        0
+:  1061: A  39 HIS  NE2 : A  58 LYS  CE  :   -0.924:        0
+:  1061: A  44 LYS  H   : A  44 LYS  CE  :   -0.908:        0
+:  1061: A  38 ARG  NH1 : A  35 ILE HD12 :   -0.877:        0
+:  1061: A  44 LYS  H   : A  44 LYS  HD2 :   -0.818:        0
+:  1061: A  75 ILE HD12 : A  67 TYR  CE2 :   -0.806:        0
+:  1061: A  39 HIS  NE2 : A  58 LYS  CG  :   -0.744:        0
+:  1061: A  57 VAL  O   : A  39 HIS  HA  :   -0.712:        0
+:  1061: A  58 LYS  HG2 : A  39 HIS  CD2 :   -0.700:        0
+:  1061: A  44 LYS  N   : A  44 LYS  HD2 :   -0.687:        0
+:  1061: A  57 VAL HG22 : A  55 LYS  HG3 :   -0.681:        0
+:  1061: A  55 LYS  CG  : A  57 VAL  CG2 :   -0.677:        0
+:  1061: A  35 ILE HG23 : A  36 PHE  N   :   -0.676:        0
+:  1061: A  55 LYS  HG3 : A  57 VAL HG23 :   -0.662:        0
+:  1061: A  38 ARG  NH1 : A  35 ILE  CD1 :   -0.653:        0
+:  1061: A  67 TYR  HE2 : A  75 ILE HD12 :   -0.631:        0
+:  1061: A  38 ARG  CG  : A  39 HIS  O   :   -0.617:        0
+:  1061: A  44 LYS  NZ  : A  43 VAL  CA  :   -0.608:        0
+:  1061: A  36 PHE  HE1 : A  61 GLU  HG3 :   -0.577:        0
+:  1061: A  58 LYS  HE2 : A  39 HIS  NE2 :   -0.575:        0
+:  1061: A  38 ARG  HG3 : A  39 HIS  O   :   -0.573:        0
+:  1061: A  58 LYS  CG  : A  39 HIS  CD2 :   -0.567:        0
+:  1061: A  44 LYS  H   : A  44 LYS  NZ  :   -0.540:        0
+:  1061: A  38 ARG  CG  : A  39 HIS  N   :   -0.534:        0
+:  1061: A  36 PHE  N   : A  35 ILE  CG2 :   -0.511:        0
+:  1061: A  36 PHE  CE1 : A  61 GLU  HG3 :   -0.509:        0
+:  1061: A  36 PHE  H   : A  35 ILE HG23 :   -0.496:        0
+:  1061: A  43 VAL  CG2 : A  38 ARG  NH2 :   -0.463:        0
+:  1061: A  44 LYS  CE  : A  44 LYS  N   :   -0.457:        0
+:  1061: A  57 VAL  O   : A  39 HIS  CA  :   -0.452:        0
+:  1061: A  57 VAL HG23 : A  55 LYS  CG  :   -0.450:        0
+:  1061: A  35 ILE  CG2 : A  36 PHE  H   :   -0.440:        0
+:  1061: A  35 ILE HD12 : A  38 ARG  CZ  :   -0.434:        0
+:  1061: A  75 ILE HG12 : A  55 LYS  HG2 :   -0.431:        0
+:  1061: A  44 LYS  HB3 : A  44 LYS  HE3 :   -0.415:        0
+:  1061: A  78 THR HG22 : A  75 ILE  O   :   -0.409:        0
+:  1061: A  39 HIS  N   : A  38 ARG  HG3 :   -0.404:        0
+
+:  1061: A  64 MET  O   : A  68 LEU  HG  :   -1.087:        0
+
+:  1061: A  13 ARG  C   : A  13 ARG  CB  :   -1.019:        0
+:  1061: A  82 PHE  HZ  : A  13 ARG  NH2 :   -0.779:        0
+:  1061: A  82 PHE  CZ  : A  13 ARG  NH2 :   -0.744:        0
+:  1061: A  13 ARG  NH2 : A  82 PHE  CE2 :   -0.436:        0
+:  1061: A  82 PHE  CE1 : A  84 GLY  CA  :   -0.436:        0
+
+:  1061: A  10 PHE  CE1 : A  10 PHE  CG  :   -0.976:        0
+
+:  1061: A  46 TYR  HD2 : A  48 TYR  CE2 :   -0.956:        0
+:  1061: A  48 TYR  CZ  : A  46 TYR  CD2 :   -0.778:        0
+:  1061: A  46 TYR  HD2 : A  48 TYR  CZ  :   -0.763:        0
+:  1061: A  29 GLY  HA3 : A  18 HIS  NE2 :   -0.686:        0
+:  1061: A  48 TYR  CE2 : A  46 TYR  CD2 :   -0.650:        0
+:  1061: A  48 TYR  CD2 : A  46 TYR  HD2 :   -0.649:        0
+:  1061: A  46 TYR  CD2 : A  48 TYR  CE1 :   -0.503:        0
+:  1061: A  29 GLY  HA3 : A  18 HIS  CD2 :   -0.495:        0
+:  1061: A  46 TYR  OH  : A  29 GLY  HA2 :   -0.486:        0
+:  1061: A  48 TYR  OH  : A  30 PRO  CB  :   -0.470:        0
+:  1061: A  46 TYR  HB3 : A  48 TYR  CE2 :   -0.447:        0
+
+:  1061: A  73 LYS  HB3 : A  70 ASN  HB3 :   -0.876:        0
+:  1061: A  70 ASN  HB3 : A  73 LYS  CB  :   -0.652:        0
+:  1061: A  73 LYS  HB2 : A  70 ASN  OD1 :   -0.577:        0
+
+:  1061: A  16 GLN  CD  : A  16 GLN  CB  :   -0.859:        0
+
+:  1061: A  19 THR HG23 : A  27 LYS  HE2 :   -0.726:        0
+:  1061: A  19 THR HG23 : A  27 LYS  CE  :   -0.579:        0
+:  1061: A  27 LYS  HG2 : A  26 ASN  O   :   -0.426:        0
+
+:  1061: A  59 TRP  HE1 : A  40 SER  HA  :   -0.701:        0
+
+:  1061: A  62 ASP  HB3 : A  -8 LYS  CA  :   -0.643:        0
+:  1061: A  62 ASP  N   : A  60 ASP  OD1 :   -0.620:        0
+:  1061: A  60 ASP  OD1 : A  60 ASP  C   :   -0.605:        0
+
+:  1061: A  54 ASN  N   : A  53 ILE HG22 :   -0.493:        0
+
+:  1061: A  -9 ALA  O   : A  -5 THR  CG2 :   -0.454:        0
+
+:  1061: A  17 CYS  HB3 : A  28 VAL  HB  :   -0.452:        0
+
+:  1061: A  52 ASN  OD1 : A  52 ASN  C   :   -0.432:        0
+
+:  1061: A  86 LYS  CE  : A  69 THR  O   :   -0.430:        0
+
+:  1061: A  49 THR  CG2 : A  79 LYS  HB3 :   -0.430:        0
+
+:  1061: A  47 SER  O   : A  47 SER  OG  :   -0.425:        0
+#sum2 ::76.34 clashscore : 76.34 clashscore B<40 
+#summary::1061 atoms:1061 atoms B<40:128059 potential dots:8004.0 A^2:81 bumps:81 bumps B<40:-76.55 score

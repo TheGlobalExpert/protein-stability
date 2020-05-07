@@ -1,0 +1,15 @@
+
+:   652: A  50 ASN  N   : A  49 LYS  CA  :   -0.879:       11
+
+:   652: A  32 ALA  HA  : A  82 LYS  HE2 :   -0.877:       78
+:   652: A  82 LYS  HB2 : A  31 ALA  CB  :   -0.440:       71
+
+:   652: A  17 ALA  O   : A  18 ILE  CA  :   -0.535:       21
+
+:   652: A  56 TRP  CZ2 : A  33 LYS  HE2 :   -0.496:       75
+
+:   652: A  76 LYS  HE3 : A  73 THR  HA  :   -0.409:       49
+
+:   652: A  79 LEU HD23 : A  79 LEU  HA  :   -0.405:       19
+#sum2 ::10.74 clashscore : 5.50 clashscore B<40 
+#summary::652 atoms:545 atoms B<40:77838 potential dots:4865.0 A^2:7 bumps:3 bumps B<40:176.8 score

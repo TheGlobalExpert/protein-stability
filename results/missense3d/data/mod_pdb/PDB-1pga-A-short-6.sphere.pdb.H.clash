@@ -1,0 +1,17 @@
+
+:   843: A  28 LYS  HE3 : A  28 LYS  N   :   -0.595:       19
+:   843: A  24 ALA  O   : A  28 LYS  NZ  :   -0.426:       17
+
+:   843: A   4 LYS  HD2 : A  15 GLU  CG  :   -0.532:       26
+:   843: A  17 THR  HA  : A   3 TYR  O   :   -0.427:       13
+:   843: A  17 THR  HA  : A   4 LYS  HA  :   -0.425:       13
+
+:   843: A  52 PHE  HE2 : A  27 GLU  HG3 :   -0.495:       21
+
+:   843: A  43 TRP  HA  : A  53 THR  O   :   -0.415:        8
+
+:   843: A  12 LEU HD13 : A   7 LEU HD22 :   -0.414:        9
+
+:   843: A   6 ILE HD13 : A   6 ILE HG21 :   -0.405:       11
+#sum2 ::10.68 clashscore : 10.68 clashscore B<40 
+#summary::843 atoms:843 atoms B<40:95247 potential dots:5953.0 A^2:9 bumps:9 bumps B<40:281.5 score

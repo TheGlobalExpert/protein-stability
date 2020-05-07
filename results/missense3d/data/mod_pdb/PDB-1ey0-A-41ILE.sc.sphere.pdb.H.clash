@@ -1,0 +1,59 @@
+
+:  1648: A  41 ILE  CD1 : A  42 PRO  O   :   -0.964:        0
+:  1648: A 139 ILE HD13 : A  54 TYR  CD2 :   -0.888:        0
+:  1648: A  42 PRO  O   : A  41 ILE HD12 :   -0.886:        0
+:  1648: A  41 ILE HG22 : A 109 ALA  HB2 :   -0.748:        0
+:  1648: A  41 ILE HD13 : A  42 PRO  O   :   -0.689:        0
+:  1648: A  41 ILE HD12 : A  42 PRO  C   :   -0.667:        0
+:  1648: A  53 LYS  O   : A  54 TYR  HB2 :   -0.615:        0
+:  1648: A  54 TYR  CD2 : A 139 ILE  CD1 :   -0.570:        0
+:  1648: A  41 ILE  C   : A  41 ILE HD12 :   -0.545:        0
+:  1648: A  21 ASP  HB3 : A  41 ILE HG13 :   -0.510:        0
+:  1648: A 139 ILE HD13 : A 139 ILE  HA  :   -0.475:        0
+:  1648: A  21 ASP  HB3 : A  41 ILE  CG1 :   -0.464:        0
+:  1648: A  41 ILE  O   : A  41 ILE HD12 :   -0.449:        0
+:  1648: A  42 PRO  HG2 : A  54 TYR  HB2 :   -0.439:        0
+
+:  1648: A  50 GLY  H   : A  46 HIS  HB3 :   -0.953:        0
+:  1648: A  46 HIS  HE1 : A  48 LYS  HB2 :   -0.490:        0
+:  1648: A  46 HIS  ND1 : A  49 LYS  N   :   -0.470:        0
+:  1648: A  48 LYS  HB2 : A  46 HIS  CE1 :   -0.468:        0
+
+:  1648: A  15 ILE  N   : A  14 LEU  CA  :   -0.898:        0
+:  1648: A  15 ILE  N   : A  15 ILE  C   :   -0.823:        0
+:  1648: A  14 LEU  HB2 : A  72 ILE  CD1 :   -0.448:        0
+
+:  1648: A  73 GLU  N   : A  73 GLU  C   :   -0.787:        0
+
+:  1648: A  74 VAL HG12 : A  92 ILE  CD1 :   -0.780:        0
+:  1648: A  74 VAL HG12 : A  92 ILE HD12 :   -0.586:        0
+
+:  1648: A 110 LYS  HE2 : A 140 TRP  CH2 :   -0.722:        0
+:  1648: A 129 GLU  O   : A 133 LYS  HG3 :   -0.689:        0
+:  1648: A 133 LYS  HG2 : A 140 TRP  CE2 :   -0.636:        0
+:  1648: A 140 TRP  CD2 : A 133 LYS  HG2 :   -0.519:        0
+
+:  1648: A  84 LYS  NZ  : A  85 TYR  CE2 :   -0.612:        0
+:  1648: A  84 LYS  NZ  : A  85 TYR  CZ  :   -0.601:        0
+:  1648: A  84 LYS  NZ  : A  85 TYR  OH  :   -0.506:        0
+
+:  1648: A  36 LEU  HB3 : A 100 ASN  ND2 :   -0.564:        0
+
+:  1648: A  62 THR  O   : A  66 VAL HG22 :   -0.530:        0
+
+:  1648: A 106 GLN  O   : A 138 ASN  ND2 :   -0.451:        0
+
+:  1648: A  67 GLU  HB2 : A  63 LYS  O   :   -0.449:        0
+:  1648: A  67 GLU  OE1 : A  63 LYS  NZ  :   -0.408:        0
+
+:  1648: A  45 LYS  HE2 : A  18 ILE HG23 :   -0.446:        0
+:  1648: A  45 LYS  HE2 : A  18 ILE  CG2 :   -0.433:        0
+
+:  1648: A 122 GLU  CD  : A 114 VAL HG21 :   -0.420:        0
+:  1648: A 114 VAL HG22 : A  38 LEU HD22 :   -0.402:        0
+
+:  1648: A  81 ARG  CA  : A  80 GLN  O   :   -0.410:        0
+
+:  1648: A 118 ASN  OD1 : A  77 ASP  HB3 :   -0.408:        0
+#sum2 ::25.49 clashscore : 25.49 clashscore B<40 
+#summary::1648 atoms:1648 atoms B<40:192024 potential dots:12000.0 A^2:42 bumps:42 bumps B<40:394.4 score

@@ -1,0 +1,16 @@
+
+:  1345: A  28 ILE  C   : A  29 LEU  CA  :   -0.974:        6
+:  1345: A  29 LEU  CG  : A  29 LEU  CA  :   -0.884:        6
+:  1345: A  28 ILE  CB  : A  28 ILE  C   :   -0.880:        5
+:  1345: A  28 ILE  C   : A  28 ILE  CG2 :   -0.499:        5
+:  1345: A  29 LEU  CA  : A  28 ILE  O   :   -0.411:        6
+
+:  1345: A 128 GLN  C   : A 129 GLY  CA  :   -0.944:        7
+
+:  1345: A  66 VAL  C   : A  66 VAL  N   :   -0.762:        7
+
+:  1345: A   7 TRP  O   : A   7 TRP  CA  :   -0.753:        7
+
+:  1345: A 151 TYR  CZ  : A 153 GLY  HA3 :   -0.519:       12
+#sum2 ::6.69 clashscore : 6.69 clashscore B<40 
+#summary::1345 atoms:1345 atoms B<40:158876 potential dots:9930.0 A^2:9 bumps:9 bumps B<40:473.3 score

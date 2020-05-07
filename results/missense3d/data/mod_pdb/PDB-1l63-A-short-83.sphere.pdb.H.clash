@@ -1,0 +1,15 @@
+
+:  1035: A   7 LEU  CD1 : A   7 LEU  CD2 :   -0.981:       18
+
+:  1035: A 131 VAL  C   : A 131 VAL  N   :   -0.744:       22
+
+:  1035: A 150 ILE  O   : A 150 ILE  CA  :   -0.722:       21
+
+:  1035: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1035: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1035: A 128 GLU  CB  : A 128 GLU  OE2 :   -0.423:       63
+
+:  1035: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::6.76 clashscore : 6.42 clashscore B<40 
+#summary::1035 atoms:934 atoms B<40:123310 potential dots:7707.0 A^2:7 bumps:6 bumps B<40:370 score

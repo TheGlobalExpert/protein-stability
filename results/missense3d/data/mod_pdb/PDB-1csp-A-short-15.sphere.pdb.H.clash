@@ -1,0 +1,18 @@
+
+:   949: A  55 ASN  CA  : A  55 ASN  CG  :   -0.849:       39
+:   949: A  55 ASN  OD1 : A  55 ASN  N   :   -0.483:       42
+:   949: A  55 ASN  CA  : A  55 ASN  OD1 :   -0.446:       42
+
+:   949: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   949: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   949: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   949: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   949: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+
+:   949: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+#sum2 ::9.48 clashscore : 6.79 clashscore B<40 
+#summary::949 atoms:736 atoms B<40:108051 potential dots:6753.0 A^2:9 bumps:5 bumps B<40:264.5 score

@@ -1,0 +1,26 @@
+
+:  1000: A  93 PRO  N   : A  93 PRO  CD  :   -1.380:        0
+:  1000: A  93 PRO  CD  : A  92 TYR  C   :   -0.662:        0
+
+:  1000: A   9 GLU  CA  : A   8 PHE  C   :   -0.983:        0
+:  1000: A   7 LYS  C   : A   8 PHE  CA  :   -0.957:        0
+:  1000: A   9 GLU  CA  : A   8 PHE  O   :   -0.412:        0
+
+:  1000: A  16 SER  CB  : A  16 SER  C   :   -0.931:        0
+:  1000: A  16 SER  N   : A  16 SER  CB  :   -0.837:        0
+:  1000: A  16 SER  N   : A  16 SER  C   :   -0.703:        0
+
+:  1000: A  95 CYS  SG  : A  97 TYR  CZ  :   -0.930:        0
+:  1000: A  95 CYS  SG  : A  97 TYR  CE1 :   -0.926:        0
+:  1000: A  95 CYS  SG  : A  97 TYR  OH  :   -0.778:        0
+
+:  1000: A  35 LEU  HB3 : A  41 LYS  HD2 :   -0.791:        0
+:  1000: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.554:        0
+:  1000: A  35 LEU HD23 : A  41 LYS  HZ2 :   -0.452:        0
+:  1000: A  35 LEU HD12 : A  30 MET  SD  :   -0.439:        0
+:  1000: A  35 LEU  CD2 : A  41 LYS  HZ2 :   -0.429:        0
+:  1000: A  41 LYS  HG3 : A  35 LEU  O   :   -0.427:        0
+
+:  1000: A  25 TYR  CZ  : A  29 MET  HG3 :   -0.476:        0
+#sum2 ::18.00 clashscore : 18.00 clashscore B<40 
+#summary::1000 atoms:1000 atoms B<40:119309 potential dots:7457.0 A^2:18 bumps:18 bumps B<40:155.6 score

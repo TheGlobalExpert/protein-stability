@@ -1,0 +1,19 @@
+
+:  1066: A   2 LEU  CB  : A   2 LEU  CD1 :   -1.005:       31
+
+:  1066: A  87 LYS  CE  : A  87 LYS  CG  :   -0.966:       30
+
+:  1066: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:  1066: A  73 TYR  O   : A  74 VAL  N   :   -0.612:       13
+:  1066: A  73 TYR  O   : A  74 VAL  CA  :   -0.407:       13
+
+:  1066: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.502:       19
+
+:  1066: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+
+:  1066: A  60 LYS  HA  : A  60 LYS  HD2 :   -0.428:       35
+
+:  1066: A  85 TRP  O   : A  90 TRP  N   :   -0.404:       26
+#sum2 ::8.44 clashscore : 8.60 clashscore B<40 
+#summary::1066 atoms:1047 atoms B<40:128553 potential dots:8035.0 A^2:9 bumps:9 bumps B<40:294.1 score

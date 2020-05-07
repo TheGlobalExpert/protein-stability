@@ -1,0 +1,85 @@
+
+:  1945: A 135 PHE  HZ  : A  36 PHE  CE1 :   -1.044:        0
+:  1945: A  29 LYS  HD3 : A 135 PHE  CE1 :   -0.919:        0
+:  1945: A 135 PHE  CZ  : A  36 PHE  HE1 :   -0.877:        0
+:  1945: A 135 PHE  CZ  : A  36 PHE  CE1 :   -0.864:        0
+:  1945: A 135 PHE  HE1 : A  29 LYS  HD3 :   -0.771:        0
+:  1945: A 135 PHE  HZ  : A  36 PHE  CZ  :   -0.600:        0
+:  1945: A  36 PHE  CZ  : A 135 PHE  CZ  :   -0.586:        0
+:  1945: A 135 PHE  CE1 : A  29 LYS  CD  :   -0.549:        0
+:  1945: A  31 ASP  OD1 : A  29 LYS  NZ  :   -0.500:        0
+:  1945: A 135 PHE  CE2 : A  36 PHE  HZ  :   -0.446:        0
+:  1945: A 168 ILE HD11 : A  29 LYS  HB2 :   -0.438:        0
+:  1945: A  36 PHE  CZ  : A 135 PHE  CE2 :   -0.433:        0
+
+:  1945: A  51 GLY  O   : A  17 LYS  NZ  :   -0.986:        0
+
+:  1945: A  13 GLU  CD  : A  13 GLU  H   :   -0.866:        0
+:  1945: A  12 LYS  HD2 : A  13 GLU  OE2 :   -0.750:        0
+:  1945: A  13 GLU  N   : A  13 GLU  CD  :   -0.612:        0
+
+:  1945: A 102 ASP  OD2 : A 121 ARG  NH2 :   -0.832:        0
+:  1945: A 121 ARG HH21 : A 102 ASP  CG  :   -0.491:        0
+
+:  1945: A 164 GLN  O   : A  30 LYS  HG2 :   -0.726:        0
+:  1945: A 165 TYR  CE1 : A  30 LYS  HB2 :   -0.445:        0
+
+:  1945: A 119 SER  HB3 : A 133 TYR  CZ  :   -0.707:        0
+:  1945: A 133 TYR  CE2 : A 119 SER  HB3 :   -0.706:        0
+:  1945: A 133 TYR  CZ  : A 119 SER  CB  :   -0.609:        0
+:  1945: A 133 TYR  CE2 : A 119 SER  CB  :   -0.445:        0
+
+:  1945: A  19 ARG  NH1 : A 111 TYR  HB2 :   -0.705:        0
+:  1945: A 139 ARG  HD2 : A  24 TRP  CH2 :   -0.671:        0
+:  1945: A  24 TRP  CZ3 : A 139 ARG  HD2 :   -0.626:        0
+:  1945: A  19 ARG  HB3 : A 111 TYR  CD1 :   -0.587:        0
+:  1945: A 111 TYR  O   : A 139 ARG  NH2 :   -0.572:        0
+:  1945: A 139 ARG  CZ  : A  24 TRP  CE2 :   -0.560:        0
+:  1945: A 111 TYR  HB2 : A  19 ARG HH11 :   -0.483:        0
+:  1945: A 139 ARG  NH2 : A  24 TRP  CZ2 :   -0.460:        0
+:  1945: A  19 ARG HH11 : A 111 TYR  HD2 :   -0.424:        0
+:  1945: A 111 TYR  CD2 : A  19 ARG  NE  :   -0.423:        0
+:  1945: A  24 TRP  CH2 : A 139 ARG  CD  :   -0.411:        0
+:  1945: A  19 ARG  NH1 : A 111 TYR  CB  :   -0.405:        0
+
+:  1945: A 150 LYS  N   : A 150 LYS  C   :   -0.689:        0
+
+:  1945: A 115 ALA  HB3 : A 137 PHE  HB2 :   -0.688:        0
+:  1945: A  45 PHE  CE2 : A  20 PHE  HE1 :   -0.670:        0
+:  1945: A  20 PHE  HE1 : A  45 PHE  CZ  :   -0.439:        0
+:  1945: A 115 ALA  HB2 : A  20 PHE  HE2 :   -0.408:        0
+
+:  1945: A 103 ASP  OD2 : A  87 LYS  NZ  :   -0.680:        0
+:  1945: A 103 ASP  OD2 : A  87 LYS  CE  :   -0.619:        0
+:  1945: A 103 ASP  OD2 : A  87 LYS  HE2 :   -0.602:        0
+
+:  1945: A 129 CYS  SG  : A 132 SER  HB3 :   -0.670:        0
+
+:  1945: A 130 ALA  HB2 : A 124 ASN  ND2 :   -0.629:        0
+:  1945: A 124 ASN  CG  : A 130 ALA  HB2 :   -0.575:        0
+
+:  1945: A 118 TYR  N   : A 117 GLN  CD  :   -0.501:        0
+:  1945: A 117 GLN  NE2 : A 118 TYR  C   :   -0.455:        0
+:  1945: A 117 GLN  HG3 : A 104 HIS  CE1 :   -0.449:        0
+
+:  1945: A 136 VAL  HB  : A  28 ALA  HB3 :   -0.482:        0
+
+:  1945: A   3 ASP  HB3 : A   8 SER  OG  :   -0.478:        0
+
+:  1945: A 144 LEU HD22 : A 114 TYR  HB3 :   -0.463:        0
+
+:  1945: A 154 GLN  HB3 : A 151 ILE  O   :   -0.458:        0
+:  1945: A 151 ILE  O   : A 155 ARG  HG2 :   -0.449:        0
+
+:  1945: A  55 ALA  HA  : A  44 GLU  O   :   -0.453:        0
+
+:  1945: A 159 LEU HD11 : A 107 VAL HG21 :   -0.448:        0
+
+:  1945: A  52 GLN HE21 : A  76 THR  HB  :   -0.421:        0
+
+:  1945: A 157 GLU  HA  : A 162 ALA  HB2 :   -0.416:        0
+
+:  1945: A   6 VAL HG12 : A 105 TRP  HH2 :   -0.411:        0
+:  1945: A 105 TRP  CH2 : A   6 VAL  CG1 :   -0.401:        0
+#sum2 ::31.36 clashscore : 31.36 clashscore B<40 
+#summary::1945 atoms:1945 atoms B<40:227552 potential dots:14220.0 A^2:61 bumps:61 bumps B<40:438.4 score

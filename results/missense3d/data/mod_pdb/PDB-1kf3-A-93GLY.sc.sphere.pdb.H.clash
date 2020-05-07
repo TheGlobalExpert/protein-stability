@@ -1,0 +1,16 @@
+
+:   628: A  25 TYR  CD2 : A  25 TYR  CZ  :   -1.014:        0
+:   628: A  25 TYR  CZ  : A  29 MET  HG3 :   -0.487:        0
+
+:   628: A  43 VAL HG12 : A  85 ARG  HG3 :   -0.634:        0
+
+:   628: A  92 TYR  CD1 : A  93 GLY  HA2 :   -0.565:        0
+
+:   628: A   7 LYS  HE3 : A  11 GLN  NE2 :   -0.559:        0
+:   628: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.551:        0
+:   628: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.493:        0
+
+:   628: A  90 SER  CB  : A  86 GLU  CG  :   -0.464:        0
+:   628: A  86 GLU  HG2 : A  90 SER  HB3 :   -0.450:        0
+#sum2 ::14.33 clashscore : 14.33 clashscore B<40 
+#summary::628 atoms:628 atoms B<40:73697 potential dots:4606.0 A^2:9 bumps:9 bumps B<40:149.1 score

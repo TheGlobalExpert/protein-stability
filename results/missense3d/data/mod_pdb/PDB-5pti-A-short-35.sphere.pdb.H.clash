@@ -1,0 +1,22 @@
+
+:   754: A  27 ALA  N   : A  26 LYS  CA  :   -0.847:       14
+:   754: A  28 GLY  N   : A  27 ALA  CA  :   -0.821:       12
+:   754: A  28 GLY  C   : A  28 GLY  N   :   -0.701:       12
+
+:   754: A   6 LEU  CG  : A   6 LEU HD21 :   -0.837:       17
+:   754: A   6 LEU HD21 : A   6 LEU  CB  :   -0.585:       17
+
+:   754: A  15 LYS  HE2 : A  13 PRO  O   :   -0.666:       30
+
+:   754: A  19 ILE  CD1 : A  34 VAL HG22 :   -0.502:       17
+
+:   754: A   7 GLU  CG  : A   4 PHE  O   :   -0.482:       20
+:   754: A   7 GLU  HG3 : A   4 PHE  O   :   -0.461:       20
+
+:   754: A  49 GLU  CD  : A  49 GLU  D   :   -0.480:       30
+
+:   754: A  20 ARG  O   : A  32 THR  HA  :   -0.416:       11
+
+:   754: A  10 TYR  CD2 : A  41 LYS  HE2 :   -0.403:       25
+#sum2 ::15.92 clashscore : 15.92 clashscore B<40 
+#summary::754 atoms:754 atoms B<40:87772 potential dots:5486.0 A^2:12 bumps:12 bumps B<40:204.8 score

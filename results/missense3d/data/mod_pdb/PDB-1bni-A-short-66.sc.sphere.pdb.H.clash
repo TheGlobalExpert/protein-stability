@@ -1,0 +1,74 @@
+
+:   656: A  59 ARG HH21 : A  59 ARG  CG  :   -1.151:        0
+:   656: A  59 ARG HH22 : A  60 GLU  CB  :   -1.099:        0
+:   656: A  59 ARG HH22 : A  60 GLU  HB3 :   -1.086:        0
+:   656: A  59 ARG  HG3 : A  59 ARG  NH2 :   -0.946:        0
+:   656: A  59 ARG  NH2 : A  60 GLU  HB3 :   -0.904:        0
+:   656: A  59 ARG  NH2 : A  60 GLU  N   :   -0.782:        0
+:   656: A  60 GLU  OE1 : A  59 ARG  NH2 :   -0.774:        0
+:   656: A  59 ARG HH21 : A  59 ARG  HG3 :   -0.694:        0
+:   656: A  60 GLU  HG3 : A  62 LYS  CD  :   -0.690:        0
+:   656: A  59 ARG HH22 : A  60 GLU  CA  :   -0.622:        0
+:   656: A  60 GLU  CG  : A  62 LYS  HG3 :   -0.583:        0
+:   656: A  60 GLU  CB  : A  59 ARG  NH2 :   -0.572:        0
+:   656: A  59 ARG  NH2 : A  59 ARG  CG  :   -0.536:        0
+:   656: A  60 GLU  HG3 : A  62 LYS  HD2 :   -0.505:        0
+:   656: A  59 ARG  NH2 : A  60 GLU  CA  :   -0.486:        0
+:   656: A  60 GLU  N   : A  59 ARG HH21 :   -0.486:        0
+:   656: A  62 LYS  CE  : A  60 GLU  HG3 :   -0.463:        0
+:   656: A  60 GLU  HG3 : A  62 LYS  CG  :   -0.445:        0
+:   656: A  60 GLU  HB3 : A  59 ARG  CZ  :   -0.427:        0
+:   656: A  62 LYS  HG3 : A  60 GLU  HG2 :   -0.418:        0
+:   656: A  59 ARG  NH2 : A  60 GLU  H   :   -0.416:        0
+:   656: A  62 LYS  CG  : A  60 GLU  CG  :   -0.408:        0
+
+:   656: A  56 PHE  HE2 : A  63 LEU HD12 :   -1.043:        0
+:   656: A  56 PHE  HE2 : A  63 LEU  CD1 :   -0.951:        0
+:   656: A  89 LEU HD22 : A  63 LEU HD11 :   -0.949:        0
+:   656: A  63 LEU HD12 : A  56 PHE  CE2 :   -0.929:        0
+:   656: A  63 LEU  CD1 : A  56 PHE  CE2 :   -0.904:        0
+:   656: A  89 LEU  CD2 : A  56 PHE  CD2 :   -0.792:        0
+:   656: A  63 LEU  CD1 : A  89 LEU HD22 :   -0.714:        0
+:   656: A  89 LEU HD21 : A  56 PHE  CG  :   -0.547:        0
+:   656: A  56 PHE  CE2 : A  89 LEU  CD2 :   -0.543:        0
+:   656: A  56 PHE  CD2 : A  89 LEU HD21 :   -0.542:        0
+:   656: A  89 LEU  CD2 : A  56 PHE  CG  :   -0.457:        0
+:   656: A 106 PHE  CE2 : A  89 LEU HD13 :   -0.431:        0
+:   656: A  56 PHE  CE2 : A  63 LEU HD11 :   -0.416:        0
+:   656: A 106 PHE  CD2 : A  89 LEU HD13 :   -0.406:        0
+
+:   656: A  94 TRP  CH2 : A  18 HIS  CA  :   -0.926:        0
+:   656: A  94 TRP  HH2 : A  18 HIS  O   :   -0.925:        0
+:   656: A  14 LEU  CB  : A  14 LEU  C   :   -0.916:        0
+:   656: A  15 GLN  CA  : A  14 LEU  C   :   -0.903:        0
+:   656: A  96 ILE  CG2 : A 109 ILE HD11 :   -0.869:        0
+:   656: A  94 TRP  HH2 : A  18 HIS  C   :   -0.866:        0
+:   656: A  94 TRP  CZ2 : A  18 HIS  HB3 :   -0.819:        0
+:   656: A  94 TRP  CH2 : A  18 HIS  C   :   -0.774:        0
+:   656: A  18 HIS  CB  : A  94 TRP  CZ2 :   -0.736:        0
+:   656: A 109 ILE HD11 : A  96 ILE HG22 :   -0.724:        0
+:   656: A  18 HIS  HB3 : A  94 TRP  HZ2 :   -0.662:        0
+:   656: A  96 ILE  HB  : A 110 ARG  HB2 :   -0.629:        0
+:   656: A  96 ILE HG22 : A 109 ILE  CD1 :   -0.614:        0
+:   656: A  14 LEU  O   : A  18 HIS  CA  :   -0.575:        0
+:   656: A 109 ILE  CG1 : A  96 ILE HG22 :   -0.555:        0
+:   656: A  18 HIS  O   : A  94 TRP  CH2 :   -0.532:        0
+:   656: A  18 HIS  CB  : A  94 TRP  CH2 :   -0.523:        0
+:   656: A  96 ILE HG21 : A 109 ILE HD11 :   -0.516:        0
+:   656: A  15 GLN  OE1 : A 110 ARG  HB3 :   -0.506:        0
+:   656: A  96 ILE HG21 : A  88 ILE HD11 :   -0.433:        0
+:   656: A  96 ILE  CG2 : A 109 ILE  CD1 :   -0.431:        0
+:   656: A  18 HIS  CA  : A  94 TRP  CZ2 :   -0.416:        0
+:   656: A  94 TRP  CZ2 : A  18 HIS  CG  :   -0.407:        0
+:   656: A  94 TRP  HZ3 : A  14 LEU HD22 :   -0.407:        0
+:   656: A  88 ILE HD11 : A 109 ILE HD11 :   -0.403:        0
+
+:   656: A  99 THR  CB  : A  99 THR  N   :   -0.817:        0
+
+:   656: A  90 TYR  HA  : A  95 LEU  O   :   -0.631:        0
+
+:   656: A  93 ASP  OD1 : A  93 ASP  N   :   -0.587:        0
+
+:   656: A  71 TRP  CZ3 : A  91 SER  HB3 :   -0.488:        0
+#sum2 ::99.09 clashscore : 99.09 clashscore B<40 
+#summary::656 atoms:656 atoms B<40:77776 potential dots:4861.0 A^2:65 bumps:65 bumps B<40:-122.2 score

@@ -1,0 +1,14 @@
+
+:   914: A  98 GLN  CB  : A  98 GLN  C   :   -0.905:       19
+
+:   914: A  44 GLU  CA  : A  45 ILE  N   :   -0.880:       15
+:   914: A  45 ILE  N   : A  45 ILE  CB  :   -0.801:       17
+:   914: A  44 GLU  HG3 : A  40 PRO  O   :   -0.436:       20
+
+:   914: A  67 ALA  HB3 : A  68 PRO  HD3 :   -0.731:       24
+:   914: A  68 PRO  CD  : A  67 ALA  N   :   -0.475:       24
+:   914: A  67 ALA  HA  : A  72 ILE HD12 :   -0.450:       24
+
+:   914: A  76 PRO  C   : A  75 ILE  HA  :   -0.440:       16
+#sum2 ::8.75 clashscore : 8.90 clashscore B<40 
+#summary::914 atoms:899 atoms B<40:108936 potential dots:6808.0 A^2:8 bumps:8 bumps B<40:270.2 score

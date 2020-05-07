@@ -1,0 +1,15 @@
+
+:   871: A  19 ILE  CD1 : A  34 VAL HG22 :   -0.502:       17
+
+:   871: A   7 GLU  CG  : A   4 PHE  O   :   -0.482:       20
+:   871: A   7 GLU  HG3 : A   4 PHE  O   :   -0.461:       20
+
+:   871: A  49 GLU  CD  : A  49 GLU  D   :   -0.480:       30
+
+:   871: A   1 ARG  HA  : A   2 PRO  HD3 :   -0.443:       28
+
+:   871: A  20 ARG  O   : A  32 THR  HA  :   -0.416:       11
+
+:   871: A  10 TYR  CD2 : A  41 LYS  HE2 :   -0.403:       25
+#sum2 ::8.04 clashscore : 8.19 clashscore B<40 
+#summary::871 atoms:855 atoms B<40:97968 potential dots:6123.0 A^2:7 bumps:7 bumps B<40:284.7 score

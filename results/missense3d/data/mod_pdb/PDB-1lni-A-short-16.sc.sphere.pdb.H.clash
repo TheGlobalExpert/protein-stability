@@ -1,0 +1,45 @@
+
+:  1080: A  27 PRO  N   : A  27 PRO  CA  :   -1.305:        0
+:  1080: A  27 PRO  CD  : A  27 PRO  N   :   -1.013:        0
+:  1080: A  27 PRO  CA  : A  26 GLY  C   :   -0.551:        0
+:  1080: A  26 GLY  CA  : A  27 PRO  CA  :   -0.530:        0
+:  1080: A  27 PRO  C   : A  27 PRO  CG  :   -0.477:        0
+:  1080: A  27 PRO  N   : A  27 PRO  CB  :   -0.438:        0
+:  1080: A  27 PRO  N   : A  27 PRO  CG  :   -0.437:        0
+:  1080: A  27 PRO  C   : A  27 PRO  HG2 :   -0.409:        0
+
+:  1080: A  35 VAL  CG2 : A  35 VAL  CA  :   -0.971:        0
+:  1080: A  35 VAL  CG2 : A  35 VAL  C   :   -0.439:        0
+
+:  1080: A  74 GLU  CB  : A  74 GLU  CD  :   -0.870:        0
+
+:  1080: A  92 ILE HD11 : A  81 TYR  HB2 :   -0.771:        0
+
+:  1080: A  64 THR  OG1 : A  64 THR  CA  :   -0.710:        0
+
+:  1080: A  80 TYR  CE2 : A  91 LEU  HG  :   -0.707:        0
+:  1080: A  80 TYR  CE2 : A  91 LEU  CD2 :   -0.624:        0
+:  1080: A  80 TYR  CZ  : A  91 LEU HD21 :   -0.617:        0
+:  1080: A  80 TYR  CE2 : A  91 LEU  CG  :   -0.527:        0
+:  1080: A  91 LEU  HG  : A  80 TYR  HE2 :   -0.450:        0
+:  1080: A  80 TYR  CE2 : A  91 LEU HD21 :   -0.436:        0
+
+:  1080: A  69 ARG  NE  : A  86 TYR  OH  :   -0.653:        0
+:  1080: A  86 TYR  CE1 : A  69 ARG  HG3 :   -0.527:        0
+:  1080: A  69 ARG  HG2 : A  68 ARG  C   :   -0.487:        0
+:  1080: A  66 GLY  O   : A  69 ARG  NH1 :   -0.482:        0
+:  1080: A  82 THR  HB  : A  89 PHE  CD2 :   -0.481:        0
+:  1080: A  86 TYR  HA  : A  89 PHE  CZ  :   -0.432:        0
+:  1080: A  69 ARG  HG3 : A  86 TYR  CZ  :   -0.416:        0
+
+:  1080: A  71 ILE HD12 : A  70 ILE  C   :   -0.583:        0
+:  1080: A  71 ILE  CD1 : A  71 ILE  N   :   -0.525:        0
+:  1080: A  70 ILE HD12 : A  18 THR  HB  :   -0.449:        0
+:  1080: A  57 VAL  CG2 : A  70 ILE HG13 :   -0.418:        0
+
+:  1080: A  72 THR  O   : A  52 TYR  HA  :   -0.491:        0
+:  1080: A  72 THR HG22 : A  79 ASP  OD2 :   -0.422:        0
+
+:  1080: A  76 THR  C   : A  77 GLN  HG2 :   -0.424:        0
+#sum2 ::30.56 clashscore : 30.56 clashscore B<40 
+#summary::1080 atoms:1080 atoms B<40:129324 potential dots:8083.0 A^2:33 bumps:33 bumps B<40:220.9 score

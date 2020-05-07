@@ -1,0 +1,32 @@
+
+______________________________________________
+
+SECONDARY STRUCTURE INFORMATION
+-------------------------------
+NO OF HELICES and RESIDUE  =      0     0
+NO OF STRANDS and RESIDUE  =      0     0
+NO OF TURNS   and RESIDUE  =      0     0
+______________________________________________
+Setting cut-off distance to     5.000
+$SALTB    1 ASP A  10 .   ARG A  14        . OD1  NH1      4.853  $INTRA $NO
+$SALTB    2 GLU A  61 .   HIS A 210        . OE2  NE2      4.844  $INTRA $NO
+$SALTB    3 ASP A  76 .   ARG A  80        . OD1  NE       3.342  $INTRA $NO
+$SALTB    4 ASP A  76 .   ARG A 177        . OD2  NE       4.110  $INTRA $NO
+$SALTB    5 GLU A  82 .   ARG A 177        . OE1  NE       4.830  $INTRA $NO
+$SALTB    6 ASP A  87 .   LYS A  84        . OD1  NZ       2.837  $INTRA $NO
+$SALTB    7 ASP A  87 .   LYS A  91        . OD1  NZ       3.693  $INTRA $NO
+$SALTB    8 ASP A 130 .   ARG A 133        . OD1  NE       4.566  $INTRA $NO
+$SALTB    9 GLU A 195 .   HIS A 186        . OE1  NE2      4.743  $INTRA $NO
+$SALTB   10 GLU A 195 .   LYS A 197        . OE1  NZ       4.766  $INTRA $NO
+$SALTB   11 GLU A 205 .   ARG A 204        . OE1  NH2      3.887  $INTRA $NO
+$SALTB   12 GLU A 205 .   LYS A 207        . OE1  NZ       3.512  $INTRA $NO
+$SALTB   13 ASP A 229 .   HIS A 186        . OD1  ND1      4.612  $INTRA $NO
+$SALTB   14 ASP A 242 .   LYS A 239        . OD2  NZ       4.597  $INTRA $NO
+$SALTB   15 GLU A 245 .   ARG A  80        . OE1  NH1      4.884  $INTRA $NO
+$SALTB   16 GLU A 272 .   ARG A 148        . OE1  NH1      4.387  $INTRA $NO
+$SALTB   17 GLU A 272 .   HIS A 314        . OE1  NE2      4.171  $INTRA $NO
+$SALTB   18 GLU A 272 .   LYS A 315        . OE2  NZ       3.712  $INTRA $NO
+$SALTB   19 ASP A 275 .   ARG A 258        . OD1  NE       4.307  $INTRA $NO
+$SALTB   20 GLU A 331 .   LYS A 332        . OE1  NZ       4.715  $INTRA $NO
+$SALTB   21 GLU A 333 .   LYS A 239        . OE1  NZ       4.400  $INTRA $NO
+$SALTB   22 GLU A 333 .   ARG A 309        . OE2  NH1      3.419  $INTRA $NO

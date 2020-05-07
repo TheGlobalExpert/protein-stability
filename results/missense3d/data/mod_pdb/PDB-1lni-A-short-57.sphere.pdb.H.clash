@@ -1,0 +1,20 @@
+
+:  1258: A  27 PRO  CA  : A  27 PRO  CB  :   -1.477:       13
+:  1258: A  27 PRO  CA  : A  27 PRO  N   :   -1.305:       12
+:  1258: A  27 PRO  CA  : A  27 PRO  CG  :   -0.774:       18
+:  1258: A  27 PRO  CA  : A  26 GLY  C   :   -0.551:       11
+:  1258: A  26 GLY  CA  : A  27 PRO  CA  :   -0.530:       10
+:  1258: A  27 PRO  CB  : A  27 PRO  C   :   -0.431:       13
+
+:  1258: A  44 LEU  C   : A  45 PRO  CD  :   -0.847:        8
+:  1258: A  45 PRO  CD  : A  44 LEU  CA  :   -0.526:        8
+
+:  1258: A  75 ALA  C   : A  75 ALA  N   :   -0.743:        7
+
+:  1258: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:  1258: A  29 PRO  HD3 : A  21 LEU HD13 :   -0.431:       12
+
+:  1258: A  35 VAL HG11 : A  32 GLN  OE1 :   -0.408:       11
+#sum2 ::9.54 clashscore : 9.54 clashscore B<40 
+#summary::1258 atoms:1258 atoms B<40:146350 potential dots:9147.0 A^2:12 bumps:12 bumps B<40:395.3 score

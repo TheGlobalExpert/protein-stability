@@ -1,0 +1,14 @@
+
+:   678: A  46 ALA  C   : A  46 ALA  N   :   -0.830:       29
+
+:   678: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   678: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   678: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   678: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   678: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::8.85 clashscore : 9.03 clashscore B<40 
+#summary::678 atoms:554 atoms B<40:79681 potential dots:4980.0 A^2:6 bumps:5 bumps B<40:183.1 score

@@ -1,0 +1,23 @@
+
+:  1135: A  66 VAL  CA  : A  66 VAL  CG1 :   -1.023:       32
+
+:  1135: A 115 TYR  CB  : A 115 TYR  CD2 :   -0.967:       81
+
+:  1135: A  64 LYS  CB  : A  64 LYS  C   :   -0.957:       37
+
+:  1135: A 116 LYS  CA  : A 116 LYS  CG  :   -0.915:       63
+
+:  1135: A  35 ARG  CA  : A  35 ARG  CG  :   -0.894:       27
+
+:  1135: A 129 GLU  O   : A 133 LYS  HG3 :   -0.658:       91
+:  1135: A 140 TRP  CH2 : A 110 LYS  HE2 :   -0.583:       66
+:  1135: A 133 LYS  HG2 : A 140 TRP  CE2 :   -0.496:       91
+
+:  1135: A  54 TYR  CD2 : A 139 ILE HD13 :   -0.554:      135
+:  1135: A  53 LYS  O   : A  54 TYR  HB2 :   -0.541:       60
+
+:  1135: A  41 THR HG22 : A 109 ALA  HB2 :   -0.523:       36
+
+:  1135: A  40 ASP  OD2 : A 112 ALA  HA  :   -0.434:       96
+#sum2 ::10.57 clashscore : 5.18 clashscore B<40 
+#summary::1135 atoms:772 atoms B<40:134992 potential dots:8437.0 A^2:12 bumps:4 bumps B<40:328.8 score

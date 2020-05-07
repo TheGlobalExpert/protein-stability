@@ -1,0 +1,45 @@
+
+:   887: A 128 GLY  O   : A 123 ARG  NH2 :   -0.930:        0
+:   887: A 123 ARG HH21 : A 128 GLY  HA2 :   -0.453:        0
+
+:   887: A 119 TRP  CZ3 : A 134 PRO  HG3 :   -0.828:        0
+:   887: A 119 TRP  CH2 : A 134 PRO  HG3 :   -0.727:        0
+:   887: A 137 TYR  CE2 : A 134 PRO  HG2 :   -0.469:        0
+:   887: A 134 PRO  HB2 : A 137 TYR  CD2 :   -0.438:        0
+
+:   887: A 107 GLU  OE2 : A 124 SER  OG  :   -0.786:        0
+:   887: A 124 SER  HA  : A 109 PHE  CD1 :   -0.560:        0
+:   887: A 109 PHE  HE1 : A 124 SER  HB2 :   -0.459:        0
+:   887: A 109 PHE  CE1 : A 124 SER  HB2 :   -0.411:        0
+
+:   887: A  97 THR  OG1 : A  97 THR  CA  :   -0.720:        0
+
+:   887: A 111 ILE HG12 : A  87 PHE  CD1 :   -0.693:        0
+:   887: A 138 LEU HD13 : A  87 PHE  HB3 :   -0.667:        0
+:   887: A 111 ILE  CG1 : A  87 PHE  CD1 :   -0.663:        0
+:   887: A 111 ILE  CG1 : A  87 PHE  CE1 :   -0.605:        0
+:   887: A 111 ILE HG12 : A  87 PHE  HD1 :   -0.595:        0
+:   887: A  87 PHE  CE1 : A 111 ILE HG13 :   -0.530:        0
+:   887: A 138 LEU HD12 : A 138 LEU  C   :   -0.527:        0
+:   887: A 138 LEU HD13 : A  87 PHE  CB  :   -0.512:        0
+:   887: A 132 TYR  HA  : A 120 TRP  O   :   -0.465:        0
+:   887: A 120 TRP  CE2 : A 114 SER  HB2 :   -0.464:        0
+:   887: A 111 ILE HG12 : A  87 PHE  CE1 :   -0.455:        0
+:   887: A 111 ILE HG21 : A 114 SER  HB3 :   -0.407:        0
+
+:   887: A  93 TYR  HB3 : A 103 PHE  CZ  :   -0.621:        0
+:   887: A 103 PHE  CE1 : A  93 TYR  HB3 :   -0.465:        0
+:   887: A 103 PHE  CZ  : A  93 TYR  CB  :   -0.405:        0
+
+:   887: A 100 ASP  OD2 : A  96 ARG  N   :   -0.616:        0
+:   887: A 100 ASP  OD1 : A 100 ASP  N   :   -0.565:        0
+
+:   887: A  84 VAL  CG1 : A 110 GLN  HG3 :   -0.567:        0
+
+:   887: A 141 VAL  O   : A 142 ASP  CB  :   -0.554:        0
+:   887: A 142 ASP  HB2 : A 141 VAL  O   :   -0.508:        0
+
+:   887: A 116 GLU  CG  : A 116 GLU  O   :   -0.537:        0
+:   887: A 116 GLU  HG2 : A 116 GLU  O   :   -0.463:        0
+#sum2 ::37.20 clashscore : 37.20 clashscore B<40 
+#summary::887 atoms:887 atoms B<40:101022 potential dots:6314.0 A^2:33 bumps:33 bumps B<40:128.2 score

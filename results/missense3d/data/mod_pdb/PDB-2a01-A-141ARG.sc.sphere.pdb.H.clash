@@ -1,0 +1,31 @@
+
+:   441: A 143 PRO  HD3 : A 142 SER  HB3 :   -1.021:        0
+:   441: A 142 SER  HB3 : A 143 PRO  CD  :   -0.718:        0
+:   441: A 142 SER  CB  : A 143 PRO  CD  :   -0.567:        0
+:   441: A 142 SER  H   : A 143 PRO  HD2 :   -0.522:        0
+
+:   441: A 141 ARG HH11 : A 146 GLU  CD  :   -1.017:        0
+:   441: A 146 GLU  OE1 : A 141 ARG  NH1 :   -0.821:        0
+:   441: A 146 GLU  CD  : A 141 ARG  NH1 :   -0.618:        0
+:   441: A 146 GLU  OE2 : A 141 ARG  NH1 :   -0.474:        0
+
+:   441: A  42 LEU  CA  : A  41 GLN  C   :   -0.960:        0
+
+:   441: A 153 ARG  CB  : A 153 ARG  N   :   -0.862:        0
+
+:   441: A 139 GLU  CD  : A 140 LYS  H   :   -0.836:        0
+:   441: A 139 GLU  OE1 : A 140 LYS  N   :   -0.499:        0
+
+:   441: A 137 LEU HD12 : A 133 LYS  HA  :   -0.711:        0
+:   441: A 137 LEU HD12 : A 133 LYS  CA  :   -0.527:        0
+:   441: A 137 LEU  HB2 : A 133 LYS  O   :   -0.415:        0
+
+:   441: A 134 LEU  HA  : A 138 GLN  OE1 :   -0.642:        0
+:   441: A 138 GLN  HB2 : A 134 LEU  O   :   -0.402:        0
+
+:   441: A 148 MET  CE  : A 144 LEU HD22 :   -0.487:        0
+
+:   441: A 136 GLU  OE1 : A 132 GLN  HA  :   -0.430:        0
+:   441: A 136 GLU  HB2 : A 132 GLN  O   :   -0.419:        0
+#sum2 ::45.35 clashscore : 45.35 clashscore B<40 
+#summary::441 atoms:441 atoms B<40:53381 potential dots:3336.0 A^2:20 bumps:20 bumps B<40:-29.82 score

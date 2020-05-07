@@ -1,0 +1,39 @@
+
+:  1215: A 120 ASP  OD1 : A 122 ARG  HD2 :   -1.187:      101
+:  1215: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.810:      101
+:  1215: A 120 ASP  CA  : A 120 ASP  OD1 :   -0.504:       60
+
+:  1215: A 126 GLN  CA  : A 126 GLN  CG  :   -1.015:       86
+:  1215: A 126 GLN  CD  : A 126 GLN  CA  :   -0.506:      104
+
+:  1215: A  63 TYR  CB  : A  63 TYR  C   :   -0.992:       23
+
+:  1215: A  88 ASN  CA  : A  88 ASN  CG  :   -0.878:       35
+
+:  1215: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:  1215: A 112 TRP  HH2 : A 107 ARG HH12 :   -0.762:      106
+:  1215: A 107 ARG  NH1 : A 112 TRP  CZ3 :   -0.738:      106
+:  1215: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+:  1215: A 112 TRP  HZ3 : A 107 ARG HH11 :   -0.478:      106
+
+:  1215: A  36 SER  CB  : A  36 SER  N   :   -0.868:       12
+:  1215: A  36 SER  N   : A  35 GLU  CA  :   -0.866:       12
+
+:  1215: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1215: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1215: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.495:       22
+:  1215: A  84 LEU HD22 : A  92 ALA  HA  :   -0.465:       22
+
+:  1215: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1215: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1215: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1215: A   5 ARG  NH2 : A   5 ARG  CD  :   -0.431:       19
+
+:  1215: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:  1215: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.402:       88
+#sum2 ::19.75 clashscore : 12.03 clashscore B<40 
+#summary::1215 atoms:1081 atoms B<40:147424 potential dots:9214.0 A^2:24 bumps:13 bumps B<40:333.2 score

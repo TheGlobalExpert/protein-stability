@@ -1,0 +1,46 @@
+
+:  2012: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  2012: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  2012: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  2012: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  2012: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+:  2012: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  2012: A 141 GLN  HG2 : A 137 ARG  CZ  :   -0.450:       39
+
+:  2012: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  2012: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  2012: A 164 LEU  CD1 : A 164 LEU  N   :   -0.593:       64
+:  2012: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  2012: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  2012: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  2012: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+
+:  2012: A 162 LYS  CB  : A 162 LYS  CD  :   -0.935:       58
+:  2012: A 163 ASN  CB  : A 163 ASN  ND2 :   -0.901:       62
+:  2012: A 163 ASN  CB  : A 163 ASN  N   :   -0.888:       62
+:  2012: A 163 ASN  N   : A 163 ASN  C   :   -0.805:       67
+:  2012: A 162 LYS  CD  : A 162 LYS  CA  :   -0.765:       55
+:  2012: A 163 ASN  C   : A 163 ASN  CB  :   -0.756:       67
+:  2012: A 162 LYS  HA  : A 162 LYS  CD  :   -0.647:       55
+:  2012: A 163 ASN  C   : A 162 LYS  C   :   -0.495:       67
+
+:  2012: A  14 ARG  CG  : A  14 ARG  NE  :   -0.782:       51
+:  2012: A  14 ARG  CB  : A  14 ARG  N   :   -0.773:       21
+
+:  2012: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  2012: A   5 GLU  OE1 : A   1 MET  HA  :   -0.635:       38
+:  2012: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  2012: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  2012: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  2012: A 154 ARG  HD3 : A 127 ASP  OD2 :   -0.507:       53
+:  2012: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  2012: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  2012: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  2012: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::16.90 clashscore : 5.52 clashscore B<40 
+#summary::2012 atoms:1810 atoms B<40:231628 potential dots:14480.0 A^2:34 bumps:10 bumps B<40:620.3 score

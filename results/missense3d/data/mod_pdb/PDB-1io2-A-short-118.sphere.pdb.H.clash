@@ -1,0 +1,30 @@
+
+:  1412: A  25 VAL  CG2 : A  25 VAL  CA  :   -0.997:       15
+
+:  1412: A   1 MET  C   : A   1 MET  CB  :   -0.923:       16
+:  1412: A   1 MET  SD  : A   1 MET  CB  :   -0.800:       18
+
+:  1412: A 147 LEU  CB  : A 147 LEU  C   :   -0.906:       11
+
+:  1412: A 116 ARG  O   : A 120 GLU  HG3 :   -0.799:       20
+
+:  1412: A  11 ARG  HD3 : A  84 GLU  OE1 :   -0.728:       17
+
+:  1412: A 139 PRO  C   : A 139 PRO  N   :   -0.723:       17
+
+:  1412: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.658:       13
+:  1412: A   4 ALA  HB2 : A  99 PRO  CB  :   -0.435:       13
+
+:  1412: A 136 ASP  N   : A 137 ILE  N   :   -0.528:       22
+
+:  1412: A  68 LEU HD13 : A  83 PHE  CZ  :   -0.501:       15
+
+:  1412: A  78 GLY  O   : A  76 ARG  HD2 :   -0.475:       21
+
+:  1412: A  88 PHE  HA  : A   6 ILE HD11 :   -0.452:       11
+
+:  1412: A  95 LEU HD23 : A  64 VAL HG23 :   -0.422:       12
+
+:  1412: A 104 ALA  O   : A 130 ALA  HA  :   -0.409:       19
+#sum2 ::10.62 clashscore : 10.62 clashscore B<40 
+#summary::1412 atoms:1412 atoms B<40:166983 potential dots:10440.0 A^2:15 bumps:15 bumps B<40:425.7 score

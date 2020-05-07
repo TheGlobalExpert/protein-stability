@@ -1,0 +1,18 @@
+
+:   707: A  37 ASN  N   : A  37 ASN  CB  :   -0.831:       10
+
+:   707: A  14 GLY  O   : A  15 GLU  N   :   -0.662:       12
+:   707: A   4 LYS  HD2 : A  15 GLU  CG  :   -0.532:       26
+:   707: A  17 THR  HA  : A   3 TYR  O   :   -0.427:       13
+:   707: A  17 THR  HA  : A   4 LYS  HA  :   -0.425:       13
+
+:   707: A  28 LYS  HE3 : A  28 LYS  N   :   -0.595:       19
+:   707: A  24 ALA  O   : A  28 LYS  NZ  :   -0.426:       17
+
+:   707: A  52 PHE  HE2 : A  27 GLU  HG3 :   -0.495:       21
+
+:   707: A  43 TRP  HA  : A  53 THR  O   :   -0.415:        8
+
+:   707: A   6 ILE HD13 : A   6 ILE HG21 :   -0.405:       11
+#sum2 ::14.14 clashscore : 14.14 clashscore B<40 
+#summary::707 atoms:707 atoms B<40:81851 potential dots:5116.0 A^2:10 bumps:10 bumps B<40:224.5 score

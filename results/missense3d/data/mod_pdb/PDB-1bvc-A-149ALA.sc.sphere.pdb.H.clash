@@ -1,0 +1,10 @@
+
+:   694: A 146 TYR  OH  : A  93 HIS  HB3 :   -1.124:        0
+:   694: A  93 HIS  CB  : A 146 TYR  OH  :   -0.955:        0
+:   694: A  94 ALA  HB2 : A 146 TYR  CD1 :   -0.728:        0
+:   694: A 146 TYR  HH  : A  93 HIS  HB3 :   -0.725:        0
+:   694: A 146 TYR  OH  : A  93 HIS  HB2 :   -0.418:        0
+
+:   694: A 136 GLU  CA  : A 135 LEU  C   :   -0.957:        0
+#sum2 ::8.65 clashscore : 8.65 clashscore B<40 
+#summary::694 atoms:694 atoms B<40:79893 potential dots:4993.0 A^2:6 bumps:6 bumps B<40:195.5 score

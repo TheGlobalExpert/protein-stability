@@ -1,0 +1,39 @@
+
+:   841: A 100 VAL  CG2 : A 100 VAL  CG1 :   -0.983:        0
+:   841: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.560:        0
+
+:   841: A   2 VAL  CA  : A   2 VAL  CG1 :   -0.979:        0
+:   841: A   2 VAL  CG1 : A   2 VAL  C   :   -0.432:        0
+
+:   841: A  92 ALA  CB  : A  92 ALA  C   :   -0.881:        0
+
+:   841: A  88 ASN  CA  : A  88 ASN  CG  :   -0.855:        0
+
+:   841: A 128 CYS  SG  : A   6 CYS  SG  :   -0.769:        0
+
+:   841: A  93 VAL HG21 : A  15 LEU  CD1 :   -0.632:        0
+:   841: A  97 LYS  HB3 : A  20 TYR  CZ  :   -0.590:        0
+:   841: A  17 MET  SD  : A  93 VAL HG13 :   -0.517:        0
+:   841: A  20 TYR  OH  : A  97 LYS  HB3 :   -0.487:        0
+:   841: A  20 TYR  CE1 : A  97 LYS  HD3 :   -0.458:        0
+:   841: A  15 LEU HD12 : A  93 VAL HG21 :   -0.457:        0
+:   841: A  93 VAL HG21 : A  15 LEU HD13 :   -0.427:        0
+:   841: A  97 LYS  HE3 : A  93 VAL  CG1 :   -0.405:        0
+
+:   841: A 126 GLN  HG2 : A 123 GLN  O   :   -0.600:        0
+
+:   841: A 121 VAL  O   : A 124 TYR  HD2 :   -0.567:        0
+
+:   841: A 122 ARG  HG2 : A 120 ASP  OD1 :   -0.517:        0
+
+:   841: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.495:        0
+
+:   841: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.468:        0
+:   841: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.409:        0
+
+:   841: A 106 ILE HG12 : A 112 TRP  NE1 :   -0.450:        0
+:   841: A 106 ILE HG12 : A 112 TRP  CD1 :   -0.425:        0
+
+:   841: A  13 LYS  HE2 : A 130 ALA  OXT :   -0.408:        0
+#sum2 ::28.54 clashscore : 28.54 clashscore B<40 
+#summary::841 atoms:841 atoms B<40:104181 potential dots:6511.0 A^2:24 bumps:24 bumps B<40:154.3 score

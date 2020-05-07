@@ -1,0 +1,22 @@
+
+:  1139: A 135 ILE  N   : A 134 MET  CA  :   -0.886:       36
+:  1139: A 135 ILE  N   : A 135 ILE  CB  :   -0.853:       33
+:  1139: A 135 ILE  CG1 : A 135 ILE  N   :   -0.576:       33
+
+:  1139: A  15 SER  C   : A  15 SER  N   :   -0.735:       27
+
+:  1139: A  37 TYR  C   : A  37 TYR  N   :   -0.714:       27
+
+:  1139: A  35 LYS  O   : A  36 LEU  N   :   -0.686:       28
+
+:  1139: A  18 ASN  HB3 : A 160 LEU HD13 :   -0.594:       29
+
+:  1139: A 165 VAL  CG2 : A 162 SER  HB3 :   -0.553:       33
+:  1139: A 162 SER  HB3 : A 165 VAL HG23 :   -0.483:       33
+:  1139: A 162 SER  CB  : A 165 VAL HG23 :   -0.401:       33
+
+:  1139: A  25 TYR  O   : A  29 GLN  HG2 :   -0.451:       22
+
+:  1139: A 103 GLY  O   : A  77 SER  HA  :   -0.436:       28
+#sum2 ::10.54 clashscore : 10.82 clashscore B<40 
+#summary::1139 atoms:1109 atoms B<40:137667 potential dots:8604.0 A^2:12 bumps:12 bumps B<40:407.6 score

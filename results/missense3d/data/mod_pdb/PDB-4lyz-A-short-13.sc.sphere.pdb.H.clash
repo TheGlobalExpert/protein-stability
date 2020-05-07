@@ -1,0 +1,123 @@
+
+:  1201: A 122 ALA  HA  : A 125 ARG  CD  :   -1.681:        0
+:  1201: A 125 ARG  CD  : A 122 ALA  CA  :   -1.193:        0
+:  1201: A 122 ALA  CA  : A 125 ARG  HD2 :   -1.131:        0
+:  1201: A 125 ARG  NE  : A 122 ALA  CA  :   -1.103:        0
+:  1201: A 122 ALA  HA  : A 125 ARG  NE  :   -0.997:        0
+:  1201: A 122 ALA  HA  : A 125 ARG  HD2 :   -0.965:        0
+:  1201: A 122 ALA  HA  : A 125 ARG  CG  :   -0.865:        0
+:  1201: A 125 ARG  HG3 : A 121 GLN  O   :   -0.742:        0
+:  1201: A 122 ALA  N   : A 125 ARG  NE  :   -0.664:        0
+:  1201: A 122 ALA  N   : A 125 ARG  CZ  :   -0.657:        0
+:  1201: A 125 ARG  HD2 : A 122 ALA  CB  :   -0.544:        0
+:  1201: A 125 ARG  HD2 : A 122 ALA  C   :   -0.402:        0
+
+:  1201: A  17 LEU  CD1 : A  12 MET  CE  :   -1.058:        0
+:  1201: A  96 LYS  HD3 : A  20 TYR  CZ  :   -1.031:        0
+:  1201: A  17 LEU  CD1 : A  12 MET  HE3 :   -0.994:        0
+:  1201: A  96 LYS  HD3 : A  20 TYR  CE1 :   -0.964:        0
+:  1201: A  96 LYS  HB3 : A  20 TYR  OH  :   -0.953:        0
+:  1201: A  12 MET  CE  : A  17 LEU HD13 :   -0.914:        0
+:  1201: A  12 MET  CE  : A  28 TRP  HB3 :   -0.851:        0
+:  1201: A  12 MET  HE2 : A  17 LEU  CD1 :   -0.803:        0
+:  1201: A  17 LEU HD13 : A  12 MET  HE2 :   -0.790:        0
+:  1201: A  17 LEU HD12 : A  12 MET  CE  :   -0.746:        0
+:  1201: A  28 TRP  HB3 : A  12 MET  HE1 :   -0.706:        0
+:  1201: A  12 MET  HE3 : A  17 LEU HD12 :   -0.688:        0
+:  1201: A  20 TYR  CZ  : A  96 LYS  HB3 :   -0.626:        0
+:  1201: A  20 TYR  CZ  : A  96 LYS  CD  :   -0.613:        0
+:  1201: A  92 VAL  O   : A  96 LYS  HG3 :   -0.543:        0
+:  1201: A  99 VAL HG11 : A  20 TYR  CD2 :   -0.524:        0
+:  1201: A  20 TYR  CE2 : A  99 VAL HG11 :   -0.497:        0
+:  1201: A  92 VAL HG22 : A  17 LEU HD11 :   -0.496:        0
+:  1201: A  99 VAL HG12 : A  96 LYS  O   :   -0.471:        0
+:  1201: A  20 TYR  HE2 : A  99 VAL  CG1 :   -0.442:        0
+:  1201: A  20 TYR  HB2 : A  17 LEU  HA  :   -0.435:        0
+:  1201: A  96 LYS  HB3 : A  20 TYR  HH  :   -0.425:        0
+:  1201: A  96 LYS  HA  : A  20 TYR  HE2 :   -0.423:        0
+:  1201: A  20 TYR  CZ  : A  96 LYS  CB  :   -0.417:        0
+:  1201: A  15 HIS  HB3 : A  92 VAL HG11 :   -0.411:        0
+:  1201: A  20 TYR  CE2 : A  99 VAL  CG1 :   -0.411:        0
+
+:  1201: A  31 ALA  O   : A  35 GLU  HB2 :   -1.045:        0
+:  1201: A  31 ALA  O   : A  35 GLU  CB  :   -0.653:        0
+:  1201: A  35 GLU  HG3 : A  57 GLN  HB2 :   -0.418:        0
+
+:  1201: A 123 TRP  O   : A   5 ARG  NH2 :   -1.033:        0
+:  1201: A 115 CYS  SG  : A 111 TRP  HA  :   -0.974:        0
+:  1201: A  30 CYS  HB2 : A 123 TRP  CD1 :   -0.959:        0
+:  1201: A 115 CYS  SG  : A  30 CYS  SG  :   -0.875:        0
+:  1201: A   5 ARG HH21 : A 123 TRP  C   :   -0.757:        0
+:  1201: A  37 ASN  CB  : A  37 ASN  OD1 :   -0.751:        0
+:  1201: A  38 PHE  HB3 : A   3 PHE  O   :   -0.734:        0
+:  1201: A  30 CYS  HG  : A 115 CYS  HG  :   -0.707:        0
+:  1201: A   5 ARG  NH2 : A 123 TRP  C   :   -0.658:        0
+:  1201: A  38 PHE  O   : A   3 PHE  N   :   -0.653:        0
+:  1201: A  38 PHE  O   : A   2 VAL  HA  :   -0.627:        0
+:  1201: A   5 ARG  HA  : A  38 PHE  CZ  :   -0.625:        0
+:  1201: A   8 LEU  HB2 : A   3 PHE  HB3 :   -0.621:        0
+:  1201: A  40 THR  O   : A  54 GLY  HA2 :   -0.619:        0
+:  1201: A  39 ASN  CB  : A   2 VAL HG22 :   -0.595:        0
+:  1201: A  38 PHE  HB2 : A  37 ASN  O   :   -0.584:        0
+:  1201: A  55 ILE HD11 : A  38 PHE  HA  :   -0.561:        0
+:  1201: A  30 CYS  HG  : A 115 CYS  CB  :   -0.547:        0
+:  1201: A 123 TRP  NE1 : A  30 CYS  HB2 :   -0.528:        0
+:  1201: A  55 ILE HG13 : A  32 ALA  HB1 :   -0.526:        0
+:  1201: A  56 LEU  N   : A  55 ILE  CG2 :   -0.502:        0
+:  1201: A 115 CYS  HB2 : A 111 TRP  CD1 :   -0.489:        0
+:  1201: A   8 LEU  HB2 : A   3 PHE  CB  :   -0.489:        0
+:  1201: A  33 LYS  O   : A  37 ASN  HA  :   -0.482:        0
+:  1201: A   3 PHE  O   : A  38 PHE  CB  :   -0.482:        0
+:  1201: A  56 LEU  N   : A  55 ILE HG23 :   -0.479:        0
+:  1201: A  38 PHE  CE2 : A   5 ARG  CA  :   -0.475:        0
+:  1201: A  34 PHE  N   : A  33 LYS  HG3 :   -0.469:        0
+:  1201: A 115 CYS  CB  : A  30 CYS  SG  :   -0.463:        0
+:  1201: A 123 TRP  HB2 : A 120 VAL  O   :   -0.456:        0
+:  1201: A 111 TRP  O   : A 116 LYS  N   :   -0.449:        0
+:  1201: A  56 LEU HD12 : A  56 LEU  HA  :   -0.447:        0
+:  1201: A   5 ARG  HA  : A  38 PHE  CE2 :   -0.438:        0
+:  1201: A  55 ILE  HB  : A  40 THR HG22 :   -0.437:        0
+:  1201: A   1 LYS  HG2 : A   2 VAL  N   :   -0.435:        0
+:  1201: A   2 VAL  HA  : A  39 ASN  HA  :   -0.434:        0
+:  1201: A 115 CYS  N   : A 111 TRP  O   :   -0.432:        0
+:  1201: A  33 LYS  HG2 : A 123 TRP  CH2 :   -0.426:        0
+:  1201: A   2 VAL HG22 : A  39 ASN  CG  :   -0.423:        0
+:  1201: A 123 TRP  NE1 : A  30 CYS  CB  :   -0.401:        0
+
+:  1201: A  78 ILE  CG1 : A  78 ILE  CG2 :   -0.968:        0
+
+:  1201: A  94 CYS  SG  : A  76 CYS  CB  :   -0.962:        0
+
+:  1201: A  13 LYS  NZ  : A 129 LEU  OXT :   -0.861:        0
+:  1201: A  13 LYS  O   : A  14 ARG  C   :   -0.464:        0
+
+:  1201: A 108 TRP  CA  : A 108 TRP  O   :   -0.717:        0
+:  1201: A 108 TRP  HE3 : A 105 MET  HA  :   -0.424:        0
+
+:  1201: A  25 LEU  O   : A  25 LEU HD23 :   -0.691:        0
+:  1201: A  25 LEU  O   : A  25 LEU  CD2 :   -0.484:        0
+
+:  1201: A   6 CYS  O   : A   9 ALA  HB3 :   -0.668:        0
+
+:  1201: A  58 ILE HD12 : A  83 LEU HD13 :   -0.610:        0
+:  1201: A  91 SER  O   : A  95 ALA  N   :   -0.478:        0
+:  1201: A  83 LEU HD22 : A  91 SER  HA  :   -0.453:        0
+:  1201: A  58 ILE HD12 : A  83 LEU  CD1 :   -0.447:        0
+
+:  1201: A 119 ASP  CG  : A 119 ASP  O   :   -0.581:        0
+
+:  1201: A  93 ASN  HB2 : A  89 THR  O   :   -0.532:        0
+
+:  1201: A  27 ASN  HB2 : A  24 SER  O   :   -0.526:        0
+
+:  1201: A 127 CYS  SG  : A 124 ILE  O   :   -0.520:        0
+:  1201: A 124 ILE  HA  : A 127 CYS  SG  :   -0.491:        0
+:  1201: A 124 ILE  C   : A 127 CYS  SG  :   -0.463:        0
+:  1201: A 124 ILE  CA  : A 127 CYS  SG  :   -0.400:        0
+
+:  1201: A  87 ASP  H   : A  85 SER  C   :   -0.491:        0
+
+:  1201: A  23 TYR  OH  : A 104 GLY  HA3 :   -0.450:        0
+:  1201: A  23 TYR  O   : A  19 ASN  HA  :   -0.404:        0
+#sum2 ::86.59 clashscore : 86.59 clashscore B<40 
+#summary::1201 atoms:1201 atoms B<40:141845 potential dots:8865.0 A^2:104 bumps:104 bumps B<40:-93.38 score

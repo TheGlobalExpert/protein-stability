@@ -1,0 +1,19 @@
+
+:  1297: A   4 PHE  CG  : A   4 PHE  CA  :   -0.968:       19
+:  1297: A   3 ILE  O   : A   4 PHE  CA  :   -0.420:       17
+
+:  1297: A 141 GLN  NE2 : A 141 GLN  CG  :   -0.945:       33
+:  1297: A 141 GLN  CB  : A 141 GLN  C   :   -0.832:       29
+:  1297: A 141 GLN  NE2 : A 141 GLN  CB  :   -0.407:       19
+
+:  1297: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1297: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1297: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1297: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1297: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1297: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1297: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::9.25 clashscore : 5.34 clashscore B<40 
+#summary::1297 atoms:1123 atoms B<40:152027 potential dots:9502.0 A^2:12 bumps:6 bumps B<40:417.2 score

@@ -1,0 +1,15 @@
+
+:  1125: A  33 LEU  CB  : A  33 LEU  CD2 :   -1.094:       14
+
+:  1125: A  64 GLU  CA  : A  63 ALA  C   :   -1.042:       28
+:  1125: A  63 ALA  O   : A  64 GLU  CA  :   -0.521:       17
+
+:  1125: A  35 LYS  CB  : A  35 LYS  N   :   -0.865:       23
+
+:  1125: A   5 GLU  C   : A   5 GLU  N   :   -0.759:       14
+
+:  1125: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1125: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::6.22 clashscore : 6.64 clashscore B<40 
+#summary::1125 atoms:1055 atoms B<40:138552 potential dots:8660.0 A^2:7 bumps:7 bumps B<40:352.5 score

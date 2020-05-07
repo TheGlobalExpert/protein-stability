@@ -1,0 +1,12 @@
+
+:   932: A  90 ILE  O   : A  90 ILE  CA  :   -0.741:       14
+
+:   932: A  22 ALA  O   : A  26 LEU HD13 :   -0.515:       31
+
+:   932: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:   932: A  56 TYR  CE2 : A  54 SER  HB3 :   -0.471:       23
+:   932: A  55 PRO  HA  : A  54 SER  HB2 :   -0.435:       23
+:   932: A  79 VAL  CG1 : A  56 TYR  HB3 :   -0.434:       15
+#sum2 ::6.44 clashscore : 6.54 clashscore B<40 
+#summary::932 atoms:917 atoms B<40:111370 potential dots:6961.0 A^2:6 bumps:6 bumps B<40:356.2 score

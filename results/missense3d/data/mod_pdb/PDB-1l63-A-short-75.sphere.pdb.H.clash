@@ -1,0 +1,15 @@
+
+:  1345: A 151 THR  C   : A 151 THR  N   :   -0.772:       16
+
+:  1345: A  27 ILE  C   : A  27 ILE  N   :   -0.721:       18
+
+:  1345: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1345: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1345: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1345: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1345: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1345: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::5.95 clashscore : 5.60 clashscore B<40 
+#summary::1345 atoms:1250 atoms B<40:161548 potential dots:10100.0 A^2:8 bumps:7 bumps B<40:521.9 score

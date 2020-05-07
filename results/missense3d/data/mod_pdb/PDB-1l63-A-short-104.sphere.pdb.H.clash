@@ -1,0 +1,26 @@
+
+:  1957: A  60 LYS  CA  : A  60 LYS  CG  :   -0.982:       36
+:  1957: A  60 LYS  CG  : A  60 LYS  CE  :   -0.970:       87
+
+:  1957: A  48 LYS  CE  : A  48 LYS  CG  :   -0.970:       25
+:  1957: A  48 LYS  CG  : A  48 LYS  C   :   -0.412:       20
+
+:  1957: A  15 LEU  CG  : A  15 LEU  CA  :   -0.930:       23
+:  1957: A  15 LEU  CA  : A  15 LEU  CD2 :   -0.470:       25
+
+:  1957: A 155 THR  N   : A 154 ARG  CA  :   -0.885:       23
+
+:  1957: A  16 LYS  N   : A  16 LYS  C   :   -0.777:       19
+
+:  1957: A 159 ASP  C   : A 159 ASP  N   :   -0.660:       24
+
+:  1957: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1957: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1957: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1957: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1957: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1957: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::7.66 clashscore : 7.14 clashscore B<40 
+#summary::1957 atoms:1821 atoms B<40:231827 potential dots:14490.0 A^2:15 bumps:13 bumps B<40:681.2 score

@@ -1,0 +1,14 @@
+
+:   800: A  52 VAL  CB  : A  52 VAL  N   :   -0.823:       10
+
+:   800: A  11 ASN  CA  : A  11 ASN  O   :   -0.754:       13
+
+:   800: A  24 SER  N   : A  24 SER  C   :   -0.720:       11
+
+:   800: A   1 MET  SD  : A  50 GLU  HG3 :   -0.567:       21
+
+:   800: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.512:       16
+
+:   800: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.495:       28
+#sum2 ::7.50 clashscore : 7.55 clashscore B<40 
+#summary::800 atoms:795 atoms B<40:95107 potential dots:5944.0 A^2:6 bumps:6 bumps B<40:250.8 score

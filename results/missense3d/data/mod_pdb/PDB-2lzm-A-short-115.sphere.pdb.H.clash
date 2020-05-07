@@ -1,0 +1,28 @@
+
+:  1139: A 142 THR  C   : A 142 THR  CB  :   -0.941:       14
+:  1139: A 142 THR  N   : A 141 GLN  CA  :   -0.792:       20
+:  1139: A 142 THR  C   : A 142 THR  N   :   -0.761:       20
+:  1139: A 142 THR  CB  : A 142 THR  N   :   -0.708:       20
+:  1139: A 142 THR  O   : A 142 THR  CB  :   -0.532:       14
+
+:  1139: A  92 ASP  CG  : A  92 ASP  CA  :   -0.888:       26
+
+:  1139: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1139: A 148 ARG  C   : A 148 ARG  N   :   -0.704:       17
+
+:  1139: A  74 ALA  N   : A  73 ALA  O   :   -0.675:       16
+:  1139: A  73 ALA  O   : A  74 ALA  CA  :   -0.410:       20
+
+:  1139: A 145 ARG  C   : A 145 ARG  CG  :   -0.653:       22
+
+:  1139: A  22 GLU  OE2 : A  22 GLU  OE1 :   -0.528:       57
+
+:  1139: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1139: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1139: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+
+:  1139: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::14.05 clashscore : 11.66 clashscore B<40 
+#summary::1139 atoms:1029 atoms B<40:134898 potential dots:8431.0 A^2:16 bumps:12 bumps B<40:340.7 score

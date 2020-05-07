@@ -1,0 +1,44 @@
+
+:  1580: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1580: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1580: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1580: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1580: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+
+:  1580: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1580: A 163 ASN  N   : A 163 ASN  C   :   -0.805:       67
+:  1580: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1580: A 164 LEU  CD1 : A 164 LEU  N   :   -0.593:       64
+:  1580: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  1580: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1580: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1580: A 163 ASN  C   : A 162 LYS  C   :   -0.495:       67
+:  1580: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+:  1580: A 163 ASN  O   : A 164 LEU  OXT :   -0.425:       65
+
+:  1580: A  88 TYR  OH  : A  88 TYR  CE2 :   -0.750:       31
+
+:  1580: A  40 ASN  N   : A  40 ASN  C   :   -0.723:       36
+
+:  1580: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.650:       48
+:  1580: A  43 LYS  HD3 : A  39 LEU  O   :   -0.441:       42
+
+:  1580: A   5 GLU  OE1 : A   1 MET  HA  :   -0.635:       38
+:  1580: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1580: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1580: A  50 ILE HG22 : A  52 ARG  HG2 :   -0.571:       48
+:  1580: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:  1580: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.496:       48
+:  1580: A  52 ARG  NH1 : A  52 ARG  HG3 :   -0.473:       48
+
+:  1580: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1580: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1580: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1580: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:  1580: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+#sum2 ::19.62 clashscore : 7.09 clashscore B<40 
+#summary::1580 atoms:1411 atoms B<40:186709 potential dots:11670.0 A^2:31 bumps:10 bumps B<40:516.9 score

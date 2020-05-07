@@ -1,0 +1,38 @@
+
+:   830: A 128 GLY  O   : A 123 ARG  NH2 :   -0.930:        0
+:   830: A 123 ARG HH21 : A 128 GLY  HA2 :   -0.453:        0
+
+:   830: A 105 LYS  C   : A 107 PRO  CD  :   -0.928:        0
+:   830: A 107 PRO  HD2 : A 105 LYS  C   :   -0.851:        0
+:   830: A 106 GLY  N   : A 107 PRO  HD2 :   -0.849:        0
+:   830: A 103 PHE  CE2 : A  93 TYR  HB3 :   -0.765:        0
+:   830: A 106 GLY  N   : A 107 PRO  CD  :   -0.745:        0
+:   830: A 105 LYS  C   : A 107 PRO  HD3 :   -0.639:        0
+:   830: A 107 PRO  HD2 : A  89 ALA  HB3 :   -0.637:        0
+:   830: A  89 ALA  HB1 : A 103 PHE  HE1 :   -0.519:        0
+:   830: A 107 PRO  HG2 : A  89 ALA  CB  :   -0.514:        0
+:   830: A 105 LYS  O   : A 107 PRO  HD3 :   -0.493:        0
+:   830: A  89 ALA  HB3 : A 107 PRO  CD  :   -0.474:        0
+:   830: A  89 ALA  HB1 : A 103 PHE  CE1 :   -0.458:        0
+:   830: A 107 PRO  HD2 : A 105 LYS  CA  :   -0.441:        0
+:   830: A 104 HIS  N   : A 107 PRO  HG3 :   -0.415:        0
+
+:   830: A 118 ASP  N   : A 117 GLY  O   :   -0.720:        0
+
+:   830: A  97 THR  OG1 : A  97 THR  CA  :   -0.720:        0
+
+:   830: A 117 GLY  O   : A 118 ASP  CA  :   -0.508:        0
+
+:   830: A 100 ASP  OD2 : A  96 ARG  N   :   -0.616:        0
+:   830: A 100 ASP  OD1 : A 100 ASP  N   :   -0.565:        0
+
+:   830: A  84 VAL  CG1 : A 110 GLN  HG3 :   -0.567:        0
+
+:   830: A 141 VAL  O   : A 142 ASP  CB  :   -0.554:        0
+:   830: A 142 ASP  HB2 : A 141 VAL  O   :   -0.508:        0
+
+:   830: A 132 TYR  HA  : A 120 TRP  O   :   -0.465:        0
+
+:   830: A 111 ILE HG21 : A 114 SER  HB3 :   -0.407:        0
+#sum2 ::31.33 clashscore : 31.33 clashscore B<40 
+#summary::830 atoms:830 atoms B<40:95002 potential dots:5938.0 A^2:26 bumps:26 bumps B<40:142.1 score

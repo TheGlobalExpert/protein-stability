@@ -1,0 +1,10 @@
+
+:  1113: A  94 GLN  CG  : A  94 GLN  OE1 :   -0.737:        9
+
+:  1113: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:  1113: A  29 PRO  HD3 : A  21 LEU HD13 :   -0.431:       12
+
+:  1113: A  35 VAL HG11 : A  32 GLN  OE1 :   -0.408:       11
+#sum2 ::3.59 clashscore : 3.59 clashscore B<40 
+#summary::1113 atoms:1113 atoms B<40:128960 potential dots:8060.0 A^2:4 bumps:4 bumps B<40:414.2 score

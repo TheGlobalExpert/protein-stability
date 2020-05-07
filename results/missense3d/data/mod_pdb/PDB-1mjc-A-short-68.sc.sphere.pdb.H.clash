@@ -1,0 +1,39 @@
+
+:   918: A  42 TYR  H   : A  43 LYS  HD3 :   -0.896:        0
+:   918: A  39 ASN  OD1 : A  40 ASP  N   :   -0.876:        0
+:   918: A  40 ASP  N   : A  39 ASN  CG  :   -0.630:        0
+:   918: A  39 ASN  HA  : A  43 LYS  HG3 :   -0.581:        0
+:   918: A  43 LYS  HD3 : A  42 TYR  N   :   -0.572:        0
+:   918: A  43 LYS  HD2 : A  39 ASN  ND2 :   -0.568:        0
+:   918: A  42 TYR  H   : A  43 LYS  CD  :   -0.538:        0
+:   918: A  43 LYS  HB2 : A  43 LYS  HE3 :   -0.503:        0
+:   918: A  43 LYS  HD3 : A  42 TYR  C   :   -0.502:        0
+:   918: A  39 ASN HD22 : A  43 LYS  HD2 :   -0.448:        0
+:   918: A  43 LYS  HD3 : A  43 LYS  N   :   -0.431:        0
+
+:   918: A  11 TRP  CZ2 : A  20 PHE  HD1 :   -0.744:        0
+:   918: A  19 GLY  HA2 : A  11 TRP  CZ3 :   -0.695:        0
+:   918: A  11 TRP  CH2 : A  19 GLY  HA2 :   -0.604:        0
+:   918: A  11 TRP  CZ2 : A  20 PHE  CD1 :   -0.513:        0
+:   918: A  18 PHE  CE1 : A  11 TRP  HH2 :   -0.432:        0
+:   918: A  20 PHE  HD1 : A  11 TRP  CE2 :   -0.430:        0
+:   918: A  18 PHE  HB2 : A  31 PHE  CE1 :   -0.400:        0
+
+:   918: A  37 ILE HD12 : A  34 PHE  HA  :   -0.543:        0
+
+:   918: A  21 ILE HG21 : A  53 PHE  CE1 :   -0.531:        0
+
+:   918: A  38 GLN HE22 : A  38 GLN  HA  :   -0.525:        0
+:   918: A  38 GLN  CA  : A  38 GLN HE22 :   -0.519:        0
+
+:   918: A  49 GLN  HB2 : A  46 ASP  O   :   -0.468:        0
+
+:   918: A   2 SER  OG  : A   3 GLY  N   :   -0.441:        0
+
+:   918: A  52 SER  HB3 : A  70 LEU HD11 :   -0.439:        0
+
+:   918: A   6 THR  N   : A   5 MET  SD  :   -0.436:        0
+
+:   918: A  25 ASP  OD1 : A  23 PRO  HB2 :   -0.412:        0
+#sum2 ::29.41 clashscore : 29.41 clashscore B<40 
+#summary::918 atoms:918 atoms B<40:105657 potential dots:6604.0 A^2:27 bumps:27 bumps B<40:211.2 score

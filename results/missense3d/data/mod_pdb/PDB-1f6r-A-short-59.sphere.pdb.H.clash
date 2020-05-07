@@ -1,0 +1,20 @@
+
+:  1083: A  85 LEU  CB  : A  85 LEU  CD2 :   -0.980:       28
+:  1083: A  85 LEU  O   : A  89 ILE HG13 :   -0.496:       27
+:  1083: A  85 LEU  CD2 : A  85 LEU  CA  :   -0.414:       28
+
+:  1083: A  29 THR  C   : A  29 THR  CB  :   -0.878:       25
+:  1083: A  29 THR  CG2 : A  29 THR  C   :   -0.492:       25
+
+:  1083: A  30 THR  CA  : A  30 THR  O   :   -0.732:       30
+
+:  1083: A 103 TYR  HD1 : A  99 VAL HG11 :   -0.482:       35
+:  1083: A  99 VAL  O   : A  99 VAL HG12 :   -0.406:       37
+
+:  1083: A  63 ASP  OD2 : A  50 TYR  OH  :   -0.469:       27
+
+:  1083: A  56 ASN  OD1 : A  56 ASN  C   :   -0.469:       45
+
+:  1083: A  48 THR  HA  : A  42 VAL  O   :   -0.404:       29
+#sum2 ::10.16 clashscore : 10.49 clashscore B<40 
+#summary::1083 atoms:953 atoms B<40:128346 potential dots:8022.0 A^2:11 bumps:10 bumps B<40:372.7 score

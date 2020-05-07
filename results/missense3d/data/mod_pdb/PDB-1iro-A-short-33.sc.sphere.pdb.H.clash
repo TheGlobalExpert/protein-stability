@@ -1,0 +1,21 @@
+
+:   782: A  33 ILE HD11 : A  13 TYR  CZ  :   -1.057:        0
+:   782: A  33 ILE HD11 : A  13 TYR  CE1 :   -0.626:        0
+:   782: A  33 ILE HD11 : A  13 TYR  CE2 :   -0.422:        0
+
+:   782: A  37 TRP  CZ2 : A  40 PRO  HD3 :   -0.908:        0
+:   782: A  40 PRO  HD3 : A  37 TRP  HZ2 :   -0.570:        0
+:   782: A  39 CYS  HA  : A  37 TRP  CH2 :   -0.436:        0
+
+:   782: A  11 TYR  HB2 : A  41 LEU HD12 :   -0.866:        0
+:   782: A  11 TYR  HB2 : A  41 LEU  CD1 :   -0.431:        0
+
+:   782: A  51 GLU  OE2 : A   2 LYS  HG3 :   -0.838:        0
+
+:   782: A  42 CYS  SG  : A  44 VAL HG22 :   -0.653:        0
+
+:   782: A  48 GLN  O   : A   7 THR HG23 :   -0.444:        0
+
+:   782: A  15 PRO  HD2 : A  14 ASN  HA  :   -0.407:        0
+#sum2 ::15.35 clashscore : 15.35 clashscore B<40 
+#summary::782 atoms:782 atoms B<40:89035 potential dots:5565.0 A^2:12 bumps:12 bumps B<40:233.1 score

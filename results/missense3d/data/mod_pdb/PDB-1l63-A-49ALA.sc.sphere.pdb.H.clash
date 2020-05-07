@@ -1,0 +1,48 @@
+
+:  1064: A  76 ARG  NH1 : A  73 ALA  HA  :   -1.138:        0
+:  1064: A  73 ALA  CA  : A  76 ARG  NH1 :   -0.809:        0
+:  1064: A  76 ARG  CZ  : A  73 ALA  HA  :   -0.713:        0
+:  1064: A  76 ARG  HB2 : A  76 ARG  CZ  :   -0.663:        0
+:  1064: A  76 ARG  CB  : A  76 ARG  NH2 :   -0.606:        0
+:  1064: A  76 ARG  CZ  : A  76 ARG  CB  :   -0.555:        0
+:  1064: A  76 ARG HH21 : A  76 ARG  HB3 :   -0.526:        0
+:  1064: A  76 ARG  HB3 : A  76 ARG  NH2 :   -0.450:        0
+:  1064: A  76 ARG HH21 : A  76 ARG  CB  :   -0.443:        0
+
+:  1064: A   8 ARG  CB  : A   8 ARG  CD  :   -0.990:        0
+
+:  1064: A   7 LEU  CB  : A   7 LEU  C   :   -0.898:        0
+
+:  1064: A  16 LYS  HE3 : A  57 VAL HG23 :   -0.859:        0
+:  1064: A  16 LYS  HE2 : A  56 GLY  O   :   -0.632:        0
+:  1064: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.619:        0
+:  1064: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.606:        0
+:  1064: A  57 VAL  CG2 : A  16 LYS  HD2 :   -0.530:        0
+:  1064: A  16 LYS  CE  : A  56 GLY  O   :   -0.486:        0
+
+:  1064: A  14 ARG  NH2 : A  18 TYR  HB2 :   -0.777:        0
+:  1064: A  14 ARG  NH2 : A  18 TYR  CB  :   -0.699:        0
+:  1064: A  14 ARG  CZ  : A  18 TYR  HB3 :   -0.417:        0
+
+:  1064: A  54 THR  HA  : A  52 ARG  NH2 :   -0.600:        0
+:  1064: A  52 ARG  CZ  : A  54 THR HG22 :   -0.500:        0
+:  1064: A  52 ARG HH22 : A  54 THR  HA  :   -0.448:        0
+
+:  1064: A 103 VAL  CG1 : A 103 VAL  C   :   -0.565:        0
+
+:  1064: A  26 THR HG22 : A  27 ILE  N   :   -0.563:        0
+:  1064: A  26 THR HG23 : A  31 HIS  C   :   -0.491:        0
+:  1064: A  31 HIS  O   : A  26 THR HG23 :   -0.455:        0
+:  1064: A  27 ILE  N   : A  26 THR  CG2 :   -0.421:        0
+
+:  1064: A  45 GLU  HG2 : A  33 LEU  O   :   -0.545:        0
+
+:  1064: A  67 PHE  CD1 : A  29 ILE HD13 :   -0.526:        0
+:  1064: A  29 ILE HG22 : A  29 ILE  O   :   -0.465:        0
+:  1064: A  67 PHE  HB2 : A  29 ILE HD12 :   -0.452:        0
+
+:  1064: A  20 ASP  OD2 : A  20 ASP  C   :   -0.498:        0
+
+:  1064: A  58 ILE  HB  : A  62 GLU  OE1 :   -0.423:        0
+#sum2 ::31.95 clashscore : 31.95 clashscore B<40 
+#summary::1064 atoms:1064 atoms B<40:123013 potential dots:7688.0 A^2:34 bumps:34 bumps B<40:217.6 score

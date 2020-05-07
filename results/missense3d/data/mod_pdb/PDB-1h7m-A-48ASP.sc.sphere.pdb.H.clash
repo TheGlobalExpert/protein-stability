@@ -1,0 +1,28 @@
+
+:   946: A  80 VAL HG21 : A  18 MET  CE  :   -1.187:        0
+:   946: A  80 VAL  CG2 : A  18 MET  CE  :   -1.090:        0
+:   946: A  80 VAL HG21 : A  18 MET  HE1 :   -1.017:        0
+:   946: A  80 VAL  CG2 : A  18 MET  HE3 :   -0.945:        0
+:   946: A  18 MET  HE1 : A  80 VAL  CG2 :   -0.686:        0
+:   946: A  18 MET  CE  : A  80 VAL HG22 :   -0.634:        0
+:   946: A  70 LEU HD23 : A  80 VAL  O   :   -0.615:        0
+:   946: A  18 MET  HE3 : A  80 VAL HG22 :   -0.547:        0
+:   946: A  18 MET  HE3 : A  80 VAL  CG1 :   -0.416:        0
+
+:   946: A  96 LEU  CB  : A  96 LEU  CD1 :   -0.974:        0
+:   946: A  96 LEU  C   : A  96 LEU  CB  :   -0.890:        0
+
+:   946: A  52 TYR  CZ  : A  28 LYS  HE2 :   -0.650:        0
+:   946: A  24 ILE HG22 : A  28 LYS  HE3 :   -0.511:        0
+
+:   946: A  67 SER  HB2 : A  79 THR  HB  :   -0.538:        0
+
+:   946: A  17 VAL HG21 : A  26 TYR  CE2 :   -0.453:        0
+:   946: A  17 VAL HG21 : A  26 TYR  HE2 :   -0.435:        0
+
+:   946: A  64 GLU  OE1 : A  39 ARG  HD2 :   -0.445:        0
+:   946: A  64 GLU  OE1 : A  39 ARG  NH2 :   -0.400:        0
+
+:   946: A  36 ILE  O   : A  82 ALA  HA  :   -0.407:        0
+#sum2 ::20.08 clashscore : 20.08 clashscore B<40 
+#summary::946 atoms:946 atoms B<40:111359 potential dots:6960.0 A^2:19 bumps:19 bumps B<40:248.2 score

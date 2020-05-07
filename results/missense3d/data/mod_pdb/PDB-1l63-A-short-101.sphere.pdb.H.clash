@@ -1,0 +1,25 @@
+
+:  1981: A  18 TYR  C   : A  18 TYR  CB  :   -0.880:       19
+
+:  1981: A  35 LYS  CB  : A  35 LYS  N   :   -0.848:       23
+
+:  1981: A 123 GLN  C   : A 123 GLN  N   :   -0.760:       36
+:  1981: A 123 GLN  N   : A 124 LYS  N   :   -0.419:       22
+
+:  1981: A  14 ARG  NH1 : A  14 ARG  NE  :   -0.746:       60
+:  1981: A  14 ARG  CD  : A  14 ARG  NH1 :   -0.443:       39
+
+:  1981: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1981: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1981: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1981: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1981: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1981: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1981: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1981: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::7.07 clashscore : 6.06 clashscore B<40 
+#summary::1981 atoms:1816 atoms B<40:228409 potential dots:14280.0 A^2:14 bumps:11 bumps B<40:770.2 score

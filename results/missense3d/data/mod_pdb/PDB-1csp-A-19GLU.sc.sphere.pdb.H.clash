@@ -1,0 +1,38 @@
+
+:   890: A   8 TRP  CH2 : A  16 GLY  HA2 :   -1.071:        0
+:   890: A  16 GLY  HA2 : A   8 TRP  CZ3 :   -0.805:        0
+:   890: A  17 PHE  HD1 : A   8 TRP  CZ2 :   -0.619:        0
+:   890: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.525:        0
+:   890: A  16 GLY  HA2 : A   8 TRP  CZ2 :   -0.519:        0
+:   890: A  16 GLY  CA  : A   8 TRP  CZ3 :   -0.482:        0
+
+:   890: A  22 GLY  O   : A  23 GLN  HG2 :   -1.038:        0
+:   890: A  23 GLN  HG2 : A  22 GLY  C   :   -0.452:        0
+
+:   890: A  54 GLY  CA  : A  54 GLY  O   :   -0.790:        0
+
+:   890: A  12 GLU  N   : A  12 GLU  C   :   -0.762:        0
+
+:   890: A  66 GLU  HG3 : A  48 SER  OG  :   -0.745:        0
+
+:   890: A  39 LYS  N   : A  38 PHE  O   :   -0.741:        0
+:   890: A  39 LYS  CA  : A  38 PHE  O   :   -0.481:        0
+
+:   890: A  51 ILE HD11 : A  26 VAL HG21 :   -0.619:        0
+
+:   890: A  44 GLY  O   : A   5 LYS  HE3 :   -0.615:        0
+:   890: A  44 GLY  O   : A   5 LYS  CE  :   -0.433:        0
+
+:   890: A   1 MET  SD  : A  50 GLU  HG3 :   -0.614:        0
+
+:   890: A  49 PHE  CE1 : A  18 ILE HG21 :   -0.553:        0
+
+:   890: A  65 LYS  HA  : A  47 VAL HG12 :   -0.497:        0
+
+:   890: A  30 PHE  CD1 : A  30 PHE  C   :   -0.470:        0
+
+:   890: A  43 GLU  HG3 : A   7 LYS  O   :   -0.469:        0
+
+:   890: A  41 LEU  HB3 : A   6 VAL HG21 :   -0.415:        0
+#sum2 ::24.72 clashscore : 24.72 clashscore B<40 
+#summary::890 atoms:890 atoms B<40:103638 potential dots:6477.0 A^2:22 bumps:22 bumps B<40:161.4 score

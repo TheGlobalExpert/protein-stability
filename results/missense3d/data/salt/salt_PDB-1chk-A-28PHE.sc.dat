@@ -1,0 +1,33 @@
+
+______________________________________________
+
+SECONDARY STRUCTURE INFORMATION
+-------------------------------
+NO OF HELICES and RESIDUE  =      0     0
+NO OF STRANDS and RESIDUE  =      0     0
+NO OF TURNS   and RESIDUE  =      0     0
+______________________________________________
+Setting cut-off distance to     5.000
+$SALTB    1 ASP A   6 .   LYS A 131        . OD2  NZ       3.528  $INTRA $NO
+$SALTB    2 GLU A  12 .   HIS A   9        . OE1  ND1      4.249  $INTRA $NO
+$SALTB    3 GLU A  22 .   ARG A 205        . OE1  NE       4.968  $INTRA $NO
+$SALTB    4 ASP A  37 .   HIS A  90        . OD1  NE2      4.441  $INTRA $NO
+$SALTB    5 ASP A  40 .   ARG A  42        . OD1  NE       4.093  $INTRA $NO
+$SALTB    6 GLU A  60 .   ARG A 120        . OE1  NE       4.958  $INTRA $NO
+$SALTB    7 ASP A  67 .   HIS A  64        . OD2  ND1      4.946  $INTRA $NO
+$SALTB    8 ASP A 100 .   LYS A  76        . OD1  NZ       4.673  $INTRA $NO
+$SALTB    9 ASP A 116 .   HIS A  64        . OD1  NE2      4.670  $INTRA $NO
+$SALTB   10 GLU A 117 .   HIS A  64        . OE2  ND1      4.793  $INTRA $NO
+$SALTB   11 GLU A 117 .   ARG A 120        . OE1  NE       4.703  $INTRA $NO
+$SALTB   12 ASP A 119 .   LYS A  11        . OD1  NZ       3.374  $INTRA $NO
+$SALTB   13 ASP A 119 .   ARG A 118        . OD1  NE       4.111  $INTRA $NO
+$SALTB   14 ASP A 124 .   LYS A  11        . OD1  NZ       4.748  $INTRA $NO
+$SALTB   15 ASP A 133 .   ARG A 163        . OD1  NE       4.821  $INTRA $NO
+$SALTB   16 ASP A 145 .   ARG A 190        . OD1  NH1      4.662  $INTRA $NO
+$SALTB   17 ASP A 145 .   ARG A 205        . OD1  NE       3.663  $INTRA $NO
+$SALTB   18 GLU A 179 .   ARG A 136        . OE1  NE       3.467  $INTRA $NO
+$SALTB   19 ASP A 188 .   ARG A 211        . OD1  NE       4.811  $INTRA $NO
+$SALTB   20 GLU A 197 .   HIS A 150        . OE1  NE2      4.064  $INTRA $NO
+$SALTB   21 ASP A 201 .   ARG A 205        . OD2  NH2      4.961  $INTRA $NO
+$SALTB   22 ASP A 207 .   LYS A 191        . OD1  NZ       3.726  $INTRA $NO
+$SALTB   23 ASP A 220 .   ARG A 136        . OD1  NE       4.527  $INTRA $NO

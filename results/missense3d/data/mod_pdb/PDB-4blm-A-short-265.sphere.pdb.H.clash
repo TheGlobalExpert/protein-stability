@@ -1,0 +1,48 @@
+
+:  1913: A 271 ASP  HB2 : A 269 LYS  NZ  :   -1.183:       41
+:  1913: A 271 ASP  HB2 : A 269 LYS  HZ1 :   -0.853:       41
+:  1913: A 271 ASP  H   : A 269 LYS  HE2 :   -0.815:       39
+:  1913: A 271 ASP  HB2 : A 269 LYS  HZ3 :   -0.777:       41
+:  1913: A 269 LYS  CE  : A 271 ASP  H   :   -0.658:       39
+:  1913: A 269 LYS  HZ1 : A 271 ASP  CB  :   -0.592:       41
+:  1913: A 269 LYS  NZ  : A 271 ASP  CB  :   -0.570:       41
+:  1913: A 269 LYS  O   : A 241 TYR  HA  :   -0.557:       21
+:  1913: A 241 TYR  HB2 : A 240 SER  O   :   -0.452:       12
+:  1913: A 271 ASP  H   : A 269 LYS  CD  :   -0.417:       38
+:  1913: A 272 ALA  N   : A 269 LYS  HD3 :   -0.409:       38
+:  1913: A 269 LYS  HE2 : A 271 ASP  N   :   -0.405:       39
+
+:  1913: A 164 ARG  CD  : A 164 ARG  CB  :   -0.961:       10
+
+:  1913: A 290 LEU  CB  : A 290 LEU  N   :   -0.849:       27
+
+:  1913: A 260 VAL HG22 : A 187 VAL  HB  :   -0.638:        9
+:  1913: A 260 VAL  CG2 : A 187 VAL  HB  :   -0.479:        9
+
+:  1913: A 220 LEU  N   : A 220 LEU HD12 :   -0.577:       16
+:  1913: A 220 LEU  N   : A 220 LEU  CD1 :   -0.409:       16
+
+:  1913: A  43 LYS  O   : A 265 SER  HA  :   -0.565:        7
+:  1913: A 265 SER  O   : A 243 THR  HA  :   -0.422:        8
+:  1913: A 243 THR  O   : A 237 ALA  HA  :   -0.413:        9
+
+:  1913: A  62 PRO  CD  : A  61 ARG  N   :   -0.556:        5
+
+:  1913: A 167 PRO  CA  : A 166 GLU  CA  :   -0.551:        8
+
+:  1913: A 273 LYS  CD  : A 273 LYS  H   :   -0.537:       35
+:  1913: A 273 LYS  H   : A 273 LYS  CE  :   -0.519:       35
+
+:  1913: A  46 ILE HD13 : A  33 PHE  CE1 :   -0.531:       14
+
+:  1913: A  41 ASP  HB3 : A 267 ARG HH21 :   -0.476:       31
+
+:  1913: A 248 ALA  C   : A 249 ILE HG13 :   -0.436:       17
+
+:  1913: A  35 LYS  NZ  : A  35 LYS  CB  :   -0.421:       33
+
+:  1913: A 261 LEU HD13 : A  48 ALA  HB2 :   -0.415:        5
+
+:  1913: A  72 ILE  HB  : A  68 PHE  CD1 :   -0.410:        3
+#sum2 ::16.20 clashscore : 13.71 clashscore B<40 
+#summary::1913 atoms:1897 atoms B<40:226393 potential dots:14150.0 A^2:31 bumps:26 bumps B<40:691.1 score

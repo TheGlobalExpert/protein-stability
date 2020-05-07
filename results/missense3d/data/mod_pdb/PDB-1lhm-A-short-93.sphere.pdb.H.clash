@@ -1,0 +1,29 @@
+
+:  1600: A 115 ARG  CB  : A 115 ARG  C   :   -0.990:       16
+
+:  1600: A 113 ARG  CA  : A 113 ARG  CG  :   -0.933:       18
+:  1600: A 113 ARG  CG  : A 113 ARG  NE  :   -0.893:       24
+:  1600: A 113 ARG  NH2 : A 113 ARG  NE  :   -0.802:       29
+
+:  1600: A  51 SER  CB  : A  51 SER  C   :   -0.828:       13
+
+:  1600: A 129 GLY  C   : A 129 GLY  N   :   -0.742:       19
+
+:  1600: A  13 LYS  HE2 : A 130 VAL  OXT :   -0.564:       26
+
+:  1600: A  64 TRP  O   : A  77 ALA  HB3 :   -0.498:       24
+:  1600: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.479:       24
+:  1600: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.429:       15
+:  1600: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.400:       17
+
+:  1600: A  53 ASP  HB3 : A  58 GLN  HB3 :   -0.461:       12
+
+:  1600: A  33 LYS  HG2 : A 124 TYR  HE1 :   -0.438:       20
+
+:  1600: A  97 LYS  O   : A 101 ARG  HG3 :   -0.416:       16
+
+:  1600: A 112 TRP  CD1 : A 116 CYS  HB2 :   -0.411:       12
+
+:  1600: A 107 ARG  NH1 : A 107 ARG  CD  :   -0.406:       23
+#sum2 ::10.00 clashscore : 10.01 clashscore B<40 
+#summary::1600 atoms:1599 atoms B<40:189173 potential dots:11820.0 A^2:16 bumps:16 bumps B<40:575.1 score

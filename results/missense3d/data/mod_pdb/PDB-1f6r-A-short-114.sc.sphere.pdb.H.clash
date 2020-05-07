@@ -1,0 +1,29 @@
+
+:   750: A   7 GLU  C   : A   7 GLU  N   :   -0.800:        0
+:   750: A  31 PHE  HB2 : A  36 TYR  CZ  :   -0.713:        0
+:   750: A 118 TRP  HH2 : A  31 PHE  CD2 :   -0.647:        0
+:   750: A  36 TYR  OH  : A  31 PHE  HB2 :   -0.519:        0
+:   750: A 118 TRP  CD1 : A  28 CYS  HB2 :   -0.510:        0
+:   750: A   7 GLU  N   : A   8 VAL  N   :   -0.435:        0
+:   750: A   8 VAL HG21 : A  36 TYR  CD2 :   -0.417:        0
+:   750: A 118 TRP  CG  : A  28 CYS  HB2 :   -0.407:        0
+:   750: A  31 PHE  HB2 : A  36 TYR  CE2 :   -0.405:        0
+:   750: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.403:        0
+
+:   750: A  13 LYS  CA  : A  13 LYS  O   :   -0.755:        0
+:   750: A  13 LYS  O   : A  16 LYS  HB2 :   -0.583:        0
+:   750: A  23 LEU  HG  : A  16 LYS  CG  :   -0.455:        0
+:   750: A  23 LEU  HA  : A  23 LEU HD23 :   -0.417:        0
+
+:   750: A  34 SER  CA  : A  34 SER  OG  :   -0.716:        0
+
+:   750: A 116 ASP  HA  : A 119 LEU HD23 :   -0.479:        0
+:   750: A 116 ASP  O   : A 119 LEU  HB2 :   -0.476:        0
+
+:   750: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.427:        0
+
+:   750: A  27 VAL HG21 : A   9 PHE  HD1 :   -0.406:        0
+
+:   750: A 107 HIS  CG  : A 101 ILE HG13 :   -0.400:        0
+#sum2 ::26.67 clashscore : 26.67 clashscore B<40 
+#summary::750 atoms:750 atoms B<40:91042 potential dots:5690.0 A^2:20 bumps:20 bumps B<40:155 score

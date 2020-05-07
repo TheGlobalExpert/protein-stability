@@ -1,0 +1,40 @@
+
+:  1713: A  34 TRP  CZ3 : A  34 TRP  CZ2 :   -0.933:       49
+
+:  1713: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:  1713: A 112 TRP  HH2 : A 107 ARG HH12 :   -0.762:      106
+:  1713: A 107 ARG  NH1 : A 112 TRP  CZ3 :   -0.738:      106
+:  1713: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+:  1713: A 112 TRP  HZ3 : A 107 ARG HH11 :   -0.478:      106
+
+:  1713: A 111 ALA  O   : A 115 ARG  HG2 :   -0.767:       46
+
+:  1713: A  73 ALA  HA  : A  62 ARG  O   :   -0.639:       45
+:  1713: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:  1713: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1713: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1713: A  71 PRO  O   : A  72 GLY  CA  :   -0.616:       55
+
+:  1713: A  74 VAL HG12 : A  74 VAL  O   :   -0.573:       68
+:  1713: A  74 VAL  CG1 : A  74 VAL  O   :   -0.509:       68
+
+:  1713: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.495:       22
+:  1713: A  84 LEU HD22 : A  92 ALA  HA  :   -0.465:       22
+
+:  1713: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1713: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1713: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1713: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+:  1713: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:  1713: A  52 THR  HB  : A  54 TYR  CE2 :   -0.421:       15
+
+:  1713: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:  1713: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.402:       88
+#sum2 ::14.01 clashscore : 5.84 clashscore B<40 
+#summary::1713 atoms:1542 atoms B<40:197954 potential dots:12370.0 A^2:24 bumps:9 bumps B<40:641.3 score

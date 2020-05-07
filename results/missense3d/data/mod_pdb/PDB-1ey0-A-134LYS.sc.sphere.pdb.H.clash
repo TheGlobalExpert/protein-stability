@@ -1,0 +1,18 @@
+
+:   666: A  38 LEU  CB  : A  38 LEU  C   :   -0.907:        0
+
+:   666: A  54 TYR  CD2 : A 139 ILE HD13 :   -0.888:        0
+:   666: A  53 LYS  O   : A  54 TYR  HB2 :   -0.615:        0
+:   666: A  54 TYR  CD2 : A 139 ILE  CD1 :   -0.570:        0
+:   666: A 139 ILE  HA  : A 139 ILE HD13 :   -0.475:        0
+
+:   666: A 140 TRP  CH2 : A 110 LYS  HE2 :   -0.722:        0
+:   666: A 129 GLU  O   : A 133 LYS  HG3 :   -0.689:        0
+:   666: A 133 LYS  HG2 : A 140 TRP  CE2 :   -0.636:        0
+:   666: A 140 TRP  CD2 : A 133 LYS  HG2 :   -0.519:        0
+
+:   666: A  41 THR HG22 : A 109 ALA  HB2 :   -0.710:        0
+
+:   666: A 106 GLN  O   : A 138 ASN  ND2 :   -0.451:        0
+#sum2 ::16.52 clashscore : 16.52 clashscore B<40 
+#summary::666 atoms:666 atoms B<40:78610 potential dots:4913.0 A^2:11 bumps:11 bumps B<40:175.6 score

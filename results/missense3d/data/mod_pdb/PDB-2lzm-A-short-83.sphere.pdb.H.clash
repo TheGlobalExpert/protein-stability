@@ -1,0 +1,18 @@
+
+:  1027: A 135 LYS  CB  : A 135 LYS  C   :   -1.057:       28
+:  1027: A 135 LYS  N   : A 135 LYS  CB  :   -0.995:       28
+:  1027: A 135 LYS  C   : A 135 LYS  N   :   -0.751:       16
+:  1027: A 135 LYS  O   : A 135 LYS  CB  :   -0.678:       28
+:  1027: A 135 LYS  N   : A 134 ALA  N   :   -0.419:       18
+
+:  1027: A   7 LEU  CD1 : A   7 LEU  CD2 :   -0.922:       13
+
+:  1027: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1027: A 150 ILE  O   : A 150 ILE  CA  :   -0.697:       21
+
+:  1027: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1027: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::9.74 clashscore : 9.70 clashscore B<40 
+#summary::1027 atoms:928 atoms B<40:123365 potential dots:7710.0 A^2:10 bumps:9 bumps B<40:295.5 score

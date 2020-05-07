@@ -1,0 +1,36 @@
+
+:  1315: A  40 ASN  CA  : A  39 LEU  C   :   -1.047:       39
+:  1315: A  39 LEU  CG  : A  39 LEU  CA  :   -0.862:       27
+:  1315: A  39 LEU  CA  : A  39 LEU  CD2 :   -0.587:       42
+:  1315: A  40 ASN  CA  : A  39 LEU  O   :   -0.544:       39
+:  1315: A  43 LYS  HD3 : A  39 LEU  O   :   -0.441:       42
+
+:  1315: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1315: A  21 THR  CA  : A  22 GLU  N   :   -0.897:       42
+:  1315: A  22 GLU  CB  : A  22 GLU  N   :   -0.823:       42
+:  1315: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1315: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1315: A  22 GLU  N   : A  21 THR  N   :   -0.540:       42
+:  1315: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+
+:  1315: A  79 LEU  CB  : A  79 LEU  N   :   -0.768:       23
+
+:  1315: A  23 GLY  N   : A  23 GLY  C   :   -0.754:       40
+
+:  1315: A  36 SER  CA  : A  36 SER  O   :   -0.738:       29
+
+:  1315: A  98 ALA  N   : A  98 ALA  C   :   -0.718:       20
+
+:  1315: A  50 ILE HG22 : A  52 ARG  HG2 :   -0.571:       48
+:  1315: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:  1315: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.496:       48
+:  1315: A  52 ARG  NH1 : A  52 ARG  HG3 :   -0.473:       48
+
+:  1315: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1315: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:  1315: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+
+:  1315: A   1 MET  C   : A   1 MET  CG  :   -0.407:       30
+#sum2 ::18.25 clashscore : 10.32 clashscore B<40 
+#summary::1315 atoms:1163 atoms B<40:157238 potential dots:9827.0 A^2:24 bumps:12 bumps B<40:375.6 score

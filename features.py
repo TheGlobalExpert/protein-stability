@@ -10,7 +10,7 @@ print(data)
 
 labels = "Disulphide breakage,Buried Pro introduced,Clash,Buried hydropilic introduced,Buried charge introduced,Secondary structure altered,Buried charge switch,Disallowed phi/psi,Buried charge replaced,Buried Gly replaced,Buried H-bond breakage,Buried salt bridge breakage,Cavity altered,Buried / exposed switch,Cis pro replaced,Gly in a bend".split(",")
 
-thresholds = [1.0, 1.5 ,2.0]
+thresholds = [1.0, 2.0, 3.0]
 
 plot_threshold = False
 plot_combined = False
@@ -172,22 +172,23 @@ if plot_abs == True:
         print(FPR_sig)
         print(TPR_sig)
 
+        """
         for i, ratio in enumerate(ratios):
             if FPR_sig[i] == True and TPR_sig[i] == True:
                 ax2.scatter(marker_x[i], ratio)
                 ax2.text(marker_x[i], ratio, str(round(ratio, 1)),
                          bbox={'facecolor': 'white', 'alpha': 0.2, 'edgecolor': 'black', 'pad': 1.5}, ha='center',
                          va='center')
-
         """
+
         for i, ratio in enumerate(ratios):
             ax2.text(marker_x[i], ratio, str(round(ratio,1)),
                 bbox={'facecolor':'white','alpha':0.2,'edgecolor':'black','pad':1.5}, ha='center', va='center')
-        """
+
 
     ax1.text(15, 42, "Solid bar = True Positives\nLight bar = False Positives", ha='center', va='center')
     ax2.set_ylim(bottom=0)
-    plt.title("Absolute number of structural features observed (HotMusic dataset)")
+    plt.title("Absolute number of structural features observed (HotMusic+ProTherm)")
     leg = ax1.legend(loc=2, title="\u0394\u0394G threshold\n    (kcal/mol)")
     #leg._legend_box.align = "right"
     fig.tight_layout()

@@ -1,0 +1,27 @@
+
+:   882: A 128 GLY  O   : A 123 ARG  NH2 :   -0.930:        0
+:   882: A 128 GLY  HA2 : A 123 ARG HH21 :   -0.453:        0
+
+:   882: A 104 HIS  H   : A 107 GLU  CD  :   -0.878:        0
+:   882: A 103 PHE  CE2 : A  93 TYR  HB3 :   -0.765:        0
+:   882: A 107 GLU  OE1 : A 103 PHE  HB2 :   -0.521:        0
+:   882: A  89 ALA  HB1 : A 103 PHE  HE1 :   -0.519:        0
+:   882: A 103 PHE  CE1 : A  89 ALA  HB1 :   -0.458:        0
+:   882: A 107 GLU  OE2 : A 104 HIS  N   :   -0.412:        0
+
+:   882: A 100 ASP  OD2 : A  96 ARG  N   :   -0.616:        0
+:   882: A 100 ASP  OD1 : A 100 ASP  N   :   -0.565:        0
+
+:   882: A  84 VAL  CG1 : A 110 GLN  HG3 :   -0.567:        0
+
+:   882: A 141 VAL  O   : A 142 ASP  CB  :   -0.554:        0
+:   882: A 142 ASP  HB2 : A 141 VAL  O   :   -0.508:        0
+
+:   882: A 116 GLU  O   : A 116 GLU  CG  :   -0.537:        0
+:   882: A 116 GLU  O   : A 116 GLU  HG2 :   -0.463:        0
+
+:   882: A 120 TRP  O   : A 132 TYR  HA  :   -0.465:        0
+
+:   882: A 114 SER  HB3 : A 111 ILE HG21 :   -0.407:        0
+#sum2 ::19.27 clashscore : 19.27 clashscore B<40 
+#summary::882 atoms:882 atoms B<40:100229 potential dots:6264.0 A^2:17 bumps:17 bumps B<40:204.8 score

@@ -1,0 +1,34 @@
+
+:   670: A  98 ARG  HD3 : A 101 ARG  NH1 :   -0.866:        0
+:   670: A  98 ARG  CD  : A 101 ARG  NH1 :   -0.822:        0
+:   670: A  98 ARG  O   : A  98 ARG  NH2 :   -0.576:        0
+:   670: A 101 ARG  NH1 : A  98 ARG  HD2 :   -0.490:        0
+
+:   670: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:   670: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:   670: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:   670: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:   670: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:   670: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:   670: A 110 VAL  CB  : A 110 VAL  N   :   -0.796:        0
+:   670: A 110 VAL  CG2 : A 110 VAL  N   :   -0.434:        0
+
+:   670: A 107 ARG  O   : A 108 ALA  N   :   -0.707:        0
+
+:   670: A  62 ARG  NH1 : A  49 ASP  O   :   -0.704:        0
+:   670: A  62 ARG HH22 : A  49 ASP  CG  :   -0.679:        0
+:   670: A  73 ALA  HA  : A  62 ARG  O   :   -0.665:        0
+:   670: A  62 ARG  NH2 : A  49 ASP  CG  :   -0.603:        0
+:   670: A  49 ASP  OD2 : A  62 ARG  NH2 :   -0.519:        0
+:   670: A  51 SER  HB3 : A  62 ARG  NH2 :   -0.517:        0
+:   670: A  49 ASP  OD1 : A  49 ASP  C   :   -0.417:        0
+
+:   670: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.560:        0
+
+:   670: A  74 VAL HG12 : A  74 VAL  O   :   -0.505:        0
+:   670: A  74 VAL  O   : A  74 VAL  CG1 :   -0.496:        0
+
+:   670: A  52 THR  HB  : A  54 TYR  CE2 :   -0.476:        0
+#sum2 ::35.82 clashscore : 35.82 clashscore B<40 
+#summary::670 atoms:670 atoms B<40:82094 potential dots:5131.0 A^2:24 bumps:24 bumps B<40:136.6 score

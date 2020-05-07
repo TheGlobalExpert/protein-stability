@@ -1,0 +1,21 @@
+
+:  1052: A  10 ALA  CA  : A  11 GLN  N   :   -0.883:       18
+
+:  1052: A  80 VAL HG21 : A  18 MET  CE  :   -0.825:       31
+:  1052: A  80 VAL  CG2 : A  18 MET  CE  :   -0.761:       31
+:  1052: A  80 VAL HG21 : A  18 MET  HE1 :   -0.745:       31
+:  1052: A  80 VAL  CG2 : A  18 MET  HE3 :   -0.687:       31
+
+:  1052: A  93 ILE HD13 : A  85 VAL HG21 :   -0.643:       27
+
+:  1052: A  42 ARG HH11 : A  42 ARG  HD3 :   -0.436:       14
+
+:  1052: A  96 LEU HD22 : A  61 TYR  CE2 :   -0.435:       30
+
+:  1052: A  79 THR  H   : A  79 THR HG23 :   -0.430:       33
+
+:  1052: A   1 VAL  O   : A   1 VAL HG12 :   -0.425:       30
+
+:  1052: A  73 LEU HD12 : A  73 LEU  HA  :   -0.413:       30
+#sum2 ::10.46 clashscore : 10.76 clashscore B<40 
+#summary::1052 atoms:1022 atoms B<40:124609 potential dots:7788.0 A^2:11 bumps:11 bumps B<40:353.7 score

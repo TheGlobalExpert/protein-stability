@@ -1,0 +1,20 @@
+
+:  1526: A   4 PHE  CZ  : A   4 PHE  CD2 :   -1.011:       18
+
+:  1526: A  85 LYS  CD  : A  85 LYS  NZ  :   -0.830:       42
+:  1526: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1526: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1526: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1526: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1526: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1526: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1526: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1526: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+
+:  1526: A  71 VAL  CA  : A  70 ASP  O   :   -0.404:       17
+#sum2 ::7.21 clashscore : 5.64 clashscore B<40 
+#summary::1526 atoms:1418 atoms B<40:175632 potential dots:10980.0 A^2:11 bumps:8 bumps B<40:610.5 score

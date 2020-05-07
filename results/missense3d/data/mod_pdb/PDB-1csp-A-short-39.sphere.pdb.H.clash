@@ -1,0 +1,10 @@
+
+:   807: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   807: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   807: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   807: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+#sum2 ::4.96 clashscore : 4.66 clashscore B<40 
+#summary::807 atoms:644 atoms B<40:93817 potential dots:5864.0 A^2:4 bumps:3 bumps B<40:254.4 score

@@ -1,0 +1,19 @@
+
+:   594: A  36 VAL  HB  : A  39 LYS  HG3 :   -0.770:       21
+:   594: A  36 VAL  HB  : A  39 LYS  CG  :   -0.528:       21
+
+:   594: A  26 THR  OG1 : A  29 GLU  HG3 :   -0.696:       21
+:   594: A  29 GLU  O   : A  33 LEU  HG  :   -0.434:       13
+
+:   594: A  49 LYS  HD2 : A  25 ILE HG23 :   -0.619:       22
+:   594: A  23 ASN  O   : A  49 LYS  HD3 :   -0.568:       22
+:   594: A  25 ILE  O   : A  51 ILE  HA  :   -0.445:       14
+:   594: A  46 ALA  HB1 : A  49 LYS  HG3 :   -0.439:       19
+:   594: A  49 LYS  HD2 : A  25 ILE  CG2 :   -0.423:       22
+:   594: A  46 ALA  N   : A  47 PRO  HD3 :   -0.404:       13
+
+:   594: A  50 SER  O   : A  24 TYR  HA  :   -0.514:       15
+
+:   594: A  42 LEU HD23 : A  78 TYR  CE2 :   -0.437:        9
+#sum2 ::20.20 clashscore : 20.20 clashscore B<40 
+#summary::594 atoms:594 atoms B<40:71399 potential dots:4462.0 A^2:12 bumps:12 bumps B<40:155.9 score

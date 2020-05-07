@@ -1,0 +1,46 @@
+
+:   801: A  25 THR  O   : A  29 PRO  CD  :   -1.479:        0
+:   801: A  29 PRO  HD3 : A  25 THR  O   :   -1.091:        0
+:   801: A  25 THR  O   : A  29 PRO  HD2 :   -1.008:        0
+:   801: A  26 ALA  C   : A  29 PRO  HD2 :   -0.830:        0
+:   801: A  25 THR  O   : A  29 PRO  CG  :   -0.820:        0
+:   801: A  28 LYS  HB2 : A  29 PRO  HD3 :   -0.788:        0
+:   801: A  28 LYS  N   : A  29 PRO  CD  :   -0.558:        0
+:   801: A  29 PRO  HD2 : A  26 ALA  O   :   -0.517:        0
+:   801: A  29 PRO  HD2 : A  26 ALA  CA  :   -0.412:        0
+
+:   801: A  52 PHE  CE1 : A  45 TYR  CD1 :   -1.112:        0
+:   801: A  52 PHE  CE1 : A  45 TYR  CE1 :   -1.052:        0
+:   801: A  52 PHE  CZ  : A  45 TYR  CD1 :   -1.030:        0
+:   801: A  52 PHE  CD1 : A  45 TYR  CD1 :   -0.640:        0
+:   801: A  45 TYR  HD1 : A  52 PHE  CD1 :   -0.639:        0
+:   801: A  45 TYR  CE1 : A  52 PHE  CZ  :   -0.603:        0
+:   801: A  45 TYR  HB2 : A  52 PHE  CE2 :   -0.577:        0
+:   801: A  45 TYR  CE1 : A  52 PHE  HE1 :   -0.551:        0
+:   801: A  52 PHE  CZ  : A  45 TYR  CG  :   -0.527:        0
+:   801: A  45 TYR  CD1 : A  52 PHE  CE2 :   -0.466:        0
+:   801: A  45 TYR  HB2 : A  52 PHE  CD2 :   -0.433:        0
+
+:   801: A  11 THR  CB  : A  11 THR  C   :   -0.899:        0
+:   801: A  11 THR  N   : A  11 THR  CB  :   -0.799:        0
+:   801: A  11 THR  N   : A  11 THR  C   :   -0.657:        0
+
+:   801: A  15 GLU  CD  : A   4 LYS  HD2 :   -0.820:        0
+:   801: A   4 LYS  HD2 : A  15 GLU  OE2 :   -0.781:        0
+:   801: A  15 GLU  CG  : A   4 LYS  HD2 :   -0.555:        0
+:   801: A   4 LYS  CD  : A  15 GLU  CD  :   -0.545:        0
+:   801: A   3 TYR  O   : A  17 THR  HA  :   -0.446:        0
+:   801: A  15 GLU  OE2 : A   4 LYS  CD  :   -0.414:        0
+:   801: A   4 LYS  HA  : A  17 THR  HA  :   -0.403:        0
+
+:   801: A  43 TRP  CE2 : A  54 VAL  HB  :   -0.535:        0
+:   801: A  53 THR  O   : A  43 TRP  HA  :   -0.442:        0
+:   801: A   6 ILE  O   : A  53 THR  HA  :   -0.401:        0
+
+:   801: A  13 LYS  N   : A  12 LEU HD22 :   -0.433:        0
+
+:   801: A  21 VAL HG22 : A  21 VAL  H   :   -0.429:        0
+
+:   801: A  55 THR HG23 : A   8 ASN  OD1 :   -0.425:        0
+#sum2 ::44.94 clashscore : 44.94 clashscore B<40 
+#summary::801 atoms:801 atoms B<40:92253 potential dots:5766.0 A^2:36 bumps:36 bumps B<40:36.06 score

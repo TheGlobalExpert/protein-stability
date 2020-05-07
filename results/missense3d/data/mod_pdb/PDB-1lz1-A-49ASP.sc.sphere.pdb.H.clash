@@ -1,0 +1,33 @@
+
+:   643: A 107 ARG  O   : A 113 ARG  CZ  :   -0.888:        0
+:   643: A 113 ARG  NH1 : A 104 GLN  OE1 :   -0.844:        0
+:   643: A 107 ARG  O   : A 113 ARG  NH1 :   -0.507:        0
+
+:   643: A  77 CYS  CA  : A  78 HIS  N   :   -0.853:        0
+
+:   643: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:   643: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:   643: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:   643: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:   643: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:   643: A  84 LEU  O   : A  84 LEU  CA  :   -0.780:        0
+
+:   643: A  79 LEU  C   : A  79 LEU  N   :   -0.741:        0
+
+:   643: A  35 GLU  N   : A  34 TRP  O   :   -0.723:        0
+:   643: A  35 GLU  CA  : A  34 TRP  O   :   -0.526:        0
+:   643: A  35 GLU  OE2 : A 111 ALA  HB3 :   -0.510:        0
+
+:   643: A  80 SER  CA  : A  80 SER  OG  :   -0.713:        0
+
+:   643: A  62 ARG  O   : A  73 ALA  HA  :   -0.665:        0
+
+:   643: A  74 VAL  O   : A  74 VAL HG12 :   -0.505:        0
+:   643: A  74 VAL  O   : A  74 VAL  CG1 :   -0.496:        0
+
+:   643: A  54 TYR  CE2 : A  52 THR  HB  :   -0.476:        0
+
+:   643: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+#sum2 ::31.10 clashscore : 31.10 clashscore B<40 
+#summary::643 atoms:643 atoms B<40:80897 potential dots:5056.0 A^2:20 bumps:20 bumps B<40:103.4 score

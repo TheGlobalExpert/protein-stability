@@ -1,0 +1,22 @@
+
+:   909: A 125 ARG  HD2 : A  95 TRP  CH2 :   -0.874:        0
+:   909: A 125 ARG  CD  : A  95 TRP  CH2 :   -0.866:        0
+:   909: A 125 ARG  HD2 : A  95 TRP  CZ2 :   -0.629:        0
+:   909: A 125 ARG  CG  : A  95 TRP  CH2 :   -0.586:        0
+:   909: A  95 TRP  CD1 : A 133 ARG  HD3 :   -0.549:        0
+:   909: A  95 TRP  CH2 : A 125 ARG  HG3 :   -0.546:        0
+:   909: A 125 ARG  HG3 : A  95 TRP  CZ3 :   -0.541:        0
+:   909: A  95 TRP  CH2 : A 125 ARG  NE  :   -0.410:        0
+
+:   909: A 120 LYS  NZ  : A 117 VAL  HA  :   -0.552:        0
+
+:   909: A 131 ARG  HA  : A 115 TRP  CH2 :   -0.477:        0
+:   909: A 115 TRP  CE2 : A 131 ARG  HG3 :   -0.428:        0
+
+:   909: A 122 LEU HD12 : A 130 CYS  SG  :   -0.465:        0
+
+:   909: A 118 ILE HG23 : A 106 LEU HD13 :   -0.450:        0
+
+:   909: A  90 LEU  O   : A  91 ILE HD13 :   -0.425:        0
+#sum2 ::15.40 clashscore : 15.40 clashscore B<40 
+#summary::909 atoms:909 atoms B<40:100147 potential dots:6259.0 A^2:14 bumps:14 bumps B<40:233.9 score

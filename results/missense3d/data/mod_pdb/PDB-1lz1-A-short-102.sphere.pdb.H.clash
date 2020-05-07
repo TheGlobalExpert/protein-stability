@@ -1,0 +1,43 @@
+
+:   974: A  25 LEU  CB  : A  25 LEU  CD1 :   -1.103:       27
+:   974: A  25 LEU  CD1 : A  25 LEU  CA  :   -0.498:       27
+
+:   974: A 114 ASN  CA  : A 114 ASN  CG  :   -1.002:       26
+:   974: A 115 ARG  N   : A 114 ASN  CA  :   -0.827:       20
+:   974: A 114 ASN  CA  : A 114 ASN  ND2 :   -0.592:       39
+:   974: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+:   974: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:   974: A  56 ILE  CA  : A  56 ILE  CG2 :   -0.957:       12
+
+:   974: A  90 ALA  CA  : A  89 ILE  C   :   -0.957:       15
+:   974: A  90 ALA  CA  : A  89 ILE  O   :   -0.439:       12
+
+:   974: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:   974: A 112 TRP  HH2 : A 107 ARG HH12 :   -0.762:      106
+:   974: A 107 ARG  NH1 : A 112 TRP  CZ3 :   -0.738:      106
+:   974: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+:   974: A 112 TRP  HZ3 : A 107 ARG HH11 :   -0.478:      106
+
+:   974: A  80 SER  N   : A  80 SER  C   :   -0.799:       13
+
+:   974: A  26 ALA  N   : A  26 ALA  C   :   -0.743:        9
+
+:   974: A  73 ALA  HA  : A  62 ARG  O   :   -0.639:       45
+:   974: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   974: A  71 PRO  O   : A  72 GLY  CA  :   -0.616:       55
+
+:   974: A  74 VAL HG12 : A  74 VAL  O   :   -0.573:       68
+:   974: A  74 VAL  CG1 : A  74 VAL  O   :   -0.509:       68
+
+:   974: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.495:       22
+:   974: A  84 LEU HD22 : A  92 ALA  HA  :   -0.465:       22
+
+:   974: A  30 CYS  CB  : A 116 CYS  SG  :   -0.464:       15
+
+:   974: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:   974: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.402:       88
+#sum2 ::27.72 clashscore : 16.22 clashscore B<40 
+#summary::974 atoms:863 atoms B<40:121264 potential dots:7579.0 A^2:27 bumps:14 bumps B<40:216.7 score

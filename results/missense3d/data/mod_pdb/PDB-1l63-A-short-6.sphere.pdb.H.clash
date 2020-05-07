@@ -1,0 +1,23 @@
+
+:  1474: A 129 ALA  C   : A 129 ALA  CB  :   -0.884:       18
+
+:  1474: A  87 VAL  C   : A  87 VAL  CB  :   -0.880:       21
+
+:  1474: A  61 ASP  OD2 : A  61 ASP  CB  :   -0.829:       67
+:  1474: A  61 ASP  CA  : A  61 ASP  OD2 :   -0.645:       67
+
+:  1474: A  22 GLU  OE1 : A  22 GLU  CG  :   -0.744:       63
+
+:  1474: A  76 ARG  CG  : A  76 ARG  NE  :   -0.716:       53
+
+:  1474: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1474: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1474: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1474: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1474: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1474: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::8.14 clashscore : 3.61 clashscore B<40 
+#summary::1474 atoms:1386 atoms B<40:177776 potential dots:11110.0 A^2:12 bumps:5 bumps B<40:534.3 score

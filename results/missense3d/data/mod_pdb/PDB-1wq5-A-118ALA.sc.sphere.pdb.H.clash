@@ -1,0 +1,65 @@
+
+:  1692: A  21 PRO  N   : A  21 PRO  CD  :   -1.588:        0
+:  1692: A  21 PRO  CA  : A  21 PRO  CG  :   -1.110:        0
+:  1692: A  21 PRO  CD  : A  21 PRO  CA  :   -0.937:        0
+:  1692: A  21 PRO  N   : A  21 PRO  CG  :   -0.851:        0
+:  1692: A  20 VAL  HB  : A 232 ILE HG12 :   -0.575:        0
+:  1692: A  21 PRO  CD  : A  20 VAL  C   :   -0.443:        0
+
+:  1692: A  53 PRO  N   : A  53 PRO  CD  :   -1.382:        0
+:  1692: A  53 PRO  CD  : A  52 ILE  C   :   -0.630:        0
+:  1692: A  52 ILE  HA  : A  53 PRO  CD  :   -0.507:        0
+:  1692: A  53 PRO  CD  : A  52 ILE  CA  :   -0.481:        0
+:  1692: A  99 LEU HD13 : A  52 ILE  CD1 :   -0.429:        0
+
+:  1692: A 175 TYR  CZ  : A 175 TYR  CD1 :   -1.021:        0
+
+:  1692: A 153 ILE  CG1 : A 153 ILE  CA  :   -0.977:        0
+
+:  1692: A  38 ASP  CG  : A  38 ASP  CA  :   -0.864:        0
+
+:  1692: A 124 ASP  OD2 : A   3 ARG  HD2 :   -0.827:        0
+:  1692: A   3 ARG  HD2 : A 124 ASP  CG  :   -0.750:        0
+:  1692: A 124 ASP  OD1 : A   3 ARG  NH2 :   -0.623:        0
+:  1692: A  89 ARG  HD3 : A   3 ARG  NH1 :   -0.544:        0
+:  1692: A   3 ARG  HD2 : A 124 ASP  OD1 :   -0.532:        0
+
+:  1692: A  30 ILE  N   : A  29 GLY  O   :   -0.713:        0
+:  1692: A  30 ILE HG23 : A  84 MET  SD  :   -0.589:        0
+:  1692: A  29 GLY  O   : A  30 ILE  CA  :   -0.427:        0
+
+:  1692: A 101 MET  CE  : A 105 LEU HD23 :   -0.705:        0
+:  1692: A 101 MET  HE3 : A 105 LEU HD23 :   -0.667:        0
+:  1692: A 114 PHE  CZ  : A 101 MET  SD  :   -0.631:        0
+:  1692: A 101 MET  SD  : A 114 PHE  HZ  :   -0.589:        0
+:  1692: A  54 PHE  CD1 : A 105 LEU HD13 :   -0.431:        0
+
+:  1692: A   2 GLU  HA  : A   2 GLU  OE1 :   -0.644:        0
+:  1692: A   5 GLU  CB  : A   2 GLU  HG3 :   -0.416:        0
+
+:  1692: A 119 GLU  OE1 : A 146 HIS  O   :   -0.623:        0
+
+:  1692: A 121 VAL HG23 : A 123 VAL HG23 :   -0.599:        0
+:  1692: A 123 VAL HG23 : A 121 VAL  CG2 :   -0.415:        0
+
+:  1692: A   7 LEU HD22 : A  96 PRO  HG2 :   -0.565:        0
+:  1692: A  96 PRO  HG2 : A   7 LEU  CD2 :   -0.498:        0
+
+:  1692: A  85 LEU HD21 : A  25 LEU HD11 :   -0.551:        0
+:  1692: A  85 LEU HD12 : A  82 PHE  HA  :   -0.454:        0
+
+:  1692: A  22 PHE  HA  : A  49 GLU  O   :   -0.540:        0
+:  1692: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.511:        0
+:  1692: A  22 PHE  CD1 : A  22 PHE  C   :   -0.409:        0
+
+:  1692: A  88 ILE  CD1 : A  37 ILE HD13 :   -0.480:        0
+:  1692: A  37 ILE HD13 : A  88 ILE HD13 :   -0.443:        0
+
+:  1692: A 125 SER  HB2 : A 151 ILE HD11 :   -0.431:        0
+
+:  1692: A 115 TYR  HD1 : A 111 ILE  O   :   -0.429:        0
+:  1692: A 138 PRO  HB2 : A 111 ILE HD13 :   -0.416:        0
+
+:  1692: A 152 PHE  HZ  : A 140 ARG  HD3 :   -0.411:        0
+#sum2 ::26.60 clashscore : 26.60 clashscore B<40 
+#summary::1692 atoms:1692 atoms B<40:199129 potential dots:12450.0 A^2:45 bumps:45 bumps B<40:365.8 score

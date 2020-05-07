@@ -1,0 +1,20 @@
+
+:  1350: A  71 VAL  CG2 : A  71 VAL  CG1 :   -0.953:       13
+
+:  1350: A 119 ARG  NE  : A 119 ARG  CG  :   -0.848:      100
+
+:  1350: A 107 GLY  C   : A 107 GLY  N   :   -0.773:       21
+
+:  1350: A 113 GLY  C   : A 113 GLY  N   :   -0.678:       44
+
+:  1350: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1350: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1350: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1350: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1350: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1350: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::7.41 clashscore : 4.76 clashscore B<40 
+#summary::1350 atoms:1260 atoms B<40:158968 potential dots:9936.0 A^2:10 bumps:6 bumps B<40:531.7 score

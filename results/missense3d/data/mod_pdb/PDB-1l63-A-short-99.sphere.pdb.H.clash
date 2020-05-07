@@ -1,0 +1,19 @@
+
+:  1816: A   8 ARG  NH1 : A   8 ARG  NE  :   -0.729:       49
+
+:  1816: A  26 THR  CG2 : A  26 THR  OG1 :   -0.718:       21
+
+:  1816: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1816: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1816: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1816: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1816: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1816: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1816: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1816: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::5.51 clashscore : 4.24 clashscore B<40 
+#summary::1816 atoms:1652 atoms B<40:208555 potential dots:13030.0 A^2:10 bumps:7 bumps B<40:723.2 score

@@ -1,0 +1,10 @@
+
+:  1303: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1303: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1303: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1303: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::3.07 clashscore : 2.49 clashscore B<40 
+#summary::1303 atoms:1204 atoms B<40:150943 potential dots:9434.0 A^2:4 bumps:3 bumps B<40:554.1 score

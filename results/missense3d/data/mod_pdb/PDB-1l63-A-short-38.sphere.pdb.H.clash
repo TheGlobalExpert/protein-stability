@@ -1,0 +1,16 @@
+
+:   667: A  52 ARG  CA  : A  52 ARG  CG  :   -0.967:       29
+:   667: A  51 GLY  CA  : A  52 ARG  N   :   -0.878:       27
+:   667: A  52 ARG  C   : A  52 ARG  CG  :   -0.478:       29
+
+:   667: A 137 ARG  NH2 : A 137 ARG  NH1 :   -0.815:       42
+
+:   667: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:   667: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:   667: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:   667: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:   667: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:   667: A  29 ILE  C   : A  29 ILE  N   :   -0.710:       20
+#sum2 ::14.99 clashscore : 7.16 clashscore B<40 
+#summary::667 atoms:559 atoms B<40:77623 potential dots:4851.0 A^2:10 bumps:4 bumps B<40:171.8 score

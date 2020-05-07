@@ -1,0 +1,20 @@
+
+:   996: A  68 MET  CE  : A  35 THR  HB  :   -0.522:       18
+
+:   996: A  64 SER  C   : A  64 SER  OG  :   -0.492:       31
+
+:   996: A  75 GLU  O   : A  79 ASN  HB3 :   -0.481:       58
+
+:   996: A  76 LEU HD12 : A 104 MET  CE  :   -0.435:       34
+
+:   996: A  96 PRO  CA  : A  95 ILE  O   :   -0.429:       18
+
+:   996: A  72 ILE HD13 : A  72 ILE  HA  :   -0.419:       20
+
+:   996: A 112 LEU  HG  : A 105 LEU  CD1 :   -0.402:       25
+
+:   996: A  73 LYS  HB2 : A  73 LYS  HE3 :   -0.401:       67
+
+:   996: A  88 LEU HD23 : A  33 LEU  HB2 :   -0.400:       26
+#sum2 ::9.04 clashscore : 9.33 clashscore B<40 
+#summary::996 atoms:750 atoms B<40:119591 potential dots:7474.0 A^2:9 bumps:7 bumps B<40:322.9 score

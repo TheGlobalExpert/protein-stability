@@ -1,0 +1,25 @@
+
+:   912: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.795:        0
+:   912: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.503:        0
+:   912: A  65 LYS  HE2 : A  41 LEU  CD2 :   -0.432:        0
+
+:   912: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.778:        0
+:   912: A  17 PHE  CD1 : A   8 TRP  CZ2 :   -0.688:        0
+:   912: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.452:        0
+
+:   912: A   5 LYS  HE2 : A  19 GLU  CD  :   -0.761:        0
+:   912: A  19 GLU  OE1 : A   5 LYS  HE2 :   -0.695:        0
+:   912: A  19 GLU  CG  : A   5 LYS  HG3 :   -0.624:        0
+:   912: A   5 LYS  CE  : A  19 GLU  CD  :   -0.573:        0
+:   912: A  19 GLU  OE1 : A   5 LYS  CE  :   -0.542:        0
+:   912: A   5 LYS  HE2 : A  19 GLU  CG  :   -0.424:        0
+:   912: A  19 GLU  HG3 : A   5 LYS  CG  :   -0.420:        0
+:   912: A  19 GLU  CG  : A   5 LYS  CG  :   -0.419:        0
+
+:   912: A  14 GLY  N   : A  13 LYS  O   :   -0.703:        0
+
+:   912: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.635:        0
+
+:   912: A  30 PHE  CE2 : A  29 HIS  CE1 :   -0.452:        0
+#sum2 ::18.64 clashscore : 18.64 clashscore B<40 
+#summary::912 atoms:912 atoms B<40:103971 potential dots:6498.0 A^2:17 bumps:17 bumps B<40:231.6 score

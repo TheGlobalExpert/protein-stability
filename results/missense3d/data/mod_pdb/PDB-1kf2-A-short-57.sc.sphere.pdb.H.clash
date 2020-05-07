@@ -1,0 +1,18 @@
+
+:  1124: A  60 GLN  OE1 : A  75 SER  HA  :   -1.191:        0
+:  1124: A  60 GLN  OE1 : A  75 SER  CA  :   -0.732:        0
+:  1124: A  60 GLN  CD  : A  57 VAL  HA  :   -0.567:        0
+:  1124: A 106 ILE HD11 : A  57 VAL HG21 :   -0.427:        0
+:  1124: A  60 GLN  NE2 : A  57 VAL  HA  :   -0.408:        0
+
+:  1124: A  16 SER  CA  : A  17 THR  N   :   -0.852:        0
+:  1124: A  17 THR  CA  : A  17 THR  OG1 :   -0.715:        0
+
+:  1124: A 110 CYS  HB2 : A 115 TYR  CE2 :   -0.631:        0
+:  1124: A 115 TYR  CZ  : A 110 CYS  HB2 :   -0.587:        0
+:  1124: A 110 CYS  CB  : A 115 TYR  CE2 :   -0.492:        0
+
+:  1124: A 119 HIS  NE2 : A 121 ASP  HA  :   -0.470:        0
+:  1124: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.443:        0
+#sum2 ::10.68 clashscore : 10.68 clashscore B<40 
+#summary::1124 atoms:1124 atoms B<40:131664 potential dots:8229.0 A^2:12 bumps:12 bumps B<40:351.4 score

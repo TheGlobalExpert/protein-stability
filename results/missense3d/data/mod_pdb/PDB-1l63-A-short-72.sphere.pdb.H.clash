@@ -1,0 +1,15 @@
+
+:  1327: A  14 ARG  C   : A  14 ARG  N   :   -0.856:       23
+
+:  1327: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1327: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1327: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1327: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1327: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1327: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1327: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::6.03 clashscore : 4.90 clashscore B<40 
+#summary::1327 atoms:1225 atoms B<40:158680 potential dots:9918.0 A^2:8 bumps:6 bumps B<40:508.2 score

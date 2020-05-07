@@ -1,0 +1,16 @@
+
+:   888: A  22 GLY  C   : A  22 GLY  N   :   -0.749:       60
+:   888: A  22 GLY  O   : A  23 GLN  HG2 :   -0.661:       60
+:   888: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+
+:   888: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   888: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   888: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   888: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   888: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::9.01 clashscore : 5.77 clashscore B<40 
+#summary::888 atoms:693 atoms B<40:101758 potential dots:6360.0 A^2:8 bumps:4 bumps B<40:251.3 score

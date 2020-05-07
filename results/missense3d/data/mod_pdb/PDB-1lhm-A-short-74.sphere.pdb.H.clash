@@ -1,0 +1,15 @@
+
+:   881: A  56 ILE  C   : A  56 ILE  N   :   -0.644:       10
+
+:   881: A  64 TRP  O   : A  77 ALA  HB3 :   -0.498:       24
+:   881: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.479:       24
+:   881: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.429:       15
+:   881: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.400:       17
+
+:   881: A  62 ARG  HD2 : A  62 ARG HH11 :   -0.477:       29
+
+:   881: A  53 ASP  HB3 : A  58 GLN  HB3 :   -0.461:       12
+
+:   881: A  97 LYS  O   : A 101 ARG  HG3 :   -0.416:       16
+#sum2 ::9.08 clashscore : 9.08 clashscore B<40 
+#summary::881 atoms:881 atoms B<40:106437 potential dots:6652.0 A^2:8 bumps:8 bumps B<40:327.3 score

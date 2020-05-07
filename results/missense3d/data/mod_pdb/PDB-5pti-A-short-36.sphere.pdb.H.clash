@@ -1,0 +1,21 @@
+
+:   628: A   6 LEU  C   : A   6 LEU  N   :   -0.798:       14
+:   628: A   7 GLU  CG  : A   4 PHE  O   :   -0.482:       20
+:   628: A   7 GLU  HG3 : A   4 PHE  O   :   -0.461:       20
+:   628: A   6 LEU  N   : A   7 GLU  N   :   -0.425:       13
+
+:   628: A  50 ASP  D   : A  50 ASP  CA  :   -0.788:       15
+
+:   628: A  25 ALA  D   : A  24 ASN  C   :   -0.763:       10
+
+:   628: A  30 CYS  N   : A  29 LEU  O   :   -0.683:       11
+
+:   628: A  15 LYS  HE2 : A  13 PRO  O   :   -0.666:       30
+
+:   628: A  19 ILE  CD1 : A  34 VAL HG22 :   -0.502:       17
+
+:   628: A  20 ARG  O   : A  32 THR  HA  :   -0.416:       11
+
+:   628: A  10 TYR  CD2 : A  41 LYS  HE2 :   -0.403:       25
+#sum2 ::17.52 clashscore : 17.52 clashscore B<40 
+#summary::628 atoms:628 atoms B<40:72986 potential dots:4562.0 A^2:11 bumps:11 bumps B<40:144.9 score

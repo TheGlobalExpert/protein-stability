@@ -1,0 +1,32 @@
+
+______________________________________________
+
+SECONDARY STRUCTURE INFORMATION
+-------------------------------
+NO OF HELICES and RESIDUE  =      0     0
+NO OF STRANDS and RESIDUE  =      0     0
+NO OF TURNS   and RESIDUE  =      0     0
+______________________________________________
+Setting cut-off distance to     5.000
+$SALTB    1 GLU A  21 .   LYS A 135        . OE1  NZ       4.956  $INTRA $NO
+$SALTB    2 GLU A  21 .   ARG A 139        . OE1  NH1      3.148  $INTRA $NO
+$SALTB    3 ASP A  27 .   LYS A  29        . OD1  NZ       4.001  $INTRA $NO
+$SALTB    4 GLU A  39 .   ARG A  42        . OE1  NE       3.058  $INTRA $NO
+$SALTB    5 GLU A  55 .   LYS A  58        . OE1  NZ       3.450  $INTRA $NO
+$SALTB    6 GLU A  70 .   LYS A  58        . OE2  NZ       4.816  $INTRA $NO
+$SALTB    7 GLU A  81 .   ARG A  47        . OE2  NE       4.223  $INTRA $NO
+$SALTB    8 GLU A  86 .   ARG A  47        . OE1  NE       4.517  $INTRA $NO
+$SALTB    9 ASP A 101 .   ARG A  42        . OD1  NH1      3.626  $INTRA $NO
+$SALTB   10 GLU A 106 .   LYS A  96        . OE1  NZ       4.296  $INTRA $NO
+$SALTB   11 GLU A 109 .   HIS A 105        . OE1  ND1      4.003  $INTRA $NO
+$SALTB   12 GLU A 109 .   ARG A 131        . OE1  NE       3.594  $INTRA $NO
+$SALTB   13 GLU A 116 .   ARG A 131        . OE1  NE       4.855  $INTRA $NO
+$SALTB   14 ASP A 119 .   LYS A 124        . OD2  NZ       4.934  $INTRA $NO
+$SALTB   15 GLU A 121 .   LYS A 124        . OE1  NZ       4.835  $INTRA $NO
+$SALTB   16 ASP A 129 .   HIS A  76        . OD1  NE2      4.018  $INTRA $NO
+$SALTB   17 ASP A 132 .   HIS A  76        . OD2  NE2      4.226  $INTRA $NO
+$SALTB   18 ASP A 148 .   LYS A  60        . OD1  NZ       3.527  $INTRA $NO
+$SALTB   19 ASP A 154 .   LYS A  15        . OD1  NZ       4.407  $INTRA $NO
+$SALTB   20 ASP A 216 .   LYS A 213        . OD2  NZ       4.977  $INTRA $NO
+$SALTB   21 GLU A 234 .   LYS A 238        . OE1  NZ       3.320  $INTRA $NO
+$SALTB   22 ASP A 237 .   ARG A 240        . OD1  NE       4.032  $INTRA $NO

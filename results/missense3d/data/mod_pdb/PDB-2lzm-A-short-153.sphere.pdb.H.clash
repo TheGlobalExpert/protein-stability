@@ -1,0 +1,33 @@
+
+:  1563: A   4 PHE  CD2 : A   4 PHE  CZ  :   -0.996:       15
+
+:  1563: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1563: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1563: A 164 LEU  CD1 : A 164 LEU  N   :   -0.593:       64
+:  1563: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  1563: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1563: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1563: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+:  1563: A 163 ASN  O   : A 164 LEU  OXT :   -0.425:       65
+
+:  1563: A  85 LYS  CD  : A  85 LYS  NZ  :   -0.837:       47
+:  1563: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+:  1563: A  85 LYS  NZ  : A  89 ASP  OD1 :   -0.440:       47
+
+:  1563: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1563: A  71 VAL  N   : A  70 ASP  O   :   -0.665:       14
+
+:  1563: A   5 GLU  OE1 : A   1 MET  HA  :   -0.635:       38
+:  1563: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1563: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1563: A 154 ARG  HD3 : A 127 ASP  OD2 :   -0.507:       53
+:  1563: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1563: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1563: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1563: A 159 ASP  O   : A 162 LYS  HB2 :   -0.428:       58
+#sum2 ::14.08 clashscore : 4.95 clashscore B<40 
+#summary::1563 atoms:1415 atoms B<40:179869 potential dots:11240.0 A^2:22 bumps:7 bumps B<40:560 score

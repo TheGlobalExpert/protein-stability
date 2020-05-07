@@ -1,0 +1,14 @@
+
+:  1061: A  64 ALA  CA  : A  63 VAL  C   :   -0.959:       14
+:  1061: A  63 VAL  N   : A  62 ASN  CA  :   -0.890:       16
+:  1061: A  62 ASN  CA  : A  62 ASN  CG  :   -0.799:       24
+:  1061: A  63 VAL  C   : A  63 VAL  N   :   -0.775:       15
+:  1061: A  62 ASN  CA  : A  61 LYS  O   :   -0.442:       17
+:  1061: A  64 ALA  CA  : A  63 VAL  O   :   -0.430:       17
+:  1061: A  63 VAL  C   : A  63 VAL  CG2 :   -0.424:       19
+
+:  1061: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.443:       23
+
+:  1061: A 109 ALA  HB3 : A 119 HIS  HB3 :   -0.407:       16
+#sum2 ::8.48 clashscore : 8.99 clashscore B<40 
+#summary::1061 atoms:1001 atoms B<40:128339 potential dots:8021.0 A^2:9 bumps:9 bumps B<40:296.6 score

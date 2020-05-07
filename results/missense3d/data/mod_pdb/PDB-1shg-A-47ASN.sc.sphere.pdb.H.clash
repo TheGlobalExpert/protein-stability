@@ -1,0 +1,44 @@
+
+:   841: A  41 TRP  CH2 : A  41 TRP  CE2 :   -1.059:        0
+:   841: A  40 ASP  O   : A  41 TRP  N   :   -0.661:        0
+:   841: A  22 GLU  HG2 : A  41 TRP  HZ3 :   -0.412:        0
+
+:   841: A  46 VAL HG22 : A  31 LEU HD22 :   -0.991:        0
+:   841: A  46 VAL HG22 : A  31 LEU  CD2 :   -0.907:        0
+:   841: A  31 LEU HD22 : A  46 VAL  CG2 :   -0.841:        0
+
+:   841: A  51 GLY  HA3 : A  23 VAL HG13 :   -0.842:        0
+:   841: A  51 GLY  CA  : A  23 VAL HG13 :   -0.578:        0
+:   841: A  51 GLY  HA3 : A  23 VAL  CG1 :   -0.563:        0
+
+:   841: A   9 VAL HG12 : A  60 LYS  HA  :   -0.826:        0
+:   841: A   7 GLU  OE1 : A  60 LYS  CG  :   -0.525:        0
+:   841: A   7 GLU  OE1 : A  60 LYS  CD  :   -0.456:        0
+
+:   841: A  54 PRO  HD3 : A  15 TYR  CZ  :   -0.644:        0
+:   841: A  25 MET  HG2 : A  15 TYR  HB3 :   -0.484:        0
+:   841: A  54 PRO  HD3 : A  15 TYR  CE2 :   -0.481:        0
+:   841: A  15 TYR  CE1 : A  54 PRO  CG  :   -0.473:        0
+:   841: A  24 THR HG23 : A  15 TYR  O   :   -0.462:        0
+
+:   841: A  58 VAL HG21 : A  42 TRP  CE3 :   -0.541:        0
+:   841: A  58 VAL  CG2 : A  42 TRP  CE3 :   -0.487:        0
+:   841: A  58 VAL HG21 : A  42 TRP  HE3 :   -0.469:        0
+:   841: A  58 VAL  CG2 : A  42 TRP  CZ3 :   -0.423:        0
+
+:   841: A  10 LEU HD11 : A  28 GLY  HA2 :   -0.534:        0
+
+:   841: A  16 GLN  CD  : A  16 GLN  N   :   -0.502:        0
+
+:   841: A  44 VAL  O   : A  50 GLN  HA  :   -0.502:        0
+
+:   841: A   6 LYS  HB2 : A   6 LYS  HE3 :   -0.481:        0
+
+:   841: A  36 SER  HB3 : A  33 LEU HD21 :   -0.479:        0
+
+:   841: A  45 GLU  HA  : A  49 ARG  O   :   -0.455:        0
+
+:   841: A  12 LEU HD21 : A  59 LYS  HB2 :   -0.442:        0
+:   841: A  59 LYS  CB  : A  12 LEU HD21 :   -0.412:        0
+#sum2 ::34.48 clashscore : 34.48 clashscore B<40 
+#summary::841 atoms:841 atoms B<40:96007 potential dots:6000.0 A^2:29 bumps:29 bumps B<40:129.1 score

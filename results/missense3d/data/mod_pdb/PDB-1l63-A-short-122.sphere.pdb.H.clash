@@ -1,0 +1,15 @@
+
+:  1134: A 139 TYR  CB  : A 139 TYR  CD1 :   -1.026:       22
+
+:  1134: A 158 TRP  CG  : A 158 TRP  CA  :   -0.942:       20
+
+:  1134: A 161 TYR  OH  : A 161 TYR  CE2 :   -0.744:       15
+
+:  1134: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1134: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1134: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1134: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::6.17 clashscore : 6.74 clashscore B<40 
+#summary::1134 atoms:1038 atoms B<40:132553 potential dots:8285.0 A^2:7 bumps:7 bumps B<40:427.8 score

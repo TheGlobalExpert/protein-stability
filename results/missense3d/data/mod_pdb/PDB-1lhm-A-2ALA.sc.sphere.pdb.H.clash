@@ -1,0 +1,34 @@
+
+:  1073: A  38 TYR  HD2 : A   8 LEU HD22 :   -1.003:        0
+:  1073: A  38 TYR  HD2 : A   8 LEU  CD2 :   -0.860:        0
+:  1073: A   8 LEU  CD2 : A  38 TYR  CD2 :   -0.801:        0
+:  1073: A   8 LEU HD22 : A  38 TYR  CD2 :   -0.796:        0
+:  1073: A  38 TYR  CE2 : A   8 LEU HD23 :   -0.651:        0
+:  1073: A  38 TYR  HE2 : A   8 LEU HD23 :   -0.538:        0
+:  1073: A  38 TYR  CE2 : A   8 LEU  CD2 :   -0.514:        0
+
+:  1073: A 128 CYS  SG  : A   6 CYS  SG  :   -0.769:        0
+
+:  1073: A  24 SER  O   : A  25 LEU  N   :   -0.678:        0
+:  1073: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.495:        0
+
+:  1073: A  93 VAL HG21 : A  15 LEU  CD1 :   -0.632:        0
+:  1073: A  17 MET  SD  : A  93 VAL HG13 :   -0.517:        0
+:  1073: A  15 LEU HD12 : A  93 VAL HG21 :   -0.457:        0
+:  1073: A  93 VAL HG21 : A  15 LEU HD13 :   -0.427:        0
+
+:  1073: A 126 GLN  HG2 : A 123 GLN  O   :   -0.600:        0
+
+:  1073: A 121 VAL  O   : A 124 TYR  HD2 :   -0.567:        0
+
+:  1073: A  34 TRP  CE2 : A 115 ARG  HD2 :   -0.555:        0
+:  1073: A  34 TRP  CZ2 : A 115 ARG  HD2 :   -0.462:        0
+:  1073: A 115 ARG  HD2 : A  34 TRP  CD2 :   -0.448:        0
+
+:  1073: A  54 TYR  HD2 : A  85 LEU HD21 :   -0.461:        0
+
+:  1073: A  35 GLU  HB3 : A  58 GLN  CG  :   -0.410:        0
+
+:  1073: A  95 ALA  HB1 : A  59 ILE HD13 :   -0.403:        0
+#sum2 ::20.50 clashscore : 20.50 clashscore B<40 
+#summary::1073 atoms:1073 atoms B<40:129097 potential dots:8069.0 A^2:22 bumps:22 bumps B<40:293.9 score

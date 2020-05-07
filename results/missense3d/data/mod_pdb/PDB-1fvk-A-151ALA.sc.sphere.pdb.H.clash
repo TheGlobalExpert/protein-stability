@@ -1,0 +1,60 @@
+
+:  1945: A  48 LYS  CD  : A  48 LYS  CB  :   -0.970:        0
+
+:  1945: A 184 TYR  CD2 : A 184 TYR  CB  :   -0.970:        0
+
+:  1945: A  48 LYS  CB  : A  48 LYS  CE  :   -0.631:        0
+
+:  1945: A 108 ILE  CG1 : A 108 ILE  CG2 :   -0.968:        0
+:  1945: A 108 ILE  CG2 : A 108 ILE  CD1 :   -0.458:        0
+
+:  1945: A 150 VAL HG13 : A  63 PHE  HZ  :   -0.896:        0
+:  1945: A  64 MET  HG3 : A  63 PHE  CD1 :   -0.741:        0
+:  1945: A  61 VAL HG21 : A  63 PHE  CZ  :   -0.652:        0
+:  1945: A  33 CYS  HG  : A  30 CYS  CB  :   -0.625:        0
+:  1945: A  63 PHE  HD1 : A  64 MET  HG3 :   -0.562:        0
+:  1945: A  30 CYS  SG  : A  33 CYS  SG  :   -0.471:        0
+:  1945: A  33 CYS  SG  : A  30 CYS  HB3 :   -0.457:        0
+:  1945: A  30 CYS  SG  : A 150 VAL HG23 :   -0.434:        0
+:  1945: A 151 ALA  HA  : A 150 VAL  HB  :   -0.433:        0
+
+:  1945: A  13 GLU  CA  : A  14 LYS  N   :   -0.848:        0
+
+:  1945: A  54 VAL  CB  : A  54 VAL  C   :   -0.840:        0
+
+:  1945: A  23 LEU HD13 : A  25 PHE  CE2 :   -0.776:        0
+:  1945: A  23 LEU HD13 : A  25 PHE  HE2 :   -0.578:        0
+:  1945: A  23 LEU HD13 : A  25 PHE  CZ  :   -0.423:        0
+
+:  1945: A 172 ASP  CB  : A 172 ASP  OD1 :   -0.758:        0
+
+:  1945: A  87 LYS  N   : A  87 LYS  C   :   -0.751:        0
+
+:  1945: A 163 PRO  O   : A 166 MET  HG3 :   -0.729:        0
+
+:  1945: A   8 GLN  OE1 : A   7 LYS  HB3 :   -0.640:        0
+:  1945: A   8 GLN  CD  : A   8 GLN  H   :   -0.504:        0
+
+:  1945: A  34 TYR  HB2 : A  97 GLN  NE2 :   -0.634:        0
+:  1945: A  97 GLN HE21 : A  34 TYR  HB2 :   -0.582:        0
+
+:  1945: A  27 SER  HA  : A  60 HIS  CD2 :   -0.535:        0
+:  1945: A  27 SER  HA  : A  60 HIS  NE2 :   -0.485:        0
+
+:  1945: A  43 SER  O   : A  47 LYS  HG3 :   -0.489:        0
+
+:  1945: A 180 ASP  OD1 : A  49 LYS  NZ  :   -0.486:        0
+
+:  1945: A  28 PHE  HB2 : A  72 LEU HD13 :   -0.472:        0
+
+:  1945: A 171 MET  O   : A 175 VAL HG23 :   -0.459:        0
+
+:  1945: A  26 PHE  CE1 : A  58 LYS  HG2 :   -0.445:        0
+
+:  1945: A 176 GLN  OE1 : A 176 GLN  HA  :   -0.427:        0
+
+:  1945: A  59 TYR  CD1 : A 138 GLN  HG2 :   -0.418:        0
+
+:  1945: A  94 GLU  HG3 : A  90 VAL  O   :   -0.402:        0
+#sum2 ::18.51 clashscore : 18.51 clashscore B<40 
+#summary::1945 atoms:1945 atoms B<40:233382 potential dots:14590.0 A^2:36 bumps:36 bumps B<40:503.7 score

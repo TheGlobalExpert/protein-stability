@@ -1,0 +1,17 @@
+
+:  1389: A  95 CYS  CB  : A  95 CYS  C   :   -0.912:       14
+
+:  1389: A  63 VAL  O   : A  63 VAL  CA  :   -0.740:       17
+
+:  1389: A  59 SER  OG  : A  59 SER  CA  :   -0.709:       33
+
+:  1389: A  72 CYS  N   : A  71 ASN  O   :   -0.692:       14
+
+:  1389: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.502:       29
+:  1389: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.426:       29
+
+:  1389: A  85 ARG  NH2 : A  83 ASP  OD1 :   -0.447:      158
+
+:  1389: A  29 MET  HG3 : A  25 TYR  CZ  :   -0.402:       15
+#sum2 ::5.76 clashscore : 5.28 clashscore B<40 
+#summary::1389 atoms:1326 atoms B<40:162602 potential dots:10160.0 A^2:8 bumps:7 bumps B<40:495 score

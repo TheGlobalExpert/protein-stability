@@ -1,0 +1,28 @@
+
+:  1015: A  18 SER  HB3 : A  47 ARG HH22 :   -1.073:        0
+:  1015: A  18 SER  HB3 : A  47 ARG  NH2 :   -0.997:        0
+:  1015: A  36 LEU HD13 : A  47 ARG  HD3 :   -0.445:        0
+:  1015: A  47 ARG  HG2 : A  43 GLU  O   :   -0.436:        0
+
+:  1015: A   5 LYS  CB  : A   5 LYS  CD  :   -0.969:        0
+
+:  1015: A  74 PHE  CZ  : A  35 TYR  HB2 :   -0.949:        0
+:  1015: A  35 TYR  HB2 : A  74 PHE  CE2 :   -0.588:        0
+:  1015: A  35 TYR  CE2 : A  39 HIS  HB2 :   -0.545:        0
+:  1015: A  35 TYR  HB2 : A  74 PHE  CE1 :   -0.428:        0
+
+:  1015: A  24 ILE HD11 : A  12 ILE HD13 :   -0.528:        0
+
+:  1015: A  61 VAL HG22 : A  61 VAL  O   :   -0.524:        0
+
+:  1015: A  26 HIS  CE1 : A  55 THR HG23 :   -0.508:        0
+
+:  1015: A  11 GLU  C   : A  11 GLU  CG  :   -0.463:        0
+
+:  1015: A  23 LEU  C   : A  23 LEU HD12 :   -0.448:        0
+
+:  1015: A  70 LEU  HG  : A  66 ASP  O   :   -0.412:        0
+
+:  1015: A  75 ILE HD12 : A  28 LYS  HD3 :   -0.400:        0
+#sum2 ::15.76 clashscore : 15.76 clashscore B<40 
+#summary::1015 atoms:1015 atoms B<40:117908 potential dots:7369.0 A^2:16 bumps:16 bumps B<40:260.4 score

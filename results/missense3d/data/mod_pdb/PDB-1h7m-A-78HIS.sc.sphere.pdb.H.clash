@@ -1,0 +1,39 @@
+
+:   819: A  15 LYS  CG  : A  15 LYS  CE  :   -0.980:        0
+:   819: A  14 GLY  O   : A  15 LYS  N   :   -0.654:        0
+
+:   819: A  25 GLN  N   : A  25 GLN  CB  :   -0.847:        0
+
+:   819: A   5 PHE  CA  : A   5 PHE  O   :   -0.733:        0
+
+:   819: A  76 ARG  HG2 : A  78 HIS  H   :   -0.696:        0
+:   819: A  76 ARG  HA  : A  77 PRO  HD3 :   -0.436:        0
+:   819: A  77 PRO  HD2 : A  76 ARG  HG3 :   -0.409:        0
+
+:   819: A  83 LEU HD22 : A  74 LEU HD11 :   -0.693:        0
+
+:   819: A  68 VAL  CG2 : A  79 THR HG22 :   -0.689:        0
+:   819: A  68 VAL HG22 : A  79 THR HG22 :   -0.571:        0
+:   819: A  79 THR  HB  : A  67 SER  HB2 :   -0.531:        0
+:   819: A  68 VAL HG22 : A  79 THR  CG2 :   -0.441:        0
+:   819: A  68 VAL  CG2 : A  79 THR  CG2 :   -0.435:        0
+
+:   819: A  35 ILE  N   : A  34 LEU  O   :   -0.681:        0
+:   819: A  35 ILE  CA  : A  34 LEU  O   :   -0.438:        0
+
+:   819: A  80 VAL  O   : A  70 LEU HD23 :   -0.615:        0
+
+:   819: A   4 ALA  HA  : A  73 LEU HD21 :   -0.462:        0
+:   819: A  73 LEU HD11 : A   4 ALA  HB1 :   -0.434:        0
+:   819: A  73 LEU HD12 : A  73 LEU  HA  :   -0.431:        0
+:   819: A   8 ARG  NH1 : A  73 LEU HD12 :   -0.409:        0
+
+:   819: A  17 VAL HG21 : A  26 TYR  CE2 :   -0.453:        0
+:   819: A  26 TYR  HE2 : A  17 VAL HG21 :   -0.435:        0
+
+:   819: A  64 GLU  OE1 : A  39 ARG  HD2 :   -0.445:        0
+:   819: A  64 GLU  OE1 : A  64 GLU  CB  :   -0.408:        0
+
+:   819: A  36 ILE  O   : A  82 ALA  HA  :   -0.407:        0
+#sum2 ::30.53 clashscore : 30.53 clashscore B<40 
+#summary::819 atoms:819 atoms B<40:99135 potential dots:6196.0 A^2:25 bumps:25 bumps B<40:162.3 score

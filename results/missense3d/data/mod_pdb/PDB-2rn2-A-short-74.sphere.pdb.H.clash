@@ -1,0 +1,32 @@
+
+:  1806: A  34 THR  CG2 : A  34 THR  CA  :   -0.964:       18
+:  1806: A  34 THR  CG2 : A  34 THR  C   :   -0.415:       18
+
+:  1806: A  14 LEU  CA  : A  14 LEU  CG  :   -0.923:       24
+
+:  1806: A  63 CYS  CB  : A  63 CYS  C   :   -0.889:       19
+
+:  1806: A 149 THR  CG2 : A 149 THR  CA  :   -0.856:       29
+
+:  1806: A 128 PRO  C   : A 128 PRO  N   :   -0.769:       22
+:  1806: A 128 PRO  N   : A 129 GLU  N   :   -0.424:       22
+
+:  1806: A  59 LEU  O   : A  59 LEU  CA  :   -0.747:       24
+
+:  1806: A 147 GLU  O   : A 148 ASP  N   :   -0.638:       16
+
+:  1806: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:  1806: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.502:       19
+
+:  1806: A 154 GLU  O   : A 155 VAL  OXT :   -0.454:       55
+
+:  1806: A  44 ASN  OD1 : A  48 GLU  OE2 :   -0.432:       28
+:  1806: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:  1806: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+:  1806: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.413:       12
+
+:  1806: A  47 MET  HA  : A  47 MET  CE  :   -0.412:       12
+#sum2 ::9.41 clashscore : 9.03 clashscore B<40 
+#summary::1806 atoms:1772 atoms B<40:214285 potential dots:13390.0 A^2:17 bumps:16 bumps B<40:592.9 score

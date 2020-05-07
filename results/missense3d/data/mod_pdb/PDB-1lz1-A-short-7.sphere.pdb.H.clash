@@ -1,0 +1,17 @@
+
+:  1044: A  95 CYS  C   : A  95 CYS  N   :   -0.752:       11
+
+:  1044: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1044: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1044: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1044: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1044: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1044: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1044: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1044: A 126 GLN  NE2 : A 126 GLN  HA  :   -0.423:       89
+#sum2 ::8.62 clashscore : 8.39 clashscore B<40 
+#summary::1044 atoms:953 atoms B<40:123160 potential dots:7698.0 A^2:9 bumps:8 bumps B<40:391.1 score

@@ -1,0 +1,24 @@
+
+:  1371: A 148 ARG  HD3 : A 164 LEU  CD2 :   -0.991:       50
+:  1371: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+
+:  1371: A  11 GLU  CA  : A  11 GLU  CG  :   -0.968:       15
+
+:  1371: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1371: A  82 ALA  C   : A  82 ALA  N   :   -0.675:       31
+
+:  1371: A   9 ILE  C   : A   9 ILE  CG2 :   -0.518:       15
+
+:  1371: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1371: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1371: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1371: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1371: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1371: A 137 ARG  CZ  : A 141 GLN  HG2 :   -0.450:       39
+
+:  1371: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::9.48 clashscore : 4.00 clashscore B<40 
+#summary::1371 atoms:1249 atoms B<40:160854 potential dots:10050.0 A^2:13 bumps:5 bumps B<40:500.7 score

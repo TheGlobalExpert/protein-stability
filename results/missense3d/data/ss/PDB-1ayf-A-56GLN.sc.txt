@@ -1,0 +1,5 @@
+SGFILE missense3d/data/mod_pdb/PDB-1ayf-A-56GLN.sc.pdb             
+NUMCYS      5
+NUMSGA      5
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap

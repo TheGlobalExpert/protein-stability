@@ -1,0 +1,29 @@
+
+:   857: A 100 PHE  CE1 : A  92 HIS  CD2 :   -1.177:        0
+:   857: A 100 PHE  CZ  : A 100 PHE  CD2 :   -1.021:        0
+:   857: A  92 HIS  CD2 : A 100 PHE  CZ  :   -0.933:        0
+:   857: A 100 PHE  CE1 : A  92 HIS  CG  :   -0.836:        0
+:   857: A  92 HIS  CD2 : A 100 PHE  HE1 :   -0.752:        0
+:   857: A 100 PHE  HD1 : A  91 THR  C   :   -0.620:        0
+
+:   857: A  68 TYR  CE1 : A  68 TYR  CE2 :   -1.020:        0
+:   857: A  77 ARG  HD3 : A  60 PRO  HA  :   -0.619:        0
+:   857: A  78 VAL HG13 : A  61 ILE  HB  :   -0.585:        0
+:   857: A  77 ARG  NH1 : A  73 PRO  CB  :   -0.578:        0
+:   857: A  59 TRP  CZ2 : A  68 TYR  HB3 :   -0.504:        0
+:   857: A  60 PRO  HD3 : A  59 TRP  HA  :   -0.424:        0
+:   857: A  78 VAL HG22 : A  59 TRP  O   :   -0.413:        0
+
+:   857: A  25 GLN  N   : A  25 GLN  CB  :   -0.801:        0
+
+:   857: A   3 ASP  OD2 : A  12 ALA  HA  :   -0.520:        0
+:   857: A  13 SER  N   : A   3 ASP  OD2 :   -0.516:        0
+
+:   857: A 104 THR  OXT : A   4 TYR  HA  :   -0.447:        0
+:   857: A 104 THR  O   : A 104 THR HG22 :   -0.435:        0
+
+:   857: A  50 PHE  CA  : A  49 ASP  O   :   -0.428:        0
+
+:   857: A  81 ASN  OD1 : A  81 ASN  C   :   -0.414:        0
+#sum2 ::23.34 clashscore : 23.34 clashscore B<40 
+#summary::857 atoms:857 atoms B<40:105451 potential dots:6591.0 A^2:20 bumps:20 bumps B<40:185.9 score

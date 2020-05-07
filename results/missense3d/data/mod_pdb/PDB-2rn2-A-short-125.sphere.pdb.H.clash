@@ -1,0 +1,13 @@
+
+:   736: A  27 ARG  CB  : A  27 ARG  N   :   -0.768:       21
+
+:   736: A 128 PRO  HD2 : A 127 HIS  HB3 :   -0.619:       29
+
+:   736: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.502:       19
+
+:   736: A  44 ASN  OD1 : A  48 GLU  OE2 :   -0.432:       28
+:   736: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:   736: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+#sum2 ::8.15 clashscore : 8.15 clashscore B<40 
+#summary::736 atoms:736 atoms B<40:92196 potential dots:5762.0 A^2:6 bumps:6 bumps B<40:211.4 score

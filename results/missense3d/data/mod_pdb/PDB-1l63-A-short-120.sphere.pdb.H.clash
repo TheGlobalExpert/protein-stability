@@ -1,0 +1,16 @@
+
+:  1121: A 105 GLN  CD  : A 105 GLN  CB  :   -0.782:       24
+
+:  1121: A 161 TYR  OH  : A 161 TYR  CE2 :   -0.744:       15
+
+:  1121: A  80 ARG  C   : A  80 ARG  N   :   -0.737:       43
+:  1121: A  80 ARG  N   : A  81 ASN  N   :   -0.445:       27
+
+:  1121: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1121: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1121: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1121: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::7.14 clashscore : 6.82 clashscore B<40 
+#summary::1121 atoms:1026 atoms B<40:131971 potential dots:8248.0 A^2:8 bumps:7 bumps B<40:440.2 score

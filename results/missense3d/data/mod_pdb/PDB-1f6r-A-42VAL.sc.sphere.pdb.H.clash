@@ -1,0 +1,39 @@
+
+:  1054: A  60 TRP  CH2 : A  95 ILE HG12 :   -1.023:        0
+:  1054: A  60 TRP  CZ2 : A  95 ILE HG12 :   -0.934:        0
+:  1054: A  95 ILE HG12 : A  60 TRP  CZ3 :   -0.830:        0
+:  1054: A  95 ILE HG12 : A  60 TRP  CE2 :   -0.702:        0
+:  1054: A  95 ILE  CG1 : A  60 TRP  CZ3 :   -0.614:        0
+:  1054: A  60 TRP  CH2 : A  95 ILE  CG1 :   -0.591:        0
+:  1054: A  95 ILE HG12 : A  60 TRP  CE3 :   -0.553:        0
+:  1054: A  60 TRP  CD2 : A  95 ILE HG12 :   -0.502:        0
+:  1054: A  60 TRP  CE3 : A  95 ILE  CG1 :   -0.423:        0
+
+:  1054: A  28 CYS  CA  : A  27 VAL  C   :   -0.984:        0
+
+:  1054: A  89 ILE  CG1 : A  89 ILE  CA  :   -0.976:        0
+
+:  1054: A  26 TRP  CD2 : A  26 TRP  CZ2 :   -0.939:        0
+
+:  1054: A  36 TYR  CZ  : A  31 PHE  HB2 :   -0.713:        0
+:  1054: A  31 PHE  HB2 : A  36 TYR  OH  :   -0.519:        0
+:  1054: A  31 PHE  HB2 : A  36 TYR  CE2 :   -0.405:        0
+
+:  1054: A  74 ASN  N   : A  74 ASN  C   :   -0.710:        0
+
+:  1054: A  56 ASN  OD1 : A  56 ASN  C   :   -0.628:        0
+
+:  1054: A  87 ASP  O   : A  90 MET  CE  :   -0.612:        0
+
+:  1054: A   1 GLU  HB3 : A  38 THR  OG1 :   -0.610:        0
+:  1054: A   1 GLU  O   : A   1 GLU  HG3 :   -0.442:        0
+
+:  1054: A  66 ASN  OD1 : A  58 LYS  CD  :   -0.584:        0
+:  1054: A  58 LYS  HD3 : A  66 ASN  OD1 :   -0.496:        0
+:  1054: A  66 ASN  OD1 : A  58 LYS  HD2 :   -0.404:        0
+
+:  1054: A  34 SER  OG  : A  52 LEU HD12 :   -0.503:        0
+
+:  1054: A  63 ASP  OD1 : A  63 ASP  C   :   -0.448:        0
+#sum2 ::23.72 clashscore : 23.72 clashscore B<40 
+#summary::1054 atoms:1054 atoms B<40:129933 potential dots:8121.0 A^2:25 bumps:25 bumps B<40:248.7 score

@@ -1,0 +1,15 @@
+
+:   917: A  27 PRO  CA  : A  27 PRO  CB  :   -1.477:       13
+:   917: A  27 PRO  CA  : A  27 PRO  N   :   -1.305:       12
+:   917: A  27 PRO  CG  : A  27 PRO  N   :   -1.017:       18
+:   917: A  27 PRO  CB  : A  27 PRO  N   :   -0.950:       13
+:   917: A  27 PRO  CA  : A  27 PRO  CG  :   -0.774:       18
+:   917: A  27 PRO  CA  : A  26 GLY  C   :   -0.551:       11
+:   917: A  26 GLY  CA  : A  27 PRO  CA  :   -0.530:       10
+:   917: A  27 PRO  CB  : A  27 PRO  C   :   -0.431:       13
+
+:   917: A  29 PRO  HD3 : A  21 LEU HD13 :   -0.431:       12
+
+:   917: A  35 VAL HG11 : A  32 GLN  OE1 :   -0.408:       11
+#sum2 ::10.91 clashscore : 10.91 clashscore B<40 
+#summary::917 atoms:917 atoms B<40:108052 potential dots:6753.0 A^2:10 bumps:10 bumps B<40:242.9 score

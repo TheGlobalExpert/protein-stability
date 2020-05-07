@@ -1,0 +1,44 @@
+
+:  1841: A  93 HIS  HB3 : A 146 TYR  OH  :   -1.124:        0
+:  1841: A 146 TYR  OH  : A  93 HIS  CB  :   -0.955:        0
+:  1841: A  93 HIS  HB3 : A 146 TYR  HH  :   -0.725:        0
+:  1841: A 146 TYR  OH  : A  93 HIS  HB2 :   -0.418:        0
+
+:  1841: A  58 SER  C   : A  59 GLU  CA  :   -0.953:        0
+
+:  1841: A  46 PHE  C   : A  46 PHE  CB  :   -0.909:        0
+:  1841: A  43 PHE  CG  : A  46 PHE  CZ  :   -0.772:        0
+:  1841: A  64 HIS  NE2 : A  43 PHE  CE1 :   -0.603:        0
+:  1841: A  43 PHE  HE1 : A  64 HIS  CE1 :   -0.564:        0
+:  1841: A  64 HIS  NE2 : A  43 PHE  HE1 :   -0.553:        0
+:  1841: A  64 HIS  CD2 : A  43 PHE  CE1 :   -0.541:        0
+:  1841: A  46 PHE  CZ  : A  43 PHE  CB  :   -0.520:        0
+:  1841: A  43 PHE  CD1 : A  46 PHE  CZ  :   -0.518:        0
+:  1841: A  46 PHE  CE2 : A  43 PHE  HB3 :   -0.504:        0
+
+:  1841: A   1 VAL  N   : A   1 VAL  C   :   -0.848:        0
+
+:  1841: A  73 GLY  HA3 : A  14 TRP  HE1 :   -0.660:        0
+:  1841: A  14 TRP  NE1 : A  73 GLY  CA  :   -0.619:        0
+:  1841: A  73 GLY  CA  : A  14 TRP  HE1 :   -0.560:        0
+:  1841: A  14 TRP  NE1 : A  73 GLY  HA2 :   -0.557:        0
+:  1841: A  14 TRP  CZ3 : A  76 LEU  CD1 :   -0.487:        0
+:  1841: A  14 TRP  CE3 : A  76 LEU  CD1 :   -0.477:        0
+:  1841: A  73 GLY  HA2 : A  14 TRP  CE2 :   -0.440:        0
+:  1841: A  76 LEU HD12 : A  14 TRP  CD2 :   -0.426:        0
+
+:  1841: A  79 LYS  HA  : A   7 TRP  CZ3 :   -0.572:        0
+:  1841: A   7 TRP  CZ2 : A  79 LYS  C   :   -0.462:        0
+:  1841: A  79 LYS  HA  : A   7 TRP  CH2 :   -0.446:        0
+:  1841: A  79 LYS  HA  : A   7 TRP  CE3 :   -0.400:        0
+
+:  1841: A  22 ALA  HB1 : A  62 LYS  HE3 :   -0.508:        0
+:  1841: A  62 LYS  HE3 : A  22 ALA  CB  :   -0.422:        0
+
+:  1841: A 111 ILE HG12 : A  28 ILE HD13 :   -0.504:        0
+
+:  1841: A 131 MET  CE  : A  10 VAL HG13 :   -0.500:        0
+
+:  1841: A 123 PHE  CZ  : A 128 GLN  HA  :   -0.485:        0
+#sum2 ::17.38 clashscore : 17.38 clashscore B<40 
+#summary::1841 atoms:1841 atoms B<40:216013 potential dots:13500.0 A^2:32 bumps:32 bumps B<40:606.7 score

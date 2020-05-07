@@ -1,0 +1,32 @@
+
+:  1467: A  35 LEU HD21 : A  46 ILE HD12 :   -1.020:        0
+:  1467: A  35 LEU  CD2 : A  46 ILE HD12 :   -0.765:        0
+:  1467: A  46 ILE  CD1 : A  35 LEU HD21 :   -0.722:        0
+:  1467: A  46 ILE  CD1 : A  35 LEU  CD2 :   -0.431:        0
+
+:  1467: A  58 LEU  HA  : A  62 GLU  OE1 :   -0.784:        0
+
+:  1467: A  86 MET  HE2 : A  63 LEU HD11 :   -0.701:        0
+:  1467: A  63 LEU HD22 : A  85 LEU HD23 :   -0.663:        0
+:  1467: A  86 MET  CE  : A  63 LEU HD11 :   -0.491:        0
+:  1467: A  85 LEU HD12 : A  85 LEU  HA  :   -0.407:        0
+
+:  1467: A  82 THR HG23 : A  78 THR  O   :   -0.566:        0
+
+:  1467: A  25 GLU  OE1 : A  28 LYS  HG3 :   -0.462:        0
+
+:  1467: A  96 LYS  HG2 : A  94 ASP  CG  :   -0.460:        0
+
+:  1467: A 100 ASP  OD1 : A 100 ASP  N   :   -0.440:        0
+
+:  1467: A  29 PHE  CD1 : A  24 PHE  HE1 :   -0.432:        0
+
+:  1467: A  76 GLU  OE2 : A  65 TYR  HE1 :   -0.427:        0
+
+:  1467: A  73 ASP  OD1 : A  73 ASP  CA  :   -0.423:        0
+
+:  1467: A  21 PRO  O   : A  22 ASP  HB2 :   -0.423:        0
+
+:  1467: A  50 ILE HD13 : A  66 PHE  CE1 :   -0.421:        0
+#sum2 ::12.27 clashscore : 12.27 clashscore B<40 
+#summary::1467 atoms:1467 atoms B<40:171411 potential dots:10710.0 A^2:18 bumps:18 bumps B<40:552 score

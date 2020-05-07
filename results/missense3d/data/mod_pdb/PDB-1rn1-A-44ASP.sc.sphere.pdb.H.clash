@@ -1,0 +1,77 @@
+
+:   990: A 100 PHE  CZ  : A  92 HIS  NE2 :   -1.599:        0
+:   990: A  92 HIS  CE1 : A 100 PHE  CZ  :   -1.561:        0
+:   990: A  92 HIS  CE1 : A 100 PHE  CE2 :   -1.243:        0
+:   990: A  92 HIS  CD2 : A 100 PHE  CE1 :   -1.177:        0
+:   990: A 100 PHE  CE1 : A  92 HIS  CE1 :   -1.135:        0
+:   990: A  92 HIS  NE2 : A 100 PHE  CE1 :   -1.102:        0
+:   990: A 100 PHE  CZ  : A  92 HIS  CD2 :   -0.898:        0
+:   990: A 100 PHE  HZ  : A  92 HIS  NE2 :   -0.866:        0
+:   990: A  92 HIS  HE1 : A 100 PHE  CE2 :   -0.853:        0
+:   990: A  92 HIS  CG  : A 100 PHE  CE1 :   -0.836:        0
+:   990: A 100 PHE  HE1 : A  92 HIS  CD2 :   -0.752:        0
+:   990: A  92 HIS  ND1 : A 100 PHE  CE1 :   -0.662:        0
+:   990: A 100 PHE  HD1 : A  91 THR  C   :   -0.620:        0
+:   990: A  92 HIS  CE1 : A 100 PHE  CD2 :   -0.548:        0
+:   990: A  92 HIS  CE1 : A 100 PHE  CD1 :   -0.462:        0
+:   990: A  92 HIS  ND1 : A 100 PHE  CD1 :   -0.416:        0
+
+:   990: A  39 PRO  N   : A  39 PRO  CD  :   -1.432:        0
+:   990: A  39 PRO  CD  : A  38 TYR  C   :   -0.778:        0
+:   990: A  36 ASN  HB2 : A  38 TYR  CE2 :   -0.421:        0
+
+:   990: A  40 HIS  NE2 : A  58 GLU  CD  :   -1.065:        0
+:   990: A  40 HIS  CE1 : A  58 GLU  CD  :   -1.000:        0
+:   990: A  58 GLU  OE1 : A  40 HIS  NE2 :   -0.777:        0
+:   990: A  40 HIS  HE2 : A  58 GLU  CD  :   -0.774:        0
+:   990: A  40 HIS  NE2 : A  58 GLU  CG  :   -0.688:        0
+:   990: A  58 GLU  OE2 : A  40 HIS  CE1 :   -0.672:        0
+:   990: A  40 HIS  CE1 : A  58 GLU  CG  :   -0.607:        0
+:   990: A  40 HIS  HD2 : A  41 LYS  O   :   -0.586:        0
+:   990: A  58 GLU  HG2 : A  40 HIS  CD2 :   -0.585:        0
+:   990: A  40 HIS  C   : A  40 HIS  CD2 :   -0.513:        0
+:   990: A  58 GLU  OE2 : A  40 HIS  HE1 :   -0.490:        0
+:   990: A  40 HIS  NE2 : A  58 GLU  HG2 :   -0.476:        0
+
+:   990: A  24 TYR  CD2 : A  24 TYR  CZ  :   -1.038:        0
+:   990: A  24 TYR  CZ  : A  84 ASN  HB2 :   -0.526:        0
+
+:   990: A  26 LEU  C   : A  26 LEU  CB  :   -0.932:        0
+
+:   990: A  52 VAL HG23 : A  56 TYR  HE2 :   -0.927:        0
+:   990: A  55 PRO  HA  : A  54 SER  HB2 :   -0.696:        0
+:   990: A  52 VAL HG23 : A  56 TYR  CE2 :   -0.659:        0
+:   990: A  54 SER  HB2 : A  55 PRO  CA  :   -0.438:        0
+:   990: A  56 TYR  HE2 : A  52 VAL  CG2 :   -0.430:        0
+:   990: A  54 SER  HB3 : A  56 TYR  CE1 :   -0.425:        0
+
+:   990: A  99 ASN  HB2 : A  96 SER  O   :   -0.877:        0
+:   990: A  96 SER  O   : A  99 ASN  CB  :   -0.517:        0
+
+:   990: A  77 ARG  NH1 : A  73 PRO  HB2 :   -0.801:        0
+:   990: A  73 PRO  HB2 : A  77 ARG  CZ  :   -0.770:        0
+:   990: A  77 ARG  HD3 : A  60 PRO  HA  :   -0.619:        0
+:   990: A  61 ILE  HB  : A  78 VAL HG13 :   -0.585:        0
+:   990: A  73 PRO  CB  : A  77 ARG  NH1 :   -0.576:        0
+:   990: A  77 ARG HH12 : A  73 PRO  HG2 :   -0.515:        0
+:   990: A  73 PRO  CG  : A  77 ARG  NH1 :   -0.489:        0
+:   990: A  60 PRO  HD3 : A  59 TRP  HA  :   -0.424:        0
+:   990: A  78 VAL HG22 : A  59 TRP  O   :   -0.413:        0
+
+:   990: A  50 PHE  HD2 : A  87 ALA  O   :   -0.656:        0
+:   990: A  50 PHE  CD2 : A  87 ALA  HB1 :   -0.459:        0
+
+:   990: A  90 ILE  CD1 : A  42 TYR  CE1 :   -0.612:        0
+:   990: A  90 ILE  CD1 : A  42 TYR  CZ  :   -0.488:        0
+
+:   990: A  43 ASN  O   : A  44 ASP  CB  :   -0.435:        0
+
+:   990: A 104 THR HG22 : A 104 THR  O   :   -0.435:        0
+
+:   990: A  57 TYR  CZ  : A  27 HIS  CE1 :   -0.418:        0
+
+:   990: A  81 ASN  OD1 : A  81 ASN  C   :   -0.414:        0
+
+:   990: A  32 THR  CA  : A  31 GLU  O   :   -0.410:        0
+#sum2 ::60.61 clashscore : 60.61 clashscore B<40 
+#summary::990 atoms:990 atoms B<40:119510 potential dots:7469.0 A^2:60 bumps:60 bumps B<40:29.58 score

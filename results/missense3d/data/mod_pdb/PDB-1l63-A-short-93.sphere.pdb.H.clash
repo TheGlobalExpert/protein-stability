@@ -1,0 +1,29 @@
+
+:  1279: A  67 PHE  C   : A  67 PHE  CB  :   -0.882:       15
+
+:  1279: A 107 GLY  C   : A 107 GLY  N   :   -0.773:       21
+
+:  1279: A  11 GLU  OE1 : A  11 GLU  CG  :   -0.765:       19
+
+:  1279: A 106 MET  CG  : A 106 MET  CE  :   -0.736:       70
+
+:  1279: A  69 GLN  C   : A  69 GLN  N   :   -0.714:       13
+
+:  1279: A 116 ASN  O   : A 117 SER  N   :   -0.686:       20
+
+:  1279: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1279: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1279: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1279: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1279: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1279: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1279: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1279: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+
+:  1279: A 145 ARG  CA  : A 144 ASN  O   :   -0.400:       22
+#sum2 ::11.73 clashscore : 9.94 clashscore B<40 
+#summary::1279 atoms:1207 atoms B<40:153286 potential dots:9580.0 A^2:15 bumps:12 bumps B<40:471 score

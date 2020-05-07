@@ -1,0 +1,49 @@
+
+:  1291: A 106 TRP  CZ2 : A 103 GLN  HG3 :   -1.024:        0
+:  1291: A 106 TRP  CE2 : A 103 GLN  HG3 :   -0.909:        0
+:  1291: A 103 GLN  HB2 : A 106 TRP  CD2 :   -0.708:        0
+:  1291: A 103 GLN  HB2 : A 106 TRP  CG  :   -0.693:        0
+:  1291: A 103 GLN  CG  : A 106 TRP  CE2 :   -0.557:        0
+:  1291: A 106 TRP  CZ2 : A 103 GLN  CG  :   -0.529:        0
+:  1291: A 103 GLN  HB2 : A 106 TRP  CD1 :   -0.512:        0
+:  1291: A 103 GLN  HB2 : A 106 TRP  CE2 :   -0.511:        0
+:  1291: A 106 TRP  CD1 : A 106 TRP  N   :   -0.411:        0
+
+:  1291: A 129 PRO  CD  : A 128 GLY  C   :   -0.924:        0
+:  1291: A 128 GLY  CA  : A 129 PRO  CD  :   -0.662:        0
+
+:  1291: A  62 ASN  OD1 : A  64 HIS  CG  :   -0.835:        0
+:  1291: A  62 ASN  OD1 : A  64 HIS  CD2 :   -0.529:        0
+:  1291: A  62 ASN  O   : A  63 SER  CB  :   -0.493:        0
+:  1291: A  62 ASN  OD1 : A  64 HIS  ND1 :   -0.440:        0
+:  1291: A  62 ASN  O   : A  63 SER  OG  :   -0.402:        0
+
+:  1291: A 152 ALA  CB  : A 152 ALA  N   :   -0.817:        0
+
+:  1291: A  96 LEU  HG  : A  95 VAL HG23 :   -0.802:        0
+
+:  1291: A 221 SER  CA  : A 221 SER  O   :   -0.779:        0
+:  1291: A 221 SER  CB  : A 125 SER  HB3 :   -0.586:        0
+:  1291: A 221 SER  OG  : A 125 SER  HB3 :   -0.456:        0
+
+:  1291: A  35 ILE HD12 : A  92 ALA  HB2 :   -0.570:        0
+:  1291: A  30 VAL  HB  : A  35 ILE HD11 :   -0.559:        0
+
+:  1291: A 127 GLY  HA2 : A 167 TYR  O   :   -0.536:        0
+
+:  1291: A  56 ASN  O   : A  94 LYS  NZ  :   -0.534:        0
+
+:  1291: A 147 VAL HG11 : A 122 ILE HD12 :   -0.460:        0
+:  1291: A 147 VAL HG11 : A 122 ILE  CD1 :   -0.446:        0
+
+:  1291: A 108 ILE  HA  : A 111 ILE HD12 :   -0.438:        0
+
+:  1291: A  90 LEU HD23 : A  90 LEU  HA  :   -0.419:        0
+
+:  1291: A 139 VAL HG23 : A 140 ASP  N   :   -0.419:        0
+
+:  1291: A  29 ALA  HB2 : A 119 MET  HG3 :   -0.408:        0
+
+:  1291: A 107 ILE HD12 : A 104 TYR  HA  :   -0.408:        0
+#sum2 ::24.79 clashscore : 24.79 clashscore B<40 
+#summary::1291 atoms:1291 atoms B<40:156850 potential dots:9803.0 A^2:32 bumps:32 bumps B<40:387.7 score

@@ -1,0 +1,21 @@
+
+:   725: A  60 GLN  OE1 : A  75 SER  HA  :   -1.191:        0
+:   725: A  60 GLN  OE1 : A  75 SER  CA  :   -0.732:        0
+:   725: A  60 GLN  CD  : A  57 VAL  HA  :   -0.567:        0
+:   725: A 106 ILE HD11 : A  57 VAL HG21 :   -0.427:        0
+:   725: A  60 GLN  NE2 : A  57 VAL  HA  :   -0.408:        0
+
+:   725: A  65 CYS  SG  : A  72 CYS  SG  :   -1.184:        0
+:   725: A  72 CYS  SG  : A  65 CYS  CB  :   -0.831:        0
+:   725: A  65 CYS  SG  : A  72 CYS  CB  :   -0.807:        0
+
+:   725: A   8 PHE  O   : A   8 PHE  CA  :   -0.738:        0
+
+:   725: A 110 CYS  HB2 : A 115 TYR  CE2 :   -0.631:        0
+:   725: A 115 TYR  CZ  : A 110 CYS  HB2 :   -0.587:        0
+:   725: A 110 CYS  CB  : A 115 TYR  CE2 :   -0.492:        0
+
+:   725: A 119 HIS  NE2 : A 121 ASP  HA  :   -0.470:        0
+:   725: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.443:        0
+#sum2 ::19.31 clashscore : 19.31 clashscore B<40 
+#summary::725 atoms:725 atoms B<40:88868 potential dots:5554.0 A^2:14 bumps:14 bumps B<40:161.6 score

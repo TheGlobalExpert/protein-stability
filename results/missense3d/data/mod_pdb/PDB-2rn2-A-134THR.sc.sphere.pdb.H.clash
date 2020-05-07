@@ -1,0 +1,42 @@
+
+:  1329: A 104 TRP  CE2 : A 104 TRP  CE3 :   -0.957:        0
+:  1329: A  49 LEU HD11 : A 104 TRP  CE2 :   -0.464:        0
+:  1329: A  49 LEU  CD1 : A  73 TYR  HE2 :   -0.445:        0
+:  1329: A  74 VAL HG22 : A  49 LEU HD23 :   -0.445:        0
+
+:  1329: A  76 GLN  CA  : A  77 GLY  N   :   -0.942:        0
+:  1329: A  76 GLN  CG  : A  76 GLN  OE1 :   -0.747:        0
+:  1329: A  77 GLY  N   : A  76 GLN  N   :   -0.431:        0
+
+:  1329: A 148 ASP  OD2 : A  46 ARG  NH1 :   -0.731:        0
+:  1329: A 148 ASP  OD1 : A  42 THR  OG1 :   -0.454:        0
+
+:  1329: A   5 VAL  CG1 : A   5 VAL  C   :   -0.608:        0
+
+:  1329: A  22 TYR  CD1 : A  22 TYR  C   :   -0.551:        0
+:  1329: A  22 TYR  HB2 : A  51 ALA  HB2 :   -0.546:        0
+:  1329: A  51 ALA  CB  : A   9 THR  HB  :   -0.448:        0
+
+:  1329: A 127 HIS  HB3 : A 128 PRO  HD2 :   -0.525:        0
+
+:  1329: A  27 ARG HH12 : A 129 GLU  CD  :   -0.494:        0
+:  1329: A 129 GLU  OE1 : A  27 ARG  NH1 :   -0.401:        0
+
+:  1329: A  47 MET  HA  : A  47 MET  CE  :   -0.470:        0
+
+:  1329: A  53 ILE HD12 : A  50 MET  HA  :   -0.460:        0
+
+:  1329: A  65 VAL  CG1 : A  66 ILE  N   :   -0.447:        0
+:  1329: A   6 GLU  HG2 : A  66 ILE  CG2 :   -0.428:        0
+
+:  1329: A   8 PHE  CD1 : A  68 SER  HB3 :   -0.441:        0
+:  1329: A  68 SER  HB2 : A 119 GLU  OE1 :   -0.400:        0
+
+:  1329: A 120 TRP  CZ2 : A 118 TRP  HB3 :   -0.439:        0
+:  1329: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+
+:  1329: A 144 PRO  HG3 : A  19 PRO  HB3 :   -0.418:        0
+
+:  1329: A  58 ALA  N   : A  57 GLU  N   :   -0.414:        0
+#sum2 ::19.56 clashscore : 19.56 clashscore B<40 
+#summary::1329 atoms:1329 atoms B<40:159643 potential dots:9978.0 A^2:26 bumps:26 bumps B<40:378.8 score

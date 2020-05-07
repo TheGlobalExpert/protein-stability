@@ -1,0 +1,85 @@
+
+:   775: A 122 ALA  HA  : A 125 ARG  CD  :   -1.681:        0
+:   775: A 125 ARG  CD  : A 122 ALA  CA  :   -1.193:        0
+:   775: A 122 ALA  CA  : A 125 ARG  HD2 :   -1.131:        0
+:   775: A 125 ARG  NE  : A 122 ALA  CA  :   -1.103:        0
+:   775: A 122 ALA  HA  : A 125 ARG  NE  :   -0.997:        0
+:   775: A 122 ALA  HA  : A 125 ARG  HD2 :   -0.965:        0
+:   775: A 122 ALA  HA  : A 125 ARG  CG  :   -0.865:        0
+:   775: A 125 ARG  HG3 : A 121 GLN  O   :   -0.742:        0
+:   775: A 122 ALA  N   : A 125 ARG  NE  :   -0.664:        0
+:   775: A 122 ALA  N   : A 125 ARG  CZ  :   -0.657:        0
+:   775: A 125 ARG  HD2 : A 122 ALA  CB  :   -0.544:        0
+:   775: A 125 ARG  HD2 : A 122 ALA  C   :   -0.402:        0
+
+:   775: A  17 LEU  CD1 : A  12 MET  CE  :   -1.058:        0
+:   775: A  17 LEU  CD1 : A  12 MET  HE3 :   -0.994:        0
+:   775: A  12 MET  CE  : A  17 LEU HD13 :   -0.914:        0
+:   775: A  12 MET  CE  : A  28 TRP  HB3 :   -0.851:        0
+:   775: A  12 MET  HE2 : A  17 LEU  CD1 :   -0.803:        0
+:   775: A  17 LEU HD13 : A  12 MET  HE2 :   -0.790:        0
+:   775: A  17 LEU HD12 : A  12 MET  CE  :   -0.746:        0
+:   775: A  28 TRP  HB3 : A  12 MET  HE1 :   -0.706:        0
+:   775: A  12 MET  HE3 : A  17 LEU HD12 :   -0.688:        0
+
+:   775: A  31 ALA  O   : A  35 GLU  HB2 :   -1.045:        0
+:   775: A  31 ALA  O   : A  35 GLU  CB  :   -0.653:        0
+:   775: A 109 VAL HG13 : A 110 ALA  N   :   -0.612:        0
+:   775: A 110 ALA  N   : A 109 VAL  CG1 :   -0.493:        0
+:   775: A  35 GLU  OE2 : A 110 ALA  HB3 :   -0.466:        0
+
+:   775: A 123 TRP  O   : A   5 ARG  NH2 :   -1.033:        0
+:   775: A 112 ARG  NH1 : A 106 ASN  O   :   -1.032:        0
+:   775: A 115 CYS  SG  : A 111 TRP  HA  :   -0.974:        0
+:   775: A  30 CYS  HB2 : A 123 TRP  CD1 :   -0.959:        0
+:   775: A 106 ASN  HB3 : A 112 ARG HH11 :   -0.912:        0
+:   775: A 115 CYS  SG  : A  30 CYS  SG  :   -0.875:        0
+:   775: A 103 ASN  O   : A 106 ASN  HB2 :   -0.836:        0
+:   775: A 106 ASN  CB  : A 112 ARG HH11 :   -0.826:        0
+:   775: A 112 ARG HH11 : A 106 ASN  C   :   -0.758:        0
+:   775: A   5 ARG HH21 : A 123 TRP  C   :   -0.757:        0
+:   775: A 112 ARG  NH1 : A 106 ASN  HB3 :   -0.710:        0
+:   775: A  30 CYS  HG  : A 115 CYS  HG  :   -0.707:        0
+:   775: A 106 ASN  CA  : A 112 ARG HH11 :   -0.699:        0
+:   775: A 112 ARG  NH1 : A 106 ASN  C   :   -0.659:        0
+:   775: A   5 ARG  NH2 : A 123 TRP  C   :   -0.658:        0
+:   775: A 117 ALA  HB3 : A 116 LYS  O   :   -0.657:        0
+:   775: A 117 ALA  CB  : A 116 LYS  O   :   -0.562:        0
+:   775: A  30 CYS  HG  : A 115 CYS  CB  :   -0.547:        0
+:   775: A 123 TRP  NE1 : A  30 CYS  HB2 :   -0.528:        0
+:   775: A 115 CYS  HB2 : A 111 TRP  CD1 :   -0.489:        0
+:   775: A  38 PHE  CE2 : A   5 ARG  CA  :   -0.475:        0
+:   775: A  34 PHE  N   : A  33 LYS  HG3 :   -0.469:        0
+:   775: A 106 ASN  O   : A 112 ARG  CZ  :   -0.464:        0
+:   775: A 115 CYS  CB  : A  30 CYS  SG  :   -0.463:        0
+:   775: A 123 TRP  HB2 : A 120 VAL  O   :   -0.456:        0
+:   775: A 111 TRP  O   : A 116 LYS  N   :   -0.449:        0
+:   775: A 116 LYS  HB3 : A 112 ARG  O   :   -0.436:        0
+:   775: A  33 LYS  HG2 : A 123 TRP  CH2 :   -0.426:        0
+:   775: A 108 TRP  HE3 : A 105 MET  HA  :   -0.424:        0
+:   775: A 123 TRP  NE1 : A  30 CYS  CB  :   -0.401:        0
+:   775: A 106 ASN  C   : A 108 TRP  H   :   -0.400:        0
+
+:   775: A  56 LEU  CA  : A  55 ILE  C   :   -0.931:        0
+
+:   775: A  37 ASN  N   : A  36 SER  CA  :   -0.900:        0
+:   775: A  36 SER  OG  : A  36 SER  CA  :   -0.713:        0
+
+:   775: A  25 LEU  O   : A  25 LEU HD23 :   -0.691:        0
+:   775: A  25 LEU  O   : A  25 LEU  CD2 :   -0.484:        0
+
+:   775: A  27 ASN  HB2 : A  24 SER  O   :   -0.526:        0
+
+:   775: A  99 VAL HG11 : A  20 TYR  CD2 :   -0.524:        0
+:   775: A  20 TYR  CE2 : A  99 VAL HG11 :   -0.497:        0
+:   775: A  20 TYR  CE2 : A  99 VAL  CG1 :   -0.411:        0
+
+:   775: A 127 CYS  SG  : A 124 ILE  O   :   -0.520:        0
+:   775: A 124 ILE  HA  : A 127 CYS  SG  :   -0.491:        0
+:   775: A 124 ILE  C   : A 127 CYS  SG  :   -0.463:        0
+:   775: A 124 ILE  CA  : A 127 CYS  SG  :   -0.400:        0
+
+:   775: A  23 TYR  OH  : A 104 GLY  HA3 :   -0.450:        0
+:   775: A  23 TYR  O   : A  19 ASN  HA  :   -0.404:        0
+#sum2 ::92.90 clashscore : 92.90 clashscore B<40 
+#summary::775 atoms:775 atoms B<40:95083 potential dots:5943.0 A^2:72 bumps:72 bumps B<40:-123.8 score

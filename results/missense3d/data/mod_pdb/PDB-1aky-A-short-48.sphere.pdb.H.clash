@@ -1,0 +1,12 @@
+
+:   640: A  73 LYS  C   : A  73 LYS  CB  :   -0.887:       28
+:   640: A  73 LYS  CB  : A  73 LYS  N   :   -0.847:       28
+:   640: A  73 LYS  C   : A  73 LYS  N   :   -0.722:       24
+
+:   640: A 136 PRO  C   : A 136 PRO  CB  :   -0.869:       65
+
+:   640: A  68 MET  CE  : A  35 THR  HB  :   -0.522:       18
+
+:   640: A  72 ILE HD13 : A  72 ILE  HA  :   -0.419:       20
+#sum2 ::9.38 clashscore : 8.76 clashscore B<40 
+#summary::640 atoms:571 atoms B<40:77148 potential dots:4822.0 A^2:6 bumps:5 bumps B<40:139.7 score

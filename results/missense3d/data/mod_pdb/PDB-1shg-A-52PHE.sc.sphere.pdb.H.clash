@@ -1,0 +1,51 @@
+
+:   942: A  46 VAL HG22 : A  31 LEU HD22 :   -0.991:        0
+:   942: A  46 VAL HG22 : A  31 LEU  CD2 :   -0.907:        0
+:   942: A  31 LEU HD22 : A  46 VAL  CG2 :   -0.841:        0
+
+:   942: A  51 GLY  HA3 : A  23 VAL HG13 :   -0.842:        0
+:   942: A  51 GLY  CA  : A  23 VAL HG13 :   -0.578:        0
+:   942: A  51 GLY  HA3 : A  23 VAL  CG1 :   -0.563:        0
+
+:   942: A   9 VAL HG12 : A  60 LYS  HA  :   -0.826:        0
+:   942: A   7 GLU  OE1 : A  60 LYS  CG  :   -0.525:        0
+:   942: A   7 GLU  OE1 : A  60 LYS  CD  :   -0.456:        0
+
+:   942: A  48 ASP  OD1 : A  47 ASN  HB3 :   -0.768:        0
+:   942: A  48 ASP  OD1 : A  48 ASP  N   :   -0.554:        0
+:   942: A  48 ASP  H   : A  47 ASN  HB3 :   -0.423:        0
+
+:   942: A  54 PRO  HD3 : A  15 TYR  CZ  :   -0.644:        0
+:   942: A  25 MET  HG2 : A  15 TYR  HB3 :   -0.484:        0
+:   942: A  54 PRO  HD3 : A  15 TYR  CE2 :   -0.481:        0
+:   942: A  15 TYR  CE1 : A  54 PRO  CG  :   -0.473:        0
+:   942: A  24 THR HG23 : A  15 TYR  O   :   -0.462:        0
+
+:   942: A  39 LYS  HE2 : A  40 ASP  OD1 :   -0.607:        0
+:   942: A  52 PHE  HB3 : A  41 TRP  HE3 :   -0.468:        0
+:   942: A  40 ASP  HB2 : A  41 TRP  HD1 :   -0.426:        0
+:   942: A  22 GLU  HG2 : A  41 TRP  HZ3 :   -0.412:        0
+
+:   942: A  58 VAL HG21 : A  42 TRP  CE3 :   -0.541:        0
+:   942: A  58 VAL  CG2 : A  42 TRP  CE3 :   -0.487:        0
+:   942: A  58 VAL HG21 : A  42 TRP  HE3 :   -0.469:        0
+:   942: A  58 VAL  CG2 : A  42 TRP  CZ3 :   -0.423:        0
+
+:   942: A  10 LEU HD11 : A  28 GLY  HA2 :   -0.534:        0
+
+:   942: A  16 GLN  CD  : A  16 GLN  N   :   -0.502:        0
+
+:   942: A  44 VAL  O   : A  50 GLN  HA  :   -0.502:        0
+
+:   942: A   6 LYS  HB2 : A   6 LYS  HE3 :   -0.481:        0
+
+:   942: A  36 SER  HB3 : A  33 LEU HD21 :   -0.479:        0
+
+:   942: A  45 GLU  HA  : A  49 ARG  O   :   -0.455:        0
+
+:   942: A  12 LEU HD21 : A  59 LYS  HB2 :   -0.442:        0
+:   942: A  59 LYS  CB  : A  12 LEU HD21 :   -0.412:        0
+
+:   942: A  34 LEU HD12 : A  43 LYS  HG2 :   -0.402:        0
+#sum2 ::36.09 clashscore : 36.09 clashscore B<40 
+#summary::942 atoms:942 atoms B<40:104142 potential dots:6509.0 A^2:34 bumps:34 bumps B<40:152.4 score

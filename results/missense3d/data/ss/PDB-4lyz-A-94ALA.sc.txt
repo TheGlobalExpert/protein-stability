@@ -1,0 +1,7 @@
+SGFILE missense3d/data/mod_pdb/PDB-4lyz-A-94ALA.sc.pdb             
+NUMCYS      7
+NUMSGA      7
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap
+INTRA   30  CYS A  SG   . -  115  CYS A  SG   .     2.714    86
+INTRA   64  CYS A  SG   . -   80  CYS A  SG   .     2.530    17

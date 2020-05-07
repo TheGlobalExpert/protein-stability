@@ -1,0 +1,9 @@
+
+:   675: A   9 PHE  CG  : A   9 PHE  CE2 :   -1.030:       12
+
+:   675: A   8 TRP  N   : A   7 LYS  CA  :   -0.875:       12
+:   675: A   8 TRP  C   : A   8 TRP  N   :   -0.798:       12
+
+:   675: A   1 MET  SD  : A  50 GLU  HG3 :   -0.567:       21
+#sum2 ::5.93 clashscore : 5.93 clashscore B<40 
+#summary::675 atoms:675 atoms B<40:79730 potential dots:4983.0 A^2:4 bumps:4 bumps B<40:212.2 score

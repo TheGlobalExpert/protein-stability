@@ -1,0 +1,20 @@
+
+:   747: A  65 LYS  CA  : A  66 GLU  N   :   -0.855:       51
+
+:   747: A  31 SER  C   : A  31 SER  N   :   -0.728:       21
+:   747: A  31 SER  N   : A  32 ALA  N   :   -0.426:       21
+
+:   747: A  22 GLY  O   : A  23 GLN  HG2 :   -0.661:       60
+:   747: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+
+:   747: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   747: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   747: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   747: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   747: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::13.39 clashscore : 9.45 clashscore B<40 
+#summary::747 atoms:635 atoms B<40:87562 potential dots:5473.0 A^2:10 bumps:6 bumps B<40:167 score

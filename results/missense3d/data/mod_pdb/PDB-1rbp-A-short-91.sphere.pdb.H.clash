@@ -1,0 +1,32 @@
+
+:  1207: A 168 ILE  CG1 : A 168 ILE  CG2 :   -1.010:       23
+:  1207: A 168 ILE  CG2 : A 168 ILE  CD1 :   -0.487:       23
+
+:  1207: A  20 PHE  CG  : A  20 PHE  CE2 :   -0.985:       12
+
+:  1207: A  21 SER  CA  : A  22 GLY  N   :   -0.894:       21
+:  1207: A  21 SER  OG  : A  21 SER  CA  :   -0.784:       25
+
+:  1207: A  65 ASN  N   : A  65 ASN  CB  :   -0.883:       71
+
+:  1207: A  61 VAL HG22 : A  37 LEU HD23 :   -0.800:       29
+:  1207: A  61 VAL  CG2 : A  37 LEU HD23 :   -0.614:       29
+:  1207: A  61 VAL HG13 : A  36 PHE  O   :   -0.497:       27
+
+:  1207: A  33 GLU  CG  : A  33 GLU  OE1 :   -0.753:       45
+
+:  1207: A  97 LEU  HB2 : A  92 GLY  HA3 :   -0.621:       18
+
+:  1207: A  67 TRP  HB2 : A  63 LEU  HB2 :   -0.463:       64
+
+:  1207: A 173 TYR  OH  : A  68 ASP  HB3 :   -0.445:       45
+
+:  1207: A  55 ALA  HA  : A  44 GLU  O   :   -0.426:       24
+
+:  1207: A  73 MET  HB2 : A  57 ALA  HB3 :   -0.416:       25
+
+:  1207: A  41 ILE  HB  : A  26 ALA  HB3 :   -0.410:       18
+
+:  1207: A  38 GLN  HG2 : A  60 ARG  NH1 :   -0.407:       32
+#sum2 ::14.08 clashscore : 11.66 clashscore B<40 
+#summary::1207 atoms:1115 atoms B<40:149920 potential dots:9370.0 A^2:17 bumps:13 bumps B<40:281.5 score

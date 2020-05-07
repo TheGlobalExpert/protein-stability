@@ -1,0 +1,32 @@
+
+:   889: A  61 GLU  OE1 : A  28 TYR  OH  :   -1.082:        0
+:   889: A  28 TYR  OH  : A  61 GLU  CD  :   -0.917:        0
+:   889: A  28 TYR  HH  : A  61 GLU  CD  :   -0.840:        0
+:   889: A  28 TYR  OH  : A  61 GLU  OE2 :   -0.564:        0
+:   889: A 114 HIS  HE1 : A  61 GLU  O   :   -0.495:        0
+:   889: A  29 ARG  HB2 : A  28 TYR  O   :   -0.410:        0
+
+:   889: A  50 MET  CA  : A  49 LEU  C   :   -0.954:        0
+
+:   889: A 104 TRP  CA  : A 103 LEU  C   :   -0.931:        0
+
+:   889: A  35 PHE  N   : A  35 PHE  CB  :   -0.837:        0
+
+:   889: A 113 GLN  O   : A  62 HIS  ND1 :   -0.825:        0
+:   889: A  62 HIS  HE1 : A 113 GLN  OE1 :   -0.487:        0
+:   889: A  62 HIS  CE1 : A 113 GLN  OE1 :   -0.476:        0
+
+:   889: A  78 ILE  O   : A  78 ILE  CA  :   -0.726:        0
+
+:   889: A  57 GLU  HG3 : A  53 ILE  O   :   -0.557:        0
+
+:   889: A  51 ALA  CB  : A   9 THR  HB  :   -0.448:        0
+
+:   889: A  66 ILE  N   : A  65 VAL  CG1 :   -0.447:        0
+:   889: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.428:        0
+:   889: A  66 ILE  N   : A  65 VAL HG12 :   -0.400:        0
+
+:   889: A 120 TRP  CZ2 : A 118 TRP  HB3 :   -0.439:        0
+:   889: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+#sum2 ::22.50 clashscore : 22.50 clashscore B<40 
+#summary::889 atoms:889 atoms B<40:107534 potential dots:6721.0 A^2:20 bumps:20 bumps B<40:161.8 score

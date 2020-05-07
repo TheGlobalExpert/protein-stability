@@ -1,0 +1,26 @@
+
+:  1210: A  55 LEU  CD2 : A  55 LEU  CD1 :   -0.979:       45
+
+:  1210: A 123 ILE  CB  : A 123 ILE  C   :   -0.942:       19
+:  1210: A 123 ILE  C   : A 123 ILE  CG2 :   -0.511:       19
+
+:  1210: A  61 SER  C   : A  61 SER  CB  :   -0.899:       28
+
+:  1210: A  51 LYS  N   : A  50 ARG  CA  :   -0.852:       34
+:  1210: A  51 LYS  CA  : A  51 LYS  O   :   -0.753:       33
+
+:  1210: A  99 ILE  CB  : A  99 ILE  N   :   -0.842:       17
+
+:  1210: A  98 GLN  CB  : A  98 GLN  N   :   -0.821:       15
+
+:  1210: A 146 PHE  HB2 : A  14 MET  CE  :   -0.615:       25
+:  1210: A 146 PHE  HB2 : A  14 MET  HE2 :   -0.538:       25
+:  1210: A 142 LEU  O   : A  14 MET  HE2 :   -0.420:       25
+
+:  1210: A   1 MET  SD  : A  89 LYS  HE2 :   -0.522:       63
+
+:  1210: A  15 LEU HD12 : A  15 LEU  HA  :   -0.435:       27
+
+:  1210: A  96 LEU HD11 : A   4 ILE HG12 :   -0.412:       37
+#sum2 ::11.57 clashscore : 10.68 clashscore B<40 
+#summary::1210 atoms:1124 atoms B<40:148156 potential dots:9260.0 A^2:14 bumps:12 bumps B<40:349.7 score

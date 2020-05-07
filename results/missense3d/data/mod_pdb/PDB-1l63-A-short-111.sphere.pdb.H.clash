@@ -1,0 +1,13 @@
+
+:  1645: A  67 PHE  CE1 : A  67 PHE  CG  :   -0.953:       20
+:  1645: A  67 PHE  CA  : A  67 PHE  CG  :   -0.918:       20
+:  1645: A  67 PHE  CA  : A  67 PHE  CD2 :   -0.480:       15
+
+:  1645: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1645: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1645: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1645: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::4.26 clashscore : 4.63 clashscore B<40 
+#summary::1645 atoms:1511 atoms B<40:193199 potential dots:12070.0 A^2:7 bumps:7 bumps B<40:652.6 score

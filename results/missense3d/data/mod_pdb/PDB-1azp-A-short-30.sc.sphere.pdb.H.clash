@@ -1,0 +1,53 @@
+
+:   993: A  25 ARG HH12 : A  47 GLU  CD  :   -1.301:        0
+:   993: A  47 GLU  CD  : A  25 ARG  NH1 :   -1.002:        0
+:   993: A  47 GLU  OE1 : A  25 ARG  NH1 :   -0.916:        0
+:   993: A  25 ARG  NH2 : A  47 GLU  OE2 :   -0.897:        0
+:   993: A  47 GLU  CD  : A  25 ARG HH22 :   -0.719:        0
+:   993: A  47 GLU  OE2 : A  25 ARG  CZ  :   -0.712:        0
+:   993: A  47 GLU  CD  : A  25 ARG  CZ  :   -0.670:        0
+:   993: A  25 ARG HH21 : A  25 ARG  HG3 :   -0.619:        0
+:   993: A  47 GLU  CD  : A  25 ARG  NH2 :   -0.599:        0
+:   993: A  25 ARG  NH2 : A  25 ARG  HG3 :   -0.578:        0
+:   993: A  25 ARG HH22 : A  47 GLU  CG  :   -0.568:        0
+:   993: A  25 ARG HH22 : A  47 GLU  HG3 :   -0.441:        0
+:   993: A  47 GLU  OE2 : A  25 ARG  NH1 :   -0.441:        0
+:   993: A  25 ARG  CG  : A  25 ARG HH21 :   -0.400:        0
+
+:   993: A   1 MET  CA  : A   1 MET  CG  :   -0.926:        0
+:   993: A   1 MET  C   : A   1 MET  CG  :   -0.509:        0
+
+:   993: A  65 LYS  CA  : A  66 LYS  N   :   -0.879:        0
+:   993: A  65 LYS  N   : A  66 LYS  N   :   -0.530:        0
+
+:   993: A  14 GLU  HG2 : A   5 LYS  HB3 :   -0.834:        0
+:   993: A  14 GLU  CG  : A   5 LYS  HB3 :   -0.662:        0
+:   993: A   3 LYS  HE3 : A  14 GLU  HB3 :   -0.533:        0
+:   993: A   4 VAL  O   : A  14 GLU  HA  :   -0.527:        0
+:   993: A  14 GLU  HG2 : A   5 LYS  CB  :   -0.526:        0
+:   993: A   5 LYS  NZ  : A   5 LYS  CB  :   -0.446:        0
+:   993: A  14 GLU  OE2 : A   5 LYS  HE2 :   -0.436:        0
+
+:   993: A   6 PHE  HE1 : A  15 VAL HG12 :   -0.710:        0
+:   993: A  15 VAL HG12 : A   6 PHE  CE1 :   -0.467:        0
+
+:   993: A   7 LYS  HD3 : A   7 LYS  O   :   -0.695:        0
+:   993: A   7 LYS  HD3 : A   7 LYS  C   :   -0.512:        0
+
+:   993: A  35 ASP  HB3 : A  19 LYS  HD2 :   -0.679:        0
+
+:   993: A  31 SER  HB3 : A  24 TRP  CE2 :   -0.624:        0
+
+:   993: A  36 ASP  HB2 : A  34 TYR  CE2 :   -0.535:        0
+
+:   993: A  48 LYS  HG2 : A  46 SER  OG  :   -0.507:        0
+
+:   993: A   9 LYS  C   : A  11 GLU  H   :   -0.450:        0
+
+:   993: A  16 ASP  OD2 : A  18 SER  OG  :   -0.447:        0
+
+:   993: A  13 LYS  HE3 : A  13 LYS  HB2 :   -0.426:        0
+
+:   993: A  29 MET  HB3 : A  26 VAL  O   :   -0.418:        0
+#sum2 ::37.26 clashscore : 37.26 clashscore B<40 
+#summary::993 atoms:993 atoms B<40:112709 potential dots:7044.0 A^2:37 bumps:37 bumps B<40:161 score

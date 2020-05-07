@@ -1,0 +1,69 @@
+
+:  1798: A  13 PRO  N   : A  13 PRO  CD  :   -1.463:        0
+:  1798: A  10 GLY  C   : A  13 PRO  HD2 :   -0.527:        0
+
+:  1798: A   3 ILE HD12 : A  30 LEU HD11 :   -1.042:        0
+:  1798: A  30 LEU HD11 : A   3 ILE  CD1 :   -0.774:        0
+:  1798: A   3 ILE HD12 : A  30 LEU  CD1 :   -0.404:        0
+
+:  1798: A   1 MET  C   : A   1 MET  CB  :   -0.903:        0
+
+:  1798: A  80 LEU  C   : A  80 LEU  CB  :   -0.863:        0
+
+:  1798: A  68 LEU  CB  : A  68 LEU  N   :   -0.823:        0
+
+:  1798: A 147 LEU HD22 : A  53 PHE  CD1 :   -0.821:        0
+:  1798: A 147 LEU HD22 : A  53 PHE  CE1 :   -0.802:        0
+:  1798: A  53 PHE  CE2 : A  57 LEU HD11 :   -0.588:        0
+
+:  1798: A  84 GLU  OE1 : A  11 ARG  HD3 :   -0.790:        0
+:  1798: A  84 GLU  OE2 : A 107 ALA  HB1 :   -0.526:        0
+:  1798: A  84 GLU  OE1 : A  11 ARG  CD  :   -0.493:        0
+
+:  1798: A 146 ILE HD13 : A  52 LEU HD13 :   -0.695:        0
+
+:  1798: A  60 LEU HD23 : A  25 VAL HG22 :   -0.690:        0
+:  1798: A  25 VAL HG22 : A  60 LEU  CD2 :   -0.645:        0
+:  1798: A  60 LEU  CD2 : A  25 VAL  CG2 :   -0.623:        0
+:  1798: A  60 LEU HD23 : A  25 VAL  CG2 :   -0.480:        0
+:  1798: A  25 VAL HG12 : A  26 ASP  O   :   -0.406:        0
+
+:  1798: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.636:        0
+:  1798: A  99 PRO  CB  : A   4 ALA  HB2 :   -0.434:        0
+
+:  1798: A  49 ARG  HG2 : A 150 VAL  CG2 :   -0.619:        0
+
+:  1798: A 132 HIS  HE1 : A 108 ASP  O   :   -0.614:        0
+
+:  1798: A  48 ARG  HG3 : A  48 ARG HH21 :   -0.608:        0
+:  1798: A  48 ARG  NH2 : A  48 ARG  HG3 :   -0.490:        0
+
+:  1798: A 153 ASP  OD2 : A 149 LYS  HE3 :   -0.577:        0
+
+:  1798: A  34 GLU  OE2 : A  39 ARG  NH1 :   -0.545:        0
+:  1798: A  34 GLU  CD  : A  39 ARG HH11 :   -0.520:        0
+
+:  1798: A 151 THR  HB  : A  19 VAL HG11 :   -0.475:        0
+
+:  1798: A 133 LYS  O   : A 133 LYS  HG3 :   -0.466:        0
+
+:  1798: A  44 LEU HD12 : A  41 SER  HB2 :   -0.465:        0
+
+:  1798: A  92 LEU HD13 : A 102 ILE HD13 :   -0.446:        0
+
+:  1798: A   6 ILE HD11 : A  88 PHE  HA  :   -0.426:        0
+
+:  1798: A   7 ASP  OD1 : A   8 GLU  N   :   -0.424:        0
+
+:  1798: A  62 ASP  OD1 : A  63 TYR  N   :   -0.408:        0
+
+:  1798: A 130 ALA  HA  : A 104 ALA  O   :   -0.405:        0
+
+:  1798: A  87 ASN  HB3 : A  20 ILE HD12 :   -0.405:        0
+
+:  1798: A  95 LEU HD23 : A  64 VAL HG23 :   -0.402:        0
+:  1798: A  95 LEU HD13 : A  24 VAL  CG2 :   -0.401:        0
+
+:  1798: A  29 SER  O   : A  32 LYS  HB2 :   -0.400:        0
+#sum2 ::22.80 clashscore : 22.80 clashscore B<40 
+#summary::1798 atoms:1798 atoms B<40:213387 potential dots:13340.0 A^2:41 bumps:41 bumps B<40:486.5 score

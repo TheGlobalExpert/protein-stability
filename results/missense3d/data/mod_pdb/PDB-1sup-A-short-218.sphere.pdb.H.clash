@@ -1,0 +1,29 @@
+
+:  1602: A 262 TYR  CD1 : A 262 TYR  CZ  :   -1.032:       10
+
+:  1602: A  13 ALA  N   : A  13 ALA  CB  :   -0.834:        9
+
+:  1602: A 197 ASP  CB  : A 197 ASP  OD2 :   -0.797:        8
+
+:  1602: A  36 ASP  CB  : A  36 ASP  OD2 :   -0.796:       17
+
+:  1602: A 193 GLY  CA  : A 193 GLY  O   :   -0.721:        9
+
+:  1602: A 211 GLY  C   : A 211 GLY  N   :   -0.718:       14
+
+:  1602: A 257 LEU  O   : A 257 LEU  CA  :   -0.672:       18
+:  1602: A 267 LEU HD22 : A 184 ASN  OD1 :   -0.432:       18
+:  1602: A 184 ASN  HB3 : A 257 LEU HD22 :   -0.418:       14
+:  1602: A 267 LEU  HB2 : A 257 LEU HD11 :   -0.414:       14
+
+:  1602: A 167 TYR  O   : A 127 GLY  HA2 :   -0.536:       18
+
+:  1602: A  35 ILE HD11 : A  30 VAL  HB  :   -0.509:        9
+
+:  1602: A 125 SER  HB3 : A 221 SER  CB  :   -0.495:       13
+
+:  1602: A 205 ILE  O   : A 216 ALA  HA  :   -0.463:        8
+
+:  1602: A  81 VAL  HA  : A   3 SER  O   :   -0.421:       14
+#sum2 ::9.36 clashscore : 9.46 clashscore B<40 
+#summary::1602 atoms:1585 atoms B<40:198094 potential dots:12380.0 A^2:15 bumps:15 bumps B<40:687.3 score

@@ -1,0 +1,89 @@
+
+:  1369: A  18 TYR  CE1 : A  14 ARG  NH1 :   -1.415:        0
+:  1369: A  18 TYR  CZ  : A  14 ARG  NH1 :   -1.255:        0
+:  1369: A  22 GLU  OE1 : A  24 TYR  HE1 :   -0.986:        0
+:  1369: A  18 TYR  CE1 : A  14 ARG  CZ  :   -0.765:        0
+:  1369: A  24 TYR  CE1 : A  22 GLU  OE1 :   -0.748:        0
+:  1369: A  24 TYR  CE1 : A  22 GLU  HB3 :   -0.730:        0
+:  1369: A  58 ILE HG12 : A  27 ILE HD11 :   -0.655:        0
+:  1369: A  18 TYR  CZ  : A  14 ARG  CZ  :   -0.614:        0
+:  1369: A  14 ARG  NH1 : A  18 TYR  OH  :   -0.602:        0
+:  1369: A  26 THR HG22 : A  27 ILE  N   :   -0.570:        0
+:  1369: A  20 ASP  HB3 : A  22 GLU  H   :   -0.558:        0
+:  1369: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:  1369: A  24 TYR  O   : A  19 LYS  HA  :   -0.547:        0
+:  1369: A  14 ARG  NH1 : A  18 TYR  HE1 :   -0.538:        0
+:  1369: A  24 TYR  HE1 : A  22 GLU  CD  :   -0.520:        0
+:  1369: A  20 ASP  HB2 : A  24 TYR  H   :   -0.516:        0
+:  1369: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:  1369: A  26 THR  HB  : A  18 TYR  CE1 :   -0.506:        0
+:  1369: A  24 TYR  CE1 : A  22 GLU  CB  :   -0.495:        0
+:  1369: A  18 TYR  OH  : A  26 THR  CG2 :   -0.472:        0
+:  1369: A  18 TYR  CZ  : A  26 THR  HB  :   -0.455:        0
+:  1369: A  14 ARG  NE  : A  18 TYR  CD1 :   -0.448:        0
+:  1369: A  18 TYR  CG  : A  14 ARG  NE  :   -0.439:        0
+:  1369: A  22 GLU  HB3 : A  24 TYR  CD1 :   -0.435:        0
+:  1369: A  27 ILE  N   : A  26 THR  CG2 :   -0.433:        0
+:  1369: A  18 TYR  CZ  : A  26 THR  CG2 :   -0.422:        0
+:  1369: A  27 ILE  HA  : A  18 TYR  CE2 :   -0.418:        0
+:  1369: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+:  1369: A  14 ARG  CZ  : A  18 TYR  CD1 :   -0.411:        0
+:  1369: A  14 ARG  NH1 : A  18 TYR  CD1 :   -0.400:        0
+
+:  1369: A   6 MET  HE2 : A 161 TYR  OH  :   -1.283:        0
+:  1369: A 161 TYR  OH  : A   6 MET  CE  :   -0.956:        0
+:  1369: A   6 MET  HE2 : A 161 TYR  CZ  :   -0.947:        0
+:  1369: A 161 TYR  CZ  : A   6 MET  HG3 :   -0.894:        0
+:  1369: A 161 TYR  CZ  : A   6 MET  CE  :   -0.850:        0
+:  1369: A   6 MET  HE3 : A 161 TYR  CE2 :   -0.834:        0
+:  1369: A   6 MET  CE  : A 161 TYR  CE2 :   -0.832:        0
+:  1369: A   6 MET  HG3 : A 161 TYR  CE1 :   -0.748:        0
+:  1369: A   6 MET  CG  : A 161 TYR  CZ  :   -0.697:        0
+:  1369: A 161 TYR  CE1 : A   6 MET  CG  :   -0.540:        0
+:  1369: A   6 MET  HE3 : A 161 TYR  HE2 :   -0.532:        0
+:  1369: A   6 MET  CE  : A 161 TYR  HE2 :   -0.475:        0
+
+:  1369: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.983:        0
+:  1369: A 148 ARG  CD  : A 164 LEU  CD2 :   -0.731:        0
+:  1369: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.711:        0
+:  1369: A 148 ARG  HD3 : A 164 LEU HD22 :   -0.467:        0
+
+:  1369: A 144 ASN  C   : A 144 ASN  CB  :   -0.924:        0
+
+:  1369: A  97 CYS  CB  : A  97 CYS  C   :   -0.915:        0
+
+:  1369: A  76 ARG  N   : A  75 VAL  CA  :   -0.869:        0
+
+:  1369: A  62 GLU  OE2 : A  52 ARG  NE  :   -0.770:        0
+:  1369: A  52 ARG HH21 : A  52 ARG  HG3 :   -0.672:        0
+:  1369: A  52 ARG  HG3 : A  52 ARG  NH2 :   -0.596:        0
+:  1369: A  54 CYS  HA  : A  52 ARG HH22 :   -0.519:        0
+:  1369: A  52 ARG  HE  : A  62 GLU  CD  :   -0.507:        0
+:  1369: A  52 ARG HH21 : A  52 ARG  CG  :   -0.483:        0
+:  1369: A  54 CYS  HA  : A  52 ARG  NH2 :   -0.476:        0
+:  1369: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.462:        0
+:  1369: A  52 ARG  CZ  : A  54 CYS  SG  :   -0.454:        0
+:  1369: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.408:        0
+
+:  1369: A 106 MET  CB  : A 106 MET  CE  :   -0.739:        0
+:  1369: A 106 MET  CE  : A 106 MET  CG  :   -0.717:        0
+:  1369: A 106 MET  CE  : A 106 MET  HB3 :   -0.715:        0
+
+:  1369: A 142 THR  N   : A 141 GLN  O   :   -0.687:        0
+
+:  1369: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.586:        0
+:  1369: A  39 LEU HD22 : A  43 LYS  HD3 :   -0.432:        0
+:  1369: A  39 LEU HD23 : A  39 LEU  HA  :   -0.420:        0
+:  1369: A  39 LEU  O   : A  39 LEU HD22 :   -0.414:        0
+
+:  1369: A  41 ALA  H   : A  38 SER  HB2 :   -0.493:        0
+
+:  1369: A  60 LYS  O   : A  64 GLU  HG3 :   -0.489:        0
+
+:  1369: A  29 ILE HG22 : A  29 ILE  O   :   -0.472:        0
+
+:  1369: A 145 ARG HH22 : A  11 GLU  CD  :   -0.423:        0
+
+:  1369: A   3 ILE HG23 : A   4 PHE  N   :   -0.408:        0
+#sum2 ::52.59 clashscore : 52.59 clashscore B<40 
+#summary::1369 atoms:1369 atoms B<40:161067 potential dots:10070.0 A^2:72 bumps:72 bumps B<40:165.1 score

@@ -1,0 +1,12 @@
+
+:   896: A  15 TYR  CD2 : A  15 TYR  CZ  :   -1.042:       15
+
+:   896: A  30 PHE  CE2 : A  30 PHE  CE1 :   -1.026:       14
+
+:   896: A   1 MET  SD  : A  50 GLU  HG3 :   -0.567:       21
+
+:   896: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.512:       16
+
+:   896: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.495:       28
+#sum2 ::5.58 clashscore : 5.61 clashscore B<40 
+#summary::896 atoms:891 atoms B<40:102772 potential dots:6423.0 A^2:5 bumps:5 bumps B<40:299.9 score

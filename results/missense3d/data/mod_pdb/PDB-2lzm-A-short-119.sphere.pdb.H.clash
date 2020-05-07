@@ -1,0 +1,18 @@
+
+:  1100: A 105 GLN  CB  : A 105 GLN  C   :   -0.928:       23
+:  1100: A 105 GLN  N   : A 105 GLN  CB  :   -0.813:       12
+:  1100: A 105 GLN  C   : A 105 GLN  N   :   -0.735:       23
+
+:  1100: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1100: A 145 ARG  O   : A 146 ALA  N   :   -0.644:       15
+
+:  1100: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1100: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1100: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1100: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1100: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::9.09 clashscore : 5.99 clashscore B<40 
+#summary::1100 atoms:1001 atoms B<40:128214 potential dots:8013.0 A^2:10 bumps:6 bumps B<40:382.2 score

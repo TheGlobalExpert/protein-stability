@@ -1,0 +1,25 @@
+
+:  1247: A   8 VAL HG21 : A  36 TYR  CD2 :   -0.613:       36
+
+:  1247: A  13 LYS  O   : A  16 LYS  HB2 :   -0.605:       36
+:  1247: A  23 LEU  HG  : A  16 LYS  CG  :   -0.476:       35
+
+:  1247: A 116 ASP  O   : A 119 LEU  HB2 :   -0.509:       60
+:  1247: A 116 ASP  HA  : A 119 LEU HD23 :   -0.486:       61
+
+:  1247: A  85 LEU  O   : A  89 ILE HG13 :   -0.496:       27
+
+:  1247: A 103 TYR  HD1 : A  99 VAL HG11 :   -0.482:       35
+:  1247: A  99 VAL  O   : A  99 VAL HG12 :   -0.406:       37
+
+:  1247: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.478:       52
+
+:  1247: A  27 VAL HG21 : A   9 PHE  HD1 :   -0.473:       38
+
+:  1247: A  56 ASN  OD1 : A  56 ASN  C   :   -0.469:       45
+
+:  1247: A  25 GLU  HB2 : A  22 SER  O   :   -0.423:       26
+
+:  1247: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.407:       28
+#sum2 ::10.43 clashscore : 8.61 clashscore B<40 
+#summary::1247 atoms:1045 atoms B<40:145781 potential dots:9111.0 A^2:13 bumps:9 bumps B<40:436.5 score

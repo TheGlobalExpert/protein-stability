@@ -1,0 +1,27 @@
+
+:  1654: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1654: A  22 GLU  N   : A  20 ASP  HB3 :   -0.797:       42
+:  1654: A  20 ASP  HB2 : A  24 TYR  N   :   -0.695:       32
+:  1654: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1654: A 137 ARG  CZ  : A 141 GLN  HG2 :   -0.450:       39
+
+:  1654: A  67 PHE  CE1 : A  67 PHE  CG  :   -0.994:       23
+:  1654: A  67 PHE  CA  : A  67 PHE  CG  :   -0.881:       23
+:  1654: A  67 PHE  CA  : A  66 LEU  O   :   -0.431:       14
+:  1654: A  67 PHE  CA  : A  67 PHE  CD2 :   -0.420:       22
+
+:  1654: A   9 ILE  N   : A   8 ARG  CA  :   -0.862:       20
+:  1654: A   9 ILE  C   : A   9 ILE  N   :   -0.854:       17
+:  1654: A   9 ILE  N   : A  10 ASP  N   :   -0.418:       17
+
+:  1654: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1654: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1654: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1654: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+
+:  1654: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::10.28 clashscore : 7.32 clashscore B<40 
+#summary::1654 atoms:1502 atoms B<40:194283 potential dots:12140.0 A^2:17 bumps:11 bumps B<40:568.6 score

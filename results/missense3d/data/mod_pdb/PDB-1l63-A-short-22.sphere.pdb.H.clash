@@ -1,0 +1,15 @@
+
+:  1080: A   8 ARG  CZ  : A   8 ARG  CD  :   -0.974:      100
+:  1080: A   8 ARG  CD  : A   8 ARG  CB  :   -0.958:       43
+
+:  1080: A 133 LEU  CD2 : A 133 LEU  CB  :   -0.955:       16
+
+:  1080: A  99 LEU  C   : A 100 ILE  CA  :   -0.948:       15
+
+:  1080: A  66 LEU  CB  : A  66 LEU  C   :   -0.873:       15
+
+:  1080: A  44 SER  C   : A  44 SER  N   :   -0.703:       27
+
+:  1080: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+#sum2 ::6.48 clashscore : 4.07 clashscore B<40 
+#summary::1080 atoms:984 atoms B<40:131526 potential dots:8220.0 A^2:7 bumps:4 bumps B<40:306.4 score

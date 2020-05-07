@@ -1,0 +1,23 @@
+
+:   800: A  11 THR  C   : A  11 THR  CB  :   -0.912:        9
+:   800: A  11 THR  N   : A  11 THR  CB  :   -0.831:        9
+:   800: A  11 THR  C   : A  11 THR  N   :   -0.657:        8
+
+:   800: A  28 LYS  HE3 : A  28 LYS  N   :   -0.595:       19
+:   800: A  24 ALA  O   : A  28 LYS  NZ  :   -0.426:       17
+
+:   800: A   4 LYS  HD2 : A  15 GLU  CG  :   -0.532:       26
+:   800: A  17 THR  HA  : A   3 TYR  O   :   -0.427:       13
+:   800: A  17 THR  HA  : A   4 LYS  HA  :   -0.425:       13
+
+:   800: A  52 PHE  HE2 : A  27 GLU  HG3 :   -0.495:       21
+
+:   800: A   8 ASN  ND2 : A  55 THR HG23 :   -0.439:       20
+
+:   800: A  43 TRP  HA  : A  53 THR  O   :   -0.415:        8
+
+:   800: A  12 LEU HD13 : A   7 LEU HD22 :   -0.414:        9
+
+:   800: A   6 ILE HD13 : A   6 ILE HG21 :   -0.405:       11
+#sum2 ::16.25 clashscore : 16.25 clashscore B<40 
+#summary::800 atoms:800 atoms B<40:92443 potential dots:5778.0 A^2:13 bumps:13 bumps B<40:227.1 score

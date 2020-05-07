@@ -1,0 +1,31 @@
+
+:   708: A  24 LYS  CD  : A  24 LYS  CB  :   -0.993:      128
+:   708: A  24 LYS  N   : A  24 LYS  CB  :   -0.858:       36
+
+:   708: A  50 GLY  H   : A  46 HIS  HB3 :   -0.900:      158
+:   708: A  48 LYS  HB2 : A  46 HIS  HE1 :   -0.627:       87
+:   708: A  48 LYS  HB2 : A  46 HIS  CE1 :   -0.599:       87
+
+:   708: A  16 LYS  CB  : A  16 LYS  C   :   -0.899:       42
+
+:   708: A 112 ALA  CA  : A 113 TYR  N   :   -0.852:       44
+:   708: A 113 TYR  N   : A 113 TYR  CG  :   -0.428:       59
+
+:   708: A  33 THR  CA  : A  34 PHE  N   :   -0.833:       25
+:   708: A  34 PHE  N   : A  34 PHE  C   :   -0.784:       29
+
+:   708: A 111 VAL  C   : A 111 VAL  N   :   -0.822:       33
+
+:   708: A 103 LEU  O   : A 103 LEU  CA  :   -0.741:       28
+
+:   708: A  54 TYR  CD2 : A 139 ILE HD13 :   -0.554:      135
+:   708: A  53 LYS  O   : A  54 TYR  HB2 :   -0.541:       60
+:   708: A  54 TYR  CD2 : A  53 LYS  HG2 :   -0.481:       59
+
+:   708: A  41 THR HG22 : A 109 ALA  HB2 :   -0.523:       36
+
+:   708: A  45 LYS  HE2 : A  18 ILE  CG2 :   -0.454:      100
+
+:   708: A  52 GLU  H   : A  52 GLU  HG3 :   -0.421:       51
+#sum2 ::25.42 clashscore : 15.92 clashscore B<40 
+#summary::708 atoms:377 atoms B<40:85786 potential dots:5362.0 A^2:18 bumps:6 bumps B<40:44.03 score

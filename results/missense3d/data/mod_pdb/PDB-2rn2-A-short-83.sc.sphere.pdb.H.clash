@@ -1,0 +1,35 @@
+
+:  1004: A  46 ARG  CG  : A  46 ARG  CA  :   -0.936:        0
+
+:  1004: A  57 GLU  CG  : A  57 GLU  OE2 :   -0.767:        0
+
+:  1004: A  94 ASP  OD2 : A  92 THR  OG1 :   -0.742:        0
+
+:  1004: A  81 TRP  CE3 : A  85 TRP  CH2 :   -0.710:        0
+:  1004: A  81 TRP  CE3 : A  85 TRP  HH2 :   -0.644:        0
+:  1004: A  81 TRP  HE3 : A  85 TRP  CH2 :   -0.582:        0
+:  1004: A  81 TRP  HB3 : A  85 TRP  CE2 :   -0.571:        0
+:  1004: A  81 TRP  HB3 : A  85 TRP  CZ2 :   -0.508:        0
+
+:  1004: A  73 TYR  HH  : A 104 TRP  HE1 :   -0.559:        0
+:  1004: A  77 GLY  HA3 : A 104 TRP  CH2 :   -0.504:        0
+:  1004: A  49 LEU HD11 : A 104 TRP  CE2 :   -0.464:        0
+:  1004: A  49 LEU  CD1 : A  73 TYR  HE2 :   -0.445:        0
+:  1004: A  74 VAL HG22 : A  49 LEU HD23 :   -0.445:        0
+
+:  1004: A  82 ILE  CG2 : A  83 HIS  N   :   -0.546:        0
+:  1004: A  83 HIS  N   : A  82 ILE HG23 :   -0.471:        0
+
+:  1004: A 155 VAL  CG1 : A 155 VAL  C   :   -0.483:        0
+
+:  1004: A  99 LYS  NZ  : A  99 LYS  HB3 :   -0.477:        0
+
+:  1004: A  66 ILE  N   : A  65 VAL  CG1 :   -0.447:        0
+:  1004: A  66 ILE  N   : A  65 VAL HG12 :   -0.400:        0
+
+:  1004: A 120 TRP  CZ2 : A 118 TRP  HB3 :   -0.439:        0
+:  1004: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+
+:  1004: A  78 ILE HD13 : A  78 ILE  HA  :   -0.406:        0
+#sum2 ::21.91 clashscore : 21.91 clashscore B<40 
+#summary::1004 atoms:1004 atoms B<40:118779 potential dots:7424.0 A^2:22 bumps:22 bumps B<40:223.6 score

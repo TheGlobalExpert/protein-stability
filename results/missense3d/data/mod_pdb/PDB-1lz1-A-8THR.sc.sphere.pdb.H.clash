@@ -1,0 +1,45 @@
+
+:  1296: A 120 ASP  OD1 : A 122 ARG  HD2 :   -1.043:        0
+:  1296: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.807:        0
+:  1296: A 122 ARG HH21 : A 122 ARG  CG  :   -0.739:        0
+:  1296: A 122 ARG  HG3 : A 122 ARG HH21 :   -0.583:        0
+:  1296: A 122 ARG  CG  : A 122 ARG  NH2 :   -0.577:        0
+
+:  1296: A  81 CYS  C   : A  82 SER  CA  :   -1.002:        0
+:  1296: A  82 SER  CA  : A  81 CYS  O   :   -0.489:        0
+
+:  1296: A   1 LYS  NZ  : A   7 GLU  OE2 :   -0.843:        0
+:  1296: A   1 LYS  HE2 : A   3 PHE  CD2 :   -0.649:        0
+:  1296: A   8 THR  OG1 : A   3 PHE  CB  :   -0.618:        0
+:  1296: A   3 PHE  HB3 : A   8 THR  OG1 :   -0.555:        0
+:  1296: A   8 THR  HG1 : A   3 PHE  CB  :   -0.491:        0
+:  1296: A   3 PHE  CD2 : A   1 LYS  CE  :   -0.467:        0
+
+:  1296: A 119 ARG  C   : A 119 ARG  CB  :   -0.828:        0
+
+:  1296: A 111 ALA  O   : A 115 ARG  HG2 :   -0.725:        0
+:  1296: A 111 ALA  HB3 : A  35 GLU  OE2 :   -0.510:        0
+:  1296: A 115 ARG  HB2 : A  34 TRP  CD1 :   -0.413:        0
+
+:  1296: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:  1296: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1296: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+
+:  1296: A 126 GLN  HA  : A 126 GLN  OE1 :   -0.574:        0
+
+:  1296: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.508:        0
+
+:  1296: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.499:        0
+:  1296: A  84 LEU HD22 : A  92 ALA  HA  :   -0.455:        0
+
+:  1296: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+
+:  1296: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+
+:  1296: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+
+:  1296: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+
+:  1296: A  33 LYS  HB2 : A  38 TYR  CZ  :   -0.402:        0
+#sum2 ::22.38 clashscore : 22.38 clashscore B<40 
+#summary::1296 atoms:1296 atoms B<40:152337 potential dots:9521.0 A^2:29 bumps:29 bumps B<40:353.7 score

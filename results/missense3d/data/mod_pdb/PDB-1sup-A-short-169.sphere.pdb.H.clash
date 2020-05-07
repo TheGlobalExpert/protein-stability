@@ -1,0 +1,27 @@
+
+:  2048: A  92 ALA  CA  : A  91 TYR  C   :   -0.961:        8
+
+:  2048: A 258 GLY  N   : A 257 LEU  CA  :   -0.947:       14
+:  2048: A 267 LEU  HB2 : A 257 LEU HD11 :   -0.414:       14
+
+:  2048: A 100 GLY  N   : A  99 ASP  O   :   -0.703:       41
+
+:  2048: A 103 GLN  HB2 : A 106 TRP  CG  :   -0.595:       33
+:  2048: A 106 TRP  CD1 : A 103 GLN  HB2 :   -0.440:       33
+
+:  2048: A  31 ILE HD12 : A 122 ILE  CG2 :   -0.552:       13
+:  2048: A  31 ILE HD12 : A 122 ILE HG23 :   -0.543:       13
+
+:  2048: A 167 TYR  O   : A 127 GLY  HA2 :   -0.536:       18
+
+:  2048: A 170 LYS  HE3 : A 195 GLU  OE2 :   -0.497:       16
+
+:  2048: A 125 SER  HB3 : A 221 SER  CB  :   -0.495:       13
+
+:  2048: A 102 GLY  HA3 : A  96 LEU HD23 :   -0.426:       35
+
+:  2048: A 261 PHE  CE1 : A 193 GLY  HA2 :   -0.406:       13
+
+:  2048: A 136 LYS  HG3 : A 171 TYR  CD1 :   -0.402:       15
+#sum2 ::6.84 clashscore : 6.37 clashscore B<40 
+#summary::2048 atoms:2040 atoms B<40:248533 potential dots:15530.0 A^2:14 bumps:13 bumps B<40:952.4 score

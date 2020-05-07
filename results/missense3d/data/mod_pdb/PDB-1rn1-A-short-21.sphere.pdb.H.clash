@@ -1,0 +1,15 @@
+
+:  1095: A  36 ASN  CB  : A  36 ASN  OD1 :   -0.763:       49
+:  1095: A  36 ASN  N   : A  35 SER  N   :   -0.595:       31
+
+:  1095: A  22 ALA  O   : A  26 LEU HD13 :   -0.515:       31
+
+:  1095: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:  1095: A  56 TYR  CE2 : A  54 SER  HB3 :   -0.471:       23
+:  1095: A  55 PRO  HA  : A  54 SER  HB2 :   -0.435:       23
+:  1095: A  79 VAL  CG1 : A  56 TYR  HB3 :   -0.434:       15
+
+:  1095: A   2 CYS  CB  : A  10 CYS  SG  :   -0.465:       24
+#sum2 ::7.31 clashscore : 6.48 clashscore B<40 
+#summary::1095 atoms:1080 atoms B<40:130182 potential dots:8136.0 A^2:8 bumps:7 bumps B<40:435.3 score

@@ -1,0 +1,61 @@
+
+:   906: A 101 LEU HD23 : A 124 TYR  CE1 :   -1.485:        0
+:   906: A 124 TYR  CE1 : A 101 LEU  CD2 :   -1.325:        0
+:   906: A 109 PHE  CE2 : A 124 TYR  CD1 :   -1.296:        0
+:   906: A 124 TYR  CG  : A 109 PHE  HE2 :   -1.039:        0
+:   906: A 109 PHE  CE2 : A 124 TYR  CG  :   -1.017:        0
+:   906: A 103 PHE  HD2 : A 124 TYR  OH  :   -1.000:        0
+:   906: A 124 TYR  HA  : A 109 PHE  HD2 :   -0.984:        0
+:   906: A 124 TYR  CE1 : A 109 PHE  CZ  :   -0.968:        0
+:   906: A 124 TYR  CE2 : A 103 PHE  HB3 :   -0.945:        0
+:   906: A 124 TYR  CZ  : A 103 PHE  HB3 :   -0.929:        0
+:   906: A 101 LEU  CD2 : A 124 TYR  CD1 :   -0.923:        0
+:   906: A 101 LEU  CD2 : A 124 TYR  CZ  :   -0.899:        0
+:   906: A 104 HIS  H   : A 107 GLU  CD  :   -0.878:        0
+:   906: A 124 TYR  CE1 : A 109 PHE  CE2 :   -0.876:        0
+:   906: A 109 PHE  CD2 : A 124 TYR  HA  :   -0.861:        0
+:   906: A 101 LEU HD23 : A 124 TYR  HE1 :   -0.828:        0
+:   906: A 124 TYR  CZ  : A 101 LEU  HG  :   -0.828:        0
+:   906: A 124 TYR  CD1 : A 101 LEU HD21 :   -0.824:        0
+:   906: A 124 TYR  OH  : A 103 PHE  CD2 :   -0.816:        0
+:   906: A 109 PHE  CZ  : A 124 TYR  CZ  :   -0.762:        0
+:   906: A 109 PHE  CD2 : A 124 TYR  CD1 :   -0.752:        0
+:   906: A 124 TYR  OH  : A 103 PHE  HB3 :   -0.746:        0
+:   906: A 101 LEU  CG  : A 124 TYR  CZ  :   -0.725:        0
+:   906: A 107 GLU  OE1 : A 103 PHE  HB2 :   -0.717:        0
+:   906: A  93 TYR  HB3 : A 103 PHE  CZ  :   -0.621:        0
+:   906: A 107 GLU  OE1 : A 103 PHE  CB  :   -0.611:        0
+:   906: A 101 LEU HD23 : A 124 TYR  CZ  :   -0.577:        0
+:   906: A 101 LEU HD21 : A 124 TYR  CG  :   -0.537:        0
+:   906: A 109 PHE  HE2 : A 124 TYR  CD2 :   -0.483:        0
+:   906: A 124 TYR  CZ  : A 109 PHE  HZ  :   -0.474:        0
+:   906: A 124 TYR  CE1 : A 101 LEU HD21 :   -0.468:        0
+:   906: A 124 TYR  OH  : A 103 PHE  CB  :   -0.468:        0
+:   906: A 103 PHE  CE1 : A  93 TYR  HB3 :   -0.465:        0
+:   906: A 124 TYR  HE2 : A 102 SER  O   :   -0.465:        0
+:   906: A 101 LEU  HG  : A 124 TYR  OH  :   -0.464:        0
+:   906: A 124 TYR  HH  : A 103 PHE  CB  :   -0.451:        0
+:   906: A 101 LEU  HG  : A 124 TYR  CE2 :   -0.405:        0
+:   906: A 103 PHE  CZ  : A  93 TYR  CB  :   -0.405:        0
+:   906: A 103 PHE  HB3 : A 124 TYR  HH  :   -0.405:        0
+
+:   906: A 125 LEU HD11 : A  86 LEU HD22 :   -0.721:        0
+:   906: A 108 LYS  CB  : A 125 LEU HD12 :   -0.559:        0
+:   906: A 125 LEU HD12 : A 108 LYS  HB3 :   -0.475:        0
+
+:   906: A 100 ASP  OD2 : A  96 ARG  N   :   -0.616:        0
+:   906: A 100 ASP  OD1 : A 100 ASP  N   :   -0.565:        0
+
+:   906: A  84 VAL  CG1 : A 110 GLN  HG3 :   -0.567:        0
+
+:   906: A 141 VAL  O   : A 142 ASP  CB  :   -0.554:        0
+:   906: A 142 ASP  HB2 : A 141 VAL  O   :   -0.508:        0
+
+:   906: A 116 GLU  CG  : A 116 GLU  O   :   -0.537:        0
+:   906: A 116 GLU  HG2 : A 116 GLU  O   :   -0.463:        0
+
+:   906: A 132 TYR  HA  : A 120 TRP  O   :   -0.465:        0
+
+:   906: A 111 ILE HG21 : A 114 SER  HB3 :   -0.407:        0
+#sum2 ::56.29 clashscore : 56.29 clashscore B<40 
+#summary::906 atoms:906 atoms B<40:102709 potential dots:6419.0 A^2:51 bumps:51 bumps B<40:14.42 score

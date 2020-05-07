@@ -1,0 +1,44 @@
+
+:   862: A  31 LEU  CD1 : A  31 LEU  CD2 :   -0.999:        0
+
+:   862: A 113 ARG  CZ  : A 107 ARG  O   :   -0.888:        0
+:   862: A 113 ARG  NH1 : A 104 GLN  OE1 :   -0.844:        0
+:   862: A 107 ARG  O   : A 113 ARG  NH1 :   -0.507:        0
+
+:   862: A  98 ARG  HD3 : A 101 ARG  NH1 :   -0.866:        0
+:   862: A  98 ARG  CD  : A 101 ARG  NH1 :   -0.822:        0
+:   862: A 101 ARG HH11 : A  98 ARG  CD  :   -0.648:        0
+:   862: A 101 ARG HH11 : A  98 ARG  HD3 :   -0.639:        0
+:   862: A  98 ARG  O   : A  98 ARG  NH2 :   -0.576:        0
+:   862: A 101 ARG  NH1 : A  98 ARG  HD2 :   -0.490:        0
+:   862: A  98 ARG  HA  : A 101 ARG  CZ  :   -0.411:        0
+
+:   862: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:   862: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:   862: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:   862: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:   862: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:   862: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:   862: A  21 ARG  NH1 : A  21 ARG  NE  :   -0.788:        0
+
+:   862: A  56 ILE  N   : A  56 ILE  C   :   -0.692:        0
+
+:   862: A  73 ALA  HA  : A  62 ARG  O   :   -0.665:        0
+
+:   862: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+
+:   862: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.560:        0
+
+:   862: A  75 ASN  ND2 : A  78 HIS  HA  :   -0.517:        0
+
+:   862: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.499:        0
+:   862: A  84 LEU HD22 : A  92 ALA  HA  :   -0.455:        0
+
+:   862: A  52 THR  HB  : A  54 TYR  CE2 :   -0.476:        0
+
+:   862: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+
+:   862: A  49 ASP  OD1 : A  49 ASP  C   :   -0.417:        0
+#sum2 ::32.48 clashscore : 32.48 clashscore B<40 
+#summary::862 atoms:862 atoms B<40:105034 potential dots:6565.0 A^2:28 bumps:28 bumps B<40:151.1 score

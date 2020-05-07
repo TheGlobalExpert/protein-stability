@@ -1,0 +1,21 @@
+
+:  1075: A  20 TYR  CE2 : A  20 TYR  CE1 :   -0.959:       12
+
+:  1075: A 109 TRP  O   : A 109 TRP  CA  :   -0.756:       14
+
+:  1075: A 111 ALA  N   : A 110 VAL  O   :   -0.706:       15
+:  1075: A 110 VAL  O   : A 111 ALA  CA  :   -0.407:       15
+
+:  1075: A 120 ASP  OD1 : A 122 ARG  HG2 :   -0.624:       31
+:  1075: A 122 ARG HH11 : A 122 ARG  HD2 :   -0.446:       45
+
+:  1075: A  13 LYS  HE2 : A 130 VAL  OXT :   -0.564:       26
+
+:  1075: A 117 GLN  HB2 : A 112 TRP  CZ3 :   -0.564:       18
+:  1075: A 112 TRP  CD1 : A 116 CYS  HB2 :   -0.411:       12
+
+:  1075: A 126 GLN  HG2 : A 123 GLN  O   :   -0.450:       31
+
+:  1075: A  33 LYS  HG2 : A 124 TYR  HE1 :   -0.438:       20
+#sum2 ::10.23 clashscore : 9.38 clashscore B<40 
+#summary::1075 atoms:1066 atoms B<40:127848 potential dots:7990.0 A^2:11 bumps:10 bumps B<40:394.9 score

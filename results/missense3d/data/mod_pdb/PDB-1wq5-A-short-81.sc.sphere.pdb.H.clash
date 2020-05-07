@@ -1,0 +1,53 @@
+
+:  1589: A  21 PRO  N   : A  21 PRO  CD  :   -1.457:        0
+:  1589: A  21 PRO  CD  : A  20 VAL  C   :   -0.443:        0
+
+:  1589: A  53 PRO  N   : A  53 PRO  CD  :   -1.382:        0
+:  1589: A  53 PRO  CD  : A  52 ILE  C   :   -0.630:        0
+:  1589: A  99 LEU HD13 : A  52 ILE  CD1 :   -0.597:        0
+:  1589: A  52 ILE HD11 : A  99 LEU HD13 :   -0.560:        0
+:  1589: A  52 ILE  HA  : A  53 PRO  CD  :   -0.507:        0
+:  1589: A  53 PRO  CD  : A  52 ILE  CA  :   -0.481:        0
+
+:  1589: A  28 PRO  CD  : A  28 PRO  N   :   -1.330:        0
+:  1589: A  28 PRO  CD  : A  27 ASP  C   :   -0.612:        0
+
+:  1589: A 107 PHE  CE1 : A 107 PHE  CE2 :   -1.040:        0
+
+:  1589: A 101 MET  HE3 : A 105 LEU HD23 :   -0.992:        0
+:  1589: A 101 MET  CE  : A 105 LEU HD23 :   -0.696:        0
+:  1589: A 114 PHE  CZ  : A 101 MET  SD  :   -0.635:        0
+:  1589: A 101 MET  SD  : A 114 PHE  HZ  :   -0.591:        0
+:  1589: A  54 PHE  CD1 : A 105 LEU HD13 :   -0.431:        0
+
+:  1589: A 232 ILE  CD1 : A 232 ILE  CB  :   -0.946:        0
+
+:  1589: A 130 ASP  CB  : A 130 ASP  N   :   -0.831:        0
+
+:  1589: A 124 ASP  OD2 : A   3 ARG  HD2 :   -0.827:        0
+:  1589: A   3 ARG  HD2 : A 124 ASP  CG  :   -0.750:        0
+:  1589: A 124 ASP  OD1 : A   3 ARG  NH2 :   -0.623:        0
+:  1589: A  89 ARG  HD3 : A   3 ARG  NH1 :   -0.544:        0
+:  1589: A   3 ARG  HD2 : A 124 ASP  OD1 :   -0.532:        0
+
+:  1589: A 151 ILE  CA  : A 151 ILE  O   :   -0.728:        0
+:  1589: A 125 SER  HB2 : A 151 ILE HD11 :   -0.431:        0
+
+:  1589: A  30 ILE HG23 : A  84 MET  SD  :   -0.589:        0
+
+:  1589: A  85 LEU HD21 : A  25 LEU HD11 :   -0.551:        0
+:  1589: A  85 LEU HD12 : A  82 PHE  HA  :   -0.454:        0
+
+:  1589: A  22 PHE  HA  : A  49 GLU  O   :   -0.540:        0
+:  1589: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.511:        0
+:  1589: A  22 PHE  CD1 : A  22 PHE  C   :   -0.409:        0
+
+:  1589: A  88 ILE  CD1 : A  37 ILE HD13 :   -0.480:        0
+
+:  1589: A 251 MET  CE  : A 241 ILE HG23 :   -0.480:        0
+
+:  1589: A  37 ILE HD13 : A  88 ILE HD13 :   -0.443:        0
+
+:  1589: A 241 ILE HG23 : A 251 MET  HE1 :   -0.424:        0
+#sum2 ::22.03 clashscore : 22.03 clashscore B<40 
+#summary::1589 atoms:1589 atoms B<40:192367 potential dots:12020.0 A^2:35 bumps:35 bumps B<40:378.7 score

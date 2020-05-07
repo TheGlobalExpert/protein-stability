@@ -1,0 +1,22 @@
+
+:  1084: A  48 GLU  OE1 : A  96 LYS  NZ  :   -0.879:        0
+:  1084: A  48 GLU  OE1 : A  96 LYS  CE  :   -0.432:        0
+
+:  1084: A  61 ASP  CB  : A  61 ASP  N   :   -0.821:        0
+:  1084: A  75 ILE HD11 : A  31 TRP  CH2 :   -0.523:        0
+:  1084: A  61 ASP  CG  : A  31 TRP  HE1 :   -0.470:        0
+:  1084: A  61 ASP  OD2 : A  31 TRP  NE1 :   -0.450:        0
+:  1084: A  75 ILE  HA  : A  76 PRO  C   :   -0.400:        0
+
+:  1084: A  30 GLU  O   : A  36 LYS  HE3 :   -0.803:        0
+:  1084: A  30 GLU  O   : A  36 LYS  CE  :   -0.406:        0
+
+:  1084: A  40 PRO  HD3 : A  39 ALA  HB3 :   -0.588:        0
+
+:  1084: A  27 PHE  CE1 : A  58 LEU HD22 :   -0.488:        0
+
+:  1084: A  99 LEU  CD2 : A  45 ILE HG13 :   -0.465:        0
+:  1084: A  45 ILE HD13 : A  45 ILE  HA  :   -0.442:        0
+:  1084: A  99 LEU HD23 : A  45 ILE HG13 :   -0.430:        0
+#sum2 ::12.92 clashscore : 12.92 clashscore B<40 
+#summary::1084 atoms:1084 atoms B<40:126595 potential dots:7912.0 A^2:14 bumps:14 bumps B<40:324.6 score

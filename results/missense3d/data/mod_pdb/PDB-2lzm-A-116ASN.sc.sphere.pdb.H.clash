@@ -1,0 +1,56 @@
+
+:  1058: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:  1058: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:  1058: A 106 MET  CG  : A 111 VAL HG23 :   -0.934:        0
+:  1058: A 111 VAL HG23 : A 106 MET  SD  :   -0.634:        0
+:  1058: A 111 VAL HG23 : A 106 MET  HG2 :   -0.614:        0
+:  1058: A 106 MET  CG  : A 111 VAL  CG2 :   -0.485:        0
+:  1058: A 106 MET  HE3 : A 106 MET  HB3 :   -0.454:        0
+
+:  1058: A 119 ARG  HB3 : A 119 ARG HH21 :   -1.038:        0
+:  1058: A 119 ARG  NH2 : A 119 ARG  HB3 :   -0.727:        0
+:  1058: A 119 ARG  CD  : A 123 GLN  NE2 :   -0.466:        0
+:  1058: A 123 GLN  NE2 : A 119 ARG  HD2 :   -0.433:        0
+
+:  1058: A 108 GLU  OE2 : A  77 GLY  O   :   -0.959:        0
+:  1058: A  77 GLY  C   : A 108 GLU  OE2 :   -0.859:        0
+:  1058: A  77 GLY  CA  : A 108 GLU  OE2 :   -0.730:        0
+
+:  1058: A 138 TRP  CZ2 : A 146 ALA  HA  :   -0.937:        0
+:  1058: A 138 TRP  CH2 : A 146 ALA  HA  :   -0.552:        0
+:  1058: A 138 TRP  CZ2 : A 146 ALA  CA  :   -0.513:        0
+
+:  1058: A 142 THR  C   : A 143 PRO  CA  :   -0.909:        0
+:  1058: A 142 THR  N   : A 141 GLN  CA  :   -0.792:        0
+:  1058: A 142 THR  N   : A 142 THR  C   :   -0.761:        0
+:  1058: A 143 PRO  CA  : A 143 PRO  O   :   -0.752:        0
+
+:  1058: A  80 ARG  C   : A  80 ARG  N   :   -0.716:        0
+:  1058: A  81 ASN  CB  : A  84 LEU HD12 :   -0.566:        0
+:  1058: A  80 ARG  N   : A  81 ASN  N   :   -0.466:        0
+:  1058: A  84 LEU HD12 : A  81 ASN  HB3 :   -0.440:        0
+
+:  1058: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.715:        0
+:  1058: A  86 PRO  HD2 : A  85 LYS  N   :   -0.571:        0
+:  1058: A  85 LYS  HB3 : A  86 PRO  CD  :   -0.463:        0
+:  1058: A  85 LYS  N   : A  86 PRO  CD  :   -0.445:        0
+
+:  1058: A  92 ASP  OD2 : A  95 ARG  NH2 :   -0.652:        0
+:  1058: A  95 ARG  HD2 : A  92 ASP  OD2 :   -0.413:        0
+
+:  1058: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:  1058: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:  1058: A  87 VAL HG22 : A 122 GLN  HG3 :   -0.551:        0
+
+:  1058: A 114 PHE  O   : A 118 LEU  HG  :   -0.475:        0
+
+:  1058: A 151 THR  HA  : A 154 ARG  CZ  :   -0.472:        0
+:  1058: A 154 ARG  NH1 : A 151 THR  HA  :   -0.454:        0
+:  1058: A 151 THR  OG1 : A 154 ARG  NH1 :   -0.406:        0
+
+:  1058: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+
+:  1058: A 132 ASN  OD1 : A 117 SER  OG  :   -0.402:        0
+#sum2 ::37.81 clashscore : 37.81 clashscore B<40 
+#summary::1058 atoms:1058 atoms B<40:124826 potential dots:7802.0 A^2:40 bumps:40 bumps B<40:188.5 score

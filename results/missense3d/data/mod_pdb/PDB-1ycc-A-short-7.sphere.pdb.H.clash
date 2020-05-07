@@ -1,0 +1,32 @@
+
+:  1122: A  70 ASN  CA  : A  71 PRO  N   :   -0.919:       16
+:  1122: A  71 PRO  CD  : A  70 ASN  CA  :   -0.737:       16
+:  1122: A  70 ASN  CA  : A  71 PRO  HD3 :   -0.427:       16
+
+:  1122: A  60 ASP  CB  : A  60 ASP  OD1 :   -0.801:       31
+:  1122: A  62 ASN  N   : A  60 ASP  OD1 :   -0.500:       31
+:  1122: A  60 ASP  OD1 : A  60 ASP  C   :   -0.487:       31
+:  1122: A  60 ASP  OD1 : A  62 ASN  HB2 :   -0.441:       31
+
+:  1122: A  81 ALA  C   : A  81 ALA  N   :   -0.672:       13
+
+:  1122: A 100 LYS  HD3 : A  99 LYS  HZ2 :   -0.546:       32
+
+:  1122: A  90 ASP  HB3 : A  85 LEU HD22 :   -0.535:       22
+
+:  1122: A  86 LYS  N   : A  86 LYS  HD3 :   -0.511:       30
+
+:  1122: A  94 LEU HD13 : A   9 LEU  HB3 :   -0.491:       13
+:  1122: A  68 LEU HD13 : A  94 LEU HD23 :   -0.450:       13
+
+:  1122: A  10 PHE  CZ  : A  20 VAL HG13 :   -0.451:       12
+
+:  1122: A   5 LYS  HG2 : A  93 ASP  OD2 :   -0.443:       24
+
+:  1122: A  64 MET  O   : A  64 MET  HG3 :   -0.437:       20
+
+:  1122: A  21 GLU  HG2 : A  24 GLY  HA3 :   -0.422:       28
+
+:  1122: A  -3 PHE  HB3 : A  -5 THR  OG1 :   -0.401:       55
+#sum2 ::16.04 clashscore : 15.32 clashscore B<40 
+#summary::1122 atoms:1110 atoms B<40:129667 potential dots:8104.0 A^2:18 bumps:17 bumps B<40:318.6 score

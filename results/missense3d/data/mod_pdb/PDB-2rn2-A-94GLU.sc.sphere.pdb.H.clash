@@ -1,0 +1,27 @@
+
+:   533: A 103 LEU  C   : A 103 LEU  N   :   -0.717:        0
+
+:   533: A  81 TRP  CE3 : A  85 TRP  CH2 :   -0.710:        0
+:   533: A  81 TRP  CE3 : A  85 TRP  HH2 :   -0.644:        0
+:   533: A  85 TRP  CH2 : A  81 TRP  HE3 :   -0.582:        0
+:   533: A  85 TRP  CE2 : A  81 TRP  HB3 :   -0.571:        0
+:   533: A  81 TRP  HB3 : A  85 TRP  CZ2 :   -0.508:        0
+
+:   533: A 154 GLU  OE2 : A 153 VAL  CB  :   -0.685:        0
+:   533: A 154 GLU  HB2 : A 152 GLN  HB3 :   -0.611:        0
+:   533: A 154 GLU  OE2 : A 154 GLU  N   :   -0.603:        0
+:   533: A 154 GLU  CD  : A 154 GLU  H   :   -0.562:        0
+:   533: A 154 GLU  O   : A 155 VAL  OXT :   -0.524:        0
+:   533: A 153 VAL  CA  : A 154 GLU  OE2 :   -0.450:        0
+:   533: A 154 GLU  OE2 : A 153 VAL  N   :   -0.408:        0
+
+:   533: A  73 TYR  HH  : A 104 TRP  HE1 :   -0.559:        0
+:   533: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.504:        0
+:   533: A  49 LEU  CD1 : A  73 TYR  HE2 :   -0.445:        0
+
+:   533: A  83 HIS  N   : A  82 ILE  CG2 :   -0.546:        0
+:   533: A  82 ILE HG23 : A  83 HIS  N   :   -0.471:        0
+
+:   533: A  99 LYS  NZ  : A  99 LYS  HB3 :   -0.477:        0
+#sum2 ::35.65 clashscore : 35.65 clashscore B<40 
+#summary::533 atoms:533 atoms B<40:62905 potential dots:3932.0 A^2:19 bumps:19 bumps B<40:46.26 score

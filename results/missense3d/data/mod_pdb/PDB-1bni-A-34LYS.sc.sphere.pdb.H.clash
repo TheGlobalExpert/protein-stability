@@ -1,0 +1,27 @@
+
+:   603: A  26 THR  OG1 : A  29 GLU  HG3 :   -1.138:        0
+:   603: A  26 THR  OG1 : A  29 GLU  CG  :   -0.766:        0
+
+:   603: A  42 LEU HD23 : A  78 TYR  CE2 :   -0.935:        0
+:   603: A  42 LEU HD23 : A  78 TYR  HE2 :   -0.686:        0
+:   603: A  78 TYR  OH  : A  42 LEU  HB3 :   -0.467:        0
+
+:   603: A  34 LYS  CB  : A  33 LEU  O   :   -0.854:        0
+:   603: A  33 LEU  O   : A  34 LYS  HB2 :   -0.807:        0
+:   603: A  34 LYS  CG  : A  33 LEU  O   :   -0.602:        0
+:   603: A  33 LEU  O   : A  34 LYS  HG3 :   -0.530:        0
+:   603: A  33 LEU  C   : A  34 LYS  HG3 :   -0.491:        0
+
+:   603: A  36 VAL  HB  : A  39 LYS  HG3 :   -0.751:        0
+
+:   603: A  49 LYS  HE2 : A  23 ASN  HA  :   -0.537:        0
+
+:   603: A  25 ILE  O   : A  51 ILE  HA  :   -0.493:        0
+
+:   603: A  50 SER  O   : A  24 TYR  HA  :   -0.470:        0
+
+:   603: A  84 ASN  OD1 : A  84 ASN  C   :   -0.402:        0
+
+:   603: A  27 LYS  HZ3 : A  54 ASP  CG  :   -0.401:        0
+#sum2 ::26.53 clashscore : 26.53 clashscore B<40 
+#summary::603 atoms:603 atoms B<40:72299 potential dots:4519.0 A^2:16 bumps:16 bumps B<40:146.6 score

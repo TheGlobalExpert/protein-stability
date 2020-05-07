@@ -1,0 +1,130 @@
+
+:  1908: A 279 ILE HD13 : A 220 LEU HD23 :   -1.071:        0
+:  1908: A  43 LYS  HE3 : A  66 PHE  CZ  :   -0.847:        0
+:  1908: A 279 ILE HG21 : A 220 LEU  HB3 :   -0.805:        0
+:  1908: A 220 LEU HD23 : A 279 ILE  CD1 :   -0.771:        0
+:  1908: A  43 LYS  HE3 : A  66 PHE  CE2 :   -0.753:        0
+:  1908: A 244 ARG  NE  : A 276 ASP  OD1 :   -0.747:        0
+:  1908: A 276 ASP  OD1 : A 244 ARG  CZ  :   -0.701:        0
+:  1908: A 244 ARG  O   : A 265 CYS  SG  :   -0.692:        0
+:  1908: A 265 CYS  SG  : A 244 ARG  HB3 :   -0.681:        0
+:  1908: A 244 ARG  NH2 : A 274 TYR  CZ  :   -0.674:        0
+:  1908: A 279 ILE HD13 : A 220 LEU  CD2 :   -0.667:        0
+:  1908: A 279 ILE HD11 : A 244 ARG  HG3 :   -0.666:        0
+:  1908: A 274 TYR  CD1 : A 244 ARG  HD3 :   -0.662:        0
+:  1908: A 274 TYR  CE1 : A 244 ARG  NH2 :   -0.653:        0
+:  1908: A 246 ASP  HB2 : A 220 LEU HD23 :   -0.629:        0
+:  1908: A 220 LEU  CD2 : A 246 ASP  HB2 :   -0.613:        0
+:  1908: A  43 LYS  O   : A 265 CYS  HA  :   -0.560:        0
+:  1908: A 220 LEU  CD2 : A 279 ILE  CD1 :   -0.548:        0
+:  1908: A 235 THR HG22 : A 220 LEU HD22 :   -0.492:        0
+:  1908: A 276 ASP  OD1 : A 244 ARG  NH1 :   -0.482:        0
+:  1908: A 220 LEU  HB3 : A 279 ILE  CG2 :   -0.468:        0
+:  1908: A 220 LEU  N   : A 220 LEU HD12 :   -0.460:        0
+:  1908: A 244 ARG  NH2 : A 274 TYR  OH  :   -0.448:        0
+:  1908: A 243 THR  O   : A 237 ALA  HA  :   -0.443:        0
+:  1908: A 244 ARG  HD3 : A 274 TYR  CE1 :   -0.432:        0
+:  1908: A 244 ARG  HG3 : A 279 ILE  CD1 :   -0.423:        0
+:  1908: A 265 CYS  O   : A 243 THR  HA  :   -0.417:        0
+:  1908: A 274 TYR  CE1 : A 244 ARG  CZ  :   -0.417:        0
+:  1908: A  64 GLU  HB3 : A  66 PHE  HE1 :   -0.401:        0
+
+:  1908: A  44 LEU HD21 : A 278 LEU HD21 :   -1.054:        0
+:  1908: A 278 LEU  CD2 : A  44 LEU HD21 :   -0.949:        0
+:  1908: A 278 LEU HD21 : A  44 LEU  CD2 :   -0.945:        0
+:  1908: A 278 LEU HD13 : A  40 PHE  CD2 :   -0.908:        0
+:  1908: A  40 PHE  CD2 : A 278 LEU  CD1 :   -0.617:        0
+:  1908: A  44 LEU HD11 : A 278 LEU HD11 :   -0.608:        0
+:  1908: A 278 LEU HD13 : A  40 PHE  CG  :   -0.607:        0
+:  1908: A  44 LEU HD21 : A 278 LEU  CG  :   -0.562:        0
+
+:  1908: A 267 ARG HH11 : A  41 ASP  HB3 :   -1.028:        0
+:  1908: A 267 ARG  NH1 : A  41 ASP  HB3 :   -0.878:        0
+:  1908: A 267 ARG HH11 : A  41 ASP  CB  :   -0.816:        0
+
+:  1908: A 164 ARG  CD  : A 164 ARG  CB  :   -0.981:        0
+:  1908: A 164 ARG  CZ  : A 168 GLU  O   :   -0.415:        0
+
+:  1908: A 183 ALA  O   : A 187 VAL HG13 :   -0.919:        0
+:  1908: A 187 VAL HG11 : A  47 PHE  HD2 :   -0.693:        0
+:  1908: A  47 PHE  HD2 : A 187 VAL  CG1 :   -0.675:        0
+:  1908: A 260 VAL  CG2 : A 187 VAL  HB  :   -0.669:        0
+:  1908: A 187 VAL  CG1 : A 183 ALA  O   :   -0.664:        0
+:  1908: A 184 ARG  HA  : A  47 PHE  CD2 :   -0.591:        0
+:  1908: A  47 PHE  CD2 : A 187 VAL HG21 :   -0.545:        0
+:  1908: A 187 VAL HG21 : A  47 PHE  CE2 :   -0.482:        0
+:  1908: A  47 PHE  CD2 : A 187 VAL  CG2 :   -0.435:        0
+:  1908: A 187 VAL  CG2 : A  47 PHE  HD2 :   -0.430:        0
+:  1908: A 260 VAL HG23 : A 187 VAL  HB  :   -0.423:        0
+:  1908: A 184 ARG  HA  : A  47 PHE  CG  :   -0.413:        0
+:  1908: A 187 VAL HG13 : A 187 VAL  H   :   -0.401:        0
+
+:  1908: A 271 ASP  HB2 : A 269 LYS  NZ  :   -0.917:        0
+:  1908: A 271 ASP  HB2 : A 269 LYS  HZ1 :   -0.611:        0
+:  1908: A 271 ASP  HB2 : A 269 LYS  HZ3 :   -0.605:        0
+:  1908: A 269 LYS  O   : A 241 TYR  HA  :   -0.560:        0
+:  1908: A 271 ASP  H   : A 269 LYS  HE2 :   -0.554:        0
+:  1908: A 272 ALA  HB2 : A 269 LYS  HB3 :   -0.536:        0
+:  1908: A 174 PRO  HD3 : A 241 TYR  CZ  :   -0.522:        0
+:  1908: A 273 LYS  CD  : A 273 LYS  H   :   -0.494:        0
+:  1908: A 273 LYS  H   : A 273 LYS  CE  :   -0.485:        0
+:  1908: A 273 LYS  HE3 : A 272 ALA  HA  :   -0.481:        0
+:  1908: A 271 ASP  HB2 : A 269 LYS  CE  :   -0.474:        0
+:  1908: A 241 TYR  HB2 : A 240 SER  O   :   -0.468:        0
+:  1908: A 272 ALA  N   : A 269 LYS  HD3 :   -0.443:        0
+:  1908: A 273 LYS  CE  : A 272 ALA  HA  :   -0.439:        0
+
+:  1908: A 290 LEU  CB  : A 290 LEU  N   :   -0.835:        0
+
+:  1908: A  68 PHE  HD1 : A  69 ALA  N   :   -0.746:        0
+:  1908: A 169 LEU HD13 : A  68 PHE  HE1 :   -0.660:        0
+:  1908: A 169 LEU HD12 : A 169 LEU  C   :   -0.611:        0
+:  1908: A  68 PHE  CD1 : A  69 ALA  N   :   -0.575:        0
+:  1908: A  68 PHE  CE2 : A 179 ASP  HA  :   -0.566:        0
+:  1908: A 167 PRO  CA  : A 166 GLU  CA  :   -0.551:        0
+:  1908: A 166 GLU  CD  : A 169 LEU HD21 :   -0.498:        0
+:  1908: A 169 LEU HD12 : A 170 ASN  N   :   -0.471:        0
+:  1908: A  68 PHE  HD1 : A  68 PHE  C   :   -0.447:        0
+:  1908: A  68 PHE  CD1 : A  68 PHE  C   :   -0.429:        0
+:  1908: A 169 LEU  CD1 : A 169 LEU  C   :   -0.419:        0
+
+:  1908: A  73 LYS  HB2 : A 234 LYS  HE3 :   -0.712:        0
+:  1908: A  70 SER  O   : A 234 LYS  HE3 :   -0.443:        0
+
+:  1908: A 159 VAL HG22 : A 160 THR  N   :   -0.618:        0
+:  1908: A 160 THR  N   : A 159 VAL  CG2 :   -0.592:        0
+:  1908: A 159 VAL HG11 : A 185 ALA  HB2 :   -0.589:        0
+:  1908: A 185 ALA  CB  : A 159 VAL HG21 :   -0.443:        0
+:  1908: A 157 ASP  OD2 : A 160 THR  OG1 :   -0.424:        0
+:  1908: A 185 ALA  CB  : A 159 VAL  CG2 :   -0.401:        0
+
+:  1908: A 264 LEU HD21 : A 186 LEU  CD1 :   -0.567:        0
+:  1908: A 264 LEU  HA  : A 245 ASN  OD1 :   -0.429:        0
+
+:  1908: A 225 VAL HG21 : A 250 ILE HD13 :   -0.564:        0
+:  1908: A 250 ILE HG12 : A 231 VAL HG22 :   -0.561:        0
+:  1908: A 250 ILE HD13 : A 225 VAL  CG2 :   -0.473:        0
+
+:  1908: A  56 THR  CG2 : A  57 VAL  N   :   -0.559:        0
+:  1908: A  57 VAL  HB  : A  48 ALA  HB3 :   -0.429:        0
+:  1908: A  56 THR HG23 : A  57 VAL  N   :   -0.425:        0
+:  1908: A 261 LEU HD13 : A  48 ALA  HB2 :   -0.424:        0
+
+:  1908: A  32 ASP  HA  : A  35 LYS  NZ  :   -0.525:        0
+:  1908: A  39 GLN  HG3 : A  35 LYS  O   :   -0.427:        0
+
+:  1908: A  46 ILE HD13 : A  33 PHE  CE1 :   -0.509:        0
+
+:  1908: A  62 PRO  CD  : A  61 ARG  N   :   -0.496:        0
+
+:  1908: A 232 ALA  O   : A 248 ALA  HB1 :   -0.488:        0
+:  1908: A 248 ALA  CB  : A 232 ALA  O   :   -0.458:        0
+
+:  1908: A 283 THR  O   : A 287 MET  HG2 :   -0.478:        0
+
+:  1908: A 218 ASP  HA  : A 222 ARG  HD2 :   -0.448:        0
+
+:  1908: A 171 GLU  O   : A 171 GLU  HG3 :   -0.420:        0
+:  1908: A 171 GLU  HA  : A 171 GLU  OE1 :   -0.410:        0
+#sum2 ::56.60 clashscore : 56.60 clashscore B<40 
+#summary::1908 atoms:1908 atoms B<40:224515 potential dots:14030.0 A^2:108 bumps:108 bumps B<40:270.1 score

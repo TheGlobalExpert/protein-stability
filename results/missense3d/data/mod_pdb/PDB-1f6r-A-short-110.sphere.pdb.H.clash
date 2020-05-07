@@ -1,0 +1,26 @@
+
+:   911: A   3 LEU  CB  : A   3 LEU  CD1 :   -0.973:       41
+
+:   911: A  18 TYR  CD2 : A  18 TYR  CB  :   -0.959:       27
+
+:   911: A   7 GLU  C   : A   7 GLU  N   :   -0.800:       39
+:   911: A   8 VAL HG21 : A  36 TYR  CD2 :   -0.613:       36
+:   911: A   7 GLU  N   : A   8 VAL  N   :   -0.435:       39
+
+:   911: A 116 ASP  O   : A 119 LEU  HB2 :   -0.509:       60
+:   911: A 116 ASP  HA  : A 119 LEU HD23 :   -0.486:       61
+
+:   911: A 103 TYR  HD1 : A  99 VAL HG11 :   -0.482:       35
+:   911: A  99 VAL  O   : A  99 VAL HG12 :   -0.406:       37
+
+:   911: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.478:       52
+
+:   911: A  23 LEU  HG  : A  16 LYS  CG  :   -0.476:       35
+
+:   911: A  27 VAL HG21 : A   9 PHE  HD1 :   -0.473:       38
+
+:   911: A  25 GLU  HB2 : A  22 SER  O   :   -0.423:       26
+
+:   911: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.407:       28
+#sum2 ::15.37 clashscore : 13.61 clashscore B<40 
+#summary::911 atoms:735 atoms B<40:109411 potential dots:6838.0 A^2:14 bumps:10 bumps B<40:256.9 score

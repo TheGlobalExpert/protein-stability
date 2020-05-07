@@ -1,0 +1,7 @@
+SGFILE missense3d/data/mod_pdb/PDB-1rbp-A-139ARG.sc.pdb            
+NUMCYS      5
+NUMSGA      5
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap
+INTRA    4  CYS A  SG   . -  160  CYS A  SG   .     1.820   157
+INTRA  120  CYS A  SG   . -  129  CYS A  SG   .     1.964    10

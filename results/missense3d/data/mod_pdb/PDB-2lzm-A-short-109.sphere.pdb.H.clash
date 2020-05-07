@@ -1,0 +1,33 @@
+
+:  1241: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1241: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1241: A  22 GLU  N   : A  20 ASP  HB3 :   -0.797:       42
+:  1241: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1241: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1241: A 137 ARG  CZ  : A 141 GLN  HG2 :   -0.450:       39
+
+:  1241: A  66 LEU  C   : A  67 PHE  CA  :   -0.986:       14
+:  1241: A  67 PHE  CA  : A  67 PHE  CD2 :   -0.420:       22
+
+:  1241: A  25 TYR  C   : A  26 THR  CA  :   -0.913:       15
+:  1241: A  25 TYR  N   : A  25 TYR  C   :   -0.721:       24
+
+:  1241: A   7 LEU  CA  : A   7 LEU  O   :   -0.766:       11
+
+:  1241: A 130 ALA  O   : A 130 ALA  CA  :   -0.759:       22
+
+:  1241: A  23 GLY  C   : A  23 GLY  N   :   -0.754:       40
+
+:  1241: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1241: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1241: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1241: A  10 ASP  O   : A  11 GLU  CA  :   -0.484:       17
+
+:  1241: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1241: A  94 VAL  O   : A  95 ARG  CA  :   -0.418:       18
+#sum2 ::15.31 clashscore : 12.42 clashscore B<40 
+#summary::1241 atoms:1127 atoms B<40:152476 potential dots:9530.0 A^2:19 bumps:14 bumps B<40:303 score

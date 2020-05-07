@@ -1,0 +1,10 @@
+
+:   769: A  65 LYS  CG  : A  65 LYS  CA  :   -0.952:       15
+:   769: A  66 LEU  N   : A  66 LEU  CB  :   -0.888:       20
+:   769: A  65 LYS  CA  : A  66 LEU  N   :   -0.847:       16
+:   769: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.495:       28
+:   769: A  65 LYS  CG  : A  65 LYS  N   :   -0.413:       15
+
+:   769: A   1 MET  SD  : A  50 GLU  HG3 :   -0.567:       21
+#sum2 ::7.80 clashscore : 7.85 clashscore B<40 
+#summary::769 atoms:764 atoms B<40:90588 potential dots:5662.0 A^2:6 bumps:6 bumps B<40:211.2 score

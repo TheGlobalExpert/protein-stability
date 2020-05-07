@@ -1,0 +1,13 @@
+
+:  1018: A  87 CYS  C   : A  87 CYS  N   :   -0.763:        7
+
+:  1018: A  95 PRO  HD2 : A   3 TRP  CE3 :   -0.575:       14
+
+:  1018: A   7 GLN  HG2 : A  11 ILE HD12 :   -0.514:       18
+
+:  1018: A  33 LYS  HA  : A  68 CYS  O   :   -0.457:        8
+:  1018: A  69 ASN  OD1 : A  33 LYS  HG3 :   -0.429:       21
+
+:  1018: A  79 LEU HD11 : A  66 SER  HB3 :   -0.455:       10
+#sum2 ::5.89 clashscore : 5.95 clashscore B<40 
+#summary::1018 atoms:1009 atoms B<40:119593 potential dots:7475.0 A^2:6 bumps:6 bumps B<40:349.3 score

@@ -1,0 +1,15 @@
+
+:  1351: A 145 ARG  C   : A 145 ARG  CG  :   -0.663:       24
+
+:  1351: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1351: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1351: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1351: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1351: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1351: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1351: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::5.92 clashscore : 5.68 clashscore B<40 
+#summary::1351 atoms:1233 atoms B<40:156028 potential dots:9752.0 A^2:8 bumps:7 bumps B<40:551 score

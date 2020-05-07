@@ -1,0 +1,10 @@
+
+:   906: A 128 LYS  HE3 : A 128 LYS  HB2 :   -0.475:       48
+
+:   906: A 120 LYS  NZ  : A 117 VAL  HA  :   -0.449:       58
+
+:   906: A 102 ARG  HG3 : A  98 GLU  O   :   -0.417:       16
+
+:   906: A 113 LYS  HG3 : A 114 ARG  HG3 :   -0.401:       16
+#sum2 ::4.42 clashscore : 2.36 clashscore B<40 
+#summary::906 atoms:849 atoms B<40:99794 potential dots:6237.0 A^2:4 bumps:2 bumps B<40:332.1 score

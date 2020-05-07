@@ -1,0 +1,28 @@
+
+:  1281: A 122 ARG  HD2 : A 120 ASP  OD1 :   -1.187:      101
+:  1281: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.810:      101
+
+:  1281: A  85 LEU  CB  : A  85 LEU  CD2 :   -1.044:       14
+:  1281: A  85 LEU  CD2 : A  85 LEU  CA  :   -0.417:       14
+
+:  1281: A 107 ARG  NH1 : A 107 ARG  NH2 :   -0.927:      106
+:  1281: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:  1281: A 112 TRP  CZ3 : A 107 ARG  NH1 :   -0.738:      106
+:  1281: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+
+:  1281: A 115 ARG  HG2 : A 111 ALA  O   :   -0.767:       46
+
+:  1281: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1281: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1281: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1281: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1281: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1281: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1281: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1281: A 126 GLN  NE2 : A 126 GLN  HA  :   -0.423:       89
+#sum2 ::13.27 clashscore : 7.77 clashscore B<40 
+#summary::1281 atoms:1159 atoms B<40:150245 potential dots:9390.0 A^2:17 bumps:9 bumps B<40:412.5 score

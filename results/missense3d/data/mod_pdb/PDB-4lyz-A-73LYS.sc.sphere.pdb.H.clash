@@ -1,0 +1,81 @@
+
+:   800: A  98 ILE HG12 : A  63 TRP  CE2 :   -1.275:        0
+:   800: A  63 TRP  O   : A  76 CYS  CB  :   -1.253:        0
+:   800: A  63 TRP  O   : A  76 CYS  SG  :   -1.227:        0
+:   800: A  98 ILE HG12 : A  63 TRP  CZ2 :   -1.226:        0
+:   800: A  76 CYS  SG  : A  63 TRP  CA  :   -1.170:        0
+:   800: A  76 CYS  SG  : A  63 TRP  HB3 :   -1.128:        0
+:   800: A  63 TRP  CB  : A  76 CYS  SG  :   -1.080:        0
+:   800: A  76 CYS  HB2 : A  63 TRP  O   :   -1.074:        0
+:   800: A  94 CYS  SG  : A  76 CYS  SG  :   -1.053:        0
+:   800: A  76 CYS  HB3 : A  94 CYS  SG  :   -1.036:        0
+:   800: A  76 CYS  SG  : A  63 TRP  C   :   -1.004:        0
+:   800: A  94 CYS  SG  : A  76 CYS  CB  :   -0.962:        0
+:   800: A  97 LYS  O   : A 101 ASP  OD1 :   -0.883:        0
+:   800: A  58 ILE  CG2 : A  63 TRP  CD1 :   -0.872:        0
+:   800: A  98 ILE  CG1 : A  63 TRP  CE2 :   -0.843:        0
+:   800: A  63 TRP  HA  : A  76 CYS  SG  :   -0.792:        0
+:   800: A  63 TRP  CZ2 : A  98 ILE  CG1 :   -0.760:        0
+:   800: A  63 TRP  HH2 : A 101 ASP  OD2 :   -0.750:        0
+:   800: A  63 TRP  CD1 : A  58 ILE HG23 :   -0.709:        0
+:   800: A  66 ASP  HB3 : A  80 CYS  SG  :   -0.689:        0
+:   800: A  78 ILE HG13 : A  79 PRO  HD2 :   -0.685:        0
+:   800: A  63 TRP  CD1 : A  58 ILE HG22 :   -0.680:        0
+:   800: A  78 ILE  CG1 : A  79 PRO  HD2 :   -0.624:        0
+:   800: A  97 LYS  O   : A 101 ASP  CG  :   -0.612:        0
+:   800: A  58 ILE HD12 : A  83 LEU HD13 :   -0.610:        0
+:   800: A  80 CYS  SG  : A  64 CYS  SG  :   -0.603:        0
+:   800: A  65 ASN  O   : A  79 PRO  HA  :   -0.543:        0
+:   800: A  63 TRP  HD1 : A  58 ILE HG22 :   -0.538:        0
+:   800: A  63 TRP  HD1 : A  58 ILE  CG2 :   -0.531:        0
+:   800: A  58 ILE  CG2 : A  63 TRP  CG  :   -0.517:        0
+:   800: A 101 ASP  OD2 : A  63 TRP  CH2 :   -0.502:        0
+:   800: A  78 ILE  CD1 : A  79 PRO  HD2 :   -0.502:        0
+:   800: A  64 CYS  SG  : A  80 CYS  HA  :   -0.483:        0
+:   800: A  91 SER  O   : A  95 ALA  N   :   -0.478:        0
+:   800: A  83 LEU  HB2 : A  80 CYS  O   :   -0.467:        0
+:   800: A  63 TRP  HB2 : A  58 ILE HG22 :   -0.462:        0
+:   800: A  83 LEU HD22 : A  91 SER  HA  :   -0.453:        0
+:   800: A  58 ILE HD12 : A  83 LEU  CD1 :   -0.447:        0
+:   800: A  65 ASN  O   : A  80 CYS  N   :   -0.442:        0
+:   800: A  58 ILE  CG2 : A  63 TRP  CB  :   -0.438:        0
+:   800: A  63 TRP  HE3 : A  76 CYS  SG  :   -0.410:        0
+:   800: A  58 ILE HG22 : A  63 TRP  CB  :   -0.406:        0
+:   800: A  78 ILE HD12 : A  78 ILE  HA  :   -0.406:        0
+:   800: A  79 PRO  HD3 : A  78 ILE  HA  :   -0.406:        0
+:   800: A  98 ILE  CG1 : A  63 TRP  CD2 :   -0.400:        0
+
+:   800: A  96 LYS  HB3 : A  20 TYR  OH  :   -0.953:        0
+:   800: A  20 TYR  OH  : A  20 TYR  CE2 :   -0.751:        0
+:   800: A  20 TYR  CE2 : A  99 VAL HG11 :   -0.497:        0
+:   800: A  99 VAL HG12 : A  96 LYS  O   :   -0.471:        0
+:   800: A  20 TYR  CE2 : A  99 VAL  CG1 :   -0.411:        0
+
+:   800: A  68 ARG  NH2 : A  45 ARG  CZ  :   -0.898:        0
+:   800: A  68 ARG HH22 : A  45 ARG  NH2 :   -0.801:        0
+:   800: A  68 ARG  NH2 : A  45 ARG  NH2 :   -0.795:        0
+:   800: A  68 ARG  NH2 : A  45 ARG  NH1 :   -0.479:        0
+:   800: A  68 ARG HH21 : A  45 ARG  NH1 :   -0.423:        0
+
+:   800: A 108 TRP  CA  : A 109 VAL  N   :   -0.894:        0
+:   800: A 106 ASN  C   : A 108 TRP  H   :   -0.400:        0
+
+:   800: A 104 GLY  N   : A 104 GLY  C   :   -0.833:        0
+:   800: A 104 GLY  C   : A 103 ASN  C   :   -0.426:        0
+
+:   800: A  61 ARG  HG2 : A  62 TRP  CE2 :   -0.651:        0
+:   800: A  75 LEU  HB2 : A  62 TRP  O   :   -0.592:        0
+
+:   800: A  51 THR HG22 : A  53 TYR  CE2 :   -0.594:        0
+:   800: A  51 THR  CG2 : A  53 TYR  CZ  :   -0.573:        0
+:   800: A  52 ASP  HB3 : A  57 GLN  OE1 :   -0.541:        0
+:   800: A  52 ASP  N   : A  51 THR  CG2 :   -0.481:        0
+:   800: A  84 LEU HD21 : A  53 TYR  HB3 :   -0.480:        0
+:   800: A  53 TYR  CE2 : A  51 THR  CG2 :   -0.451:        0
+:   800: A  44 ASN  O   : A  52 ASP  N   :   -0.422:        0
+
+:   800: A  93 ASN  HB2 : A  89 THR  O   :   -0.532:        0
+
+:   800: A  48 ASP  OD1 : A  50 SER  HB3 :   -0.489:        0
+#sum2 ::87.50 clashscore : 87.50 clashscore B<40 
+#summary::800 atoms:800 atoms B<40:95258 potential dots:5954.0 A^2:70 bumps:70 bumps B<40:-203.3 score

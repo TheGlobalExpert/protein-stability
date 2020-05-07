@@ -1,0 +1,13 @@
+
+:  1468: A  27 ILE  C   : A  27 ILE  N   :   -0.721:       18
+
+:  1468: A  23 GLY  C   : A  23 GLY  N   :   -0.697:       43
+
+:  1468: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1468: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1468: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+
+:  1468: A   6 MET  N   : A   5 GLU  N   :   -0.404:       14
+#sum2 ::4.09 clashscore : 3.67 clashscore B<40 
+#summary::1468 atoms:1361 atoms B<40:176304 potential dots:11020.0 A^2:6 bumps:5 bumps B<40:568.4 score

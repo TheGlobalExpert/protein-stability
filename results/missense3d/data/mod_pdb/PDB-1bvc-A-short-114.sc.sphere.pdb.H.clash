@@ -1,0 +1,35 @@
+
+:  1497: A  59 GLU  C   : A  60 ASP  CA  :   -0.983:        0
+:  1497: A  60 ASP  CA  : A  59 GLU  O   :   -0.433:        0
+
+:  1497: A  38 GLU  CG  : A  38 GLU  CA  :   -0.936:        0
+:  1497: A  38 GLU  C   : A  38 GLU  CG  :   -0.452:        0
+
+:  1497: A  43 PHE  CG  : A  46 PHE  CZ  :   -0.772:        0
+:  1497: A  64 HIS  NE2 : A  43 PHE  CE1 :   -0.603:        0
+:  1497: A  43 PHE  HE1 : A  64 HIS  CE1 :   -0.564:        0
+:  1497: A  64 HIS  NE2 : A  43 PHE  HE1 :   -0.553:        0
+:  1497: A  64 HIS  CD2 : A  43 PHE  CE1 :   -0.541:        0
+:  1497: A  46 PHE  CZ  : A  43 PHE  CB  :   -0.520:        0
+:  1497: A  43 PHE  CD1 : A  46 PHE  CZ  :   -0.518:        0
+
+:  1497: A  14 TRP  HH2 : A  72 LEU HD23 :   -0.756:        0
+:  1497: A  73 GLY  HA3 : A  14 TRP  HE1 :   -0.660:        0
+:  1497: A  14 TRP  NE1 : A  73 GLY  CA  :   -0.619:        0
+:  1497: A  72 LEU  CD2 : A  14 TRP  HH2 :   -0.603:        0
+:  1497: A  73 GLY  CA  : A  14 TRP  HE1 :   -0.560:        0
+:  1497: A  14 TRP  NE1 : A  73 GLY  HA2 :   -0.557:        0
+:  1497: A  14 TRP  CZ3 : A  76 LEU  CD1 :   -0.487:        0
+:  1497: A  14 TRP  CE3 : A  76 LEU  CD1 :   -0.477:        0
+:  1497: A  14 TRP  CH2 : A  72 LEU  HG  :   -0.447:        0
+:  1497: A  73 GLY  HA2 : A  14 TRP  CE2 :   -0.440:        0
+:  1497: A  76 LEU HD12 : A  14 TRP  CD2 :   -0.426:        0
+
+:  1497: A  22 ALA  HB1 : A  62 LYS  HE3 :   -0.508:        0
+:  1497: A  62 LYS  HE3 : A  22 ALA  CB  :   -0.422:        0
+
+:  1497: A 131 MET  CE  : A  10 VAL HG13 :   -0.500:        0
+
+:  1497: A 123 PHE  CZ  : A 128 GLN  HA  :   -0.485:        0
+#sum2 ::17.37 clashscore : 17.37 clashscore B<40 
+#summary::1497 atoms:1497 atoms B<40:176545 potential dots:11030.0 A^2:26 bumps:26 bumps B<40:497.3 score

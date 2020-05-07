@@ -1,0 +1,20 @@
+
+:  1327: A 150 ILE  CG1 : A 150 ILE  CA  :   -0.909:       19
+
+:  1327: A 124 LYS  CE  : A 124 LYS  CG  :   -0.862:        9
+
+:  1327: A 115 THR  CA  : A 115 THR  OG1 :   -0.756:       33
+
+:  1327: A  12 GLY  C   : A  12 GLY  N   :   -0.723:       16
+
+:  1327: A  33 LEU  O   : A  33 LEU  CA  :   -0.717:       26
+
+:  1327: A   1 MET  HA  : A   5 GLU  OE1 :   -0.635:       38
+:  1327: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1327: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1327: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1327: A 106 MET  HE3 : A 106 MET  HB3 :   -0.430:       33
+#sum2 ::7.54 clashscore : 8.06 clashscore B<40 
+#summary::1327 atoms:1241 atoms B<40:160939 potential dots:10060.0 A^2:10 bumps:10 bumps B<40:458.1 score

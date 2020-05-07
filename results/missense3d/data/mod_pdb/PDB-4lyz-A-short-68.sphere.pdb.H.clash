@@ -1,0 +1,39 @@
+
+:   650: A  45 ARG  NH1 : A  68 ARG HH12 :   -0.909:        5
+:   650: A  45 ARG  CZ  : A  68 ARG  NH1 :   -0.865:        5
+:   650: A  68 ARG  NH1 : A  45 ARG  NH1 :   -0.857:        5
+
+:   650: A  58 ILE HD12 : A  83 LEU HD13 :   -0.679:        6
+:   650: A  58 ILE HD12 : A  83 LEU  CD1 :   -0.630:        6
+:   650: A  65 ASN  O   : A  79 PRO  HA  :   -0.555:        9
+:   650: A  83 LEU  HB2 : A  80 CYS  O   :   -0.486:        6
+:   650: A  80 CYS  SG  : A  64 CYS  O   :   -0.450:       16
+:   650: A  58 ILE  CG2 : A  63 TRP  CB  :   -0.442:        3
+:   650: A  65 ASN  O   : A  80 CYS  N   :   -0.442:        9
+:   650: A  63 TRP  HA  : A  63 TRP  CE3 :   -0.417:        5
+:   650: A  78 ILE HG13 : A  79 PRO  HD2 :   -0.401:        6
+
+:   650: A  56 LEU  C   : A  56 LEU  N   :   -0.664:        8
+
+:   650: A  40 THR  O   : A  54 GLY  HA2 :   -0.619:        7
+:   650: A  40 THR  O   : A  84 LEU  HA  :   -0.469:        8
+
+:   650: A  75 LEU  HB2 : A  62 TRP  O   :   -0.613:        6
+:   650: A  61 ARG  HG2 : A  62 TRP  CE2 :   -0.539:        6
+:   650: A  75 LEU HD23 : A  62 TRP  O   :   -0.414:        4
+
+:   650: A  43 THR HG23 : A  41 GLN  O   :   -0.552:        3
+:   650: A  52 ASP  O   : A  43 THR  HA  :   -0.472:        8
+:   650: A  52 ASP  HB3 : A  57 GLN  OE1 :   -0.464:        8
+:   650: A  41 GLN  O   : A  42 ALA  C   :   -0.428:        6
+:   650: A  44 ASN  O   : A  52 ASP  N   :   -0.422:        5
+:   650: A  52 ASP  HB2 : A  44 ASN  HB2 :   -0.418:        5
+
+:   650: A  48 ASP  OD1 : A  50 SER  HB3 :   -0.516:        9
+:   650: A  50 SER  OG  : A  59 ASN  ND2 :   -0.419:        6
+
+:   650: A  51 THR HG22 : A  53 TYR  CE2 :   -0.474:        8
+
+:   650: A  60 SER  OG  : A  69 THR HG21 :   -0.442:        6
+#sum2 ::43.08 clashscore : 43.08 clashscore B<40 
+#summary::650 atoms:650 atoms B<40:76411 potential dots:4776.0 A^2:28 bumps:28 bumps B<40:42.26 score

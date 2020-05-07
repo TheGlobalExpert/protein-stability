@@ -1,0 +1,52 @@
+
+:  1120: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:  1120: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:  1120: A 106 MET  CG  : A 111 VAL HG23 :   -0.934:        0
+:  1120: A 111 VAL HG23 : A 106 MET  SD  :   -0.634:        0
+:  1120: A 111 VAL HG23 : A 106 MET  HG2 :   -0.614:        0
+:  1120: A 106 MET  CG  : A 111 VAL  CG2 :   -0.485:        0
+:  1120: A 106 MET  HE3 : A 106 MET  HB3 :   -0.454:        0
+
+:  1120: A 119 ARG  HB3 : A 119 ARG HH21 :   -1.038:        0
+:  1120: A 119 ARG  NH2 : A 119 ARG  HB3 :   -0.727:        0
+:  1120: A 119 ARG  CD  : A 123 GLN  NE2 :   -0.466:        0
+:  1120: A 123 GLN  NE2 : A 119 ARG  HD2 :   -0.433:        0
+
+:  1120: A 139 TYR  CB  : A 139 TYR  CD1 :   -0.975:        0
+
+:  1120: A 158 TRP  CG  : A 158 TRP  CA  :   -0.959:        0
+
+:  1120: A 108 GLU  OE2 : A  77 GLY  O   :   -0.959:        0
+:  1120: A  77 GLY  C   : A 108 GLU  OE2 :   -0.859:        0
+:  1120: A  77 GLY  CA  : A 108 GLU  OE2 :   -0.730:        0
+
+:  1120: A   6 MET  CE  : A 161 TYR  OH  :   -0.956:        0
+:  1120: A 161 TYR  CZ  : A   6 MET  CE  :   -0.851:        0
+:  1120: A   6 MET  CE  : A 161 TYR  CE2 :   -0.832:        0
+
+:  1120: A 135 LYS  CD  : A 135 LYS  NZ  :   -0.805:        0
+
+:  1120: A  92 ASP  OD2 : A  95 ARG  NH2 :   -0.652:        0
+:  1120: A  95 ARG  HD2 : A  92 ASP  OD2 :   -0.413:        0
+
+:  1120: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.625:        0
+
+:  1120: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:  1120: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:  1120: A  81 ASN  CB  : A  84 LEU HD12 :   -0.566:        0
+:  1120: A  84 LEU HD12 : A  81 ASN  HB3 :   -0.440:        0
+
+:  1120: A  75 VAL  O   : A  79 LEU  HG  :   -0.559:        0
+
+:  1120: A 146 ALA  CA  : A 138 TRP  CZ2 :   -0.541:        0
+
+:  1120: A 151 THR  HA  : A 154 ARG  CZ  :   -0.472:        0
+:  1120: A 154 ARG  NH1 : A 151 THR  HA  :   -0.454:        0
+:  1120: A 151 THR  OG1 : A 154 ARG  NH1 :   -0.406:        0
+
+:  1120: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+
+:  1120: A 132 ASN  OD1 : A 117 SER  OG  :   -0.402:        0
+#sum2 ::30.36 clashscore : 30.36 clashscore B<40 
+#summary::1120 atoms:1120 atoms B<40:131962 potential dots:8248.0 A^2:34 bumps:34 bumps B<40:217.4 score

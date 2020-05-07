@@ -1,0 +1,29 @@
+
+:  1084: A   7 GLU  OE2 : A   1 LYS  NZ  :   -0.843:        0
+
+:  1084: A 111 ALA  N   : A 110 VAL  O   :   -0.726:        0
+:  1084: A 115 ARG  HG2 : A 111 ALA  O   :   -0.725:        0
+:  1084: A  35 GLU  OE2 : A 111 ALA  HB3 :   -0.510:        0
+:  1084: A 119 ARG  HD2 : A 115 ARG  O   :   -0.441:        0
+:  1084: A 119 ARG  HG3 : A 117 GLN  O   :   -0.434:        0
+:  1084: A 110 VAL  O   : A 111 ALA  CA  :   -0.422:        0
+:  1084: A 115 ARG  HB2 : A  34 TRP  CD1 :   -0.413:        0
+
+:  1084: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:  1084: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:  1084: A  38 TYR  OH  : A  33 LYS  HD3 :   -0.604:        0
+:  1084: A  33 LYS  CA  : A  38 TYR  CE2 :   -0.431:        0
+:  1084: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:  1084: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:  1084: A 100 VAL  CG1 : A  28 TRP  HH2 :   -0.549:        0
+
+:  1084: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1084: A 130 VAL HG23 : A 130 VAL  O   :   -0.509:        0
+
+:  1084: A 107 ARG  NH2 : A 112 TRP  CZ3 :   -0.458:        0
+
+:  1084: A 106 ILE  HB  : A  23 ILE HD13 :   -0.435:        0
+#sum2 ::17.53 clashscore : 17.53 clashscore B<40 
+#summary::1084 atoms:1084 atoms B<40:128288 potential dots:8018.0 A^2:19 bumps:19 bumps B<40:340.8 score

@@ -1,0 +1,20 @@
+
+:  1328: A  96 SER  O   : A  99 ASN  HB2 :   -0.903:       39
+:  1328: A  96 SER  O   : A  99 ASN  CB  :   -0.465:       39
+
+:  1328: A  92 HIS  CE1 : A 100 PHE  CZ  :   -0.534:       23
+:  1328: A  92 HIS  CE1 : A 100 PHE  CE1 :   -0.464:       23
+
+:  1328: A  22 ALA  O   : A  26 LEU HD13 :   -0.515:       31
+
+:  1328: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:  1328: A  56 TYR  CE2 : A  54 SER  HB3 :   -0.471:       23
+:  1328: A  55 PRO  HA  : A  54 SER  HB2 :   -0.435:       23
+:  1328: A  79 VAL  CG1 : A  56 TYR  HB3 :   -0.434:       15
+
+:  1328: A  44 ASN  HA  : A  42 TYR  CZ  :   -0.429:       29
+
+:  1328: A  32 THR  CA  : A  31 GLU  O   :   -0.410:       27
+#sum2 ::8.28 clashscore : 8.53 clashscore B<40 
+#summary::1328 atoms:1290 atoms B<40:154059 potential dots:9629.0 A^2:11 bumps:11 bumps B<40:494 score

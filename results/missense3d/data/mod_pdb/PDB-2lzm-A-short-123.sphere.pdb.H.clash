@@ -1,0 +1,14 @@
+
+:   943: A 101 ASN  CB  : A 101 ASN  N   :   -0.839:       16
+
+:   943: A 136 SER  N   : A 136 SER  CB  :   -0.788:       16
+
+:   943: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:   943: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:   943: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:   943: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:   943: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+#sum2 ::7.42 clashscore : 3.53 clashscore B<40 
+#summary::943 atoms:851 atoms B<40:110449 potential dots:6903.0 A^2:7 bumps:3 bumps B<40:342.8 score

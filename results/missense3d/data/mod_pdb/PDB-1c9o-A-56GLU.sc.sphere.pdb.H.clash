@@ -1,0 +1,19 @@
+
+:   573: A   6 VAL  CA  : A   6 VAL  CG1 :   -0.985:        0
+:   573: A   6 VAL  CA  : A   6 VAL  CG2 :   -0.982:        0
+:   573: A   6 VAL  CG1 : A   6 VAL  CG2 :   -0.982:        0
+:   573: A   7 LYS  N   : A   6 VAL  CA  :   -0.872:        0
+:   573: A   6 VAL  CA  : A   5 LYS  O   :   -0.464:        0
+
+:   573: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.778:        0
+:   573: A  17 PHE  CD1 : A   8 TRP  CZ2 :   -0.688:        0
+:   573: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.452:        0
+
+:   573: A  49 PHE  N   : A  48 SER  O   :   -0.695:        0
+:   573: A  48 SER  O   : A  49 PHE  CA  :   -0.410:        0
+
+:   573: A  13 LYS  HB3 : A  15 TYR  CE2 :   -0.505:        0
+
+:   573: A  30 PHE  CE2 : A  29 HIS  CE1 :   -0.452:        0
+#sum2 ::20.94 clashscore : 20.94 clashscore B<40 
+#summary::573 atoms:573 atoms B<40:70136 potential dots:4384.0 A^2:12 bumps:12 bumps B<40:75.49 score

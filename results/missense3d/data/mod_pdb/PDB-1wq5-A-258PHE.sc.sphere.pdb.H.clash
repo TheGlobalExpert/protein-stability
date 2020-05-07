@@ -1,0 +1,68 @@
+
+:  1322: A  21 PRO  N   : A  21 PRO  CD  :   -1.457:        0
+:  1322: A  20 VAL  HB  : A 232 ILE HG12 :   -0.575:        0
+:  1322: A  20 VAL  O   : A 232 ILE  HA  :   -0.521:        0
+:  1322: A  20 VAL  O   : A 232 ILE HG23 :   -0.479:        0
+:  1322: A  21 PRO  CD  : A  20 VAL  C   :   -0.443:        0
+
+:  1322: A  28 PRO  CD  : A  28 PRO  N   :   -1.330:        0
+:  1322: A  28 PRO  CD  : A  27 ASP  C   :   -0.612:        0
+
+:  1322: A  34 LEU  CD2 : A  34 LEU  CB  :   -0.988:        0
+:  1322: A  34 LEU  CD2 : A  34 LEU  CA  :   -0.423:        0
+
+:  1322: A 262 MET  HE3 : A 220 VAL HG21 :   -0.955:        0
+:  1322: A 220 VAL  CG2 : A 262 MET  CE  :   -0.759:        0
+:  1322: A 220 VAL HG21 : A 262 MET  CE  :   -0.713:        0
+:  1322: A 262 MET  HE3 : A 220 VAL  CG2 :   -0.709:        0
+:  1322: A 220 VAL HG23 : A 262 MET  HE1 :   -0.581:        0
+:  1322: A 262 MET  CB  : A  19 PHE  CZ  :   -0.536:        0
+:  1322: A 220 VAL  O   : A 224 ILE HD13 :   -0.529:        0
+:  1322: A 262 MET  HB3 : A  19 PHE  CZ  :   -0.525:        0
+:  1322: A 262 MET  HE1 : A 220 VAL  CG2 :   -0.491:        0
+:  1322: A 262 MET  HB2 : A  19 PHE  CE2 :   -0.485:        0
+:  1322: A 224 ILE HD12 : A 224 ILE  N   :   -0.468:        0
+:  1322: A  19 PHE  CE2 : A 262 MET  CB  :   -0.437:        0
+:  1322: A 220 VAL HG23 : A 262 MET  CE  :   -0.427:        0
+:  1322: A 224 ILE  N   : A 224 ILE  CD1 :   -0.416:        0
+
+:  1322: A  88 ILE  CG2 : A  88 ILE  CG1 :   -0.952:        0
+:  1322: A  88 ILE  CD1 : A  37 ILE HD13 :   -0.480:        0
+:  1322: A  88 ILE  CD1 : A  88 ILE  CG2 :   -0.446:        0
+
+:  1322: A  25 LEU  CG  : A  25 LEU  CA  :   -0.897:        0
+
+:  1322: A  15 LYS  O   : A  16 GLU  N   :   -0.697:        0
+:  1322: A  16 GLU  HG2 : A 267 ARG  HG2 :   -0.537:        0
+
+:  1322: A  11 LEU  CD1 : A  18 ALA  HB2 :   -0.687:        0
+
+:  1322: A  26 GLY  N   : A  26 GLY  C   :   -0.659:        0
+
+:  1322: A 260 GLN  HB2 : A 261 PRO  HD3 :   -0.652:        0
+:  1322: A 256 LYS  O   : A 260 GLN  HG3 :   -0.492:        0
+
+:  1322: A 258 PHE  CZ  : A 236 ALA  CB  :   -0.649:        0
+:  1322: A 236 ALA  HB2 : A 215 SER  HB2 :   -0.586:        0
+:  1322: A 258 PHE  CZ  : A 236 ALA  HB1 :   -0.512:        0
+:  1322: A 236 ALA  O   : A 240 ILE HG13 :   -0.404:        0
+
+:  1322: A  22 PHE  HA  : A  49 GLU  O   :   -0.540:        0
+:  1322: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.511:        0
+:  1322: A  22 PHE  CD1 : A  22 PHE  C   :   -0.409:        0
+
+:  1322: A 211 GLY  O   : A 212 PHE  CB  :   -0.512:        0
+
+:  1322: A 238 VAL  O   : A 242 GLU  HG3 :   -0.493:        0
+
+:  1322: A 251 MET  CE  : A 241 ILE HG23 :   -0.480:        0
+:  1322: A 241 ILE  O   : A 251 MET  HE2 :   -0.462:        0
+:  1322: A 241 ILE HG23 : A 251 MET  HE1 :   -0.441:        0
+
+:  1322: A  95 ILE  CA  : A  96 PRO  CD  :   -0.462:        0
+
+:  1322: A 237 ILE HG21 : A  23 VAL  CG1 :   -0.410:        0
+
+:  1322: A 259 VAL HG23 : A 255 LEU  O   :   -0.400:        0
+#sum2 ::36.31 clashscore : 36.31 clashscore B<40 
+#summary::1322 atoms:1322 atoms B<40:159405 potential dots:9963.0 A^2:48 bumps:48 bumps B<40:238.4 score

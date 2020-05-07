@@ -1,0 +1,25 @@
+
+:   746: A  42 TRP  CH2 : A  42 TRP  CE2 :   -1.017:       28
+
+:   746: A  46 VAL HG22 : A  31 LEU HD22 :   -0.970:       33
+:   746: A  46 VAL HG22 : A  31 LEU  CD2 :   -0.729:       33
+:   746: A   9 VAL  CG2 : A  31 LEU  HB2 :   -0.424:       22
+
+:   746: A  41 TRP  CH2 : A  41 TRP  CE2 :   -0.964:       30
+
+:   746: A  60 LYS  CA  : A  60 LYS  CG  :   -0.954:       53
+:   746: A  60 LYS  CG  : A   7 GLU  OE1 :   -0.455:      100
+
+:   746: A  47 ASN  HB3 : A  48 ASP  OD1 :   -0.816:       65
+:   746: A  48 ASP  OD1 : A  48 ASP  N   :   -0.764:       54
+
+:   746: A  51 GLY  HA3 : A  23 VAL HG13 :   -0.750:       25
+:   746: A  51 GLY  HA3 : A  23 VAL  CG1 :   -0.424:       25
+
+:   746: A   6 LYS  HB2 : A   6 LYS  HE3 :   -0.466:      100
+
+:   746: A  44 VAL  O   : A  50 GLN  HA  :   -0.442:       29
+
+:   746: A  45 GLU  HA  : A  49 ARG  O   :   -0.426:       34
+#sum2 ::18.77 clashscore : 14.78 clashscore B<40 
+#summary::746 atoms:609 atoms B<40:87874 potential dots:5492.0 A^2:14 bumps:9 bumps B<40:136.5 score

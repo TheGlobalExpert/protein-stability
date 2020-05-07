@@ -1,0 +1,19 @@
+
+:   582: A   6 VAL  CA  : A   6 VAL  CG1 :   -0.985:        0
+:   582: A   6 VAL  CA  : A   6 VAL  CG2 :   -0.982:        0
+:   582: A   6 VAL  CG1 : A   6 VAL  CG2 :   -0.982:        0
+:   582: A   7 LYS  N   : A   6 VAL  CA  :   -0.872:        0
+:   582: A   6 VAL  CA  : A   5 LYS  O   :   -0.464:        0
+
+:   582: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.778:        0
+:   582: A  17 PHE  CD1 : A   8 TRP  CZ2 :   -0.688:        0
+:   582: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.452:        0
+
+:   582: A  49 PHE  N   : A  48 SER  O   :   -0.695:        0
+:   582: A  48 SER  O   : A  49 PHE  CA  :   -0.410:        0
+
+:   582: A  13 LYS  HB3 : A  15 TYR  CE2 :   -0.505:        0
+
+:   582: A  30 PHE  CE2 : A  29 HIS  CE1 :   -0.452:        0
+#sum2 ::20.62 clashscore : 20.62 clashscore B<40 
+#summary::582 atoms:582 atoms B<40:70833 potential dots:4427.0 A^2:12 bumps:12 bumps B<40:78.29 score

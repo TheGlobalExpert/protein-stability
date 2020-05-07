@@ -1,0 +1,57 @@
+
+:   875: A 100 PHE  CZ  : A  92 HIS  NE2 :   -1.599:        0
+:   875: A  92 HIS  CE1 : A 100 PHE  CZ  :   -1.561:        0
+:   875: A  92 HIS  CE1 : A 100 PHE  CE2 :   -1.243:        0
+:   875: A  92 HIS  CD2 : A 100 PHE  CE1 :   -1.177:        0
+:   875: A 100 PHE  CE1 : A  92 HIS  CE1 :   -1.135:        0
+:   875: A  92 HIS  NE2 : A 100 PHE  CE1 :   -1.102:        0
+:   875: A 100 PHE  CZ  : A  92 HIS  CD2 :   -0.898:        0
+:   875: A 100 PHE  HZ  : A  92 HIS  NE2 :   -0.866:        0
+:   875: A  92 HIS  HE1 : A 100 PHE  CE2 :   -0.853:        0
+:   875: A  92 HIS  CG  : A 100 PHE  CE1 :   -0.836:        0
+:   875: A 100 PHE  HE1 : A  92 HIS  CD2 :   -0.752:        0
+:   875: A  92 HIS  ND1 : A 100 PHE  CE1 :   -0.662:        0
+:   875: A 100 PHE  HD1 : A  91 THR  C   :   -0.620:        0
+:   875: A  92 HIS  CE1 : A 100 PHE  CD2 :   -0.548:        0
+:   875: A  92 HIS  CE1 : A 100 PHE  CD1 :   -0.462:        0
+:   875: A  92 HIS  ND1 : A 100 PHE  CD1 :   -0.416:        0
+
+:   875: A  40 HIS  CE1 : A  58 GLU  CD  :   -1.265:        0
+:   875: A  40 HIS  CE1 : A  58 GLU  OE1 :   -1.022:        0
+:   875: A  40 HIS  CE1 : A  58 GLU  CG  :   -0.887:        0
+:   875: A  40 HIS  NE2 : A  58 GLU  CD  :   -0.784:        0
+:   875: A  40 HIS  CE1 : A  58 GLU  HG2 :   -0.676:        0
+:   875: A  58 GLU  OE2 : A  40 HIS  NE2 :   -0.480:        0
+:   875: A  40 HIS  CD2 : A  38 TYR  CE1 :   -0.442:        0
+
+:   875: A  50 PHE  CG  : A  50 PHE  CE2 :   -1.002:        0
+
+:   875: A  98 ASN  CA  : A  97 GLY  C   :   -0.970:        0
+:   875: A  97 GLY  C   : A  97 GLY  N   :   -0.739:        0
+
+:   875: A  13 SER  N   : A   3 ASP  OD2 :   -0.866:        0
+:   875: A  12 SER  HA  : A   3 ASP  OD2 :   -0.553:        0
+:   875: A   3 ASP  OD2 : A  12 SER  CA  :   -0.507:        0
+
+:   875: A  77 ARG  NH1 : A  73 PRO  HB2 :   -0.801:        0
+:   875: A  73 PRO  HB2 : A  77 ARG  CZ  :   -0.770:        0
+:   875: A  77 ARG  HD3 : A  60 PRO  HA  :   -0.619:        0
+:   875: A  61 ILE  HB  : A  78 VAL HG13 :   -0.585:        0
+:   875: A  73 PRO  CB  : A  77 ARG  NH1 :   -0.576:        0
+:   875: A  77 ARG HH12 : A  73 PRO  HG2 :   -0.515:        0
+:   875: A  59 TRP  CZ2 : A  68 TYR  HB3 :   -0.504:        0
+:   875: A  73 PRO  CG  : A  77 ARG  NH1 :   -0.489:        0
+:   875: A  60 PRO  HD3 : A  59 TRP  HA  :   -0.424:        0
+:   875: A  78 VAL HG22 : A  59 TRP  O   :   -0.413:        0
+
+:   875: A  99 ASN  CB  : A  96 SER  O   :   -0.575:        0
+
+:   875: A   6 CYS  HB3 : A  76 ASP  OD1 :   -0.478:        0
+:   875: A  76 ASP  OD2 : A  11 TYR  HE1 :   -0.414:        0
+
+:   875: A   9 ASN  ND2 : A  63 SER  HB3 :   -0.465:        0
+
+:   875: A 104 THR  OXT : A   4 TYR  HA  :   -0.447:        0
+:   875: A 104 THR HG22 : A 104 THR  O   :   -0.435:        0
+#sum2 ::51.43 clashscore : 51.43 clashscore B<40 
+#summary::875 atoms:875 atoms B<40:105335 potential dots:6583.0 A^2:45 bumps:45 bumps B<40:43.57 score

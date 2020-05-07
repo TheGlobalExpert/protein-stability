@@ -1,0 +1,61 @@
+
+:  1445: A  35 PHE  CZ  : A  35 PHE  CD1 :   -1.010:        0
+
+:  1445: A 106 ARG  C   : A 106 ARG  CB  :   -0.882:        0
+
+:  1445: A  38 GLY  CA  : A  39 TYR  N   :   -0.878:        0
+
+:  1445: A  99 LYS  C   : A  99 LYS  CB  :   -0.844:        0
+
+:  1445: A 114 HIS  CD2 : A 114 HIS  CB  :   -0.757:        0
+
+:  1445: A  81 TRP  CE3 : A  85 TRP  CH2 :   -0.710:        0
+:  1445: A  81 TRP  CE3 : A  85 TRP  HH2 :   -0.644:        0
+:  1445: A  81 TRP  HE3 : A  85 TRP  CH2 :   -0.582:        0
+:  1445: A  81 TRP  HB3 : A  85 TRP  CE2 :   -0.571:        0
+:  1445: A  81 TRP  HB3 : A  85 TRP  CZ2 :   -0.508:        0
+
+:  1445: A 138 ARG  NH1 : A 135 GLU  HA  :   -0.701:        0
+:  1445: A 135 GLU  HA  : A 138 ARG  CZ  :   -0.482:        0
+
+:  1445: A  73 TYR  HH  : A 104 TRP  HE1 :   -0.559:        0
+:  1445: A  77 GLY  HA3 : A 104 TRP  CH2 :   -0.504:        0
+:  1445: A  49 LEU HD11 : A 104 TRP  CE2 :   -0.464:        0
+:  1445: A  49 LEU  CD1 : A  73 TYR  HE2 :   -0.445:        0
+:  1445: A  74 VAL HG22 : A  49 LEU HD23 :   -0.445:        0
+
+:  1445: A  22 TYR  CD1 : A  22 TYR  C   :   -0.551:        0
+:  1445: A  22 TYR  HB2 : A  51 ALA  HB2 :   -0.546:        0
+:  1445: A  51 ALA  CB  : A   9 THR  HB  :   -0.448:        0
+
+:  1445: A  82 ILE  CG2 : A  83 HIS  N   :   -0.546:        0
+:  1445: A  83 HIS  N   : A  82 ILE HG23 :   -0.471:        0
+
+:  1445: A 127 HIS  HB3 : A 128 PRO  HD2 :   -0.525:        0
+
+:  1445: A  70 GLU  OE1 : A  70 GLU  N   :   -0.521:        0
+
+:  1445: A  27 ARG HH12 : A 129 GLU  CD  :   -0.494:        0
+:  1445: A 129 GLU  OE1 : A  27 ARG  NH1 :   -0.401:        0
+
+:  1445: A  10 ASP  OD2 : A 134 ASP  HA  :   -0.489:        0
+
+:  1445: A  47 MET  HA  : A  47 MET  CE  :   -0.470:        0
+
+:  1445: A  53 ILE HD12 : A  50 MET  HA  :   -0.460:        0
+
+:  1445: A 148 ASP  OD1 : A  42 THR  OG1 :   -0.454:        0
+
+:  1445: A  66 ILE  N   : A  65 VAL  CG1 :   -0.447:        0
+:  1445: A   6 GLU  HG2 : A  66 ILE  CG2 :   -0.428:        0
+:  1445: A  66 ILE  N   : A  65 VAL HG12 :   -0.400:        0
+
+:  1445: A   8 PHE  CD1 : A  68 SER  HB3 :   -0.441:        0
+:  1445: A  68 SER  HB2 : A 119 GLU  OE1 :   -0.400:        0
+
+:  1445: A 120 TRP  CZ2 : A 118 TRP  HB3 :   -0.439:        0
+:  1445: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+
+:  1445: A  78 ILE HD13 : A  78 ILE  HA  :   -0.406:        0
+#sum2 ::26.30 clashscore : 26.30 clashscore B<40 
+#summary::1445 atoms:1445 atoms B<40:173713 potential dots:10860.0 A^2:38 bumps:38 bumps B<40:347.1 score

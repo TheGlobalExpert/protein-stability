@@ -1,0 +1,150 @@
+
+:  1802: A   6 LYS  CE  : A   3 GLU  HB3 :   -1.474:        0
+:  1802: A   3 GLU  CB  : A   6 LYS  HE2 :   -1.312:        0
+:  1802: A   6 LYS  HD3 : A   3 GLU  O   :   -0.931:        0
+:  1802: A   6 LYS  CE  : A   3 GLU  CB  :   -0.845:        0
+:  1802: A   3 GLU  CG  : A   6 LYS  HE2 :   -0.817:        0
+:  1802: A   3 GLU  O   : A   6 LYS  CD  :   -0.794:        0
+:  1802: A   3 GLU  HB3 : A   6 LYS  HE2 :   -0.745:        0
+:  1802: A   3 GLU  HB3 : A   6 LYS  HE3 :   -0.725:        0
+:  1802: A  33 ILE  O   : A  28 GLU  HB2 :   -0.723:        0
+:  1802: A   4 GLU  HG2 : A 271 PRO  HB2 :   -0.711:        0
+:  1802: A 275 LEU HD12 : A 272 ASN  OD1 :   -0.555:        0
+:  1802: A  28 GLU  OE1 : A  34 LYS  HA  :   -0.519:        0
+:  1802: A   3 GLU  O   : A   4 GLU  C   :   -0.495:        0
+:  1802: A   6 LYS  CE  : A   3 GLU  O   :   -0.482:        0
+:  1802: A   6 LYS  CA  : A  33 ILE HD12 :   -0.468:        0
+:  1802: A 271 PRO  HD3 : A 270 SER  HA  :   -0.460:        0
+:  1802: A 272 ASN HD21 : A   4 GLU  HA  :   -0.441:        0
+:  1802: A 275 LEU HD13 : A  33 ILE HD13 :   -0.415:        0
+
+:  1802: A  43 LEU  CD1 : A  60 ILE HD11 :   -1.155:        0
+:  1802: A  60 ILE HD11 : A  43 LEU HD13 :   -0.937:        0
+:  1802: A  43 LEU HD13 : A  60 ILE  CD1 :   -0.878:        0
+:  1802: A  43 LEU  CD1 : A  60 ILE  CD1 :   -0.468:        0
+:  1802: A  43 LEU HD12 : A  43 LEU  C   :   -0.423:        0
+
+:  1802: A  26 LYS  O   : A  26 LYS  HE3 :   -1.056:        0
+:  1802: A 283 TYR  CE2 : A  27 PHE  HA  :   -0.897:        0
+:  1802: A  26 LYS  HE3 : A  26 LYS  C   :   -0.893:        0
+:  1802: A  31 THR HG23 : A  30 ASP  OD1 :   -0.866:        0
+:  1802: A  30 ASP  OD1 : A  30 ASP  O   :   -0.833:        0
+:  1802: A  31 THR  CG2 : A  30 ASP  OD1 :   -0.775:        0
+:  1802: A  30 ASP  OD1 : A  30 ASP  C   :   -0.764:        0
+:  1802: A  26 LYS  O   : A  26 LYS  CE  :   -0.677:        0
+:  1802: A  27 PHE  O   : A  31 THR HG23 :   -0.652:        0
+:  1802: A  27 PHE  HA  : A 283 TYR  HE2 :   -0.582:        0
+:  1802: A  26 LYS  HE2 : A 283 TYR  CD2 :   -0.538:        0
+:  1802: A 283 TYR  HH  : A  30 ASP  CG  :   -0.527:        0
+:  1802: A  24 GLY  O   : A  27 PHE  HB3 :   -0.507:        0
+:  1802: A  30 ASP  OD1 : A 283 TYR  OH  :   -0.493:        0
+:  1802: A  26 LYS  C   : A  26 LYS  CE  :   -0.423:        0
+:  1802: A  26 LYS  H   : A  26 LYS  HG3 :   -0.411:        0
+
+:  1802: A  61 PHE  CE2 : A 264 ALA  HB2 :   -0.901:        0
+:  1802: A 264 ALA  HB2 : A  61 PHE  CZ  :   -0.558:        0
+:  1802: A 263 SER  O   : A  61 PHE  HA  :   -0.510:        0
+:  1802: A  61 PHE  CZ  : A 264 ALA  CB  :   -0.448:        0
+
+:  1802: A  94 TRP  HE1 : A  89 LEU  HB2 :   -0.876:        0
+:  1802: A  89 LEU  HB2 : A  94 TRP  NE1 :   -0.687:        0
+:  1802: A  94 TRP  CZ2 : A  89 LEU HD12 :   -0.651:        0
+:  1802: A  89 LEU  CD2 : A 304 LEU  HA  :   -0.649:        0
+:  1802: A  88 LYS  C   : A  89 LEU HD23 :   -0.643:        0
+:  1802: A  89 LEU HD23 : A  88 LYS  O   :   -0.588:        0
+:  1802: A 304 LEU  HA  : A  89 LEU HD22 :   -0.525:        0
+:  1802: A 107 PRO  HD3 : A  94 TRP  CZ3 :   -0.521:        0
+:  1802: A 304 LEU  CA  : A  89 LEU HD22 :   -0.457:        0
+:  1802: A  97 VAL HG22 : A  94 TRP  HA  :   -0.403:        0
+
+:  1802: A  80 THR HG22 : A  80 THR  O   :   -0.867:        0
+:  1802: A  80 THR  O   : A  80 THR  CG2 :   -0.673:        0
+
+:  1802: A 277 LYS  NZ  : A 273 LYS  HE2 :   -0.851:        0
+:  1802: A 277 LYS  CE  : A 273 LYS  HE2 :   -0.848:        0
+:  1802: A 273 LYS  HE2 : A 277 LYS  HE3 :   -0.626:        0
+:  1802: A 277 LYS  HE3 : A 273 LYS  CE  :   -0.538:        0
+:  1802: A 273 LYS  HG2 : A 277 LYS  HE3 :   -0.524:        0
+:  1802: A 273 LYS  HE2 : A 277 LYS  HZ1 :   -0.522:        0
+:  1802: A 277 LYS  HG3 : A 273 LYS  O   :   -0.467:        0
+:  1802: A 277 LYS  HE3 : A 273 LYS  CG  :   -0.453:        0
+:  1802: A 277 LYS  CE  : A 273 LYS  CE  :   -0.412:        0
+
+:  1802: A  57 PRO  HG3 : A  10 TRP  CD2 :   -0.845:        0
+:  1802: A  10 TRP  CG  : A  57 PRO  HG3 :   -0.590:        0
+:  1802: A  57 PRO  HG3 : A  10 TRP  CE3 :   -0.534:        0
+
+:  1802: A 104 ILE HD12 : A  71 ALA  HB2 :   -0.805:        0
+:  1802: A  99 TYR  O   : A  99 TYR  CA  :   -0.772:        0
+:  1802: A 104 ILE  CD1 : A  71 ALA  HB2 :   -0.645:        0
+:  1802: A 104 ILE HD13 : A  99 TYR  CB  :   -0.519:        0
+:  1802: A  99 TYR  HB3 : A 104 ILE HD13 :   -0.503:        0
+
+:  1802: A  82 ASP  OD1 : A  82 ASP  C   :   -0.783:        0
+:  1802: A  81 PRO  O   : A  82 ASP  HB3 :   -0.717:        0
+:  1802: A  84 ALA  N   : A  82 ASP  OD1 :   -0.516:        0
+:  1802: A  82 ASP  O   : A  82 ASP  OD1 :   -0.484:        0
+
+:  1802: A 287 ASP  CB  : A 287 ASP  OD1 :   -0.755:        0
+:  1802: A 306 SER  OG  : A 287 ASP  OD1 :   -0.610:        0
+:  1802: A 287 ASP  CA  : A 287 ASP  OD1 :   -0.426:        0
+
+:  1802: A   7 LEU HD12 : A  58 ASP  HB2 :   -0.752:        0
+:  1802: A  58 ASP  CB  : A   7 LEU HD12 :   -0.550:        0
+:  1802: A  59 ILE  CD1 : A   7 LEU HD11 :   -0.506:        0
+:  1802: A   7 LEU HD11 : A  59 ILE HD12 :   -0.478:        0
+
+:  1802: A  18 ASN  O   : A  22 GLU  OE2 :   -0.751:        0
+:  1802: A  22 GLU  OE1 : A  22 GLU  N   :   -0.699:        0
+:  1802: A  18 ASN  O   : A  22 GLU  CD  :   -0.521:        0
+:  1802: A  21 ALA  C   : A  22 GLU  OE1 :   -0.521:        0
+:  1802: A  22 GLU  CA  : A  22 GLU  OE1 :   -0.509:        0
+:  1802: A  22 GLU  N   : A  22 GLU  CD  :   -0.434:        0
+
+:  1802: A  53 THR  OG1 : A  53 THR  CA  :   -0.720:        0
+
+:  1802: A  55 ASP  HA  : A   2 ILE  CD1 :   -0.700:        0
+:  1802: A   2 ILE HD11 : A  55 ASP  C   :   -0.692:        0
+:  1802: A  55 ASP  HA  : A   2 ILE HD12 :   -0.594:        0
+:  1802: A  55 ASP  CA  : A   2 ILE HD11 :   -0.452:        0
+:  1802: A   2 ILE  CD1 : A  55 ASP  CA  :   -0.447:        0
+
+:  1802: A  40 PRO  CA  : A  40 PRO  O   :   -0.680:        0
+:  1802: A  11 ILE  O   : A  39 HIS  HA  :   -0.427:        0
+:  1802: A  39 HIS  N   : A  40 PRO  HD3 :   -0.409:        0
+
+:  1802: A  47 PHE  N   : A  48 PRO  HD2 :   -0.673:        0
+:  1802: A  47 PHE  HB3 : A  48 PRO  HD3 :   -0.650:        0
+:  1802: A  47 PHE  N   : A  48 PRO  CD  :   -0.549:        0
+:  1802: A  48 PRO  HD2 : A  46 LYS  C   :   -0.476:        0
+:  1802: A  48 PRO  HA  : A  75 LEU  CD1 :   -0.448:        0
+:  1802: A  48 PRO  HD3 : A  47 PHE  CB  :   -0.439:        0
+:  1802: A  75 LEU HD13 : A  48 PRO  HA  :   -0.420:        0
+
+:  1802: A  67 PHE  CE2 : A 105 ALA  HB2 :   -0.613:        0
+:  1802: A  67 PHE  CE2 : A 105 ALA  CB  :   -0.566:        0
+:  1802: A 105 ALA  HB2 : A  67 PHE  HE2 :   -0.520:        0
+:  1802: A  67 PHE  HE2 : A 105 ALA  CB  :   -0.449:        0
+
+:  1802: A 296 ASP  OD2 : A  16 GLY  HA2 :   -0.604:        0
+:  1802: A 296 ASP  OD2 : A  16 GLY  CA  :   -0.598:        0
+:  1802: A  16 GLY  C   : A 296 ASP  OD2 :   -0.461:        0
+
+:  1802: A 285 LEU HD13 : A  85 PHE  HZ  :   -0.595:        0
+:  1802: A 285 LEU  CD1 : A  85 PHE  HZ  :   -0.577:        0
+:  1802: A  85 PHE  CZ  : A 285 LEU HD13 :   -0.459:        0
+
+:  1802: A  79 ILE HD11 : A 103 LEU  HB3 :   -0.571:        0
+:  1802: A 106 TYR  CE1 : A  79 ILE HG21 :   -0.476:        0
+:  1802: A  79 ILE  H   : A  79 ILE HG13 :   -0.417:        0
+
+:  1802: A  36 THR HG23 : A   8 VAL HG22 :   -0.533:        0
+
+:  1802: A  56 GLY  CA  : A  50 VAL  CG2 :   -0.445:        0
+:  1802: A  56 GLY  HA2 : A  50 VAL HG21 :   -0.438:        0
+
+:  1802: A 288 GLU  CD  : A 288 GLU  H   :   -0.425:        0
+
+:  1802: A  44 GLU  O   : A  70 TYR  OH  :   -0.419:        0
+#sum2 ::68.26 clashscore : 68.26 clashscore B<40 
+#summary::1802 atoms:1802 atoms B<40:212702 potential dots:13290.0 A^2:123 bumps:123 bumps B<40:116.3 score

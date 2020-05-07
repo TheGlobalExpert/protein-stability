@@ -1,0 +1,27 @@
+
+:   750: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:   750: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:   750: A  22 GLU  N   : A  20 ASP  HB3 :   -0.797:       42
+:   750: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:   750: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+
+:   750: A  13 LEU  CG  : A  13 LEU  CA  :   -0.961:       27
+:   750: A  13 LEU  CA  : A  13 LEU  CD1 :   -0.502:       29
+:   750: A  13 LEU  C   : A  13 LEU  CG  :   -0.493:       27
+
+:   750: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.650:       48
+:   750: A  43 LYS  HD3 : A  39 LEU  O   :   -0.441:       42
+
+:   750: A  41 ALA  H   : A  38 SER  HB2 :   -0.643:       26
+
+:   750: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.571:       48
+:   750: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:   750: A  50 ILE  CG2 : A  52 ARG  HG2 :   -0.496:       48
+:   750: A  52 ARG  HG3 : A  52 ARG  NH1 :   -0.473:       48
+
+:   750: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:   750: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:   750: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+#sum2 ::24.00 clashscore : 11.09 clashscore B<40 
+#summary::750 atoms:631 atoms B<40:86826 potential dots:5427.0 A^2:18 bumps:7 bumps B<40:191.8 score

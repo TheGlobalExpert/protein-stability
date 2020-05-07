@@ -1,0 +1,20 @@
+
+:  1074: A 102 GLU  CA  : A 101 VAL  C   :   -1.037:       22
+:  1074: A 101 VAL  C   : A 101 VAL  N   :   -0.845:       22
+:  1074: A 101 VAL  O   : A 102 GLU  CA  :   -0.517:       21
+
+:  1074: A  81 ASN  OD1 : A  81 ASN  CB  :   -0.760:       17
+:  1074: A  81 ASN  OD1 : A  81 ASN  CA  :   -0.450:       15
+
+:  1074: A  92 HIS  CE1 : A 100 PHE  CZ  :   -0.534:       23
+:  1074: A  92 HIS  CE1 : A 100 PHE  CE1 :   -0.464:       23
+
+:  1074: A  22 ALA  O   : A  26 LEU HD13 :   -0.515:       31
+
+:  1074: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:  1074: A  79 VAL  CG1 : A  56 TYR  HB3 :   -0.434:       15
+
+:  1074: A  82 GLU  OE2 : A  82 GLU  OE1 :   -0.412:       45
+#sum2 ::10.24 clashscore : 9.46 clashscore B<40 
+#summary::1074 atoms:1057 atoms B<40:129200 potential dots:8075.0 A^2:11 bumps:10 bumps B<40:398.4 score

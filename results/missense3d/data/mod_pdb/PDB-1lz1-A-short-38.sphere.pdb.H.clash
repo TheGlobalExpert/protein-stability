@@ -1,0 +1,21 @@
+
+:  1496: A 115 ARG  HG2 : A 111 ALA  O   :   -0.767:       46
+
+:  1496: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1496: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1496: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1496: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1496: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1496: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1496: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1496: A 126 GLN  NE2 : A 126 GLN  HA  :   -0.423:       89
+
+:  1496: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:  1496: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+#sum2 ::7.35 clashscore : 5.84 clashscore B<40 
+#summary::1496 atoms:1371 atoms B<40:173900 potential dots:10870.0 A^2:11 bumps:8 bumps B<40:582.9 score

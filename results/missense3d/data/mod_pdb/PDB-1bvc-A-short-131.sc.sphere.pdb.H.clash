@@ -1,0 +1,33 @@
+
+:  1490: A  90 ALA  N   : A  90 ALA  CB  :   -0.843:        0
+
+:  1490: A  14 TRP  HH2 : A  72 LEU HD23 :   -0.756:        0
+:  1490: A  73 GLY  HA3 : A  14 TRP  HE1 :   -0.660:        0
+:  1490: A  14 TRP  NE1 : A  73 GLY  CA  :   -0.619:        0
+:  1490: A  72 LEU  CD2 : A  14 TRP  HH2 :   -0.603:        0
+:  1490: A  73 GLY  CA  : A  14 TRP  HE1 :   -0.560:        0
+:  1490: A  14 TRP  NE1 : A  73 GLY  HA2 :   -0.557:        0
+:  1490: A  14 TRP  CZ3 : A  76 LEU  CD1 :   -0.487:        0
+:  1490: A  14 TRP  CE3 : A  76 LEU  CD1 :   -0.477:        0
+:  1490: A  14 TRP  CH2 : A  72 LEU  HG  :   -0.447:        0
+:  1490: A  73 GLY  HA2 : A  14 TRP  CE2 :   -0.440:        0
+:  1490: A  76 LEU HD12 : A  14 TRP  CD2 :   -0.426:        0
+
+:  1490: A  30 ILE  C   : A  30 ILE  N   :   -0.752:        0
+
+:  1490: A  84 ALA  N   : A  84 ALA  C   :   -0.731:        0
+
+:  1490: A  79 LYS  HA  : A   7 TRP  CZ3 :   -0.572:        0
+:  1490: A   7 TRP  CZ2 : A  79 LYS  C   :   -0.462:        0
+:  1490: A  79 LYS  HA  : A   7 TRP  CH2 :   -0.446:        0
+:  1490: A  79 LYS  HA  : A   7 TRP  CE3 :   -0.400:        0
+
+:  1490: A  87 LYS  N   : A 145 LYS  NZ  :   -0.556:        0
+:  1490: A  87 LYS  N   : A 145 LYS  HZ2 :   -0.499:        0
+:  1490: A  86 LEU  C   : A 145 LYS  HZ2 :   -0.467:        0
+
+:  1490: A 131 MET  CE  : A  10 VAL HG13 :   -0.500:        0
+
+:  1490: A 123 PHE  CZ  : A 128 GLN  HA  :   -0.485:        0
+#sum2 ::15.44 clashscore : 15.44 clashscore B<40 
+#summary::1490 atoms:1490 atoms B<40:173445 potential dots:10840.0 A^2:23 bumps:23 bumps B<40:531.8 score

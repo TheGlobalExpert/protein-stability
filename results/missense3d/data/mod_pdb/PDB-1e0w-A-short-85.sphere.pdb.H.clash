@@ -1,0 +1,14 @@
+
+:  2080: A 135 SER  CB  : A 135 SER  C   :   -0.921:       15
+
+:  2080: A 175 GLU  CA  : A 175 GLU  CG  :   -0.914:        9
+
+:  2080: A 187 ASN  C   : A 187 ASN  N   :   -0.723:       11
+
+:  2080: A 183 GLN  C   : A 183 GLN  N   :   -0.705:       10
+
+:  2080: A 265 VAL  O   : A 266 TRP  N   :   -0.693:        8
+
+:  2080: A  41 VAL  CG1 : A  41 VAL  C   :   -0.502:        6
+#sum2 ::2.88 clashscore : 2.89 clashscore B<40 
+#summary::2080 atoms:2076 atoms B<40:253791 potential dots:15860.0 A^2:6 bumps:6 bumps B<40:772.9 score

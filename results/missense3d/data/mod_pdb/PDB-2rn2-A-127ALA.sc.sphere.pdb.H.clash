@@ -1,0 +1,37 @@
+
+:   999: A  35 PHE  CD1 : A  35 PHE  CZ  :   -1.010:        0
+
+:   999: A  59 LEU  CD2 : A  59 LEU  CD1 :   -1.002:        0
+
+:   999: A  29 ARG  C   : A  29 ARG  N   :   -0.859:        0
+
+:   999: A 140 ALA  CB  : A 140 ALA  N   :   -0.843:        0
+
+:   999: A 121 VAL HG21 : A 130 ASN  ND2 :   -0.753:        0
+
+:   999: A  50 MET  C   : A  50 MET  N   :   -0.711:        0
+
+:   999: A  54 VAL  C   : A  54 VAL  N   :   -0.702:        0
+
+:   999: A 135 GLU  HA  : A 138 ARG  NH1 :   -0.701:        0
+:   999: A 135 GLU  HA  : A 138 ARG  CZ  :   -0.482:        0
+
+:   999: A   8 PHE  CD2 : A  68 SER  HB3 :   -0.570:        0
+
+:   999: A  22 TYR  CD1 : A  22 TYR  C   :   -0.551:        0
+:   999: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.546:        0
+:   999: A  51 ALA  CB  : A   9 THR  HB  :   -0.448:        0
+
+:   999: A 127 ALA  HB1 : A 128 PRO  HD2 :   -0.533:        0
+
+:   999: A  27 ARG HH12 : A 129 GLU  CD  :   -0.494:        0
+:   999: A 129 GLU  OE1 : A  27 ARG  NH1 :   -0.401:        0
+
+:   999: A  66 ILE  N   : A  65 VAL  CG1 :   -0.447:        0
+:   999: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.428:        0
+:   999: A  66 ILE  N   : A  65 VAL HG12 :   -0.400:        0
+
+:   999: A 120 TRP  CZ2 : A 118 TRP  HB3 :   -0.439:        0
+:   999: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+#sum2 ::21.02 clashscore : 21.02 clashscore B<40 
+#summary::999 atoms:999 atoms B<40:122176 potential dots:7636.0 A^2:21 bumps:21 bumps B<40:188.9 score

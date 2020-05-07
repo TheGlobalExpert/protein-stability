@@ -1,0 +1,31 @@
+
+:  1427: A 374 THR  CA  : A 373 ALA  C   :   -0.970:       15
+
+:  1427: A 286 ALA  C   : A 286 ALA  CB  :   -0.892:       10
+:  1427: A 286 ALA  CB  : A 286 ALA  O   :   -0.440:       12
+
+:  1427: A 290 ASP  CG  : A 290 ASP  CA  :   -0.857:       21
+
+:  1427: A 262 SER  C   : A 262 SER  N   :   -0.766:       16
+
+:  1427: A  47 ASN  OD1 : A  47 ASN  CB  :   -0.749:       18
+
+:  1427: A 258 ALA  C   : A 258 ALA  N   :   -0.732:       17
+
+:  1427: A 406 LEU  HB2 : A 401 ILE HG23 :   -0.585:       14
+
+:  1427: A 260 PHE  CE2 : A 316 ILE HD13 :   -0.504:       20
+
+:  1427: A 429 LYS  HB2 : A 398 THR HG21 :   -0.461:       20
+
+:  1427: A 239 SER  HA  : A 265 PHE  O   :   -0.459:       13
+
+:  1427: A 310 LYS  HD3 : A 249 ILE HD12 :   -0.452:       23
+
+:  1427: A  49 THR HG21 : A  14 THR  HA  :   -0.447:       15
+
+:  1427: A  21 VAL HG22 : A  50 HIS  HB2 :   -0.446:       14
+
+:  1427: A 324 GLY  C   : A 325 LEU HD12 :   -0.428:       13
+#sum2 ::10.51 clashscore : 10.51 clashscore B<40 
+#summary::1427 atoms:1427 atoms B<40:176169 potential dots:11010.0 A^2:15 bumps:15 bumps B<40:582 score

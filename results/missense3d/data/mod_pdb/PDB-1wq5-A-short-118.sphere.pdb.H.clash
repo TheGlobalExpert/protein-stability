@@ -1,0 +1,34 @@
+
+:  1696: A 175 TYR  CZ  : A 175 TYR  CD1 :   -1.041:       30
+
+:  1696: A 153 ILE  CG1 : A 153 ILE  CA  :   -0.974:       25
+
+:  1696: A  38 ASP  CG  : A  38 ASP  CA  :   -0.862:       37
+
+:  1696: A  30 ILE  N   : A  29 GLY  O   :   -0.713:       28
+:  1696: A  29 GLY  O   : A  30 ILE  CA  :   -0.427:       32
+
+:  1696: A   2 GLU  HA  : A   2 GLU  OE1 :   -0.650:       78
+:  1696: A   5 GLU  CB  : A   2 GLU  HG3 :   -0.500:       68
+:  1696: A   5 GLU  OE1 : A   2 GLU  HG2 :   -0.424:       68
+
+:  1696: A  99 LEU HD13 : A  52 ILE  CD1 :   -0.576:       43
+
+:  1696: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.555:       30
+:  1696: A  22 PHE  HA  : A  49 GLU  O   :   -0.531:       24
+:  1696: A  22 PHE  CD1 : A  22 PHE  C   :   -0.410:       20
+
+:  1696: A  20 VAL  HB  : A 232 ILE HG12 :   -0.552:       25
+
+:  1696: A 125 SER  HB2 : A 151 ILE HD11 :   -0.535:       22
+
+:  1696: A  85 LEU HD21 : A  25 LEU HD11 :   -0.500:       34
+:  1696: A  85 LEU HD12 : A  82 PHE  HA  :   -0.405:       23
+
+:  1696: A 101 MET  HE3 : A 105 LEU HD23 :   -0.497:       41
+:  1696: A  54 PHE  CD1 : A 105 LEU HD13 :   -0.444:       50
+
+:  1696: A 124 ASP  OD2 : A   3 ARG  HD2 :   -0.424:       37
+:  1696: A   3 ARG  HD2 : A 124 ASP  CG  :   -0.411:       32
+#sum2 ::11.79 clashscore : 9.25 clashscore B<40 
+#summary::1696 atoms:1514 atoms B<40:199058 potential dots:12440.0 A^2:20 bumps:14 bumps B<40:564.1 score

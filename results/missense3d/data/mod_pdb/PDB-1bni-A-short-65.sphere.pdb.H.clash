@@ -1,0 +1,32 @@
+
+:   719: A  94 TRP  HZ3 : A  14 LEU HD22 :   -0.882:       25
+:   719: A  14 LEU  O   : A  18 HIS  CA  :   -0.575:       32
+
+:   719: A 101 ASP  N   : A 101 ASP  C   :   -0.781:       28
+:   719: A 101 ASP  N   : A 100 THR  N   :   -0.613:       23
+
+:   719: A  55 ILE HD13 : A  72 ARG  HG3 :   -0.641:       23
+:   719: A  71 TRP  CH2 : A  91 SER  HB3 :   -0.615:       12
+:   719: A  71 TRP  CZ3 : A  91 SER  HB3 :   -0.581:       12
+:   719: A  71 TRP  O   : A  72 ARG  HG3 :   -0.549:       22
+
+:   719: A  90 TYR  HA  : A  95 LEU  O   :   -0.629:       14
+
+:   719: A  63 LEU HD12 : A  56 PHE  CE2 :   -0.584:       20
+:   719: A  56 PHE  HE2 : A  63 LEU HD12 :   -0.546:       20
+:   719: A 106 PHE  HE2 : A  89 LEU HD13 :   -0.532:       17
+:   719: A 106 PHE  CE2 : A  89 LEU HD13 :   -0.508:       17
+:   719: A  89 LEU HD21 : A  56 PHE  CG  :   -0.466:       21
+:   719: A  63 LEU  CD1 : A  89 LEU HD22 :   -0.413:       17
+
+:   719: A  99 THR HG22 : A  87 ARG  HB2 :   -0.583:       15
+:   719: A  87 ARG  HB2 : A  99 THR  CG2 :   -0.409:       15
+
+:   719: A  96 ILE  HB  : A 110 ARG  HB2 :   -0.508:       11
+
+:   719: A  88 ILE  CG2 : A  74 ALA  HB3 :   -0.503:        8
+
+:   719: A  98 LYS  O   : A  98 LYS  HG3 :   -0.491:       17
+:   719: A  98 LYS  HB2 : A   7 PHE  CE1 :   -0.465:       16
+#sum2 ::29.21 clashscore : 29.21 clashscore B<40 
+#summary::719 atoms:719 atoms B<40:86591 potential dots:5412.0 A^2:21 bumps:21 bumps B<40:142.5 score

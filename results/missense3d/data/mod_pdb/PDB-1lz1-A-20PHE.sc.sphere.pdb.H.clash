@@ -1,0 +1,70 @@
+
+:  1211: A  21 ARG  CZ  : A 101 ARG  HA  :   -1.051:        0
+:  1211: A 100 VAL HG23 : A  21 ARG  HD3 :   -0.849:        0
+:  1211: A  21 ARG  NE  : A 101 ARG  HA  :   -0.768:        0
+:  1211: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:  1211: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1211: A  21 ARG  NE  : A 100 VAL  O   :   -0.609:        0
+:  1211: A 101 ARG  HG3 : A  97 LYS  O   :   -0.606:        0
+:  1211: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+:  1211: A 101 ARG  HG2 : A  21 ARG  HD2 :   -0.496:        0
+:  1211: A  93 VAL  CG1 : A  97 LYS  HE3 :   -0.424:        0
+
+:  1211: A 120 ASP  OD1 : A 122 ARG  HD2 :   -1.043:        0
+:  1211: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.807:        0
+:  1211: A 122 ARG HH21 : A 122 ARG  CG  :   -0.739:        0
+:  1211: A 122 ARG  HG3 : A 122 ARG HH21 :   -0.583:        0
+:  1211: A 122 ARG  CG  : A 122 ARG  NH2 :   -0.577:        0
+
+:  1211: A 107 ARG  HG3 : A 107 ARG  NH2 :   -1.032:        0
+:  1211: A 107 ARG HH21 : A 107 ARG  CG  :   -1.013:        0
+:  1211: A 113 ARG  CZ  : A 107 ARG  O   :   -0.888:        0
+:  1211: A 107 ARG HH21 : A 107 ARG  HG3 :   -0.868:        0
+:  1211: A 113 ARG  NH1 : A 104 GLN  OE1 :   -0.844:        0
+:  1211: A 107 ARG  HB3 : A 113 ARG HH11 :   -0.722:        0
+:  1211: A 107 ARG  NH2 : A 107 ARG  CG  :   -0.630:        0
+:  1211: A 107 ARG  HB3 : A 113 ARG  NH1 :   -0.538:        0
+:  1211: A 107 ARG  O   : A 113 ARG  NH1 :   -0.507:        0
+:  1211: A 112 TRP  CZ3 : A 107 ARG  NH2 :   -0.458:        0
+:  1211: A 113 ARG  HE  : A 107 ARG  HB3 :   -0.442:        0
+
+:  1211: A  63 TYR  CB  : A  63 TYR  C   :   -0.929:        0
+
+:  1211: A   7 GLU  CA  : A   7 GLU  CG  :   -0.923:        0
+:  1211: A   7 GLU  CG  : A   7 GLU  C   :   -0.424:        0
+
+:  1211: A  36 SER  N   : A  35 GLU  CA  :   -0.866:        0
+:  1211: A 111 ALA  HB3 : A  35 GLU  OE2 :   -0.510:        0
+
+:  1211: A  88 ASN  CA  : A  88 ASN  CG  :   -0.855:        0
+
+:  1211: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:  1211: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:  1211: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:  1211: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:  1211: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:  1211: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:  1211: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:  1211: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:  1211: A  38 TYR  CE2 : A  33 LYS  CA  :   -0.431:        0
+:  1211: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:  1211: A 126 GLN  CD  : A 126 GLN  CA  :   -0.617:        0
+
+:  1211: A  98 ARG  O   : A  98 ARG  NH2 :   -0.576:        0
+
+:  1211: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.560:        0
+
+:  1211: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1211: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.499:        0
+:  1211: A  84 LEU HD22 : A  92 ALA  HA  :   -0.455:        0
+
+:  1211: A   5 ARG  NH2 : A   5 ARG  CD  :   -0.486:        0
+
+:  1211: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+
+:  1211: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::42.11 clashscore : 42.11 clashscore B<40 
+#summary::1211 atoms:1211 atoms B<40:146870 potential dots:9179.0 A^2:51 bumps:51 bumps B<40:167.3 score

@@ -1,0 +1,47 @@
+
+:  1335: A  64 HIS  C   : A  65 GLY  CA  :   -0.945:        0
+
+:  1335: A 216 ALA  CA  : A 217 TYR  N   :   -0.914:        0
+
+:  1335: A  90 LEU HD11 : A  73 ALA  HB3 :   -0.802:        0
+:  1335: A  90 LEU  CD1 : A  73 ALA  HB3 :   -0.625:        0
+:  1335: A  90 LEU HD23 : A  90 LEU  HA  :   -0.419:        0
+
+:  1335: A  10 GLN  CG  : A  10 GLN  OE1 :   -0.749:        0
+
+:  1335: A  35 ILE  N   : A  34 GLY  O   :   -0.716:        0
+
+:  1335: A 222 MET  CG  : A 222 MET  CE  :   -0.716:        0
+
+:  1335: A  35 ILE HD12 : A  92 ALA  HB2 :   -0.570:        0
+:  1335: A  30 VAL  HB  : A  35 ILE HD11 :   -0.559:        0
+
+:  1335: A  13 ALA  HA  : A 270 VAL HG11 :   -0.609:        0
+:  1335: A 270 VAL HG12 : A  11 ILE  O   :   -0.460:        0
+:  1335: A 270 VAL HG21 : A 233 LEU HD12 :   -0.432:        0
+
+:  1335: A  74 ALA  CB  : A  81 VAL HG23 :   -0.563:        0
+
+:  1335: A  26 VAL HG11 : A 232 ALA  HA  :   -0.540:        0
+
+:  1335: A  67 HIS  CD2 : A 207 SER  HB3 :   -0.530:        0
+
+:  1335: A  77 ASN  ND2 : A  79 ILE HG12 :   -0.481:        0
+
+:  1335: A  68 VAL HG13 : A 225 PRO  HB3 :   -0.468:        0
+
+:  1335: A   6 TYR  CD1 : A   6 TYR  C   :   -0.467:        0
+:  1335: A 201 PRO  HB3 : A   6 TYR  CE1 :   -0.427:        0
+:  1335: A 201 PRO  HG2 : A   7 GLY  HA2 :   -0.421:        0
+
+:  1335: A 234 ILE HD12 : A 231 ALA  HA  :   -0.443:        0
+
+:  1335: A  39 HIS  HD2 : A 209 LEU  O   :   -0.442:        0
+:  1335: A 214 TYR  CE2 : A 208 THR HG22 :   -0.409:        0
+:  1335: A  39 HIS  HE1 : A 214 TYR  OH  :   -0.407:        0
+
+:  1335: A  86 PRO  HG2 : A  22 THR  HB  :   -0.429:        0
+
+:  1335: A  23 GLY  HA2 : A 236 SER  HB3 :   -0.415:        0
+#sum2 ::20.22 clashscore : 20.22 clashscore B<40 
+#summary::1335 atoms:1335 atoms B<40:159791 potential dots:9987.0 A^2:27 bumps:27 bumps B<40:454.6 score

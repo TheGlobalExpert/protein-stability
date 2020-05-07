@@ -1,0 +1,12 @@
+
+:  1177: A  83 LYS  C   : A  83 LYS  CB  :   -0.984:       35
+
+:  1177: A  11 GLU  CA  : A  11 GLU  CG  :   -0.974:       23
+
+:  1177: A 124 LYS  CD  : A 124 LYS  NZ  :   -0.804:       25
+
+:  1177: A   9 ILE  C   : A   9 ILE  CG2 :   -0.635:       24
+
+:  1177: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+#sum2 ::4.25 clashscore : 4.57 clashscore B<40 
+#summary::1177 atoms:1095 atoms B<40:141825 potential dots:8864.0 A^2:5 bumps:5 bumps B<40:433 score

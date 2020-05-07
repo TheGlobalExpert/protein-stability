@@ -1,0 +1,31 @@
+
+:  1436: A   7 ILE  C   : A   7 ILE  CB  :   -0.914:       43
+:  1436: A   7 ILE  C   : A   7 ILE  CG1 :   -0.486:       41
+:  1436: A   7 ILE HG13 : A   7 ILE  C   :   -0.437:       41
+:  1436: A  96 LEU HD22 : A   7 ILE HD11 :   -0.413:       40
+
+:  1436: A  77 MET  HG3 : A  52 CYS  O   :   -0.635:       35
+:  1436: A  90 LEU HD11 : A  77 MET  HB3 :   -0.626:       32
+:  1436: A  55 CYS  SG  : A  90 LEU  HB3 :   -0.444:       18
+:  1436: A  90 LEU HD12 : A  74 GLU  HG3 :   -0.412:       23
+
+:  1436: A  15 ASP  OD1 : A  13 ASN  HB3 :   -0.540:       44
+
+:  1436: A 108 PRO  HG3 : A  56 HIS  CE1 :   -0.540:       20
+:  1436: A 108 PRO  HB3 : A  58 ILE HD11 :   -0.461:       18
+:  1436: A 106 ARG  HB3 : A  58 ILE  HB  :   -0.449:       12
+
+:  1436: A  36 ASN  HB2 : A  38 LEU HD13 :   -0.519:       40
+:  1436: A  32 VAL  O   : A  36 ASN  ND2 :   -0.457:       44
+:  1436: A  28 SER  O   : A  32 VAL HG23 :   -0.444:       28
+:  1436: A  95 CYS  HA  : A  28 SER  HA  :   -0.436:       24
+
+:  1436: A  27 ASP  HB2 : A  24 LYS  O   :   -0.505:       38
+
+:  1436: A  19 LEU  HB2 : A  11 PHE  HB2 :   -0.477:       31
+
+:  1436: A  68 GLU  HG2 : A  68 GLU  O   :   -0.452:       28
+
+:  1436: A  78 LEU  HG  : A  84 LEU HD21 :   -0.406:       24
+#sum2 ::13.93 clashscore : 10.10 clashscore B<40 
+#summary::1436 atoms:1386 atoms B<40:166194 potential dots:10390.0 A^2:20 bumps:14 bumps B<40:524.8 score

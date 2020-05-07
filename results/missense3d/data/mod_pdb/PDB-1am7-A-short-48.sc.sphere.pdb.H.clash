@@ -1,0 +1,33 @@
+
+:  1238: A  88 PRO  N   : A  88 PRO  CD  :   -1.365:        0
+
+:  1238: A 125 ALA  CA  : A 126 SER  N   :   -0.824:        0
+
+:  1238: A  59 LEU  HG  : A  55 LEU HD12 :   -0.662:        0
+:  1238: A  59 LEU  CD2 : A  55 LEU HD12 :   -0.656:        0
+:  1238: A  59 LEU  CG  : A  55 LEU HD12 :   -0.583:        0
+:  1238: A  59 LEU  CD2 : A  55 LEU  CD1 :   -0.404:        0
+
+:  1238: A  77 TYR  OH  : A  98 GLN  HG2 :   -0.651:        0
+:  1238: A  98 GLN  HG2 : A  77 TYR  CZ  :   -0.492:        0
+:  1238: A  98 GLN  HB3 : A 123 ILE HD13 :   -0.470:        0
+
+:  1238: A  34 ASP  HA  : A  42 PHE  CE2 :   -0.629:        0
+:  1238: A  34 ASP  HA  : A  42 PHE  CZ  :   -0.613:        0
+:  1238: A  36 ILE HD11 : A  42 PHE  HB3 :   -0.583:        0
+:  1238: A  36 ILE HG12 : A  49 PRO  HG3 :   -0.511:        0
+:  1238: A  42 PHE  HD2 : A  36 ILE HG13 :   -0.419:        0
+
+:  1238: A  95 ALA  HB2 : A  67 TYR  CD2 :   -0.527:        0
+:  1238: A  12 LEU HD22 : A  67 TYR  CZ  :   -0.497:        0
+
+:  1238: A  48 HIS  NE2 : A  64 ALA  HB3 :   -0.524:        0
+:  1238: A  48 HIS  CE1 : A  62 THR  O   :   -0.425:        0
+:  1238: A  48 HIS  HE1 : A  62 THR  O   :   -0.413:        0
+
+:  1238: A  33 TYR  CZ  : A  66 ARG  HD2 :   -0.493:        0
+:  1238: A  33 TYR  CD1 : A  66 ARG  HB2 :   -0.451:        0
+
+:  1238: A  15 LEU HD12 : A  15 LEU  HA  :   -0.444:        0
+#sum2 ::17.77 clashscore : 17.77 clashscore B<40 
+#summary::1238 atoms:1238 atoms B<40:144140 potential dots:9009.0 A^2:22 bumps:22 bumps B<40:332.4 score

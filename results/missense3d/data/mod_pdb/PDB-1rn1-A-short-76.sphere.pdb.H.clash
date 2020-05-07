@@ -1,0 +1,18 @@
+
+:  1274: A  96 SER  O   : A  99 ASN  HB2 :   -0.903:       39
+:  1274: A  96 SER  O   : A  99 ASN  CB  :   -0.465:       39
+
+:  1274: A  92 HIS  CE1 : A 100 PHE  CZ  :   -0.534:       23
+:  1274: A  92 HIS  CE1 : A 100 PHE  CE1 :   -0.464:       23
+
+:  1274: A  22 ALA  O   : A  26 LEU HD13 :   -0.515:       31
+
+:  1274: A  54 SER  CA  : A  55 PRO  CA  :   -0.502:       19
+
+:  1274: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:  1274: A  79 VAL  CG1 : A  56 TYR  HB3 :   -0.434:       15
+
+:  1274: A  44 ASN  HA  : A  42 TYR  CZ  :   -0.429:       29
+#sum2 ::7.06 clashscore : 7.26 clashscore B<40 
+#summary::1274 atoms:1240 atoms B<40:149581 potential dots:9349.0 A^2:9 bumps:9 bumps B<40:487.6 score

@@ -1,0 +1,23 @@
+
+:   838: A 122 ARG  HD2 : A 120 ASP  OD1 :   -1.187:      101
+:   838: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.810:      101
+
+:   838: A   2 VAL  CA  : A   2 VAL  CG1 :   -0.984:       19
+
+:   838: A  92 ALA  C   : A  92 ALA  CB  :   -0.905:       14
+
+:   838: A 100 VAL  CG1 : A 100 VAL  CG2 :   -0.880:       16
+
+:   838: A  88 ASN  CA  : A  88 ASN  CG  :   -0.878:       35
+
+:   838: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:   838: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:   838: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:   838: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:   838: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:   838: A 126 GLN  NE2 : A 126 GLN  HA  :   -0.423:       89
+#sum2 ::14.32 clashscore : 12.11 clashscore B<40 
+#summary::838 atoms:743 atoms B<40:103726 potential dots:6483.0 A^2:12 bumps:9 bumps B<40:223.5 score

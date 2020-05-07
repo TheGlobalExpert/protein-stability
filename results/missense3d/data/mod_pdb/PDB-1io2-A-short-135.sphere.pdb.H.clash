@@ -1,0 +1,52 @@
+
+:  1733: A  17 PRO  CG  : A  17 PRO  CA  :   -1.150:       12
+
+:  1733: A   3 ILE HD12 : A  30 LEU HD11 :   -1.057:       23
+:  1733: A  30 LEU HD11 : A   3 ILE  CD1 :   -0.856:       23
+:  1733: A   3 ILE HD12 : A  30 LEU  CD1 :   -0.554:       23
+:  1733: A  30 LEU  N   : A  31 PRO  CD  :   -0.413:       24
+
+:  1733: A   1 MET  C   : A   1 MET  CB  :   -0.923:       16
+
+:  1733: A  80 LEU  C   : A  80 LEU  CB  :   -0.881:       18
+
+:  1733: A  68 LEU  CB  : A  68 LEU  N   :   -0.844:       13
+
+:  1733: A 146 ILE HD13 : A  52 LEU HD13 :   -0.794:       17
+
+:  1733: A  84 GLU  OE1 : A  11 ARG  HD3 :   -0.728:       17
+:  1733: A  12 GLY  N   : A  13 PRO  CD  :   -0.467:       14
+:  1733: A  11 ARG  C   : A  13 PRO  HD2 :   -0.416:       14
+
+:  1733: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.658:       13
+:  1733: A   4 ALA  HB2 : A  99 PRO  CB  :   -0.435:       13
+
+:  1733: A  49 ARG  HG2 : A 150 VAL  CG2 :   -0.605:       20
+:  1733: A  50 GLU  O   : A  53 PHE  HB3 :   -0.490:       19
+:  1733: A  53 PHE  HB2 : A 150 VAL HG21 :   -0.402:       17
+
+:  1733: A  48 ARG  HG3 : A  48 ARG HH11 :   -0.565:       22
+:  1733: A  48 ARG  HG3 : A  48 ARG  NH1 :   -0.449:       22
+
+:  1733: A 153 ASP  OD2 : A 149 LYS  HE3 :   -0.546:       17
+
+:  1733: A  60 LEU HD23 : A  25 VAL HG22 :   -0.483:       15
+:  1733: A  26 ASP  O   : A  25 VAL HG12 :   -0.473:       18
+
+:  1733: A 151 THR  HB  : A  19 VAL HG11 :   -0.480:       13
+
+:  1733: A 133 LYS  O   : A 133 LYS  HG3 :   -0.474:       24
+
+:  1733: A  63 TYR  CE2 : A  57 LEU HD22 :   -0.455:       17
+
+:  1733: A   6 ILE HD11 : A  88 PHE  HA  :   -0.452:       11
+
+:  1733: A  64 VAL HG23 : A  95 LEU HD23 :   -0.422:       12
+
+:  1733: A  32 LYS  HB2 : A  29 SER  O   :   -0.421:       24
+
+:  1733: A 130 ALA  HA  : A 104 ALA  O   :   -0.409:       19
+
+:  1733: A  41 SER  HA  : A  44 LEU  HG  :   -0.407:       24
+#sum2 ::17.31 clashscore : 17.31 clashscore B<40 
+#summary::1733 atoms:1733 atoms B<40:208115 potential dots:13010.0 A^2:30 bumps:30 bumps B<40:529.5 score

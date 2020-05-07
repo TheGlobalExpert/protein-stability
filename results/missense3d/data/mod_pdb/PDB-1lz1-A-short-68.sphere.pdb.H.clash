@@ -1,0 +1,22 @@
+
+:   703: A 109 TRP  CZ2 : A 109 TRP  NE1 :   -0.876:       24
+
+:   703: A  94 ALA  CB  : A  94 ALA  C   :   -0.863:       13
+
+:   703: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   703: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   703: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   703: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   703: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   703: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:   703: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:   703: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:   703: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:   703: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+#sum2 ::17.07 clashscore : 9.55 clashscore B<40 
+#summary::703 atoms:628 atoms B<40:84235 potential dots:5265.0 A^2:12 bumps:6 bumps B<40:204 score

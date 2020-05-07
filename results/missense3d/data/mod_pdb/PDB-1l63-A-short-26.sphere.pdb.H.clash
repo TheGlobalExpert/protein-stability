@@ -1,0 +1,20 @@
+
+:  1359: A 144 ASN  CB  : A 144 ASN  ND2 :   -0.901:       27
+
+:  1359: A 111 VAL  CB  : A 111 VAL  N   :   -0.809:       24
+
+:  1359: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1359: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1359: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1359: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1359: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1359: A 108 GLU  CB  : A 108 GLU  OE2 :   -0.610:      100
+
+:  1359: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1359: A 137 ARG  CG  : A 137 ARG  C   :   -0.427:       25
+
+:  1359: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::8.09 clashscore : 3.33 clashscore B<40 
+#summary::1359 atoms:1202 atoms B<40:158912 potential dots:9932.0 A^2:11 bumps:4 bumps B<40:453.6 score

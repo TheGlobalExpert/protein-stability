@@ -1,0 +1,40 @@
+#residue:score%:phi:psi:evaluation:type
+A  82 HIS:10.59:-121.16:18.28:Favored:General case
+A  83 GLU:68.68:-55.00:-37.69:Favored:General case
+A  84 ALA:97.81:-61.75:-41.98:Favored:General case
+A  85 GLU:68.85:-73.56:-37.46:Favored:General case
+A  86 LEU:68.65:-72.71:-32.58:Favored:General case
+A  87 LYS:39.38:-52.14:-57.56:Favored:Pre-proline
+A  88 PRO:84.06:-62.38:-32.06:Favored:Proline
+A  89 LEU:70.01:-70.03:-46.38:Favored:General case
+A  90 ALA:84.03:-62.64:-36.05:Favored:General case
+A  91 GLN:65.93:-57.70:-53.20:Favored:General case
+A  92 SER:72.38:-71.95:-35.76:Favored:General case
+A  93 HIS:68.17:-71.12:-29.48:Favored:General case
+A  94 ALA:19.85:-85.22:-39.53:Favored:General case
+A  95 THR:18.81:-101.02:-12.85:Favored:General case
+A  96 LYS:1.35:-127.92:-57.87:Allowed:General case
+A  97 HIS:54.67:-77.53:-28.64:Favored:General case
+A  98 LYS:0.97:54.22:69.41:Allowed:General case
+A  99 ILE:51.74:-99.62:110.29:Favored:Pre-proline
+A 100 PRO:68.32:-59.94:152.05:Favored:Proline
+A 101 ILE:73.21:-56.98:-37.37:Favored:General case
+A 102 LYS:70.47:-60.55:-29.66:Favored:General case
+A 103 TYR:72.94:-71.94:-36.92:Favored:General case
+A 104 LEU:92.80:-61.89:-39.32:Favored:General case
+A 137 LEU:87.76:-63.63:-46.60:Favored:General case
+A 138 PHE:64.34:-52.74:-49.88:Favored:General case
+A 139 ARG:78.21:-68.74:-34.82:Favored:General case
+A 140 LYS:87.60:-59.44:-46.82:Favored:General case
+A 141 ASP:54.87:-77.50:-32.30:Favored:General case
+A 142 ILE:81.28:-65.27:-47.12:Favored:General case
+A 143 ALA:71.77:-54.80:-41.19:Favored:General case
+A 144 ALA:93.74:-64.48:-38.65:Favored:General case
+A 145 LYS:75.14:-71.15:-39.24:Favored:General case
+A 146 TYR:63.39:-52.43:-49.53:Favored:General case
+A 147 LYS:77.19:-67.88:-33.49:Favored:General case
+A 148 GLU:94.07:-61.43:-40.25:Favored:General case
+A 149 LEU:51.80:-78.78:-9.04:Favored:General case
+A 150 GLY:74.74:87.70:9.89:Favored:Glycine
+A 151 TYR:29.17:-85.43:119.38:Favored:General case
+A 152 GLN:26.96:-98.70:13.26:Favored:General case

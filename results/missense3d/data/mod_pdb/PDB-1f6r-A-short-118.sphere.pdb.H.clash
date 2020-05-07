@@ -1,0 +1,36 @@
+
+:  1035: A  88 ASP  CB  : A  88 ASP  C   :   -0.922:       27
+
+:  1035: A   1 GLU  CG  : A   1 GLU  CA  :   -0.894:       68
+:  1035: A   1 GLU  C   : A   1 GLU  CG  :   -0.535:       68
+
+:  1035: A  11 GLU  HG3 : A   7 GLU  O   :   -0.864:       47
+:  1035: A   4 THR  OG1 : A   7 GLU  HG3 :   -0.534:       53
+:  1035: A   4 THR HG23 : A   7 GLU  OE1 :   -0.516:       61
+
+:  1035: A  89 ILE  CA  : A  89 ILE  O   :   -0.753:       26
+:  1035: A  89 ILE HG13 : A  85 LEU  O   :   -0.496:       27
+
+:  1035: A 123 LEU HD22 : A  13 LYS  HE3 :   -0.656:       86
+:  1035: A  13 LYS  HE3 : A 123 LEU  CD2 :   -0.623:       86
+:  1035: A  16 LYS  HB2 : A  13 LYS  O   :   -0.605:       36
+:  1035: A  13 LYS  HE3 : A 123 LEU HD13 :   -0.551:       87
+:  1035: A 123 LEU  CD1 : A  13 LYS  HE3 :   -0.527:       87
+:  1035: A 123 LEU  HB3 : A 122 LYS  O   :   -0.496:       86
+:  1035: A  16 LYS  CG  : A  23 LEU  HG  :   -0.476:       35
+:  1035: A 121 GLU  O   : A 122 LYS  CB  :   -0.443:       83
+
+:  1035: A  36 TYR  CD2 : A   8 VAL HG21 :   -0.613:       36
+
+:  1035: A 116 ASP  O   : A 119 LEU  HB2 :   -0.509:       60
+:  1035: A 119 LEU HD23 : A 116 ASP  HA  :   -0.486:       61
+
+:  1035: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.478:       52
+
+:  1035: A  27 VAL HG21 : A   9 PHE  HD1 :   -0.473:       38
+
+:  1035: A  25 GLU  HB2 : A  22 SER  O   :   -0.423:       26
+
+:  1035: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.407:       28
+#sum2 ::22.22 clashscore : 12.13 clashscore B<40 
+#summary::1035 atoms:742 atoms B<40:121702 potential dots:7606.0 A^2:23 bumps:9 bumps B<40:252.5 score

@@ -1,0 +1,30 @@
+
+:   931: A  66 VAL  CG1 : A  66 VAL  CG2 :   -1.007:       32
+
+:   931: A 115 TYR  CE1 : A 115 TYR  CG  :   -0.932:      101
+
+:   931: A  50 GLY  H   : A  46 HIS  HB3 :   -0.900:      158
+:   931: A  48 LYS  HB2 : A  46 HIS  HE1 :   -0.627:       87
+:   931: A  48 LYS  HB2 : A  46 HIS  CE1 :   -0.599:       87
+
+:   931: A  99 VAL  C   : A  99 VAL  CB  :   -0.891:       29
+:   931: A  99 VAL  C   : A  99 VAL  CG1 :   -0.456:       26
+
+:   931: A 106 GLN  O   : A 107 GLY  N   :   -0.693:       31
+
+:   931: A 140 TRP  CH2 : A 110 LYS  HE2 :   -0.583:       66
+
+:   931: A  54 TYR  CD2 : A 139 ILE HD13 :   -0.554:      135
+:   931: A  53 LYS  O   : A  54 TYR  HB2 :   -0.541:       60
+:   931: A  54 TYR  CD2 : A  53 LYS  HG2 :   -0.481:       59
+
+:   931: A  41 THR HG22 : A 109 ALA  HB2 :   -0.523:       36
+
+:   931: A  45 LYS  HE2 : A  18 ILE  CG2 :   -0.454:      100
+:   931: A  24 LYS  HD3 : A  18 ILE HD11 :   -0.407:      128
+
+:   931: A  40 ASP  OD2 : A 112 ALA  HA  :   -0.434:       96
+
+:   931: A  52 GLU  H   : A  52 GLU  HG3 :   -0.421:       51
+#sum2 ::18.26 clashscore : 8.87 clashscore B<40 
+#summary::931 atoms:564 atoms B<40:111632 potential dots:6977.0 A^2:17 bumps:5 bumps B<40:196.3 score

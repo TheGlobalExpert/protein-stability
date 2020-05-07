@@ -1,0 +1,38 @@
+
+:   737: A  61 SER  OG  : A  70 VAL HG21 :   -1.184:        0
+:   737: A  61 SER  OG  : A  70 VAL  CG2 :   -0.638:        0
+:   737: A  70 VAL HG21 : A  61 SER  CB  :   -0.637:        0
+:   737: A  67 ASP  OD1 : A  70 VAL HG23 :   -0.630:        0
+:   737: A  67 ASP  CG  : A  70 VAL HG23 :   -0.593:        0
+:   737: A  70 VAL HG23 : A  67 ASP  OD2 :   -0.551:        0
+:   737: A  70 VAL  CG2 : A  67 ASP  OD2 :   -0.428:        0
+
+:   737: A  91 ASP  C   : A  91 ASP  CB  :   -0.910:        0
+
+:   737: A  86 GLN  CG  : A  86 GLN  NE2 :   -0.880:        0
+
+:   737: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:   737: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:   737: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:   737: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:   737: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:   737: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:   737: A 110 VAL  CB  : A 110 VAL  N   :   -0.796:        0
+:   737: A 110 VAL  CG2 : A 110 VAL  N   :   -0.434:        0
+
+:   737: A  73 ALA  HA  : A  62 ARG  O   :   -0.665:        0
+
+:   737: A  98 ARG  O   : A  98 ARG  NH2 :   -0.576:        0
+
+:   737: A  74 VAL HG12 : A  74 VAL  O   :   -0.505:        0
+:   737: A  74 VAL  O   : A  74 VAL  CG1 :   -0.496:        0
+
+:   737: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.499:        0
+:   737: A  84 LEU HD22 : A  92 ALA  HA  :   -0.455:        0
+
+:   737: A  52 THR  HB  : A  54 TYR  CE2 :   -0.476:        0
+
+:   737: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+#sum2 ::33.92 clashscore : 33.92 clashscore B<40 
+#summary::737 atoms:737 atoms B<40:90297 potential dots:5644.0 A^2:25 bumps:25 bumps B<40:124.8 score

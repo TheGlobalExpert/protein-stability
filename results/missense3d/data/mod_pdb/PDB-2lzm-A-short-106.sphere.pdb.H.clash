@@ -1,0 +1,29 @@
+
+:  1780: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1780: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1780: A  22 GLU  N   : A  20 ASP  HB3 :   -0.797:       42
+:  1780: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1780: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+:  1780: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1780: A 137 ARG  CZ  : A 141 GLN  HG2 :   -0.450:       39
+
+:  1780: A  13 LEU  CB  : A  13 LEU  CD1 :   -1.005:       29
+:  1780: A  13 LEU  CD1 : A  13 LEU  CA  :   -0.502:       29
+
+:  1780: A 148 ARG  HD3 : A 164 LEU  CD2 :   -0.991:       50
+:  1780: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+
+:  1780: A 122 GLN  CG  : A 122 GLN  NE2 :   -0.912:       47
+
+:  1780: A 120 MET  CB  : A 120 MET  SD  :   -0.835:       32
+
+:  1780: A 129 ALA  N   : A 128 GLU  O   :   -0.694:       21
+:  1780: A 128 GLU  O   : A 129 ALA  CA  :   -0.432:       21
+
+:  1780: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1780: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1780: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::10.11 clashscore : 6.68 clashscore B<40 
+#summary::1780 atoms:1647 atoms B<40:213248 potential dots:13330.0 A^2:18 bumps:11 bumps B<40:590.8 score

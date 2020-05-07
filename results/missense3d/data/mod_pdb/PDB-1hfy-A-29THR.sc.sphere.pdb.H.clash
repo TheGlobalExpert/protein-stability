@@ -1,0 +1,87 @@
+
+:  1526: A  61 CYS  SG  : A  77 CYS  SG  :   -1.294:        0
+:  1526: A  50 TYR  CD1 : A  77 CYS  HB3 :   -0.553:        0
+:  1526: A  77 CYS  HB3 : A  50 TYR  CE1 :   -0.525:        0
+
+:  1526: A 111 CYS  SG  : A  28 CYS  SG  :   -1.274:        0
+:  1526: A  27 VAL  CG1 : A 118 TRP  HB3 :   -0.803:        0
+:  1526: A  28 CYS  SG  : A 118 TRP  CZ2 :   -0.662:        0
+:  1526: A  24 PRO  HD2 : A  22 SER  HB2 :   -0.650:        0
+:  1526: A 118 TRP  HB3 : A  27 VAL HG13 :   -0.638:        0
+:  1526: A  24 PRO  HG3 : A 119 LEU HD23 :   -0.604:        0
+:  1526: A 118 TRP  CE2 : A  28 CYS  SG  :   -0.581:        0
+:  1526: A  23 LEU  HB3 : A  24 PRO  HD3 :   -0.568:        0
+:  1526: A 111 CYS  SG  : A  28 CYS  CB  :   -0.520:        0
+:  1526: A  24 PRO  HG3 : A 119 LEU  CD2 :   -0.512:        0
+:  1526: A 118 TRP  HB3 : A  27 VAL HG11 :   -0.508:        0
+:  1526: A  24 PRO  HA  : A  27 VAL HG12 :   -0.456:        0
+:  1526: A  23 LEU HD23 : A   9 PHE  CZ  :   -0.412:        0
+
+:  1526: A  60 TRP  CH2 : A  95 ILE HG12 :   -1.004:        0
+:  1526: A  60 TRP  CZ2 : A  95 ILE HG12 :   -1.001:        0
+:  1526: A  60 TRP  CH2 : A  95 ILE  HA  :   -0.978:        0
+:  1526: A  95 ILE  HA  : A  60 TRP  HH2 :   -0.827:        0
+:  1526: A  95 ILE HG12 : A  60 TRP  CZ3 :   -0.743:        0
+:  1526: A  95 ILE HG12 : A  60 TRP  CE2 :   -0.740:        0
+:  1526: A  99 VAL  CG2 : A 103 TYR  HB2 :   -0.734:        0
+:  1526: A  60 TRP  CH2 : A  95 ILE  CG1 :   -0.712:        0
+:  1526: A 103 TYR  HB2 : A  99 VAL HG21 :   -0.695:        0
+:  1526: A  95 ILE  CG1 : A  60 TRP  CZ3 :   -0.629:        0
+:  1526: A  95 ILE  CA  : A  60 TRP  CH2 :   -0.579:        0
+:  1526: A  99 VAL HG22 : A  95 ILE  O   :   -0.530:        0
+:  1526: A  73 CYS  HB2 : A  60 TRP  O   :   -0.526:        0
+:  1526: A  53 PHE  O   : A 104 TRP  NE1 :   -0.506:        0
+:  1526: A  60 TRP  CD2 : A  95 ILE HG12 :   -0.458:        0
+:  1526: A  95 ILE HG12 : A  60 TRP  CE3 :   -0.445:        0
+:  1526: A 103 TYR  HD2 : A 104 TRP  CD2 :   -0.427:        0
+:  1526: A  56 ASN  OD1 : A  56 ASN  C   :   -0.423:        0
+:  1526: A  60 TRP  HD1 : A  56 ASN  CG  :   -0.422:        0
+:  1526: A 104 TRP  HE1 : A  53 PHE  C   :   -0.400:        0
+
+:  1526: A  47 SER  C   : A  47 SER  CB  :   -0.939:        0
+:  1526: A  47 SER  CB  : A  48 THR  N   :   -0.514:        0
+
+:  1526: A  82 ASP  CG  : A  82 ASP  CA  :   -0.862:        0
+
+:  1526: A  44 ASN  CB  : A  44 ASN  N   :   -0.847:        0
+
+:  1526: A 109 ALA  HA  : A 112 SER  OG  :   -0.777:        0
+
+:  1526: A  84 ASP  OD1 : A  84 ASP  CB  :   -0.761:        0
+:  1526: A  84 ASP  OD1 : A  84 ASP  CA  :   -0.421:        0
+
+:  1526: A  98 LYS  HD3 : A  94 LYS  O   :   -0.665:        0
+:  1526: A  98 LYS  HD2 : A  98 LYS  N   :   -0.503:        0
+:  1526: A  98 LYS  CD  : A  94 LYS  O   :   -0.475:        0
+
+:  1526: A  15 LEU  HG  : A  89 ILE HG23 :   -0.656:        0
+
+:  1526: A  25 GLU  CG  : A 115 LEU HD11 :   -0.596:        0
+:  1526: A 115 LEU  CD1 : A  25 GLU  CG  :   -0.560:        0
+:  1526: A  25 GLU  HG3 : A 115 LEU HD13 :   -0.502:        0
+:  1526: A 115 LEU HD11 : A  25 GLU  HG2 :   -0.448:        0
+:  1526: A  25 GLU  HG3 : A 115 LEU  CD1 :   -0.444:        0
+
+:  1526: A  41 ILE HD11 : A  81 LEU  CD1 :   -0.592:        0
+:  1526: A  39 GLN  HG2 : A  81 LEU  O   :   -0.519:        0
+:  1526: A  41 ILE HD11 : A  81 LEU HD11 :   -0.428:        0
+
+:  1526: A 117 GLN  HG2 : A 114 LYS  O   :   -0.574:        0
+
+:  1526: A  96 LEU HD22 : A  26 TRP  HH2 :   -0.565:        0
+:  1526: A  96 LEU HD22 : A  26 TRP  CH2 :   -0.514:        0
+
+:  1526: A  18 TYR  CZ  : A  93 LYS  HB3 :   -0.551:        0
+
+:  1526: A  31 PHE  HB2 : A  36 TYR  OH  :   -0.526:        0
+:  1526: A  36 TYR  CZ  : A  31 PHE  HB2 :   -0.521:        0
+
+:  1526: A  33 THR HG22 : A  54 GLN  HG2 :   -0.480:        0
+
+:  1526: A  34 SER  OG  : A  52 LEU  HA  :   -0.424:        0
+
+:  1526: A  11 LYS  HB3 : A  85 LEU HD12 :   -0.421:        0
+
+:  1526: A 102 ASN  HA  : A 105 LEU  O   :   -0.402:        0
+#sum2 ::42.60 clashscore : 42.60 clashscore B<40 
+#summary::1526 atoms:1526 atoms B<40:177927 potential dots:11120.0 A^2:65 bumps:65 bumps B<40:175.6 score

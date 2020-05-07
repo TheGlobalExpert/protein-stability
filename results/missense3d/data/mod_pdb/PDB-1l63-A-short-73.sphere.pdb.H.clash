@@ -1,0 +1,16 @@
+
+:  1336: A 138 TRP  CZ3 : A 138 TRP  CD2 :   -1.016:       24
+
+:  1336: A 158 TRP  CE2 : A 158 TRP  CE3 :   -1.006:       18
+
+:  1336: A  90 SER  CA  : A  91 LEU  N   :   -0.832:       14
+
+:  1336: A   8 ARG  NH1 : A   8 ARG  NE  :   -0.729:       49
+
+:  1336: A  92 ASP  C   : A  92 ASP  N   :   -0.721:       19
+:  1336: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+
+:  1336: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1336: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+#sum2 ::5.99 clashscore : 5.67 clashscore B<40 
+#summary::1336 atoms:1234 atoms B<40:161696 potential dots:10110.0 A^2:8 bumps:7 bumps B<40:490.1 score

@@ -1,0 +1,24 @@
+
+:   869: A  19 LYS  CG  : A  19 LYS  CE  :   -1.044:       30
+:   869: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:   869: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:   869: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+
+:   869: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.650:       48
+:   869: A  43 LYS  HD3 : A  39 LEU  O   :   -0.441:       42
+
+:   869: A  41 ALA  H   : A  38 SER  HB2 :   -0.643:       26
+
+:   869: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.571:       48
+:   869: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:   869: A  50 ILE  CG2 : A  52 ARG  HG2 :   -0.496:       48
+:   869: A  52 ARG  HG3 : A  52 ARG  NH1 :   -0.473:       48
+
+:   869: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:   869: A  13 LEU  C   : A  13 LEU  CG  :   -0.496:       27
+
+:   869: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:   869: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+#sum2 ::17.26 clashscore : 9.27 clashscore B<40 
+#summary::869 atoms:755 atoms B<40:101234 potential dots:6327.0 A^2:15 bumps:7 bumps B<40:265.1 score

@@ -1,0 +1,59 @@
+
+:  1762: A  61 GLU  OE1 : A  28 TYR  OH  :   -1.082:        0
+:  1762: A  61 GLU  CD  : A  28 TYR  OH  :   -0.917:        0
+:  1762: A  28 TYR  HH  : A  61 GLU  CD  :   -0.840:        0
+:  1762: A  28 TYR  OH  : A  61 GLU  OE2 :   -0.564:        0
+:  1762: A  61 GLU  O   : A 114 HIS  HE1 :   -0.495:        0
+:  1762: A  28 TYR  O   : A  29 ARG  HB2 :   -0.410:        0
+
+:  1762: A  24 VAL  CG2 : A  55 ALA  HB2 :   -0.970:        0
+:  1762: A  24 VAL HG21 : A  55 ALA  HB2 :   -0.970:        0
+:  1762: A  24 VAL HG21 : A  55 ALA  CB  :   -0.890:        0
+:  1762: A  35 PHE  HB2 : A  24 VAL  CG1 :   -0.866:        0
+:  1762: A  24 VAL HG23 : A   9 THR HG22 :   -0.804:        0
+:  1762: A  35 PHE  HB2 : A  24 VAL HG12 :   -0.608:        0
+:  1762: A  22 TYR  HB2 : A  51 ALA  HB2 :   -0.542:        0
+:  1762: A   9 THR HG22 : A  24 VAL  CG2 :   -0.511:        0
+:  1762: A  51 ALA  CB  : A   9 THR  HB  :   -0.498:        0
+:  1762: A  24 VAL HG23 : A   9 THR  CG2 :   -0.442:        0
+:  1762: A  22 TYR  CE2 : A  37 ALA  HB3 :   -0.406:        0
+
+:  1762: A   1 MET  CA  : A   1 MET  CG  :   -0.937:        0
+
+:  1762: A 148 ASP  OD2 : A  46 ARG  NH1 :   -0.731:        0
+:  1762: A 148 ASP  OD1 : A  42 THR  OG1 :   -0.454:        0
+
+:  1762: A 138 ARG  NH1 : A 135 GLU  HA  :   -0.701:        0
+:  1762: A 135 GLU  HA  : A 138 ARG  CZ  :   -0.482:        0
+
+:  1762: A  73 TYR  HH  : A 104 TRP  HE1 :   -0.559:        0
+:  1762: A  77 GLY  HA3 : A 104 TRP  CH2 :   -0.504:        0
+:  1762: A  49 LEU HD11 : A 104 TRP  CE2 :   -0.464:        0
+:  1762: A  49 LEU  CD1 : A  73 TYR  HE2 :   -0.445:        0
+:  1762: A  74 VAL HG22 : A  49 LEU HD23 :   -0.445:        0
+
+:  1762: A  53 ILE  O   : A  57 GLU  HG3 :   -0.557:        0
+:  1762: A  53 ILE HD12 : A  50 MET  HA  :   -0.460:        0
+
+:  1762: A   8 PHE  CD2 : A  68 SER  HB3 :   -0.555:        0
+:  1762: A  68 SER  HB2 : A 119 GLU  OE1 :   -0.400:        0
+
+:  1762: A 127 HIS  HB3 : A 128 PRO  HD2 :   -0.525:        0
+
+:  1762: A  27 ARG HH12 : A 129 GLU  CD  :   -0.494:        0
+:  1762: A 129 GLU  OE1 : A  27 ARG  NH1 :   -0.401:        0
+
+:  1762: A  47 MET  HA  : A  47 MET  CE  :   -0.470:        0
+
+:  1762: A  66 ILE  N   : A  65 VAL  CG1 :   -0.447:        0
+:  1762: A   6 GLU  HG2 : A  66 ILE  CG2 :   -0.428:        0
+:  1762: A  66 ILE  N   : A  65 VAL HG12 :   -0.400:        0
+
+:  1762: A 120 TRP  CZ2 : A 118 TRP  HB3 :   -0.439:        0
+:  1762: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+
+:  1762: A 144 PRO  HG3 : A  19 PRO  HB3 :   -0.418:        0
+
+:  1762: A  78 ILE HD13 : A  78 ILE  HA  :   -0.406:        0
+#sum2 ::23.84 clashscore : 23.84 clashscore B<40 
+#summary::1762 atoms:1762 atoms B<40:205873 potential dots:12870.0 A^2:42 bumps:42 bumps B<40:479.7 score

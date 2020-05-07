@@ -1,0 +1,15 @@
+
+:   796: A  50 GLU  C   : A  51 ILE  CA  :   -0.963:       22
+:   796: A  50 GLU  N   : A  50 GLU  C   :   -0.915:       24
+
+:   796: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   796: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   796: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   796: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   796: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::8.79 clashscore : 9.65 clashscore B<40 
+#summary::796 atoms:622 atoms B<40:92321 potential dots:5770.0 A^2:7 bumps:6 bumps B<40:207.1 score

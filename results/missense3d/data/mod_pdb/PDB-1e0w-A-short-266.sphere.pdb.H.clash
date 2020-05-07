@@ -1,0 +1,18 @@
+
+:  2415: A  72 VAL  CA  : A  72 VAL  CG1 :   -0.990:       22
+
+:  2415: A  49 ILE  CA  : A  49 ILE  CG1 :   -0.940:       11
+:  2415: A  49 ILE  CA  : A  50 ASP  N   :   -0.845:        8
+
+:  2415: A 166 LYS  CB  : A 166 LYS  C   :   -0.876:       10
+
+:  2415: A 231 ASP  C   : A 231 ASP  CB  :   -0.872:        9
+
+:  2415: A  26 SER  OG  : A  26 SER  CA  :   -0.763:       28
+
+:  2415: A 119 LYS  O   : A 120 ILE  N   :   -0.710:       15
+
+:  2415: A  86 HIS  C   : A  86 HIS  N   :   -0.708:        9
+:  2415: A  86 HIS  C   : A  86 HIS  CG  :   -0.439:       10
+#sum2 ::3.73 clashscore : 3.73 clashscore B<40 
+#summary::2415 atoms:2411 atoms B<40:291185 potential dots:18200.0 A^2:9 bumps:9 bumps B<40:929.1 score

@@ -1,0 +1,63 @@
+
+:  1903: A  50 GLY  H   : A  46 HIS  HB3 :   -0.953:        0
+:  1903: A  46 HIS  HE1 : A  48 LYS  HB2 :   -0.490:        0
+:  1903: A  46 HIS  ND1 : A  49 LYS  N   :   -0.470:        0
+:  1903: A  48 LYS  HB2 : A  46 HIS  CE1 :   -0.468:        0
+
+:  1903: A 139 ILE HD13 : A  54 TYR  CD2 :   -0.888:        0
+:  1903: A  53 LYS  O   : A  54 TYR  HB2 :   -0.615:        0
+:  1903: A  54 TYR  CD2 : A 139 ILE  CD1 :   -0.570:        0
+:  1903: A 139 ILE HD13 : A 139 ILE  HA  :   -0.475:        0
+
+:  1903: A 131 GLN  N   : A 130 ALA  CA  :   -0.856:        0
+:  1903: A 131 GLN  N   : A 131 GLN  C   :   -0.740:        0
+
+:  1903: A  79 GLY  N   : A  78 LYS  CA  :   -0.820:        0
+
+:  1903: A  74 VAL HG12 : A  92 ILE  CD1 :   -0.780:        0
+:  1903: A  74 VAL HG12 : A  92 ILE HD12 :   -0.586:        0
+
+:  1903: A  70 LYS  N   : A  70 LYS  C   :   -0.726:        0
+
+:  1903: A 110 LYS  HE2 : A 140 TRP  CH2 :   -0.722:        0
+:  1903: A 129 GLU  O   : A 133 LYS  HG3 :   -0.689:        0
+:  1903: A 133 LYS  HG2 : A 140 TRP  CE2 :   -0.636:        0
+:  1903: A 140 TRP  CD2 : A 133 LYS  HG2 :   -0.519:        0
+
+:  1903: A 109 ALA  HB2 : A  41 THR HG22 :   -0.710:        0
+
+:  1903: A  76 PHE  CG  : A  81 ARG  HD3 :   -0.705:        0
+:  1903: A  81 ARG  HG2 : A  81 ARG HH21 :   -0.633:        0
+:  1903: A  76 PHE  CB  : A  81 ARG  HD3 :   -0.593:        0
+:  1903: A  81 ARG HH21 : A  81 ARG  CG  :   -0.556:        0
+:  1903: A  81 ARG  NH2 : A  81 ARG  CG  :   -0.461:        0
+:  1903: A  76 PHE  HB3 : A  81 ARG  HD3 :   -0.433:        0
+
+:  1903: A  84 LYS  NZ  : A  85 TYR  CE2 :   -0.612:        0
+:  1903: A  84 LYS  NZ  : A  85 TYR  CZ  :   -0.601:        0
+:  1903: A  84 LYS  NZ  : A  85 TYR  OH  :   -0.506:        0
+
+:  1903: A  36 LEU  HB3 : A 100 ASN  ND2 :   -0.564:        0
+
+:  1903: A  62 THR  O   : A  66 VAL HG22 :   -0.530:        0
+
+:  1903: A  26 MET  CE  : A  15 ILE HD11 :   -0.513:        0
+:  1903: A  26 MET  HE2 : A  26 MET  HB2 :   -0.500:        0
+:  1903: A  26 MET  HE1 : A  15 ILE HD11 :   -0.428:        0
+
+:  1903: A 106 GLN  O   : A 138 ASN  ND2 :   -0.451:        0
+
+:  1903: A  67 GLU  HB2 : A  63 LYS  O   :   -0.449:        0
+:  1903: A  67 GLU  OE1 : A  63 LYS  NZ  :   -0.408:        0
+
+:  1903: A  14 LEU  HB2 : A  72 ILE  CD1 :   -0.448:        0
+
+:  1903: A  45 LYS  HE2 : A  18 ILE HG23 :   -0.446:        0
+:  1903: A  45 LYS  HE2 : A  18 ILE  CG2 :   -0.433:        0
+
+:  1903: A 122 GLU  CD  : A 114 VAL HG21 :   -0.420:        0
+:  1903: A 114 VAL HG22 : A  38 LEU HD22 :   -0.402:        0
+
+:  1903: A 118 ASN  OD1 : A  77 ASP  HB3 :   -0.408:        0
+#sum2 ::22.07 clashscore : 22.07 clashscore B<40 
+#summary::1903 atoms:1903 atoms B<40:217520 potential dots:13600.0 A^2:42 bumps:42 bumps B<40:470.4 score

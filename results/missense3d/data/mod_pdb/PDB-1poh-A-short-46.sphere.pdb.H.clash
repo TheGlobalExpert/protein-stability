@@ -1,0 +1,49 @@
+
+:  1067: A  83 GLU  C   : A  83 GLU  CB  :   -1.084:       26
+:  1067: A  83 GLU  CB  : A  83 GLU  N   :   -0.847:       22
+:  1067: A  83 GLU  N   : A  83 GLU  C   :   -0.718:       26
+
+:  1067: A   2 PHE  CD2 : A   2 PHE  CB  :   -0.948:       25
+:  1067: A   1 MET  CA  : A   2 PHE  N   :   -0.893:       26
+:  1067: A  66 GLU  HG2 : A   1 MET  HB2 :   -0.557:       47
+:  1067: A   1 MET  CG  : A   2 PHE  N   :   -0.538:       38
+
+:  1067: A  72 LYS  CG  : A  72 LYS  CE  :   -0.946:       45
+:  1067: A  72 LYS  NZ  : A  76 HIS  CE1 :   -0.561:       57
+:  1067: A  76 HIS  CD2 : A  76 HIS  N   :   -0.473:       56
+:  1067: A  76 HIS  CD2 : A  72 LYS  O   :   -0.403:       56
+
+:  1067: A  84 LEU  CD2 : A  80 LEU  HG  :   -0.855:       46
+:  1067: A  80 LEU  O   : A  84 LEU HD22 :   -0.726:       46
+:  1067: A  80 LEU  HG  : A  84 LEU HD21 :   -0.712:       46
+:  1067: A  84 LEU HD22 : A  80 LEU  HG  :   -0.576:       46
+:  1067: A  84 LEU HD11 : A  80 LEU HD11 :   -0.537:       48
+:  1067: A  84 LEU HD22 : A  80 LEU  C   :   -0.461:       46
+:  1067: A  84 LEU HD21 : A  80 LEU  CG  :   -0.424:       46
+
+:  1067: A  47 LEU  CD1 : A  51 GLN  OE1 :   -0.774:       88
+:  1067: A  47 LEU  O   : A  47 LEU HD13 :   -0.659:       39
+:  1067: A  51 GLN  OE1 : A  47 LEU HD11 :   -0.442:       88
+
+:  1067: A   7 THR  C   : A   7 THR  N   :   -0.714:       16
+
+:  1067: A  49 LYS  HE2 : A  43 SER  H   :   -0.666:       59
+:  1067: A  43 SER  H   : A  49 LYS  CE  :   -0.470:       59
+
+:  1067: A  85 GLU  N   : A  85 GLU  C   :   -0.611:       46
+
+:  1067: A  27 LYS  HG3 : A  23 VAL  O   :   -0.587:       16
+
+:  1067: A  61 VAL HG12 : A  37 SER  HB2 :   -0.536:       29
+
+:  1067: A  19 ALA  HB2 : A  14 LEU  HG  :   -0.505:       23
+
+:  1067: A  68 GLU  OE1 : A  68 GLU  CB  :   -0.496:       61
+
+:  1067: A  35 VAL HG23 : A  44 ALA  HB2 :   -0.458:       18
+
+:  1067: A  17 ARG  N   : A  18 PRO  HD2 :   -0.442:       16
+
+:  1067: A  63 ILE HD12 : A  78 VAL HG23 :   -0.401:       21
+#sum2 ::29.99 clashscore : 14.37 clashscore B<40 
+#summary::1067 atoms:974 atoms B<40:127875 potential dots:7992.0 A^2:32 bumps:14 bumps B<40:171.8 score

@@ -1,0 +1,15 @@
+
+:   944: A 101 ASN  C   : A 101 ASN  CB  :   -0.882:       16
+:   944: A 101 ASN  CB  : A 101 ASN  N   :   -0.879:       15
+:   944: A 101 ASN  C   : A 101 ASN  N   :   -0.770:       16
+
+:   944: A 136 SER  N   : A 136 SER  CB  :   -0.854:       12
+
+:   944: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:   944: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:   944: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:   944: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::8.47 clashscore : 9.26 clashscore B<40 
+#summary::944 atoms:864 atoms B<40:110281 potential dots:6893.0 A^2:8 bumps:8 bumps B<40:329.4 score

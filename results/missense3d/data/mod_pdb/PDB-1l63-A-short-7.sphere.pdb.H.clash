@@ -1,0 +1,27 @@
+
+:  1680: A  24 TYR  CZ  : A  24 TYR  CD2 :   -1.020:       45
+
+:  1680: A 141 GLN  NE2 : A 141 GLN  CG  :   -0.945:       33
+:  1680: A 141 GLN  NE2 : A 141 GLN  CB  :   -0.407:       19
+
+:  1680: A  87 VAL  C   : A  87 VAL  CB  :   -0.880:       21
+
+:  1680: A  62 GLU  CG  : A  62 GLU  OE1 :   -0.787:       21
+:  1680: A  62 GLU  OE1 : A  62 GLU  CB  :   -0.433:       21
+
+:  1680: A 154 ARG  CG  : A 154 ARG  NE  :   -0.777:      100
+:  1680: A 154 ARG  NE  : A 154 ARG  CB  :   -0.495:      100
+
+:  1680: A 130 ALA  O   : A 130 ALA  CA  :   -0.696:       22
+
+:  1680: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1680: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1680: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1680: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1680: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1680: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::8.93 clashscore : 5.79 clashscore B<40 
+#summary::1680 atoms:1554 atoms B<40:201514 potential dots:12590.0 A^2:15 bumps:9 bumps B<40:608.2 score

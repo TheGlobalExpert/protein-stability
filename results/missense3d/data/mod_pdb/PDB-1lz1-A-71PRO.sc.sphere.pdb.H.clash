@@ -1,0 +1,22 @@
+
+:   622: A 108 ALA  C   : A 108 ALA  CB  :   -0.891:        0
+
+:   622: A  85 LEU  CB  : A  85 LEU  N   :   -0.815:        0
+
+:   622: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:   622: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:   622: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:   622: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:   622: A  95 CYS  O   : A  95 CYS  CA  :   -0.763:        0
+
+:   622: A  62 ARG  O   : A  73 ALA  HA  :   -0.665:        0
+
+:   622: A  74 VAL  O   : A  74 VAL HG12 :   -0.505:        0
+:   622: A  74 VAL  O   : A  74 VAL  CG1 :   -0.496:        0
+
+:   622: A  54 TYR  CE2 : A  52 THR  HB  :   -0.476:        0
+
+:   622: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+#sum2 ::19.29 clashscore : 19.29 clashscore B<40 
+#summary::622 atoms:622 atoms B<40:75968 potential dots:4748.0 A^2:12 bumps:12 bumps B<40:144.8 score

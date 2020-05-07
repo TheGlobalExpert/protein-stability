@@ -1,0 +1,60 @@
+
+:  2139: A   9 LEU HD21 : A  17 LYS  HA  :   -0.892:        0
+:  2139: A   9 LEU HD11 : A 118 LEU HD11 :   -0.743:        0
+:  2139: A   9 LEU  HG  : A  17 LYS  HG2 :   -0.592:        0
+:  2139: A 118 LEU  CD1 : A   9 LEU HD11 :   -0.562:        0
+:  2139: A   9 LEU HD21 : A  17 LYS  CA  :   -0.547:        0
+
+:  2139: A 177 LEU  CA  : A 177 LEU  CG  :   -0.886:        0
+
+:  2139: A 204 GLN  CB  : A 204 GLN  C   :   -0.880:        0
+:  2139: A 204 GLN  N   : A 204 GLN  CB  :   -0.842:        0
+:  2139: A 204 GLN  C   : A 204 GLN  N   :   -0.748:        0
+
+:  2139: A  40 ARG  N   : A  40 ARG  CB  :   -0.843:        0
+
+:  2139: A 141 SER  N   : A 140 ARG  CA  :   -0.831:        0
+
+:  2139: A 220 ASN  HA  : A 214 LEU  HB3 :   -0.791:        0
+:  2139: A 219 LYS  O   : A 220 ASN  HB2 :   -0.546:        0
+
+:  2139: A 112 LEU HD11 : A   8 ILE HD11 :   -0.758:        0
+:  2139: A 191 TYR  OH  : A   8 ILE  CD1 :   -0.723:        0
+:  2139: A   8 ILE  CD1 : A 112 LEU  CD1 :   -0.664:        0
+:  2139: A   8 ILE HD11 : A 112 LEU  CD1 :   -0.659:        0
+:  2139: A   8 ILE  CD1 : A 112 LEU HD13 :   -0.611:        0
+:  2139: A 191 TYR  CD2 : A 196 ILE HD11 :   -0.518:        0
+:  2139: A 105 LEU  CD1 : A 112 LEU  HG  :   -0.481:        0
+:  2139: A   8 ILE HD12 : A 112 LEU HD13 :   -0.471:        0
+:  2139: A 191 TYR  OH  : A   8 ILE HD13 :   -0.431:        0
+:  2139: A 191 TYR  OH  : A   8 ILE HD12 :   -0.425:        0
+:  2139: A  10 ILE HG13 : A   8 ILE HG22 :   -0.424:        0
+:  2139: A   8 ILE HD13 : A  92 PRO  CD  :   -0.423:        0
+:  2139: A   8 ILE HD12 : A 191 TYR  CZ  :   -0.419:        0
+:  2139: A  92 PRO  HD2 : A   8 ILE HD13 :   -0.407:        0
+:  2139: A 191 TYR  HA  : A 194 THR  OG1 :   -0.402:        0
+
+:  2139: A 179 ALA  N   : A 178 ALA  O   :   -0.699:        0
+
+:  2139: A  68 MET  CE  : A  35 THR  HB  :   -0.578:        0
+
+:  2139: A  72 ILE HG13 : A  91 PHE  CD2 :   -0.570:        0
+
+:  2139: A 198 ALA  HB3 : A 116 ILE HD13 :   -0.529:        0
+
+:  2139: A 125 LEU HD21 : A 120 VAL  CG1 :   -0.498:        0
+:  2139: A 125 LEU HD21 : A 120 VAL HG13 :   -0.404:        0
+
+:  2139: A  75 GLU  O   : A  79 ASN  HB3 :   -0.478:        0
+
+:  2139: A  95 ILE  HB  : A  96 PRO  HD3 :   -0.460:        0
+
+:  2139: A  73 LYS  HB2 : A  73 LYS  HE3 :   -0.456:        0
+
+:  2139: A  93 ARG HH21 : A  93 ARG  HD3 :   -0.418:        0
+
+:  2139: A  88 LEU HD23 : A  33 LEU  HB2 :   -0.408:        0
+
+:  2139: A 100 LYS  CD  : A  69 VAL HG21 :   -0.404:        0
+#sum2 ::18.70 clashscore : 18.70 clashscore B<40 
+#summary::2139 atoms:2139 atoms B<40:250157 potential dots:15630.0 A^2:40 bumps:40 bumps B<40:541.3 score

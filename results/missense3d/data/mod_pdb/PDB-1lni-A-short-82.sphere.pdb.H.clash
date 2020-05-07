@@ -1,0 +1,13 @@
+
+:  1330: A  49 TYR  CA  : A  48 SER  C   :   -0.932:        9
+:  1330: A  48 SER  C   : A  48 SER  N   :   -0.761:       11
+
+:  1330: A  31 SER  C   : A  31 SER  N   :   -0.691:        9
+
+:  1330: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:  1330: A  29 PRO  HD3 : A  21 LEU HD13 :   -0.431:       12
+
+:  1330: A  35 VAL HG11 : A  32 GLN  OE1 :   -0.408:       11
+#sum2 ::4.51 clashscore : 4.51 clashscore B<40 
+#summary::1330 atoms:1329 atoms B<40:153083 potential dots:9568.0 A^2:6 bumps:6 bumps B<40:488 score

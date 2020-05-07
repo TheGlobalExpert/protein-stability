@@ -1,0 +1,74 @@
+
+:  1263: A  20 TYR  CZ  : A  20 TYR  CD1 :   -1.032:        0
+:  1263: A  97 LYS  HB3 : A  20 TYR  CZ  :   -0.590:        0
+:  1263: A 101 ARG  CZ  : A  98 ARG  HA  :   -0.541:        0
+:  1263: A 101 ARG  HG3 : A  97 LYS  O   :   -0.525:        0
+:  1263: A  20 TYR  OH  : A  97 LYS  HB3 :   -0.487:        0
+
+:  1263: A  99 VAL HG22 : A  64 TRP  CE2 :   -1.005:        0
+:  1263: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.916:        0
+:  1263: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.876:        0
+:  1263: A  99 VAL HG13 : A  64 TRP  CZ2 :   -0.698:        0
+:  1263: A  99 VAL  HA  : A  64 TRP  CZ3 :   -0.678:        0
+:  1263: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.673:        0
+:  1263: A  64 TRP  CZ2 : A  99 VAL HG22 :   -0.664:        0
+:  1263: A 109 TRP  CH2 : A  99 VAL  CG1 :   -0.581:        0
+:  1263: A  59 ILE  CG2 : A  64 TRP  HB2 :   -0.549:        0
+:  1263: A  77 ALA  HB3 : A  64 TRP  O   :   -0.519:        0
+:  1263: A  64 TRP  CD1 : A  59 ILE HG23 :   -0.504:        0
+:  1263: A  99 VAL HG22 : A  64 TRP  CE3 :   -0.450:        0
+:  1263: A  99 VAL HG11 : A 109 TRP  CZ2 :   -0.425:        0
+:  1263: A  95 ALA  HB1 : A  59 ILE HD13 :   -0.403:        0
+:  1263: A  99 VAL  HB  : A 109 TRP  HH2 :   -0.403:        0
+
+:  1263: A  73 ALA  CA  : A  74 VAL  N   :   -0.960:        0
+:  1263: A  75 ASN  CA  : A  74 VAL  C   :   -0.951:        0
+:  1263: A  72 GLY  O   : A  73 ALA  CA  :   -0.499:        0
+:  1263: A  74 VAL  CG2 : A  63 TYR  HA  :   -0.429:        0
+
+:  1263: A 123 GLN  CB  : A 123 GLN  C   :   -0.903:        0
+:  1263: A 122 ARG  CA  : A 123 GLN  N   :   -0.859:        0
+:  1263: A 123 GLN  CB  : A 123 GLN  N   :   -0.836:        0
+:  1263: A 123 GLN  C   : A 123 GLN  N   :   -0.703:        0
+:  1263: A 123 GLN  N   : A 123 GLN  CG  :   -0.425:        0
+
+:  1263: A  49 ASP  OD2 : A  62 ARG  NH2 :   -0.791:        0
+:  1263: A  51 SER  HB3 : A  62 ARG  NH2 :   -0.693:        0
+:  1263: A  62 ARG HH22 : A  49 ASP  CG  :   -0.559:        0
+:  1263: A  62 ARG HH22 : A  51 SER  HB3 :   -0.522:        0
+:  1263: A  62 ARG  NH2 : A  49 ASP  CG  :   -0.493:        0
+:  1263: A  49 ASP  O   : A  62 ARG  NH1 :   -0.427:        0
+
+:  1263: A  41 ARG  C   : A  41 ARG  N   :   -0.693:        0
+
+:  1263: A  91 ASP  O   : A  92 ALA  N   :   -0.692:        0
+
+:  1263: A 107 ARG  O   : A 113 ARG  NH1 :   -0.602:        0
+
+:  1263: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.580:        0
+:  1263: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.564:        0
+:  1263: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.560:        0
+
+:  1263: A 121 VAL  O   : A 124 TYR  HD2 :   -0.567:        0
+
+:  1263: A  34 TRP  CE2 : A 115 ARG  HD2 :   -0.555:        0
+:  1263: A  34 TRP  CZ2 : A 115 ARG  HD2 :   -0.462:        0
+:  1263: A 115 ARG  HB3 : A  34 TRP  NE1 :   -0.448:        0
+:  1263: A 115 ARG  HD2 : A  34 TRP  CD2 :   -0.448:        0
+
+:  1263: A  17 MET  SD  : A  93 VAL HG13 :   -0.517:        0
+
+:  1263: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.468:        0
+:  1263: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.409:        0
+
+:  1263: A 106 ILE  O   : A 106 ILE HG13 :   -0.467:        0
+:  1263: A 106 ILE HG12 : A 112 TRP  NE1 :   -0.450:        0
+:  1263: A 106 ILE HG12 : A 112 TRP  CD1 :   -0.425:        0
+
+:  1263: A 103 PRO  HD2 : A 102 ASP  CB  :   -0.460:        0
+
+:  1263: A  54 TYR  CE1 : A  52 THR  HB  :   -0.426:        0
+
+:  1263: A  35 GLU  HB3 : A  58 GLN  CG  :   -0.410:        0
+#sum2 ::43.55 clashscore : 43.55 clashscore B<40 
+#summary::1263 atoms:1263 atoms B<40:153058 potential dots:9566.0 A^2:55 bumps:55 bumps B<40:185.2 score

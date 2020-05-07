@@ -1,0 +1,21 @@
+
+:   621: A 108 ALA  C   : A 108 ALA  CB  :   -0.910:       35
+
+:   621: A  85 LEU  CB  : A  85 LEU  N   :   -0.808:       13
+
+:   621: A  95 CYS  O   : A  95 CYS  CA  :   -0.763:       11
+
+:   621: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   621: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   621: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   621: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   621: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   621: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:   621: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:   621: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+#sum2 ::17.71 clashscore : 9.17 clashscore B<40 
+#summary::621 atoms:545 atoms B<40:75709 potential dots:4732.0 A^2:11 bumps:5 bumps B<40:172.6 score

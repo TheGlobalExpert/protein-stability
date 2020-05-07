@@ -1,0 +1,40 @@
+
+:  1391: A   3 ILE HD12 : A  30 LEU HD11 :   -1.057:       23
+:  1391: A  30 LEU HD11 : A   3 ILE  CD1 :   -0.856:       23
+:  1391: A   3 ILE HD12 : A  30 LEU  CD1 :   -0.554:       23
+:  1391: A  30 LEU  N   : A  31 PRO  CD  :   -0.413:       24
+
+:  1391: A  88 PHE  CG  : A  88 PHE  CA  :   -0.938:       11
+:  1391: A  88 PHE  CA  : A  88 PHE  O   :   -0.742:       11
+
+:  1391: A 101 VAL  N   : A 100 ASP  CA  :   -0.881:       13
+:  1391: A 101 VAL  N   : A 100 ASP  N   :   -0.421:       13
+
+:  1391: A 146 ILE HD13 : A  52 LEU HD13 :   -0.794:       17
+
+:  1391: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.658:       13
+:  1391: A   4 ALA  HB2 : A  99 PRO  CB  :   -0.435:       13
+
+:  1391: A  49 ARG  HG2 : A 150 VAL  CG2 :   -0.605:       20
+:  1391: A  50 GLU  O   : A  53 PHE  HB3 :   -0.490:       19
+:  1391: A  53 PHE  HB2 : A 150 VAL HG21 :   -0.402:       17
+
+:  1391: A  48 ARG  HG3 : A  48 ARG HH11 :   -0.565:       22
+:  1391: A  48 ARG  HG3 : A  48 ARG  NH1 :   -0.449:       22
+
+:  1391: A 153 ASP  OD2 : A 149 LYS  HE3 :   -0.546:       17
+
+:  1391: A  60 LEU HD23 : A  25 VAL HG22 :   -0.483:       15
+:  1391: A  26 ASP  O   : A  25 VAL HG12 :   -0.473:       18
+
+:  1391: A 151 THR  HB  : A  19 VAL HG11 :   -0.480:       13
+
+:  1391: A  63 TYR  CE2 : A  57 LEU HD22 :   -0.455:       17
+
+:  1391: A  64 VAL HG23 : A  95 LEU HD23 :   -0.422:       12
+
+:  1391: A  32 LYS  HB2 : A  29 SER  O   :   -0.421:       24
+
+:  1391: A  41 SER  HA  : A  44 LEU  HG  :   -0.407:       24
+#sum2 ::17.25 clashscore : 17.25 clashscore B<40 
+#summary::1391 atoms:1391 atoms B<40:160524 potential dots:10030.0 A^2:24 bumps:24 bumps B<40:438.2 score

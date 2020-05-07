@@ -1,0 +1,23 @@
+
+:  1123: A 114 ASN  N   : A 114 ASN  CB  :   -0.826:       20
+:  1123: A 113 ARG  CB  : A 113 ARG  N   :   -0.774:       25
+:  1123: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+:  1123: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:  1123: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:  1123: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:  1123: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:  1123: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:  1123: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:  1123: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1123: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1123: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:  1123: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:  1123: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+#sum2 ::12.47 clashscore : 5.99 clashscore B<40 
+#summary::1123 atoms:1002 atoms B<40:135529 potential dots:8471.0 A^2:14 bumps:6 bumps B<40:384.8 score

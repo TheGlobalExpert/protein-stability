@@ -1,0 +1,33 @@
+
+:   675: A   8 TRP  CH2 : A  16 GLY  HA2 :   -1.071:        0
+:   675: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.805:        0
+:   675: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.619:        0
+:   675: A  16 GLY  HA2 : A   8 TRP  CZ2 :   -0.519:        0
+:   675: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.509:        0
+:   675: A  16 GLY  CA  : A   8 TRP  CZ3 :   -0.482:        0
+
+:   675: A  22 GLY  O   : A  23 GLN  HG2 :   -1.038:        0
+:   675: A  23 GLN  HG2 : A  22 GLY  C   :   -0.452:        0
+
+:   675: A   9 PHE  CZ  : A   9 PHE  CD2 :   -1.021:        0
+
+:   675: A  29 HIS  CA  : A  29 HIS  O   :   -0.818:        0
+
+:   675: A  66 GLU  HG3 : A  48 SER  OG  :   -0.745:        0
+
+:   675: A  51 ILE HD11 : A  26 VAL HG21 :   -0.619:        0
+
+:   675: A   5 LYS  HE3 : A  44 GLY  O   :   -0.615:        0
+:   675: A  44 GLY  O   : A   5 LYS  CE  :   -0.433:        0
+
+:   675: A   1 MET  SD  : A  50 GLU  HG3 :   -0.614:        0
+
+:   675: A  18 ILE HG21 : A  49 PHE  CE1 :   -0.553:        0
+
+:   675: A  47 VAL HG12 : A  65 LYS  HA  :   -0.497:        0
+
+:   675: A   7 LYS  O   : A  43 GLU  HG3 :   -0.469:        0
+
+:   675: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.415:        0
+#sum2 ::28.15 clashscore : 28.15 clashscore B<40 
+#summary::675 atoms:675 atoms B<40:80326 potential dots:5020.0 A^2:19 bumps:19 bumps B<40:99.06 score

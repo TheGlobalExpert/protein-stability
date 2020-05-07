@@ -1,0 +1,13 @@
+
+:   877: A  42 ARG  CG  : A  42 ARG  NE  :   -0.833:       13
+:   877: A  42 ARG  NE  : A  42 ARG  CB  :   -0.483:       13
+
+:   877: A  93 ILE HD13 : A  85 VAL HG21 :   -0.643:       27
+
+:   877: A  52 TYR  CZ  : A  28 LYS  HE2 :   -0.634:       23
+
+:   877: A  80 VAL  C   : A  80 VAL  CG1 :   -0.490:       18
+
+:   877: A  96 LEU HD22 : A  61 TYR  CE2 :   -0.435:       30
+#sum2 ::6.84 clashscore : 6.94 clashscore B<40 
+#summary::877 atoms:865 atoms B<40:103426 potential dots:6464.0 A^2:6 bumps:6 bumps B<40:280.8 score

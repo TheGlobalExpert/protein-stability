@@ -1,0 +1,60 @@
+
+:  1604: A 262 TYR  CD1 : A 262 TYR  CZ  :   -1.037:        0
+:  1604: A 262 TYR  O   : A 186 ARG  HD2 :   -0.492:        0
+
+:  1604: A  62 ASN  OD1 : A  64 HIS  CG  :   -0.835:        0
+:  1604: A  62 ASN  OD1 : A  64 HIS  CD2 :   -0.529:        0
+:  1604: A  62 ASN  O   : A  63 SER  CB  :   -0.493:        0
+:  1604: A  62 ASN  OD1 : A  64 HIS  ND1 :   -0.440:        0
+:  1604: A  62 ASN  O   : A  63 SER  OG  :   -0.402:        0
+
+:  1604: A  13 ALA  N   : A  13 ALA  CB  :   -0.827:        0
+
+:  1604: A 193 GLY  CA  : A 193 GLY  O   :   -0.721:        0
+
+:  1604: A 211 GLY  C   : A 211 GLY  N   :   -0.718:        0
+
+:  1604: A 257 LEU  CA  : A 257 LEU  O   :   -0.672:        0
+
+:  1604: A  90 LEU  CD1 : A  73 ALA  HB3 :   -0.629:        0
+
+:  1604: A 221 SER  CB  : A 125 SER  HB3 :   -0.586:        0
+:  1604: A 221 SER  OG  : A 125 SER  HB3 :   -0.456:        0
+
+:  1604: A  74 ALA  CB  : A  81 VAL HG23 :   -0.563:        0
+
+:  1604: A  30 VAL  HB  : A  35 ILE HD11 :   -0.559:        0
+
+:  1604: A 184 ASN  HB2 : A 183 SER  O   :   -0.550:        0
+
+:  1604: A 127 GLY  HA2 : A 167 TYR  O   :   -0.536:        0
+
+:  1604: A 196 LEU HD21 : A 199 MET  SD  :   -0.534:        0
+
+:  1604: A  67 HIS  CD2 : A 207 SER  HB3 :   -0.530:        0
+
+:  1604: A 213 LYS  O   : A  39 HIS  HE1 :   -0.512:        0
+
+:  1604: A 225 PRO  CD  : A 224 SER  HB3 :   -0.477:        0
+:  1604: A  68 VAL HG13 : A 225 PRO  HB3 :   -0.468:        0
+:  1604: A 224 SER  HB3 : A 225 PRO  HD3 :   -0.458:        0
+
+:  1604: A 220 THR  OG1 : A 152 ALA  HB1 :   -0.472:        0
+
+:  1604: A   6 TYR  CD1 : A   6 TYR  C   :   -0.467:        0
+:  1604: A 201 PRO  HB3 : A   6 TYR  CE1 :   -0.427:        0
+:  1604: A 201 PRO  HG2 : A   7 GLY  HA2 :   -0.421:        0
+
+:  1604: A  95 VAL  CG2 : A  96 LEU  HG  :   -0.462:        0
+
+:  1604: A 216 ALA  HA  : A 205 ILE  O   :   -0.456:        0
+
+:  1604: A 181 ASP  C   : A 181 ASP  OD1 :   -0.446:        0
+
+:  1604: A 214 TYR  CE2 : A 208 THR HG22 :   -0.409:        0
+
+:  1604: A 209 LEU HD21 : A 217 TYR  CE2 :   -0.406:        0
+
+:  1604: A 227 VAL  HB  : A 150 VAL HG11 :   -0.402:        0
+#sum2 ::21.20 clashscore : 21.20 clashscore B<40 
+#summary::1604 atoms:1604 atoms B<40:196436 potential dots:12280.0 A^2:34 bumps:34 bumps B<40:541.5 score

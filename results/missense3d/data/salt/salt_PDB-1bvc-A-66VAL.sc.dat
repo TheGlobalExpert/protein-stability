@@ -1,0 +1,30 @@
+
+______________________________________________
+
+SECONDARY STRUCTURE INFORMATION
+-------------------------------
+NO OF HELICES and RESIDUE  =      0     0
+NO OF STRANDS and RESIDUE  =      0     0
+NO OF TURNS   and RESIDUE  =      0     0
+______________________________________________
+Setting cut-off distance to     5.000
+$SALTB    1 GLU A   4 .   LYS A  79        . OE1  NZ       2.968  $INTRA $NO
+$SALTB    2 GLU A   6 .   LYS A 133        . OE1  NZ       2.987  $INTRA $NO
+$SALTB    3 GLU A  18 .   LYS A  77        . OE1  NZ       3.885  $INTRA $NO
+$SALTB    4 ASP A  20 .   ARG A 118        . OD1  NH1      4.969  $INTRA $NO
+$SALTB    5 ASP A  27 .   LYS A  56        . OD1  NZ       2.753  $INTRA $NO
+$SALTB    6 ASP A  27 .   ARG A 118        . OD1  NH2      4.807  $INTRA $NO
+$SALTB    7 GLU A  38 .   HIS A  36        . OE1  ND1      4.977  $INTRA $NO
+$SALTB    8 ASP A  44 .   LYS A  47        . OD1  NZ       2.878  $INTRA $NO
+$SALTB    9 GLU A  52 .   LYS A  34        . OE1  NZ       4.583  $INTRA $NO
+$SALTB   10 GLU A  54 .   LYS A  50        . OE1  NZ       3.872  $INTRA $NO
+$SALTB   11 GLU A  59 .   LYS A  63        . OE2  NZ       4.143  $INTRA $NO
+$SALTB   12 ASP A  60 .   ARG A  45        . OD1  NE       4.745  $INTRA $NO
+$SALTB   13 GLU A  83 .   LYS A  87        . OE2  NZ       4.735  $INTRA $NO
+$SALTB   14 GLU A  83 .   LYS A 145        . OE1  NZ       4.703  $INTRA $NO
+$SALTB   15 GLU A 105 .   ARG A 139        . OE2  NE       4.872  $INTRA $NO
+$SALTB   16 GLU A 109 .   HIS A  36        . OE1  NE2      4.000  $INTRA $NO
+$SALTB   17 ASP A 122 .   HIS A  12        . OD2  ND1      3.591  $INTRA $NO
+$SALTB   18 ASP A 122 .   LYS A  16        . OD1  NZ       3.412  $INTRA $NO
+$SALTB   19 GLU A 136 .   ARG A 139        . OE1  NH1      4.730  $INTRA $NO
+$SALTB   20 ASP A 141 .   HIS A  82        . OD1  NE2      4.772  $INTRA $NO

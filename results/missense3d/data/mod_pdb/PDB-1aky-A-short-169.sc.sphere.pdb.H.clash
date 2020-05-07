@@ -1,0 +1,26 @@
+
+:  1162: A 182 ALA  CA  : A 183 GLN  N   :   -0.859:        0
+:  1162: A 183 GLN  CB  : A 183 GLN  N   :   -0.840:        0
+
+:  1162: A 184 THR  N   : A 184 THR  CB  :   -0.817:        0
+
+:  1162: A  35 THR  OG1 : A  35 THR  CA  :   -0.707:        0
+
+:  1162: A  89 ASP  O   : A  90 GLY  N   :   -0.696:        0
+
+:  1162: A 132 ARG HH11 : A 168 ASP  CG  :   -0.686:        0
+
+:  1162: A  51 LEU  CD2 : A  51 LEU  CA  :   -0.537:        0
+
+:  1162: A 174 LYS  HG3 : A 170 ALA  O   :   -0.509:        0
+
+:  1162: A 175 LYS  HD2 : A  59 GLN  O   :   -0.499:        0
+
+:  1162: A 125 LEU HD21 : A 120 VAL  CG1 :   -0.498:        0
+:  1162: A 125 LEU HD21 : A 120 VAL HG13 :   -0.404:        0
+
+:  1162: A  93 ARG HH21 : A  93 ARG  HD3 :   -0.418:        0
+
+:  1162: A 149 PRO  HD2 : A 148 PRO  HA  :   -0.413:        0
+#sum2 ::11.19 clashscore : 11.19 clashscore B<40 
+#summary::1162 atoms:1162 atoms B<40:140087 potential dots:8755.0 A^2:13 bumps:13 bumps B<40:295.6 score

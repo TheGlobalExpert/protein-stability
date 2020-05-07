@@ -1,0 +1,11 @@
+
+:  1308: A 126 ASP  C   : A 127 ALA  CA  :   -0.984:        7
+
+:  1308: A  11 LEU  CA  : A  11 LEU  CG  :   -0.909:        8
+:  1308: A  11 LEU  CD2 : A  11 LEU  CA  :   -0.496:        8
+
+:  1308: A   4 GLU  CA  : A   4 GLU  O   :   -0.744:        8
+
+:  1308: A 151 TYR  CZ  : A 153 GLY  HA3 :   -0.519:       12
+#sum2 ::3.82 clashscore : 3.82 clashscore B<40 
+#summary::1308 atoms:1308 atoms B<40:155902 potential dots:9744.0 A^2:5 bumps:5 bumps B<40:540.2 score

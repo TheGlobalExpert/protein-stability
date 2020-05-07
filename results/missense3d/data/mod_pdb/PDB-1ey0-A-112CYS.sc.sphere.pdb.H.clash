@@ -1,0 +1,51 @@
+
+:  1564: A  81 ARG  CD  : A  81 ARG  CZ  :   -1.027:        0
+:  1564: A  81 ARG  CZ  : A  81 ARG  CG  :   -0.488:        0
+:  1564: A  81 ARG  CD  : A  81 ARG  NH2 :   -0.478:        0
+:  1564: A  81 ARG  CG  : A  81 ARG  NH2 :   -0.465:        0
+
+:  1564: A  50 GLY  H   : A  46 HIS  HB3 :   -0.953:        0
+:  1564: A  46 HIS  HE1 : A  48 LYS  HB2 :   -0.490:        0
+:  1564: A  46 HIS  ND1 : A  49 LYS  N   :   -0.470:        0
+:  1564: A  48 LYS  HB2 : A  46 HIS  CE1 :   -0.468:        0
+
+:  1564: A 139 ILE HD13 : A  54 TYR  CD2 :   -0.888:        0
+:  1564: A  53 LYS  O   : A  54 TYR  HB2 :   -0.615:        0
+:  1564: A  54 TYR  CD2 : A 139 ILE  CD1 :   -0.570:        0
+:  1564: A 139 ILE HD13 : A 139 ILE  HA  :   -0.475:        0
+
+:  1564: A  17 ALA  C   : A  17 ALA  CB  :   -0.887:        0
+
+:  1564: A  38 LEU  HA  : A 112 CYS  SG  :   -0.876:        0
+:  1564: A  91 TYR  HE1 : A  38 LEU HD12 :   -0.740:        0
+:  1564: A 112 CYS  SG  : A  38 LEU  CA  :   -0.518:        0
+:  1564: A  91 TYR  OH  : A  38 LEU HD11 :   -0.506:        0
+:  1564: A  38 LEU  HG  : A  37 LEU  HB3 :   -0.491:        0
+
+:  1564: A  74 VAL HG12 : A  92 ILE  CD1 :   -0.780:        0
+:  1564: A  74 VAL HG12 : A  92 ILE HD12 :   -0.586:        0
+:  1564: A  74 VAL  CA  : A  73 GLU  O   :   -0.420:        0
+
+:  1564: A 109 ALA  HB2 : A  41 THR HG22 :   -0.710:        0
+
+:  1564: A 129 GLU  O   : A 133 LYS  HG3 :   -0.689:        0
+:  1564: A 133 LYS  HG2 : A 140 TRP  CE2 :   -0.636:        0
+:  1564: A 140 TRP  CD2 : A 133 LYS  HG2 :   -0.519:        0
+
+:  1564: A  84 LYS  NZ  : A  85 TYR  CE2 :   -0.612:        0
+:  1564: A  84 LYS  NZ  : A  85 TYR  CZ  :   -0.601:        0
+:  1564: A  84 LYS  NZ  : A  85 TYR  OH  :   -0.506:        0
+
+:  1564: A  36 LEU  HB3 : A 100 ASN  ND2 :   -0.564:        0
+
+:  1564: A 106 GLN  O   : A 138 ASN  ND2 :   -0.451:        0
+
+:  1564: A  78 LYS  HG3 : A   7 LEU HD21 :   -0.429:        0
+
+:  1564: A 122 GLU  CD  : A 114 VAL HG21 :   -0.420:        0
+
+:  1564: A 117 PRO  HA  : A 116 LYS  CG  :   -0.411:        0
+
+:  1564: A 118 ASN  OD1 : A  77 ASP  HB3 :   -0.408:        0
+#sum2 ::21.74 clashscore : 21.74 clashscore B<40 
+#summary::1564 atoms:1564 atoms B<40:181684 potential dots:11360.0 A^2:34 bumps:34 bumps B<40:380.1 score

@@ -1,0 +1,49 @@
+
+:  1902: A  93 HIS  HB3 : A 146 TYR  OH  :   -1.124:        0
+:  1902: A 146 TYR  OH  : A  93 HIS  CB  :   -0.955:        0
+:  1902: A  94 ALA  HB2 : A 146 TYR  CD1 :   -0.728:        0
+:  1902: A  93 HIS  HB3 : A 146 TYR  HH  :   -0.725:        0
+:  1902: A 146 TYR  OH  : A  93 HIS  HB2 :   -0.418:        0
+
+:  1902: A  73 GLY  CA  : A  14 TRP  CZ2 :   -0.971:        0
+:  1902: A  14 TRP  CZ2 : A  73 GLY  HA3 :   -0.903:        0
+:  1902: A  69 ILE HG23 : A  14 TRP  CH2 :   -0.872:        0
+:  1902: A  14 TRP  CE2 : A  73 GLY  CA  :   -0.626:        0
+:  1902: A  73 GLY  HA3 : A  14 TRP  CE2 :   -0.563:        0
+:  1902: A  73 GLY  HA3 : A  14 TRP  HZ2 :   -0.488:        0
+:  1902: A  14 TRP  CZ2 : A  73 GLY  N   :   -0.485:        0
+:  1902: A  73 GLY  HA2 : A  14 TRP  CE2 :   -0.478:        0
+:  1902: A  69 ILE HG23 : A  14 TRP  HH2 :   -0.447:        0
+
+:  1902: A  43 PHE  CG  : A  46 PHE  CZ  :   -0.772:        0
+:  1902: A  64 HIS  NE2 : A  43 PHE  CE1 :   -0.603:        0
+:  1902: A  43 PHE  HE1 : A  64 HIS  CE1 :   -0.564:        0
+:  1902: A  64 HIS  NE2 : A  43 PHE  HE1 :   -0.553:        0
+:  1902: A  64 HIS  CD2 : A  43 PHE  CE1 :   -0.541:        0
+:  1902: A  46 PHE  CZ  : A  43 PHE  CB  :   -0.520:        0
+:  1902: A  43 PHE  CD1 : A  46 PHE  CZ  :   -0.518:        0
+:  1902: A  46 PHE  CE2 : A  43 PHE  HB3 :   -0.504:        0
+
+:  1902: A  41 GLU  C   : A  41 GLU  N   :   -0.697:        0
+
+:  1902: A  87 LYS  N   : A 145 LYS  HZ2 :   -0.600:        0
+:  1902: A  87 LYS  N   : A 145 LYS  NZ  :   -0.556:        0
+:  1902: A  86 LEU  C   : A 145 LYS  HZ2 :   -0.466:        0
+:  1902: A 145 LYS  HZ2 : A  87 LYS  CA  :   -0.440:        0
+:  1902: A 145 LYS  NZ  : A  87 LYS  CA  :   -0.436:        0
+
+:  1902: A  79 LYS  HA  : A   7 TRP  CZ3 :   -0.572:        0
+:  1902: A   7 TRP  CZ2 : A  79 LYS  C   :   -0.462:        0
+:  1902: A  79 LYS  HA  : A   7 TRP  CH2 :   -0.446:        0
+:  1902: A  79 LYS  HA  : A   7 TRP  CE3 :   -0.400:        0
+
+:  1902: A  22 ALA  HB1 : A  62 LYS  HE3 :   -0.508:        0
+:  1902: A  62 LYS  HE3 : A  22 ALA  CB  :   -0.422:        0
+
+:  1902: A 131 MET  CE  : A  10 VAL HG13 :   -0.500:        0
+
+:  1902: A 123 PHE  CZ  : A 128 GLN  HA  :   -0.485:        0
+
+:  1902: A 111 ILE HG12 : A  28 ILE HD13 :   -0.458:        0
+#sum2 ::19.45 clashscore : 19.45 clashscore B<40 
+#summary::1902 atoms:1902 atoms B<40:221443 potential dots:13840.0 A^2:37 bumps:37 bumps B<40:610.2 score

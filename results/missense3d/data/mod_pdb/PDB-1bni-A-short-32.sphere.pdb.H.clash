@@ -1,0 +1,26 @@
+
+:   643: A  21 PRO  CA  : A  20 LEU  C   :   -1.033:       21
+:   643: A  21 PRO  C   : A  20 LEU  C   :   -0.486:       21
+
+:   643: A  36 VAL  HB  : A  39 LYS  HG3 :   -0.770:       21
+:   643: A  36 VAL  HB  : A  39 LYS  CG  :   -0.528:       21
+
+:   643: A  26 THR  OG1 : A  29 GLU  HG3 :   -0.696:       21
+:   643: A  29 GLU  O   : A  33 LEU  HG  :   -0.434:       13
+
+:   643: A  72 ARG  HG3 : A  55 ILE HD13 :   -0.641:       23
+
+:   643: A  49 LYS  HD2 : A  25 ILE HG23 :   -0.619:       22
+:   643: A  23 ASN  O   : A  49 LYS  HD3 :   -0.568:       22
+:   643: A  25 ILE  O   : A  51 ILE  HA  :   -0.445:       14
+:   643: A  46 ALA  HB1 : A  49 LYS  HG3 :   -0.439:       19
+:   643: A  49 LYS  HD2 : A  25 ILE  CG2 :   -0.423:       22
+:   643: A  46 ALA  N   : A  47 PRO  HD3 :   -0.404:       13
+
+:   643: A  50 SER  O   : A  24 TYR  HA  :   -0.514:       15
+
+:   643: A  52 GLY  HA2 : A  74 ALA  HA  :   -0.438:       11
+
+:   643: A  42 LEU HD23 : A  78 TYR  CE2 :   -0.437:        9
+#sum2 ::24.88 clashscore : 24.88 clashscore B<40 
+#summary::643 atoms:643 atoms B<40:76084 potential dots:4755.0 A^2:16 bumps:16 bumps B<40:131.6 score

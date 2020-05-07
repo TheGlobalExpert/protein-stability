@@ -1,0 +1,25 @@
+
+:  1337: A  60 GLN  OE1 : A  75 SER  HA  :   -1.191:        0
+:  1337: A  60 GLN  OE1 : A  75 SER  CA  :   -0.732:        0
+:  1337: A  60 GLN  CD  : A  57 VAL  HA  :   -0.567:        0
+:  1337: A  60 GLN  NE2 : A  57 VAL  HA  :   -0.408:        0
+
+:  1337: A 117 PRO  HB3 : A 108 ILE HD12 :   -1.080:        0
+:  1337: A 117 PRO  HB3 : A 108 ILE  CD1 :   -0.785:        0
+:  1337: A 116 VAL  HB  : A 117 PRO  HD2 :   -0.465:        0
+
+:  1337: A  18 SER  CA  : A  17 THR  C   :   -0.979:        0
+
+:  1337: A  29 MET  C   : A  29 MET  CB  :   -0.897:        0
+:  1337: A  25 TYR  CZ  : A  29 MET  HG3 :   -0.476:        0
+
+:  1337: A 110 CYS  HB2 : A 115 TYR  CE2 :   -0.589:        0
+:  1337: A 115 TYR  CZ  : A 110 CYS  HB2 :   -0.541:        0
+:  1337: A 110 CYS  CB  : A 115 TYR  CE2 :   -0.492:        0
+:  1337: A 115 TYR  HE2 : A  73 TYR  CE1 :   -0.409:        0
+
+:  1337: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.554:        0
+
+:  1337: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.455:        0
+#sum2 ::11.97 clashscore : 11.97 clashscore B<40 
+#summary::1337 atoms:1337 atoms B<40:156601 potential dots:9788.0 A^2:16 bumps:16 bumps B<40:391.9 score

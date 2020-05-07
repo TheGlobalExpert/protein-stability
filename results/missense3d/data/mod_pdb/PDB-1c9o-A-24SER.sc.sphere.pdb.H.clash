@@ -1,0 +1,24 @@
+
+:   760: A  65 LYS  CG  : A  65 LYS  CA  :   -0.935:        0
+:   760: A  66 LEU  N   : A  66 LEU  CB  :   -0.859:        0
+:   760: A  65 LYS  CA  : A  66 LEU  N   :   -0.847:        0
+:   760: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.635:        0
+
+:   760: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.778:        0
+:   760: A  17 PHE  CD1 : A   8 TRP  CZ2 :   -0.688:        0
+:   760: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.452:        0
+
+:   760: A   5 LYS  HE2 : A  19 GLU  CD  :   -0.761:        0
+:   760: A  19 GLU  OE1 : A   5 LYS  HE2 :   -0.695:        0
+:   760: A  19 GLU  CG  : A   5 LYS  HG3 :   -0.624:        0
+:   760: A   5 LYS  CE  : A  19 GLU  CD  :   -0.573:        0
+:   760: A  19 GLU  OE1 : A   5 LYS  CE  :   -0.542:        0
+:   760: A   5 LYS  HE2 : A  19 GLU  CG  :   -0.424:        0
+:   760: A  19 GLU  HG3 : A   5 LYS  CG  :   -0.420:        0
+:   760: A  19 GLU  CG  : A   5 LYS  CG  :   -0.419:        0
+
+:   760: A   1 MET  SD  : A  50 GLU  HG3 :   -0.673:        0
+
+:   760: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.503:        0
+#sum2 ::22.37 clashscore : 22.37 clashscore B<40 
+#summary::760 atoms:760 atoms B<40:89905 potential dots:5619.0 A^2:17 bumps:17 bumps B<40:145.9 score

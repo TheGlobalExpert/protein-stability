@@ -1,0 +1,31 @@
+
+:   893: A  96 ARG HH21 : A  96 ARG  HG3 :   -0.970:        0
+:   893: A  96 ARG  HG3 : A  96 ARG  NH2 :   -0.836:        0
+:   893: A  96 ARG HH21 : A  96 ARG  CG  :   -0.767:        0
+:   893: A 100 ASP  OD2 : A  96 ARG  N   :   -0.616:        0
+:   893: A 100 ASP  OD1 : A 100 ASP  N   :   -0.565:        0
+
+:   893: A 128 GLY  O   : A 123 ARG  NH2 :   -0.930:        0
+:   893: A 123 ARG HH21 : A 128 GLY  HA2 :   -0.453:        0
+
+:   893: A 101 PHE  CE2 : A 109 PHE  HE2 :   -0.634:        0
+:   893: A 109 PHE  HE2 : A 101 PHE  HE2 :   -0.585:        0
+:   893: A 101 PHE  CE2 : A 124 SER  HB3 :   -0.575:        0
+:   893: A 109 PHE  CE2 : A 101 PHE  HE2 :   -0.459:        0
+:   893: A 101 PHE  CE1 : A 129 GLU  HB2 :   -0.434:        0
+:   893: A 107 GLU  OE2 : A 124 SER  HB2 :   -0.408:        0
+
+:   893: A  93 TYR  HB3 : A 103 PHE  CZ  :   -0.621:        0
+:   893: A 103 PHE  CE1 : A  93 TYR  HB3 :   -0.465:        0
+:   893: A 103 PHE  CZ  : A  93 TYR  CB  :   -0.405:        0
+
+:   893: A  84 VAL  CG1 : A 110 GLN  HG3 :   -0.567:        0
+
+:   893: A 116 GLU  CG  : A 116 GLU  O   :   -0.537:        0
+:   893: A 116 GLU  HG2 : A 116 GLU  O   :   -0.463:        0
+
+:   893: A 132 TYR  HA  : A 120 TRP  O   :   -0.465:        0
+
+:   893: A 111 ILE HG21 : A 114 SER  HB3 :   -0.407:        0
+#sum2 ::23.52 clashscore : 23.52 clashscore B<40 
+#summary::893 atoms:893 atoms B<40:100878 potential dots:6305.0 A^2:21 bumps:21 bumps B<40:198.1 score

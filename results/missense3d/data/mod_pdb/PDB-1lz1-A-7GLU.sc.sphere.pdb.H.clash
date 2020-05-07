@@ -1,0 +1,23 @@
+
+:  1031: A  95 CYS  C   : A  95 CYS  N   :   -0.752:        0
+
+:  1031: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:  1031: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:  1031: A  38 TYR  OH  : A  33 LYS  HD3 :   -0.604:        0
+:  1031: A  33 LYS  CA  : A  38 TYR  CE2 :   -0.431:        0
+:  1031: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:  1031: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:  1031: A 122 ARG  NH2 : A 122 ARG  CG  :   -0.603:        0
+:  1031: A 122 ARG  NH2 : A 122 ARG  CD  :   -0.484:        0
+
+:  1031: A 126 GLN  HA  : A 126 GLN  OE1 :   -0.574:        0
+
+:  1031: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1031: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.499:        0
+:  1031: A  92 ALA  HA  : A  84 LEU HD22 :   -0.455:        0
+
+:  1031: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::13.58 clashscore : 13.58 clashscore B<40 
+#summary::1031 atoms:1031 atoms B<40:122399 potential dots:7650.0 A^2:14 bumps:14 bumps B<40:328.7 score

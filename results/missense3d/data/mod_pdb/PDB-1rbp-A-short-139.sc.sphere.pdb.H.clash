@@ -1,0 +1,71 @@
+
+:  1334: A 146 PRO  N   : A 146 PRO  CD  :   -1.388:        0
+:  1334: A 146 PRO  CD  : A 145 PRO  C   :   -0.507:        0
+
+:  1334: A 135 PHE  HZ  : A  36 PHE  CE1 :   -1.044:        0
+:  1334: A  29 LYS  HD3 : A 135 PHE  CE1 :   -0.919:        0
+:  1334: A 135 PHE  CZ  : A  36 PHE  HE1 :   -0.877:        0
+:  1334: A 135 PHE  CZ  : A  36 PHE  CE1 :   -0.864:        0
+:  1334: A 135 PHE  HE1 : A  29 LYS  HD3 :   -0.771:        0
+:  1334: A 135 PHE  HZ  : A  36 PHE  CZ  :   -0.600:        0
+:  1334: A 169 VAL  O   : A  39 ASP  HB2 :   -0.596:        0
+:  1334: A  36 PHE  CZ  : A 135 PHE  CZ  :   -0.586:        0
+:  1334: A 135 PHE  CE1 : A  29 LYS  CD  :   -0.549:        0
+:  1334: A 135 PHE  CE2 : A  36 PHE  HZ  :   -0.446:        0
+:  1334: A 168 ILE HD11 : A  29 LYS  HB2 :   -0.438:        0
+:  1334: A  36 PHE  CZ  : A 135 PHE  CE2 :   -0.433:        0
+:  1334: A  39 ASP  HA  : A 168 ILE HG23 :   -0.426:        0
+
+:  1334: A  71 ALA  C   : A  72 ASP  CA  :   -0.942:        0
+:  1334: A  72 ASP  CA  : A  73 MET  N   :   -0.942:        0
+:  1334: A  72 ASP  CG  : A  72 ASP  CA  :   -0.859:        0
+
+:  1334: A  13 GLU  CG  : A  13 GLU  CA  :   -0.921:        0
+:  1334: A  13 GLU  CD  : A  13 GLU  H   :   -0.866:        0
+:  1334: A  12 LYS  HD2 : A  13 GLU  OE2 :   -0.750:        0
+:  1334: A  13 GLU  N   : A  13 GLU  CD  :   -0.612:        0
+
+:  1334: A 174 CYS  HB3 : A  58 LYS  HE3 :   -0.862:        0
+:  1334: A  58 LYS  HE3 : A 174 CYS  CB  :   -0.815:        0
+:  1334: A 174 CYS  HB3 : A  58 LYS  CE  :   -0.494:        0
+
+:  1334: A  60 ARG  CA  : A  60 ARG  O   :   -0.789:        0
+
+:  1334: A  52 GLN  O   : A  53 MET  N   :   -0.709:        0
+:  1334: A  52 GLN  O   : A  53 MET  CA  :   -0.415:        0
+
+:  1334: A  19 ARG  NH1 : A 111 TYR  HB2 :   -0.705:        0
+:  1334: A 139 ARG  HD2 : A  24 TRP  CH2 :   -0.671:        0
+:  1334: A  24 TRP  CZ3 : A 139 ARG  HD2 :   -0.626:        0
+:  1334: A  19 ARG  HB3 : A 111 TYR  CD1 :   -0.587:        0
+:  1334: A 111 TYR  O   : A 139 ARG  NH2 :   -0.572:        0
+:  1334: A 139 ARG  CZ  : A  24 TRP  CE2 :   -0.560:        0
+:  1334: A 111 TYR  HB2 : A  19 ARG HH11 :   -0.483:        0
+:  1334: A 139 ARG  NH2 : A  24 TRP  CZ2 :   -0.460:        0
+:  1334: A  19 ARG HH11 : A 111 TYR  HD2 :   -0.424:        0
+:  1334: A 111 TYR  CD2 : A  19 ARG  NE  :   -0.423:        0
+:  1334: A  24 TRP  CH2 : A 139 ARG  CD  :   -0.411:        0
+:  1334: A  19 ARG  NH1 : A 111 TYR  CB  :   -0.405:        0
+
+:  1334: A 115 ALA  HB3 : A 137 PHE  HB2 :   -0.688:        0
+:  1334: A  45 PHE  CE2 : A  20 PHE  HE1 :   -0.670:        0
+:  1334: A  20 PHE  HE1 : A  45 PHE  CZ  :   -0.439:        0
+:  1334: A 115 ALA  HB2 : A  20 PHE  HE2 :   -0.408:        0
+
+:  1334: A 148 ALA  HB3 : A 144 LEU  HB3 :   -0.556:        0
+:  1334: A 144 LEU HD22 : A 114 TYR  HB3 :   -0.463:        0
+
+:  1334: A 118 TYR  N   : A 117 GLN  CD  :   -0.501:        0
+:  1334: A 117 GLN  NE2 : A 118 TYR  C   :   -0.455:        0
+:  1334: A 117 GLN  HG3 : A 104 HIS  CE1 :   -0.449:        0
+
+:  1334: A 136 VAL  HB  : A  28 ALA  HB3 :   -0.482:        0
+
+:  1334: A 154 GLN  HB3 : A 151 ILE  O   :   -0.458:        0
+:  1334: A 151 ILE  O   : A 155 ARG  HG2 :   -0.449:        0
+
+:  1334: A  55 ALA  HA  : A  44 GLU  O   :   -0.453:        0
+
+:  1334: A 167 LEU HD12 : A 167 LEU  HA  :   -0.432:        0
+#sum2 ::40.48 clashscore : 40.48 clashscore B<40 
+#summary::1334 atoms:1334 atoms B<40:162304 potential dots:10140.0 A^2:54 bumps:54 bumps B<40:155.1 score

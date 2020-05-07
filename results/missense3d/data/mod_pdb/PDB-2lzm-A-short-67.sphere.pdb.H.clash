@@ -1,0 +1,39 @@
+
+:  1471: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1471: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1471: A  22 GLU  CA  : A  23 GLY  N   :   -0.905:       25
+:  1471: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1471: A  23 GLY  N   : A  23 GLY  C   :   -0.754:       40
+:  1471: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1471: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+
+:  1471: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1471: A 148 ARG  CB  : A 148 ARG  C   :   -0.848:       18
+:  1471: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1471: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1471: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1471: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+
+:  1471: A  94 VAL  CA  : A  93 ALA  C   :   -0.968:       18
+
+:  1471: A 110 GLY  N   : A 109 THR  CA  :   -0.911:       31
+:  1471: A 109 THR  OG1 : A 109 THR  CA  :   -0.870:       38
+:  1471: A 110 GLY  CA  : A 111 VAL  N   :   -0.855:       24
+
+:  1471: A   5 GLU  OE1 : A   1 MET  HA  :   -0.635:       38
+:  1471: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1471: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1471: A  50 ILE HG22 : A  52 ARG  HG2 :   -0.571:       48
+:  1471: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:  1471: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.496:       48
+:  1471: A  52 ARG  NH1 : A  52 ARG  HG3 :   -0.473:       48
+
+:  1471: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1471: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1471: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:  1471: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+#sum2 ::19.03 clashscore : 11.33 clashscore B<40 
+#summary::1471 atoms:1324 atoms B<40:175926 potential dots:11000.0 A^2:28 bumps:15 bumps B<40:424.4 score

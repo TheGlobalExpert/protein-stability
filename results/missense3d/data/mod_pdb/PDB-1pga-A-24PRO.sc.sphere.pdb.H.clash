@@ -1,0 +1,37 @@
+
+:   713: A  52 PHE  CE1 : A  45 TYR  CD1 :   -1.112:        0
+:   713: A  52 PHE  CE1 : A  45 TYR  CE1 :   -1.052:        0
+:   713: A  52 PHE  CZ  : A  45 TYR  CD1 :   -1.030:        0
+:   713: A  52 PHE  CD1 : A  45 TYR  CD1 :   -0.640:        0
+:   713: A  45 TYR  HD1 : A  52 PHE  CD1 :   -0.639:        0
+:   713: A  45 TYR  CE1 : A  52 PHE  CZ  :   -0.603:        0
+:   713: A  45 TYR  HB2 : A  52 PHE  CE2 :   -0.577:        0
+:   713: A  45 TYR  CE1 : A  52 PHE  HE1 :   -0.551:        0
+:   713: A  52 PHE  CZ  : A  45 TYR  CG  :   -0.527:        0
+:   713: A  45 TYR  CD1 : A  52 PHE  CE2 :   -0.466:        0
+:   713: A  45 TYR  HB2 : A  52 PHE  CD2 :   -0.433:        0
+
+:   713: A  22 ASP  CG  : A  24 PRO  HD2 :   -0.847:        0
+:   713: A  22 ASP  OD1 : A  24 PRO  HD2 :   -0.577:        0
+:   713: A  24 PRO  CD  : A  23 ALA  N   :   -0.541:        0
+:   713: A  24 PRO  HD2 : A  22 ASP  CB  :   -0.529:        0
+:   713: A  22 ASP  OD1 : A  22 ASP  C   :   -0.412:        0
+
+:   713: A  37 ASN  N   : A  37 ASN  CB  :   -0.829:        0
+
+:   713: A  15 GLU  CD  : A   4 LYS  HD2 :   -0.820:        0
+:   713: A   4 LYS  HD2 : A  15 GLU  OE2 :   -0.781:        0
+:   713: A  14 GLY  O   : A  15 GLU  N   :   -0.662:        0
+:   713: A  15 GLU  CG  : A   4 LYS  HD2 :   -0.555:        0
+:   713: A   4 LYS  CD  : A  15 GLU  CD  :   -0.545:        0
+:   713: A   3 TYR  O   : A  17 THR  HA  :   -0.446:        0
+:   713: A  15 GLU  OE2 : A   4 LYS  CD  :   -0.414:        0
+:   713: A   4 LYS  HA  : A  17 THR  HA  :   -0.403:        0
+
+:   713: A  43 TRP  CE2 : A  54 VAL  HB  :   -0.535:        0
+:   713: A  53 THR  O   : A  43 TRP  HA  :   -0.442:        0
+:   713: A   6 ILE  O   : A  53 THR  HA  :   -0.401:        0
+
+:   713: A  21 VAL HG22 : A  21 VAL  H   :   -0.429:        0
+#sum2 ::40.67 clashscore : 40.67 clashscore B<40 
+#summary::713 atoms:713 atoms B<40:82314 potential dots:5145.0 A^2:29 bumps:29 bumps B<40:86.75 score

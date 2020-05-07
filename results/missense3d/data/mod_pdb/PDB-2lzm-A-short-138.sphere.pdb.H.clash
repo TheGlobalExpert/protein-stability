@@ -1,0 +1,32 @@
+
+:  1328: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1328: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1328: A  22 GLU  N   : A  20 ASP  HB3 :   -0.797:       42
+:  1328: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1328: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+:  1328: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1328: A 137 ARG  CZ  : A 141 GLN  HG2 :   -0.450:       39
+
+:  1328: A 148 ARG  HD3 : A 164 LEU  CD2 :   -0.991:       50
+:  1328: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1328: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1328: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1328: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+
+:  1328: A  70 ASP  C   : A  71 VAL  CA  :   -0.921:       18
+:  1328: A  71 VAL  CA  : A  71 VAL  CG2 :   -0.911:       15
+:  1328: A  70 ASP  CB  : A  70 ASP  C   :   -0.907:       18
+
+:  1328: A 156 GLY  N   : A 155 THR  CA  :   -0.856:       27
+
+:  1328: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1328: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1328: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1328: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1328: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1328: A  94 VAL  CG1 : A  94 VAL  C   :   -0.415:       17
+#sum2 ::16.57 clashscore : 8.20 clashscore B<40 
+#summary::1328 atoms:1220 atoms B<40:164310 potential dots:10270.0 A^2:22 bumps:10 bumps B<40:386.1 score

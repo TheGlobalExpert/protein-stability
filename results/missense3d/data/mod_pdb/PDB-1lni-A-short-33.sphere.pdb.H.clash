@@ -1,0 +1,23 @@
+
+:  1146: A  27 PRO  CA  : A  27 PRO  CB  :   -1.477:       13
+:  1146: A  27 PRO  CA  : A  27 PRO  N   :   -1.305:       12
+:  1146: A  27 PRO  CA  : A  27 PRO  CG  :   -0.774:       18
+:  1146: A  27 PRO  CA  : A  26 GLY  C   :   -0.551:       11
+:  1146: A  26 GLY  CA  : A  27 PRO  CA  :   -0.530:       10
+:  1146: A  27 PRO  CB  : A  27 PRO  C   :   -0.431:       13
+
+:  1146: A  77 GLN  CB  : A  77 GLN  CD  :   -0.821:       10
+
+:  1146: A  41 GLU  CB  : A  41 GLU  N   :   -0.812:        9
+
+:  1146: A   8 LEU  O   : A   8 LEU  CA  :   -0.745:        7
+
+:  1146: A  48 SER  CA  : A  48 SER  OG  :   -0.722:       26
+
+:  1146: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:  1146: A  29 PRO  HD3 : A  21 LEU HD13 :   -0.431:       12
+
+:  1146: A  35 VAL HG11 : A  32 GLN  OE1 :   -0.408:       11
+#sum2 ::11.34 clashscore : 11.34 clashscore B<40 
+#summary::1146 atoms:1146 atoms B<40:136021 potential dots:8501.0 A^2:13 bumps:13 bumps B<40:340.9 score

@@ -1,0 +1,42 @@
+
+:   812: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:   812: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:   812: A 106 MET  CG  : A 111 VAL HG23 :   -0.934:        0
+:   812: A 111 VAL HG23 : A 106 MET  SD  :   -0.634:        0
+:   812: A 111 VAL HG23 : A 106 MET  HG2 :   -0.614:        0
+:   812: A 106 MET  CG  : A 111 VAL  CG2 :   -0.485:        0
+:   812: A 106 MET  HE3 : A 106 MET  HB3 :   -0.454:        0
+
+:   812: A   4 PHE  CD1 : A   4 PHE  CD2 :   -1.034:        0
+
+:   812: A  66 LEU  C   : A  67 PHE  CA  :   -0.986:        0
+:   812: A  67 PHE  CA  : A  67 PHE  CD2 :   -0.601:        0
+
+:   812: A 108 GLU  OE2 : A  77 GLY  O   :   -0.959:        0
+:   812: A  77 GLY  C   : A 108 GLU  OE2 :   -0.859:        0
+:   812: A  77 GLY  CA  : A 108 GLU  OE2 :   -0.730:        0
+
+:   812: A  94 VAL  C   : A  94 VAL  N   :   -0.746:        0
+
+:   812: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.715:        0
+:   812: A  86 PRO  HD2 : A  85 LYS  N   :   -0.571:        0
+:   812: A  85 LYS  HB3 : A  86 PRO  CD  :   -0.463:        0
+:   812: A  85 LYS  N   : A  86 PRO  CD  :   -0.445:        0
+
+:   812: A 116 ASN  C   : A 116 ASN  N   :   -0.660:        0
+
+:   812: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:   812: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:   812: A  81 ASN  CB  : A  84 LEU HD12 :   -0.566:        0
+:   812: A  84 LEU HD12 : A  81 ASN  HB3 :   -0.440:        0
+
+:   812: A  75 VAL  O   : A  79 LEU  HG  :   -0.559:        0
+
+:   812: A  87 VAL HG22 : A 122 GLN  HG3 :   -0.551:        0
+
+:   812: A 114 PHE  O   : A 118 LEU  HG  :   -0.475:        0
+
+:   812: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+#sum2 ::33.25 clashscore : 33.25 clashscore B<40 
+#summary::812 atoms:812 atoms B<40:98450 potential dots:6153.0 A^2:27 bumps:27 bumps B<40:122.4 score

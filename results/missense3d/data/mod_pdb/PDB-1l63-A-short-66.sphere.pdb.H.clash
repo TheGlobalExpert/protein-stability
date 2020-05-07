@@ -1,0 +1,23 @@
+
+:  1326: A  38 SER  C   : A  39 LEU  CA  :   -0.966:       25
+
+:  1326: A  22 GLU  N   : A  21 THR  CA  :   -0.853:       30
+:  1326: A  22 GLU  CB  : A  22 GLU  N   :   -0.819:       23
+:  1326: A  23 GLY  C   : A  23 GLY  N   :   -0.697:       43
+:  1326: A  22 GLU  N   : A  23 GLY  N   :   -0.468:       29
+
+:  1326: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1326: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1326: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1326: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1326: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1326: A  79 LEU  CB  : A  79 LEU  N   :   -0.725:       25
+
+:  1326: A  98 ALA  C   : A  98 ALA  N   :   -0.725:       19
+
+:  1326: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1326: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::10.56 clashscore : 5.94 clashscore B<40 
+#summary::1326 atoms:1179 atoms B<40:157071 potential dots:9817.0 A^2:14 bumps:7 bumps B<40:419.9 score

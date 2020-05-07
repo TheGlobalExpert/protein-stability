@@ -1,0 +1,27 @@
+
+:   869: A 100 VAL  CA  : A 100 VAL  CG1 :   -0.975:       20
+:   869: A 100 VAL  CG1 : A 100 VAL  C   :   -0.433:       19
+
+:   869: A  15 SER  CA  : A  15 SER  O   :   -0.747:       29
+
+:   869: A 163 SER  CA  : A 163 SER  OG  :   -0.713:       46
+
+:   869: A 109 THR  CA  : A 109 THR  OG1 :   -0.707:       30
+
+:   869: A  18 ASN  HB3 : A 160 LEU HD13 :   -0.594:       29
+
+:   869: A 165 VAL  CG2 : A 162 SER  HB3 :   -0.553:       33
+:   869: A 162 SER  HB3 : A 165 VAL HG23 :   -0.483:       33
+:   869: A 162 SER  CB  : A 165 VAL HG23 :   -0.401:       33
+
+:   869: A 105 ALA  O   : A 108 LEU  HB2 :   -0.539:       26
+
+:   869: A 110 THR  O   : A 107 ARG  HA  :   -0.500:       30
+
+:   869: A  44 LYS  O   : A  12 ILE HG23 :   -0.472:       45
+
+:   869: A 103 GLY  O   : A  77 SER  HA  :   -0.436:       28
+
+:   869: A 106 ASN  H   : A 104 GLY  C   :   -0.429:       24
+#sum2 ::16.11 clashscore : 14.78 clashscore B<40 
+#summary::869 atoms:812 atoms B<40:107509 potential dots:6719.0 A^2:14 bumps:12 bumps B<40:287.3 score

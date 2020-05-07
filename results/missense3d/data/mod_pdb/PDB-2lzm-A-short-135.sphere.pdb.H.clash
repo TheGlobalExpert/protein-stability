@@ -1,0 +1,21 @@
+
+:   986: A  83 LYS  C   : A  83 LYS  CB  :   -0.963:       21
+:   986: A  84 LEU  CA  : A  83 LYS  C   :   -0.942:       21
+:   986: A  83 LYS  CD  : A  83 LYS  NZ  :   -0.836:       55
+
+:   986: A 122 GLN  CG  : A 122 GLN  NE2 :   -0.912:       47
+
+:   986: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:   986: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:   986: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:   986: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:   986: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:   986: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:   986: A 137 ARG  CZ  : A 141 GLN  HG2 :   -0.450:       39
+
+:   986: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::12.17 clashscore : 4.51 clashscore B<40 
+#summary::986 atoms:886 atoms B<40:118297 potential dots:7394.0 A^2:12 bumps:4 bumps B<40:283.8 score

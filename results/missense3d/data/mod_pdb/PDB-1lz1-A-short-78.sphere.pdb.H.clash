@@ -1,0 +1,24 @@
+
+:   939: A  50 ARG  CA  : A  49 ASP  C   :   -0.937:       28
+:   939: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   939: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   939: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+:   939: A  49 ASP  C   : A  50 ARG  CB  :   -0.419:       25
+
+:   939: A  44 ASN  C   : A  44 ASN  N   :   -0.768:       16
+
+:   939: A  42 ALA  C   : A  42 ALA  N   :   -0.733:       16
+
+:   939: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   939: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   939: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:   939: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:   939: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:   939: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:   939: A 103 PRO  HD2 : A 102 ASP  HB3 :   -0.402:       88
+#sum2 ::14.91 clashscore : 9.38 clashscore B<40 
+#summary::939 atoms:853 atoms B<40:115151 potential dots:7197.0 A^2:14 bumps:8 bumps B<40:303.1 score

@@ -1,0 +1,15 @@
+
+:  1291: A  37 LYS  CD  : A  37 LYS  CB  :   -0.994:       60
+:  1291: A  36 THR  CG2 : A  36 THR  CA  :   -0.911:       23
+:  1291: A  37 LYS  N   : A  36 THR  CA  :   -0.865:       19
+:  1291: A  37 LYS  CB  : A  37 LYS  N   :   -0.851:       33
+:  1291: A  37 LYS  CD  : A  37 LYS  NZ  :   -0.803:       74
+
+:  1291: A  97 TYR  OH  : A  97 TYR  CE1 :   -0.739:       14
+
+:  1291: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.502:       29
+:  1291: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.426:       29
+
+:  1291: A  29 MET  HG3 : A  25 TYR  CZ  :   -0.402:       15
+#sum2 ::6.97 clashscore : 5.66 clashscore B<40 
+#summary::1291 atoms:1237 atoms B<40:154734 potential dots:9671.0 A^2:9 bumps:7 bumps B<40:400.4 score

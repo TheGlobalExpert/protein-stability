@@ -1,0 +1,29 @@
+
+:  1310: A  81 CYS  C   : A  81 CYS  CB  :   -0.894:       29
+
+:  1310: A   1 MET  C   : A   1 MET  CB  :   -0.884:       74
+:  1310: A   1 MET  CB  : A   1 MET  O   :   -0.431:       74
+
+:  1310: A 177 LEU  N   : A 176 LEU  CA  :   -0.873:       23
+
+:  1310: A   3 ARG  CB  : A   3 ARG  N   :   -0.852:       28
+
+:  1310: A 207 PRO  C   : A 207 PRO  N   :   -0.693:       24
+
+:  1310: A   2 GLU  OE1 : A   2 GLU  HA  :   -0.650:       78
+
+:  1310: A 134 GLU  OE2 : A 133 VAL HG12 :   -0.603:       67
+:  1310: A 135 GLU  OE1 : A 134 GLU  HB2 :   -0.553:       68
+:  1310: A 152 PHE  CD1 : A 133 VAL HG23 :   -0.418:       32
+:  1310: A 134 GLU  CD  : A 134 GLU  H   :   -0.402:       65
+
+:  1310: A  52 ILE  CD1 : A  99 LEU HD13 :   -0.576:       43
+
+:  1310: A 125 SER  HB2 : A 151 ILE HD11 :   -0.535:       22
+
+:  1310: A 105 LEU HD23 : A 101 MET  HE3 :   -0.497:       41
+:  1310: A 105 LEU HD13 : A  54 PHE  CD1 :   -0.444:       50
+
+:  1310: A  85 LEU HD12 : A  82 PHE  HA  :   -0.405:       23
+#sum2 ::12.21 clashscore : 6.01 clashscore B<40 
+#summary::1310 atoms:1165 atoms B<40:158067 potential dots:9879.0 A^2:16 bumps:7 bumps B<40:378.7 score

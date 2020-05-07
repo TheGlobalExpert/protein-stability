@@ -1,0 +1,61 @@
+
+:   996: A  95 ARG  NH1 : A 126 TRP  CZ2 :   -1.339:        0
+:   996: A  95 ARG  CZ  : A 126 TRP  CZ2 :   -1.309:        0
+:   996: A 126 TRP  CE2 : A  95 ARG  NH1 :   -1.279:        0
+:   996: A  95 ARG  CZ  : A 126 TRP  CE2 :   -1.076:        0
+:   996: A  95 ARG  NE  : A 126 TRP  NE1 :   -0.790:        0
+:   996: A  95 ARG  NH1 : A 126 TRP  CH2 :   -0.789:        0
+:   996: A  95 ARG  NH2 : A 126 TRP  CZ2 :   -0.757:        0
+:   996: A  95 ARG  CZ  : A 126 TRP  HZ2 :   -0.692:        0
+:   996: A  95 ARG  NH2 : A 126 TRP  HZ2 :   -0.678:        0
+:   996: A  95 ARG  CZ  : A 126 TRP  NE1 :   -0.642:        0
+:   996: A  95 ARG  NH1 : A 126 TRP  CD2 :   -0.632:        0
+:   996: A  95 ARG  NE  : A 126 TRP  HE1 :   -0.594:        0
+:   996: A  92 ASP  OD2 : A  95 ARG  NH2 :   -0.499:        0
+:   996: A  92 ASP  OD1 : A  92 ASP  C   :   -0.457:        0
+
+:   996: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:   996: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:   996: A 111 VAL HG23 : A 106 MET  SD  :   -0.719:        0
+
+:   996: A 119 ARG  HB3 : A 119 ARG HH21 :   -1.038:        0
+:   996: A 119 ARG  NH2 : A 119 ARG  HB3 :   -0.727:        0
+:   996: A 119 ARG  CD  : A 123 GLN  NE2 :   -0.466:        0
+:   996: A 123 GLN  NE2 : A 119 ARG  HD2 :   -0.433:        0
+
+:   996: A   6 MET  CE  : A 161 TYR  OH  :   -0.956:        0
+:   996: A 161 TYR  CZ  : A   6 MET  CE  :   -0.851:        0
+:   996: A   6 MET  CE  : A 161 TYR  CE2 :   -0.832:        0
+:   996: A   6 MET  CE  : A 161 TYR  HE2 :   -0.475:        0
+
+:   996: A  81 ASN  CB  : A  81 ASN  C   :   -0.897:        0
+:   996: A  81 ASN  CB  : A  84 LEU HD12 :   -0.566:        0
+
+:   996: A  79 LEU  CA  : A  79 LEU  CG  :   -0.889:        0
+
+:   996: A 136 SER  CB  : A 136 SER  N   :   -0.828:        0
+
+:   996: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.715:        0
+:   996: A  86 PRO  HD2 : A  85 LYS  N   :   -0.571:        0
+:   996: A  85 LYS  HB3 : A  86 PRO  CD  :   -0.463:        0
+:   996: A  85 LYS  N   : A  86 PRO  CD  :   -0.445:        0
+
+:   996: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:   996: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:   996: A  87 VAL HG22 : A 122 GLN  HG3 :   -0.551:        0
+:   996: A  87 VAL  O   : A  91 LEU  HG  :   -0.447:        0
+
+:   996: A 146 ALA  CA  : A 138 TRP  CZ2 :   -0.541:        0
+
+:   996: A 114 PHE  O   : A 118 LEU  HG  :   -0.475:        0
+
+:   996: A 151 THR  HA  : A 154 ARG  CZ  :   -0.472:        0
+:   996: A 154 ARG  NH1 : A 151 THR  HA  :   -0.454:        0
+:   996: A 151 THR  OG1 : A 154 ARG  NH1 :   -0.406:        0
+
+:   996: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+
+:   996: A 132 ASN  OD1 : A 117 SER  OG  :   -0.402:        0
+#sum2 ::44.18 clashscore : 44.18 clashscore B<40 
+#summary::996 atoms:996 atoms B<40:119649 potential dots:7478.0 A^2:44 bumps:44 bumps B<40:108.6 score

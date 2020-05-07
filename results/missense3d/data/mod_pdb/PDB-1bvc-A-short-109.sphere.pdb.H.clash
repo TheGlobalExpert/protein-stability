@@ -1,0 +1,18 @@
+
+:  1675: A  97 HIS  C   : A  97 HIS  CB  :   -0.912:       10
+
+:  1675: A  52 GLU  O   : A  52 GLU  CA  :   -0.752:       15
+:  1675: A  51 THR  O   : A  52 GLU  N   :   -0.685:       16
+:  1675: A  51 THR  O   : A  52 GLU  CA  :   -0.420:       16
+
+:  1675: A  12 HIS  CB  : A  12 HIS  ND1 :   -0.710:       17
+
+:  1675: A   8 GLN  C   : A   8 GLN  N   :   -0.685:        7
+
+:  1675: A  60 ASP  O   : A  61 LEU  N   :   -0.684:        6
+:  1675: A  60 ASP  O   : A  61 LEU  CA  :   -0.417:        6
+
+:  1675: A 153 GLY  N   : A 152 GLN  O   :   -0.683:       12
+:  1675: A 151 TYR  CZ  : A 153 GLY  HA3 :   -0.519:       12
+#sum2 ::5.97 clashscore : 5.97 clashscore B<40 
+#summary::1675 atoms:1675 atoms B<40:198845 potential dots:12430.0 A^2:10 bumps:10 bumps B<40:690 score

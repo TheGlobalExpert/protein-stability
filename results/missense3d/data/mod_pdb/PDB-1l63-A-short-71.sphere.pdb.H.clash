@@ -1,0 +1,36 @@
+
+:  1587: A  17 ILE  CG1 : A  17 ILE  CA  :   -0.974:       25
+:  1587: A  17 ILE  CA  : A  16 LYS  C   :   -0.949:       19
+:  1587: A  18 TYR  C   : A  18 TYR  CB  :   -0.880:       19
+:  1587: A  17 ILE  CA  : A  18 TYR  N   :   -0.865:       16
+:  1587: A  18 TYR  N   : A  18 TYR  C   :   -0.810:       19
+:  1587: A  16 LYS  C   : A  16 LYS  N   :   -0.777:       19
+:  1587: A  18 TYR  CB  : A  18 TYR  N   :   -0.751:       17
+
+:  1587: A 133 LEU  CD2 : A 133 LEU  CD1 :   -0.970:       18
+
+:  1587: A 160 ALA  CB  : A 160 ALA  C   :   -0.911:       19
+
+:  1587: A  21 THR  CA  : A  22 GLU  N   :   -0.853:       30
+:  1587: A  22 GLU  CB  : A  22 GLU  N   :   -0.819:       23
+
+:  1587: A 114 PHE  CB  : A 114 PHE  N   :   -0.816:       24
+
+:  1587: A  47 ASP  N   : A  47 ASP  C   :   -0.722:       21
+
+:  1587: A  90 SER  OG  : A  90 SER  CA  :   -0.715:       15
+
+:  1587: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1587: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1587: A   5 GLU  OE1 : A   1 MET  HA  :   -0.440:       45
+
+:  1587: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1587: A  85 LYS  N   : A  86 PRO  CD  :   -0.462:       24
+
+:  1587: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1587: A 142 THR  O   : A 142 THR  CB  :   -0.488:       19
+
+:  1587: A  96 ARG  HG3 : A  92 ASP  O   :   -0.411:       14
+#sum2 ::13.86 clashscore : 13.51 clashscore B<40 
+#summary::1587 atoms:1480 atoms B<40:192052 potential dots:12000.0 A^2:22 bumps:20 bumps B<40:426.4 score

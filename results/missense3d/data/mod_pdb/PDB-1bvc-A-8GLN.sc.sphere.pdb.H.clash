@@ -1,0 +1,27 @@
+
+:  1004: A 140 LYS  CD  : A 140 LYS  CB  :   -0.989:        0
+:  1004: A 139 ARG  CA  : A 139 ARG  CG  :   -0.929:        0
+:  1004: A 139 ARG  CA  : A 140 LYS  N   :   -0.858:        0
+:  1004: A 140 LYS  N   : A 140 LYS  CB  :   -0.850:        0
+
+:  1004: A  85 GLU  CA  : A  86 LEU  N   :   -0.888:        0
+
+:  1004: A  14 TRP  HH2 : A  72 LEU HD23 :   -0.756:        0
+:  1004: A  14 TRP  HE1 : A  73 GLY  HA3 :   -0.660:        0
+:  1004: A  73 GLY  CA  : A  14 TRP  NE1 :   -0.619:        0
+:  1004: A  14 TRP  HH2 : A  72 LEU  CD2 :   -0.603:        0
+:  1004: A  73 GLY  CA  : A  14 TRP  HE1 :   -0.560:        0
+:  1004: A  73 GLY  HA2 : A  14 TRP  NE1 :   -0.557:        0
+:  1004: A  76 LEU  CD1 : A  14 TRP  CZ3 :   -0.487:        0
+:  1004: A  76 LEU  CD1 : A  14 TRP  CE3 :   -0.477:        0
+:  1004: A  72 LEU  HG  : A  14 TRP  CH2 :   -0.447:        0
+:  1004: A  73 GLY  HA2 : A  14 TRP  CE2 :   -0.440:        0
+:  1004: A  76 LEU HD12 : A  14 TRP  CD2 :   -0.426:        0
+
+:  1004: A  10 VAL HG13 : A 131 MET  CE  :   -0.500:        0
+
+:  1004: A 128 GLN  HA  : A 123 PHE  CZ  :   -0.485:        0
+
+:  1004: A  11 LEU HD21 : A  77 LYS  HA  :   -0.465:        0
+#sum2 ::18.92 clashscore : 18.92 clashscore B<40 
+#summary::1004 atoms:1004 atoms B<40:120576 potential dots:7536.0 A^2:19 bumps:19 bumps B<40:255.5 score

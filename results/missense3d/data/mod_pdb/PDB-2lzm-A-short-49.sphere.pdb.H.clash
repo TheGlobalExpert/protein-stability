@@ -1,0 +1,30 @@
+
+:  1048: A   8 ARG  CD  : A   8 ARG  CB  :   -1.266:       47
+:  1048: A   8 ARG  CA  : A   7 LEU  C   :   -1.140:       21
+:  1048: A   7 LEU  C   : A   7 LEU  CB  :   -0.922:       21
+:  1048: A   8 ARG  CA  : A   7 LEU  O   :   -0.667:       20
+
+:  1048: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1048: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1048: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+
+:  1048: A  75 VAL  CA  : A  76 ARG  N   :   -0.869:       21
+
+:  1048: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.650:       48
+:  1048: A  43 LYS  HD3 : A  39 LEU  O   :   -0.441:       42
+
+:  1048: A  41 ALA  H   : A  38 SER  HB2 :   -0.643:       26
+
+:  1048: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.571:       48
+:  1048: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:  1048: A  50 ILE  CG2 : A  52 ARG  HG2 :   -0.496:       48
+:  1048: A  52 ARG  HG3 : A  52 ARG  NH1 :   -0.473:       48
+
+:  1048: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1048: A 103 VAL  C   : A 103 VAL  CG1 :   -0.534:       13
+
+:  1048: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:  1048: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+#sum2 ::18.13 clashscore : 11.16 clashscore B<40 
+#summary::1048 atoms:896 atoms B<40:122459 potential dots:7654.0 A^2:19 bumps:10 bumps B<40:243.9 score

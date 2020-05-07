@@ -1,0 +1,40 @@
+
+:   710: A  46 VAL HG22 : A  31 LEU HD22 :   -0.991:        0
+:   710: A  46 VAL HG22 : A  31 LEU  CD2 :   -0.907:        0
+:   710: A  31 LEU HD22 : A  46 VAL  CG2 :   -0.841:        0
+
+:   710: A  33 LEU  CA  : A  33 LEU  CG  :   -0.892:        0
+:   710: A  33 LEU  CD1 : A  33 LEU  CA  :   -0.486:        0
+
+:   710: A  51 GLY  HA3 : A  23 VAL HG13 :   -0.842:        0
+:   710: A  51 GLY  CA  : A  23 VAL HG13 :   -0.578:        0
+:   710: A  51 GLY  HA3 : A  23 VAL  CG1 :   -0.563:        0
+
+:   710: A  30 ILE  C   : A  30 ILE  N   :   -0.820:        0
+
+:   710: A  48 ASP  OD1 : A  47 ASN  HB3 :   -0.768:        0
+:   710: A  48 ASP  OD1 : A  48 ASP  N   :   -0.554:        0
+:   710: A  48 ASP  H   : A  47 ASN  HB3 :   -0.423:        0
+
+:   710: A  32 THR  N   : A  32 THR  C   :   -0.763:        0
+
+:   710: A  39 LYS  HE2 : A  40 ASP  OD1 :   -0.607:        0
+:   710: A  40 ASP  HB2 : A  41 TRP  HD1 :   -0.426:        0
+:   710: A  22 GLU  HG2 : A  41 TRP  HZ3 :   -0.412:        0
+
+:   710: A  54 PRO  HD3 : A  15 TYR  CZ  :   -0.578:        0
+:   710: A  25 MET  HG2 : A  15 TYR  HB3 :   -0.547:        0
+:   710: A  24 THR HG23 : A  15 TYR  O   :   -0.462:        0
+
+:   710: A  58 VAL HG21 : A  42 TRP  CE3 :   -0.541:        0
+:   710: A  58 VAL  CG2 : A  42 TRP  CE3 :   -0.487:        0
+:   710: A  58 VAL HG21 : A  42 TRP  HE3 :   -0.469:        0
+:   710: A  58 VAL  CG2 : A  42 TRP  CZ3 :   -0.423:        0
+
+:   710: A  44 VAL  O   : A  50 GLN  HA  :   -0.502:        0
+
+:   710: A  45 GLU  HA  : A  49 ARG  O   :   -0.455:        0
+
+:   710: A  10 LEU  CA  : A   9 VAL  O   :   -0.435:        0
+#sum2 ::36.62 clashscore : 36.62 clashscore B<40 
+#summary::710 atoms:710 atoms B<40:84137 potential dots:5259.0 A^2:26 bumps:26 bumps B<40:89.11 score

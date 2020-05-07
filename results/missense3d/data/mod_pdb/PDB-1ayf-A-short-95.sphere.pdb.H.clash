@@ -1,0 +1,33 @@
+
+:  1371: A  84 LEU  CA  : A  84 LEU  CG  :   -0.878:       24
+:  1371: A  84 LEU  CA  : A  85 THR  N   :   -0.872:       18
+:  1371: A  85 THR  N   : A  88 SER  HG  :   -0.646:       17
+
+:  1371: A 108 PRO  O   : A 108 PRO  CA  :   -0.737:       25
+:  1371: A 108 PRO  HG3 : A  56 HIS  CE1 :   -0.540:       20
+:  1371: A 108 PRO  HB3 : A  58 ILE HD11 :   -0.461:       18
+:  1371: A 106 ARG  HB3 : A  58 ILE  HB  :   -0.449:       12
+
+:  1371: A  77 MET  HG3 : A  52 CYS  O   :   -0.635:       35
+:  1371: A  90 LEU HD11 : A  77 MET  HB3 :   -0.626:       32
+:  1371: A  55 CYS  SG  : A  90 LEU  HB3 :   -0.444:       18
+:  1371: A  90 LEU HD12 : A  74 GLU  HG3 :   -0.412:       23
+
+:  1371: A  18 THR  CG2 : A  18 THR  C   :   -0.557:       31
+
+:  1371: A  36 ASN  HB2 : A  38 LEU HD13 :   -0.519:       40
+:  1371: A  32 VAL  O   : A  36 ASN  ND2 :   -0.457:       44
+:  1371: A  28 SER  O   : A  32 VAL HG23 :   -0.444:       28
+:  1371: A  95 CYS  HA  : A  28 SER  HA  :   -0.436:       24
+
+:  1371: A  27 ASP  HB2 : A  24 LYS  O   :   -0.505:       38
+:  1371: A  24 LYS  H   : A  24 LYS  HG3 :   -0.441:       50
+
+:  1371: A 101 ASP  HA  : A   7 ILE  HB  :   -0.481:       43
+:  1371: A  96 LEU HD22 : A   7 ILE HD11 :   -0.413:       40
+
+:  1371: A  19 LEU  HB2 : A  11 PHE  HB2 :   -0.477:       31
+
+:  1371: A  68 GLU  HG2 : A  68 GLU  O   :   -0.452:       28
+#sum2 ::16.05 clashscore : 14.27 clashscore B<40 
+#summary::1371 atoms:1261 atoms B<40:160100 potential dots:10010.0 A^2:22 bumps:18 bumps B<40:449.5 score

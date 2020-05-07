@@ -1,0 +1,18 @@
+
+:  1051: A  99 VAL  CG1 : A  99 VAL  CG2 :   -1.015:       35
+
+:  1051: A  27 VAL  C   : A  28 CYS  CA  :   -0.984:       29
+
+:  1051: A  89 ILE  CA  : A  89 ILE  CG1 :   -0.983:       27
+
+:  1051: A  74 ASN  C   : A  74 ASN  N   :   -0.710:       30
+
+:  1051: A   1 GLU  HB3 : A  38 THR  OG1 :   -0.564:       56
+
+:  1051: A  63 ASP  OD2 : A  50 TYR  OH  :   -0.469:       27
+
+:  1051: A  56 ASN  OD1 : A  56 ASN  C   :   -0.469:       45
+
+:  1051: A  48 THR  HA  : A  42 VAL  O   :   -0.404:       29
+#sum2 ::7.61 clashscore : 6.76 clashscore B<40 
+#summary::1051 atoms:888 atoms B<40:129991 potential dots:8124.0 A^2:8 bumps:6 bumps B<40:353.3 score

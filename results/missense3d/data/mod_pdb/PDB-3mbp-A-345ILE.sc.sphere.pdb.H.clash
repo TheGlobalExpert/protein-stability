@@ -1,0 +1,74 @@
+
+:  1485: A 129 TRP  CE3 : A 129 TRP  CE2 :   -1.028:        0
+
+:  1485: A 226 ILE  CB  : A 226 ILE  CD1 :   -0.942:        0
+
+:  1485: A 330 MET  CA  : A 331 PRO  N   :   -0.911:        0
+:  1485: A 340 TRP  HH2 : A 258 PHE  HD2 :   -0.522:        0
+:  1485: A 258 PHE  CD1 : A 330 MET  HG2 :   -0.443:        0
+:  1485: A 340 TRP  HA  : A 340 TRP  CE3 :   -0.435:        0
+:  1485: A 258 PHE  HD2 : A 340 TRP  CH2 :   -0.431:        0
+
+:  1485: A 211 SER  CA  : A 212 ILE  N   :   -0.908:        0
+:  1485: A 212 ILE  CA  : A 213 ALA  N   :   -0.782:        0
+
+:  1485: A 356 THR  OG1 : A 359 GLU  HG3 :   -0.854:        0
+
+:  1485: A 179 LYS  CD  : A 179 LYS  NZ  :   -0.791:        0
+:  1485: A 179 LYS  CD  : A 179 LYS  CA  :   -0.659:        0
+
+:  1485: A 341 TYR  OH  : A  45 GLU  OE2 :   -0.790:        0
+:  1485: A  44 GLU  HB3 : A  62 TRP  CZ3 :   -0.476:        0
+:  1485: A  62 TRP  CH2 : A  44 GLU  HB3 :   -0.450:        0
+:  1485: A  70 TYR  OH  : A  44 GLU  O   :   -0.433:        0
+:  1485: A  62 TRP  CD1 : A  66 ARG  HB2 :   -0.427:        0
+:  1485: A  44 GLU  HG2 : A  45 GLU  HG2 :   -0.419:        0
+:  1485: A 337 SER  O   : A 341 TYR  CD2 :   -0.412:        0
+
+:  1485: A 357 VAL HG13 : A 192 LEU HD23 :   -0.750:        0
+:  1485: A 192 LEU HD22 : A 361 LEU HD21 :   -0.700:        0
+:  1485: A 361 LEU HD12 : A 189 LYS  HG2 :   -0.443:        0
+
+:  1485: A 363 ASP  HB3 : A 367 ARG  NH2 :   -0.682:        0
+:  1485: A 367 ARG HH22 : A 363 ASP  HB3 :   -0.563:        0
+:  1485: A 367 ARG  HG3 : A 363 ASP  O   :   -0.500:        0
+
+:  1485: A 369 THR  O   : A 370 LYS  HB2 :   -0.620:        0
+:  1485: A 369 THR HG23 : A 365 GLN  O   :   -0.492:        0
+:  1485: A 370 LYS  HA  : A 370 LYS  HD3 :   -0.445:        0
+:  1485: A 369 THR  O   : A 370 LYS  CB  :   -0.424:        0
+
+:  1485: A 204 MET  SD  : A 198 LEU HD13 :   -0.563:        0
+:  1485: A 204 MET  CG  : A 198 LEU  HB3 :   -0.546:        0
+:  1485: A 204 MET  HE3 : A 204 MET  HB3 :   -0.484:        0
+:  1485: A 204 MET  HG3 : A 198 LEU  HB3 :   -0.466:        0
+
+:  1485: A 182 GLY  HA3 : A 167 TYR  CD2 :   -0.552:        0
+:  1485: A 167 TYR  CE2 : A 182 GLY  HA3 :   -0.503:        0
+
+:  1485: A 354 ARG HH21 : A 354 ARG  CG  :   -0.512:        0
+:  1485: A 354 ARG  HG3 : A 352 SER  OG  :   -0.446:        0
+
+:  1485: A 333 ILE  CG1 : A 333 ILE  C   :   -0.496:        0
+
+:  1485: A 184 ASP  CG  : A 184 ASP  O   :   -0.481:        0
+
+:  1485: A 155 TYR  CE2 : A 113 LEU HD11 :   -0.473:        0
+:  1485: A 155 TYR  CD2 : A 113 LEU HD11 :   -0.420:        0
+
+:  1485: A 196 VAL  O   : A 199 ILE  HB  :   -0.447:        0
+
+:  1485: A 185 ASN  OD1 : A 185 ASN  C   :   -0.429:        0
+
+:  1485: A 153 GLU  OE1 : A 154 PRO  HD2 :   -0.424:        0
+
+:  1485: A 194 PHE  HD2 : A 160 LEU HD11 :   -0.418:        0
+:  1485: A 160 LEU HD23 : A 160 LEU  HA  :   -0.402:        0
+
+:  1485: A 181 VAL  HA  : A 168 ALA  O   :   -0.414:        0
+:  1485: A 183 VAL HG13 : A 181 VAL  CG1 :   -0.404:        0
+:  1485: A 183 VAL  H   : A 181 VAL HG12 :   -0.402:        0
+
+:  1485: A 151 LEU HD12 : A 151 LEU  HA  :   -0.401:        0
+#sum2 ::33.67 clashscore : 33.67 clashscore B<40 
+#summary::1485 atoms:1485 atoms B<40:182634 potential dots:11410.0 A^2:50 bumps:50 bumps B<40:293 score

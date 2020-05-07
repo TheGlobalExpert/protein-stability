@@ -1,0 +1,6 @@
+SGFILE missense3d/data/mod_pdb/PDB-2trx-A-40PRO.sc.pdb             
+NUMCYS      2
+NUMSGA      2
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap
+INTRA   32  CYS A  SG   . -   35  CYS A  SG   .     2.118     4

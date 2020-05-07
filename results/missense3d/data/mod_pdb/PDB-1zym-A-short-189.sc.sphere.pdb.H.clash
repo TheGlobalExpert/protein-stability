@@ -1,0 +1,131 @@
+
+:  1713: A   9 PRO  N   : A   9 PRO  CD  :   -1.322:        0
+:  1713: A   9 PRO  CD  : A   8 SER  C   :   -0.713:        0
+:  1713: A   9 PRO  CD  : A   8 SER  HA  :   -0.564:        0
+:  1713: A   9 PRO  CD  : A   8 SER  CA  :   -0.491:        0
+:  1713: A   8 SER  HA  : A   9 PRO  HD3 :   -0.408:        0
+
+:  1713: A 208 VAL HG22 : A 205 THR  CG2 :   -1.149:        0
+:  1713: A 205 THR HG21 : A 208 VAL  CG2 :   -1.063:        0
+:  1713: A 185 GLY  HA3 : A 203 VAL HG21 :   -0.900:        0
+:  1713: A 222 ALA  HB3 : A  10 GLY  O   :   -0.875:        0
+:  1713: A  10 GLY  HA3 : A 200 PRO  HG3 :   -0.795:        0
+:  1713: A 208 VAL HG22 : A 205 THR HG21 :   -0.771:        0
+:  1713: A 181 THR  HA  : A 160 ALA  O   :   -0.758:        0
+:  1713: A 185 GLY  HA3 : A 203 VAL  CG2 :   -0.720:        0
+:  1713: A 208 VAL HG21 : A 180 ILE HG22 :   -0.686:        0
+:  1713: A 220 LEU HD12 : A 180 ILE HG12 :   -0.649:        0
+:  1713: A 203 VAL  HB  : A 183 ALA  HB3 :   -0.633:        0
+:  1713: A 180 ILE  CG1 : A 220 LEU HD12 :   -0.573:        0
+:  1713: A 203 VAL HG21 : A 185 GLY  CA  :   -0.565:        0
+:  1713: A 220 LEU  CD2 : A 222 ALA  HB2 :   -0.558:        0
+:  1713: A 181 THR  O   : A 205 THR  HB  :   -0.526:        0
+:  1713: A 180 ILE  CD1 : A 220 LEU HD12 :   -0.518:        0
+:  1713: A 220 LEU  CD1 : A 180 ILE HG12 :   -0.517:        0
+:  1713: A 188 SER  OG  : A 185 GLY  HA2 :   -0.510:        0
+:  1713: A 220 LEU HD21 : A 202 ILE HD12 :   -0.510:        0
+:  1713: A 181 THR  HB  : A 161 ALA  O   :   -0.498:        0
+:  1713: A 183 ALA  CB  : A 203 VAL  HB  :   -0.478:        0
+:  1713: A 220 LEU HD23 : A 220 LEU  C   :   -0.478:        0
+:  1713: A   4 GLY  HA3 : A 225 ASN  OD1 :   -0.475:        0
+:  1713: A 184 GLY  H   : A 183 ALA  HB1 :   -0.467:        0
+:  1713: A 203 VAL HG23 : A 204 GLY  N   :   -0.467:        0
+:  1713: A 185 GLY  C   : A 187 THR  H   :   -0.459:        0
+:  1713: A 202 ILE HG23 : A   4 GLY  HA2 :   -0.456:        0
+:  1713: A 200 PRO  HG3 : A  10 GLY  CA  :   -0.443:        0
+:  1713: A 222 ALA  HA  : A 202 ILE HD11 :   -0.435:        0
+:  1713: A 225 ASN  OD1 : A 202 ILE HG12 :   -0.434:        0
+:  1713: A 203 VAL  C   : A 205 THR  H   :   -0.423:        0
+:  1713: A 208 VAL HG22 : A 205 THR  CB  :   -0.414:        0
+:  1713: A 202 ILE  CD1 : A 220 LEU HD21 :   -0.413:        0
+
+:  1713: A  73 PHE  CZ  : A  57 ILE HG22 :   -1.099:        0
+:  1713: A  73 PHE  CE1 : A  57 ILE HG22 :   -1.067:        0
+:  1713: A  57 ILE  CG2 : A  73 PHE  CE1 :   -0.995:        0
+:  1713: A  61 ALA  CB  : A  73 PHE  CE2 :   -0.971:        0
+:  1713: A  73 PHE  HE2 : A  61 ALA  CB  :   -0.961:        0
+:  1713: A  57 ILE  CG2 : A  73 PHE  CZ  :   -0.901:        0
+:  1713: A  73 PHE  CE2 : A  61 ALA  HB2 :   -0.706:        0
+:  1713: A  57 ILE HG21 : A  73 PHE  CE1 :   -0.592:        0
+:  1713: A  73 PHE  HE2 : A  61 ALA  HB1 :   -0.545:        0
+:  1713: A  58 LYS  HG3 : A  73 PHE  HB2 :   -0.540:        0
+:  1713: A  61 ALA  HB3 : A  73 PHE  CE2 :   -0.535:        0
+:  1713: A  58 LYS  HG2 : A  70 GLU  HG2 :   -0.525:        0
+:  1713: A  58 LYS  C   : A  57 ILE  O   :   -0.485:        0
+:  1713: A  57 ILE HG21 : A  73 PHE  HE1 :   -0.477:        0
+:  1713: A  58 LYS  HA  : A  73 PHE  CG  :   -0.455:        0
+:  1713: A  58 LYS  HG3 : A  73 PHE  CB  :   -0.433:        0
+
+:  1713: A 171 LEU HD13 : A 149 LEU HD13 :   -0.922:        0
+:  1713: A 149 LEU HD12 : A 167 GLU  O   :   -0.798:        0
+:  1713: A 148 ASP  HA  : A 170 GLN  OE1 :   -0.485:        0
+:  1713: A 149 LEU  HB2 : A 170 GLN  HG3 :   -0.454:        0
+:  1713: A 149 LEU  H   : A 170 GLN  CD  :   -0.452:        0
+:  1713: A 171 LEU HD12 : A 171 LEU  HA  :   -0.400:        0
+
+:  1713: A 139 ARG HH12 : A  21 GLU  CD  :   -0.868:        0
+:  1713: A 139 ARG  NH1 : A  21 GLU  HG2 :   -0.771:        0
+:  1713: A  21 GLU  CG  : A 139 ARG  NH1 :   -0.734:        0
+:  1713: A 139 ARG HH12 : A  21 GLU  CG  :   -0.728:        0
+
+:  1713: A 193 MET  HB2 : A 189 HIS  O   :   -0.787:        0
+:  1713: A 168 THR HG21 : A 189 HIS  NE2 :   -0.493:        0
+:  1713: A 164 THR  O   : A 168 THR HG23 :   -0.422:        0
+:  1713: A 168 THR  CG2 : A 189 HIS  NE2 :   -0.416:        0
+:  1713: A 189 HIS  CD2 : A 168 THR HG21 :   -0.401:        0
+
+:  1713: A 112 ALA  N   : A 111 GLN  O   :   -0.710:        0
+:  1713: A 112 ALA  CA  : A 111 GLN  O   :   -0.444:        0
+
+:  1713: A 174 LYS  N   : A 174 LYS  HD2 :   -0.686:        0
+:  1713: A 174 LYS  N   : A 174 LYS  CD  :   -0.435:        0
+
+:  1713: A 120 ASP  HB3 : A 123 LEU  HB2 :   -0.681:        0
+:  1713: A 122 TYR  CD1 : A 122 TYR  C   :   -0.569:        0
+:  1713: A 122 TYR  CE1 : A 123 LEU HD23 :   -0.473:        0
+
+:  1713: A 221 ASP  N   : A 221 ASP  C   :   -0.680:        0
+
+:  1713: A  65 PHE  CB  : A  69 LYS  HG3 :   -0.678:        0
+:  1713: A  65 PHE  HB3 : A  69 LYS  HG3 :   -0.484:        0
+:  1713: A 169 ALA  HA  : A  65 PHE  HE2 :   -0.445:        0
+
+:  1713: A 176 VAL  O   : A 199 LEU HD21 :   -0.671:        0
+:  1713: A 194 ALA  HB1 : A 199 LEU  O   :   -0.604:        0
+:  1713: A 173 LEU HD22 : A 197 LEU HD11 :   -0.587:        0
+:  1713: A 197 LEU HD11 : A 173 LEU HD13 :   -0.527:        0
+:  1713: A 173 LEU HD22 : A 197 LEU  CD1 :   -0.491:        0
+:  1713: A 197 LEU HD22 : A 199 LEU HD22 :   -0.444:        0
+:  1713: A 199 LEU  HB2 : A 197 LEU  HB3 :   -0.427:        0
+
+:  1713: A 166 SER  HB2 : A 136 ARG HH11 :   -0.660:        0
+:  1713: A 136 ARG  NH1 : A 166 SER  HB2 :   -0.449:        0
+
+:  1713: A 129 ASP  O   : A 133 ILE HG13 :   -0.562:        0
+:  1713: A  79 LEU HD22 : A 133 ILE HD12 :   -0.481:        0
+:  1713: A  76 HIS  HA  : A 133 ILE  CD1 :   -0.402:        0
+
+:  1713: A 116 GLU  HG3 : A 127 ALA  CB  :   -0.548:        0
+
+:  1713: A 128 ALA  HB3 : A 125 GLU  O   :   -0.542:        0
+
+:  1713: A 207 SER  HA  : A 182 ASP  OD2 :   -0.533:        0
+
+:  1713: A  17 LEU HD23 : A 158 LEU  CD2 :   -0.523:        0
+:  1713: A 163 LEU HD11 : A 158 LEU HD12 :   -0.501:        0
+
+:  1713: A 179 PHE  CD1 : A 179 PHE  N   :   -0.473:        0
+
+:  1713: A  62 GLY  O   : A  66 GLY  N   :   -0.471:        0
+
+:  1713: A 147 ILE  N   : A 147 ILE HD13 :   -0.463:        0
+
+:  1713: A 157 ILE  O   : A 159 VAL HG23 :   -0.459:        0
+:  1713: A 177 LEU  HB2 : A 157 ILE HG13 :   -0.444:        0
+
+:  1713: A  54 LEU HD23 : A  54 LEU  HA  :   -0.415:        0
+
+:  1713: A 126 ARG HH21 : A 126 ARG  HD2 :   -0.413:        0
+:  1713: A 126 ARG  O   : A 130 VAL HG23 :   -0.407:        0
+#sum2 ::61.30 clashscore : 61.30 clashscore B<40 
+#summary::1713 atoms:1713 atoms B<40:201259 potential dots:12580.0 A^2:105 bumps:105 bumps B<40:41.18 score

@@ -1,0 +1,46 @@
+
+:   895: A  13 TYR  CE2 : A  13 TYR  CG  :   -1.004:        0
+:   895: A  13 TYR  HD1 : A  19 LYS  O   :   -0.589:        0
+:   895: A  19 LYS  O   : A  13 TYR  CD1 :   -0.427:        0
+
+:   895: A  78 TYR  CE2 : A  42 LEU HD23 :   -0.935:        0
+:   895: A  78 TYR  HE2 : A  42 LEU HD23 :   -0.686:        0
+:   895: A  78 TYR  OH  : A  42 LEU  HB3 :   -0.467:        0
+
+:   895: A  89 LEU  CA  : A  90 TYR  N   :   -0.901:        0
+:   895: A  89 LEU  CG  : A  89 LEU  CA  :   -0.899:        0
+:   895: A  89 LEU  CD2 : A  56 PHE  CD2 :   -0.792:        0
+:   895: A  89 LEU  CD2 : A  56 PHE  CG  :   -0.457:        0
+
+:   895: A  70 THR  CB  : A  70 THR  C   :   -0.884:        0
+:   895: A  70 THR  C   : A  70 THR  CG2 :   -0.785:        0
+
+:   895: A  23 ASN  OD1 : A  21 PRO  HB2 :   -0.806:        0
+:   895: A  21 PRO  HD2 : A  24 TYR  CE1 :   -0.802:        0
+:   895: A  24 TYR  OH  : A  10 VAL HG21 :   -0.643:        0
+:   895: A  24 TYR  CE2 : A  74 ALA  HB1 :   -0.599:        0
+:   895: A  24 TYR  CD1 : A  21 PRO  HD2 :   -0.586:        0
+:   895: A  24 TYR  HE1 : A  21 PRO  HD2 :   -0.576:        0
+:   895: A  49 LYS  HE2 : A  23 ASN  HA  :   -0.537:        0
+:   895: A  21 PRO  HB3 : A   4 ILE HD12 :   -0.509:        0
+:   895: A  24 TYR  HA  : A  50 SER  O   :   -0.470:        0
+:   895: A  21 PRO  HD3 : A  20 LEU  HA  :   -0.464:        0
+:   895: A  52 GLY  HA2 : A  74 ALA  HA  :   -0.450:        0
+:   895: A  20 LEU  HB3 : A  24 TYR  CD1 :   -0.404:        0
+
+:   895: A  94 TRP  CH2 : A  18 HIS  C   :   -0.787:        0
+:   895: A  18 HIS  O   : A  94 TRP  CH2 :   -0.630:        0
+
+:   895: A  39 LYS  HG3 : A  36 VAL  HB  :   -0.783:        0
+
+:   895: A  86 ASP  N   : A  86 ASP  C   :   -0.717:        0
+
+:   895: A  75 ASP  HA  : A  87 ARG  HD3 :   -0.567:        0
+
+:   895: A  51 ILE  HA  : A  25 ILE  O   :   -0.493:        0
+
+:   895: A  84 ASN  OD1 : A  84 ASN  C   :   -0.402:        0
+
+:   895: A  27 LYS  HZ3 : A  54 ASP  CG  :   -0.401:        0
+#sum2 ::35.75 clashscore : 35.75 clashscore B<40 
+#summary::895 atoms:895 atoms B<40:107372 potential dots:6711.0 A^2:32 bumps:32 bumps B<40:74.23 score

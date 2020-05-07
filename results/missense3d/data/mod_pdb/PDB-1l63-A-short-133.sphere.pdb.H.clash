@@ -1,0 +1,16 @@
+
+:  1371: A  11 GLU  CA  : A  11 GLU  CG  :   -0.974:       23
+
+:  1371: A   3 ILE  CA  : A   3 ILE  O   :   -0.696:       17
+
+:  1371: A  82 ALA  C   : A  82 ALA  N   :   -0.682:       31
+
+:  1371: A   9 ILE  C   : A   9 ILE  CG2 :   -0.635:       24
+
+:  1371: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1371: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1371: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::5.11 clashscore : 5.53 clashscore B<40 
+#summary::1371 atoms:1266 atoms B<40:159444 potential dots:9965.0 A^2:7 bumps:7 bumps B<40:536.9 score

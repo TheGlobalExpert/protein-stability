@@ -1,0 +1,14 @@
+
+:   677: A   9 PHE  CG  : A   9 PHE  CE2 :   -1.014:        0
+
+:   677: A   8 TRP  N   : A   7 LYS  CA  :   -0.875:        0
+:   677: A   8 TRP  C   : A   8 TRP  N   :   -0.798:        0
+:   677: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.778:        0
+:   677: A  17 PHE  CD1 : A   8 TRP  CZ2 :   -0.688:        0
+:   677: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.452:        0
+
+:   677: A   1 MET  SD  : A  50 GLU  HG3 :   -0.673:        0
+
+:   677: A  30 PHE  CE2 : A  29 HIS  CE1 :   -0.452:        0
+#sum2 ::11.82 clashscore : 11.82 clashscore B<40 
+#summary::677 atoms:677 atoms B<40:79765 potential dots:4985.0 A^2:8 bumps:8 bumps B<40:160.6 score

@@ -1,0 +1,10 @@
+
+:   976: A 101 ASN  N   : A 100 ILE  CA  :   -0.841:        9
+
+:   976: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:   976: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:   976: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:   976: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+#sum2 ::5.12 clashscore : 1.12 clashscore B<40 
+#summary::976 atoms:891 atoms B<40:116476 potential dots:7280.0 A^2:5 bumps:1 bumps B<40:382.1 score

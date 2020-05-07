@@ -1,0 +1,21 @@
+
+:   650: A  21 PRO  CA  : A  20 LEU  C   :   -1.033:        0
+:   650: A  21 PRO  C   : A  20 LEU  C   :   -0.486:        0
+
+:   650: A  42 LEU HD23 : A  78 TYR  CE2 :   -0.935:        0
+:   650: A  42 LEU HD23 : A  78 TYR  HE2 :   -0.686:        0
+:   650: A  78 TYR  OH  : A  42 LEU  HB3 :   -0.467:        0
+
+:   650: A  36 VAL  HB  : A  39 LYS  HG3 :   -0.783:        0
+
+:   650: A  74 ALA  HB1 : A  24 TYR  CE1 :   -0.675:        0
+:   650: A  50 SER  O   : A  24 TYR  HA  :   -0.470:        0
+:   650: A  52 GLY  HA2 : A  74 ALA  HA  :   -0.450:        0
+
+:   650: A  49 LYS  HE2 : A  23 ASN  HA  :   -0.537:        0
+
+:   650: A  25 ILE  O   : A  51 ILE  HA  :   -0.493:        0
+
+:   650: A  27 LYS  HZ3 : A  54 ASP  CG  :   -0.401:        0
+#sum2 ::18.46 clashscore : 18.46 clashscore B<40 
+#summary::650 atoms:650 atoms B<40:76631 potential dots:4789.0 A^2:12 bumps:12 bumps B<40:149.6 score

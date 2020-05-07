@@ -1,0 +1,10 @@
+
+:   945: A  19 LEU  CA  : A  19 LEU  CG  :   -0.956:        7
+
+:   945: A  92 ILE  CA  : A  92 ILE  O   :   -0.729:        6
+
+:   945: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:   945: A  35 VAL HG11 : A  32 GLN  OE1 :   -0.408:       11
+#sum2 ::4.23 clashscore : 4.24 clashscore B<40 
+#summary::945 atoms:944 atoms B<40:111321 potential dots:6958.0 A^2:4 bumps:4 bumps B<40:344.2 score

@@ -1,0 +1,27 @@
+
+:  1050: A  97 LYS  CG  : A  97 LYS  CE  :   -1.012:       11
+:  1050: A  97 LYS  CA  : A  97 LYS  CG  :   -0.919:       10
+
+:  1050: A  14 ARG  CA  : A  15 LEU  N   :   -0.867:       12
+
+:  1050: A  93 VAL  CA  : A  93 VAL  O   :   -0.721:       11
+
+:  1050: A   7 GLU  OE1 : A   7 GLU  CG  :   -0.679:       19
+
+:  1050: A  55 GLY  O   : A  56 ILE  N   :   -0.633:       12
+
+:  1050: A 120 ASP  OD1 : A 122 ARG  HG2 :   -0.624:       31
+:  1050: A 122 ARG HH11 : A 122 ARG  HD2 :   -0.446:       45
+
+:  1050: A  13 LYS  HE2 : A 130 VAL  OXT :   -0.564:       26
+
+:  1050: A 117 GLN  HB2 : A 112 TRP  CZ3 :   -0.564:       18
+:  1050: A 112 TRP  CD1 : A 116 CYS  HB2 :   -0.411:       12
+
+:  1050: A   2 VAL  CG1 : A   2 VAL  C   :   -0.477:       15
+
+:  1050: A 126 GLN  HG2 : A 123 GLN  O   :   -0.450:       31
+
+:  1050: A  33 LYS  HG2 : A 124 TYR  HE1 :   -0.438:       20
+#sum2 ::13.33 clashscore : 12.49 clashscore B<40 
+#summary::1050 atoms:1041 atoms B<40:126369 potential dots:7898.0 A^2:14 bumps:13 bumps B<40:325.1 score

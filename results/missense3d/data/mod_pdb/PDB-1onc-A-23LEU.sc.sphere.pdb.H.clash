@@ -1,0 +1,42 @@
+
+:   964: A  15 ARG HH21 : A  15 ARG  CG  :   -1.164:        0
+:   964: A  15 ARG  HG2 : A  15 ARG  NH2 :   -0.914:        0
+:   964: A  15 ARG  HG3 : A  38 TYR  CD2 :   -0.871:        0
+:   964: A  15 ARG  HG3 : A  38 TYR  CE2 :   -0.505:        0
+:   964: A  15 ARG  CG  : A  38 TYR  CD2 :   -0.490:        0
+:   964: A  15 ARG HH21 : A  15 ARG  HG2 :   -0.461:        0
+:   964: A  15 ARG  NH2 : A  15 ARG  CG  :   -0.417:        0
+
+:   964: A  77 TYR  OH  : A  31 LYS  O   :   -1.124:        0
+:   964: A  23 LEU HD22 : A  22 ILE HG23 :   -0.923:        0
+:   964: A  34 ASN  HB2 : A  31 LYS  HE3 :   -0.846:        0
+:   964: A  19 CYS  SG  : A  68 CYS  SG  :   -0.841:        0
+:   964: A  34 ASN  HB2 : A  31 LYS  CE  :   -0.764:        0
+:   964: A  28 PHE  CE2 : A  36 PHE  HZ  :   -0.706:        0
+:   964: A  22 ILE HG12 : A  28 PHE  CE2 :   -0.582:        0
+:   964: A  31 LYS  HE3 : A  33 LYS  O   :   -0.572:        0
+:   964: A  28 PHE  CE1 : A  34 ASN  ND2 :   -0.561:        0
+:   964: A  28 PHE  HD2 : A  23 LEU  HA  :   -0.532:        0
+:   964: A  22 ILE HG23 : A  23 LEU  CD2 :   -0.524:        0
+:   964: A  23 LEU HD22 : A  22 ILE  CG2 :   -0.519:        0
+:   964: A  23 LEU HD23 : A  19 CYS  HA  :   -0.517:        0
+:   964: A  19 CYS  O   : A  23 LEU  HB2 :   -0.508:        0
+:   964: A  28 PHE  CE2 : A  36 PHE  CZ  :   -0.493:        0
+:   964: A  22 ILE HG23 : A  23 LEU  N   :   -0.468:        0
+:   964: A  28 PHE  HE2 : A  22 ILE HG12 :   -0.460:        0
+:   964: A  34 ASN  ND2 : A  28 PHE  CZ  :   -0.436:        0
+:   964: A  68 CYS  O   : A  33 LYS  HA  :   -0.423:        0
+:   964: A  23 LEU HD23 : A  19 CYS  CA  :   -0.420:        0
+:   964: A  23 LEU  N   : A  22 ILE  CG2 :   -0.419:        0
+:   964: A  19 CYS  SG  : A  68 CYS  CB  :   -0.409:        0
+
+:   964: A  44 VAL  CG1 : A  44 VAL  CG2 :   -0.993:        0
+
+:   964: A   2 ASP  N   : A   2 ASP  C   :   -0.780:        0
+
+:   964: A  67 ASP  OD1 : A  35 THR  OG1 :   -0.527:        0
+
+:   964: A   7 GLN  HG2 : A  11 ILE HD12 :   -0.500:        0
+:   964: A   7 GLN  HA  : A  11 ILE HD12 :   -0.468:        0
+#sum2 ::35.27 clashscore : 35.27 clashscore B<40 
+#summary::964 atoms:964 atoms B<40:113800 potential dots:7112.0 A^2:34 bumps:34 bumps B<40:143.1 score

@@ -1,0 +1,23 @@
+
+:  1389: A  60 GLN  OE1 : A  75 SER  HA  :   -1.191:        0
+:  1389: A  60 GLN  OE1 : A  75 SER  CA  :   -0.732:        0
+:  1389: A  60 GLN  CD  : A  57 VAL  HA  :   -0.567:        0
+:  1389: A 106 ILE HD11 : A  57 VAL HG21 :   -0.427:        0
+:  1389: A  60 GLN  NE2 : A  57 VAL  HA  :   -0.408:        0
+
+:  1389: A  95 CYS  CB  : A  95 CYS  C   :   -0.865:        0
+
+:  1389: A  63 VAL  O   : A  63 VAL  CA  :   -0.740:        0
+
+:  1389: A  59 SER  OG  : A  59 SER  CA  :   -0.709:        0
+
+:  1389: A  72 CYS  N   : A  71 ASN  O   :   -0.692:        0
+
+:  1389: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.554:        0
+
+:  1389: A  25 TYR  CZ  : A  29 MET  HG3 :   -0.476:        0
+
+:  1389: A 119 HIS  NE2 : A 121 ASP  HA  :   -0.470:        0
+:  1389: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.443:        0
+#sum2 ::9.36 clashscore : 9.36 clashscore B<40 
+#summary::1389 atoms:1389 atoms B<40:162343 potential dots:10150.0 A^2:13 bumps:13 bumps B<40:444.8 score

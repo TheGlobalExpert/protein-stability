@@ -1,0 +1,75 @@
+
+:  1569: A  32 ASP  OD2 : A  64 HIS  CE1 :   -1.066:        0
+:  1569: A  64 HIS  HD1 : A  32 ASP  CG  :   -1.024:        0
+:  1569: A  32 ASP  OD2 : A  64 HIS  ND1 :   -0.866:        0
+:  1569: A  64 HIS  ND1 : A  32 ASP  CG  :   -0.758:        0
+:  1569: A  32 ASP  OD1 : A  64 HIS  ND1 :   -0.710:        0
+:  1569: A  32 ASP  OD2 : A  64 HIS  HE1 :   -0.613:        0
+:  1569: A 221 SER  CB  : A 125 SER  HB3 :   -0.586:        0
+:  1569: A 221 SER  OG  : A 125 SER  HB3 :   -0.456:        0
+:  1569: A 221 SER  HB3 : A  64 HIS  NE2 :   -0.412:        0
+
+:  1569: A 165 VAL  CG1 : A 165 VAL  CA  :   -0.981:        0
+:  1569: A 164 THR  C   : A 165 VAL  CA  :   -0.928:        0
+:  1569: A 166 GLY  N   : A 165 VAL  CA  :   -0.894:        0
+
+:  1569: A  94 LYS  CG  : A  94 LYS  CE  :   -0.980:        0
+:  1569: A  94 LYS  CA  : A  93 VAL  C   :   -0.945:        0
+:  1569: A  94 LYS  CA  : A  94 LYS  CG  :   -0.939:        0
+:  1569: A  92 ALA  CA  : A  93 VAL  N   :   -0.913:        0
+:  1569: A  94 LYS  CA  : A  95 VAL  N   :   -0.911:        0
+:  1569: A  95 VAL  CB  : A  95 VAL  C   :   -0.892:        0
+:  1569: A  93 VAL  C   : A  93 VAL  N   :   -0.806:        0
+:  1569: A  95 VAL  CB  : A  95 VAL  N   :   -0.792:        0
+:  1569: A  95 VAL  C   : A  95 VAL  N   :   -0.702:        0
+:  1569: A  95 VAL  CG2 : A  96 LEU  HG  :   -0.462:        0
+:  1569: A  95 VAL  C   : A  95 VAL  CG2 :   -0.434:        0
+:  1569: A  95 VAL  N   : A  96 LEU  N   :   -0.403:        0
+
+:  1569: A 192 VAL  CG1 : A 192 VAL  CA  :   -0.975:        0
+
+:  1569: A  90 LEU HD11 : A  73 ALA  HB3 :   -0.802:        0
+:  1569: A  90 LEU  CD1 : A  73 ALA  HB3 :   -0.625:        0
+
+:  1569: A 218 ASN  OD1 : A 204 SER  N   :   -0.797:        0
+
+:  1569: A 268 ILE  CA  : A 268 ILE  O   :   -0.708:        0
+
+:  1569: A  74 ALA  CB  : A  81 VAL HG23 :   -0.563:        0
+
+:  1569: A  30 VAL  HB  : A  35 ILE HD11 :   -0.559:        0
+
+:  1569: A 184 ASN  HB2 : A 183 SER  O   :   -0.550:        0
+
+:  1569: A 127 GLY  HA2 : A 167 TYR  O   :   -0.536:        0
+
+:  1569: A  67 HIS  CD2 : A 207 SER  HB3 :   -0.530:        0
+
+:  1569: A  62 ASN  O   : A  63 SER  CB  :   -0.493:        0
+
+:  1569: A 262 TYR  O   : A 186 ARG  HD2 :   -0.492:        0
+
+:  1569: A 225 PRO  CD  : A 224 SER  HB3 :   -0.477:        0
+:  1569: A  68 VAL HG13 : A 225 PRO  HB3 :   -0.468:        0
+:  1569: A 224 SER  HB3 : A 225 PRO  HD3 :   -0.458:        0
+
+:  1569: A 220 THR  OG1 : A 152 ALA  HB1 :   -0.472:        0
+
+:  1569: A   6 TYR  CD1 : A   6 TYR  C   :   -0.467:        0
+
+:  1569: A 189 PHE  CE2 : A 187 ALA  HB1 :   -0.467:        0
+
+:  1569: A 201 PRO  HB3 : A   6 TYR  CE1 :   -0.427:        0
+:  1569: A 201 PRO  HG2 : A   7 GLY  HA2 :   -0.421:        0
+
+:  1569: A 216 ALA  HA  : A 205 ILE  O   :   -0.456:        0
+
+:  1569: A 181 ASP  C   : A 181 ASP  OD1 :   -0.446:        0
+
+:  1569: A  39 HIS  HD2 : A 209 LEU  O   :   -0.442:        0
+:  1569: A 214 TYR  CE2 : A 208 THR HG22 :   -0.409:        0
+:  1569: A  39 HIS  HE1 : A 214 TYR  OH  :   -0.407:        0
+
+:  1569: A 227 VAL  HB  : A 150 VAL HG11 :   -0.402:        0
+#sum2 ::31.87 clashscore : 31.87 clashscore B<40 
+#summary::1569 atoms:1569 atoms B<40:197659 potential dots:12350.0 A^2:50 bumps:50 bumps B<40:326.5 score

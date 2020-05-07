@@ -1,0 +1,19 @@
+
+:  1180: A  23 GLY  CA  : A  22 ALA  C   :   -0.953:        7
+
+:  1180: A 138 PHE  CB  : A 138 PHE  C   :   -0.845:        7
+:  1180: A 138 PHE  C   : A 138 PHE  CG  :   -0.474:        8
+
+:  1180: A  66 VAL  CA  : A  67 THR  N   :   -0.806:        6
+
+:  1180: A 132 ASN  CA  : A 132 ASN  O   :   -0.758:        8
+
+:  1180: A  93 HIS  N   : A  92 SER  O   :   -0.661:        9
+
+:  1180: A  54 GLU  HG3 : A  51 THR  OG1 :   -0.543:       16
+
+:  1180: A 151 TYR  CZ  : A 153 GLY  HA3 :   -0.519:       12
+
+:  1180: A  50 LYS  HE2 : A  50 LYS  HB2 :   -0.495:       24
+#sum2 ::7.63 clashscore : 7.63 clashscore B<40 
+#summary::1180 atoms:1180 atoms B<40:144757 potential dots:9047.0 A^2:9 bumps:9 bumps B<40:411.4 score

@@ -1,0 +1,19 @@
+
+:   979: A  64 LYS  N   : A  63 LYS  H   :   -0.700:       81
+:   979: A  56 LEU  O   : A  59 LEU  HB3 :   -0.554:       31
+:   979: A  59 LEU HD13 : A  23 VAL HG22 :   -0.535:       22
+:   979: A  64 LYS  HD2 : A  62 GLN  HG3 :   -0.519:       56
+:   979: A  63 LYS  HG2 : A  64 LYS  N   :   -0.489:       81
+:   979: A  23 VAL  CG1 : A  62 GLN HE21 :   -0.456:       48
+:   979: A  64 LYS  N   : A  63 LYS  CA  :   -0.410:       81
+:   979: A  56 LEU HD23 : A  56 LEU  HA  :   -0.409:       20
+:   979: A  23 VAL HG13 : A  62 GLN  NE2 :   -0.403:       48
+
+:   979: A   9 LYS  HD2 : A   8 TYR  HD2 :   -0.583:       71
+:   979: A   9 LYS  HG3 : A   8 TYR  CD2 :   -0.541:       60
+:   979: A   8 TYR  O   : A   9 LYS  HD3 :   -0.501:       71
+
+:   979: A  61 LYS  HG3 : A  57 GLN  O   :   -0.500:       50
+:   979: A  61 LYS  HB3 : A  61 LYS  HE2 :   -0.465:       42
+#sum2 ::14.30 clashscore : 3.75 clashscore B<40 
+#summary::979 atoms:799 atoms B<40:112663 potential dots:7041.0 A^2:14 bumps:3 bumps B<40:286.3 score

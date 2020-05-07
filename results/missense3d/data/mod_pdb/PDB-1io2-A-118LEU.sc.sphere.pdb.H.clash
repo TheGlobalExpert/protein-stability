@@ -1,0 +1,45 @@
+
+:  1415: A  25 VAL  CA  : A  25 VAL  CG2 :   -0.980:        0
+
+:  1415: A   1 MET  C   : A   1 MET  CB  :   -0.903:        0
+:  1415: A   1 MET  SD  : A   1 MET  CB  :   -0.777:        0
+
+:  1415: A 147 LEU  CB  : A 147 LEU  C   :   -0.885:        0
+
+:  1415: A 195 ARG  NH2 : A 195 ARG  NH1 :   -0.792:        0
+
+:  1415: A  84 GLU  OE1 : A  11 ARG  HD3 :   -0.790:        0
+:  1415: A  84 GLU  OE2 : A 107 ALA  HB1 :   -0.526:        0
+:  1415: A  84 GLU  OE1 : A  11 ARG  CD  :   -0.493:        0
+
+:  1415: A 120 GLU  HG3 : A 116 ARG  O   :   -0.775:        0
+
+:  1415: A  92 LEU HD13 : A 102 ILE HD13 :   -0.750:        0
+
+:  1415: A 139 PRO  N   : A 139 PRO  C   :   -0.723:        0
+
+:  1415: A  83 PHE  CZ  : A  68 LEU HD13 :   -0.681:        0
+
+:  1415: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.636:        0
+:  1415: A  99 PRO  CB  : A   4 ALA  HB2 :   -0.434:        0
+
+:  1415: A 132 HIS  HE1 : A 108 ASP  O   :   -0.614:        0
+
+:  1415: A 136 ASP  N   : A 137 ILE  N   :   -0.528:        0
+
+:  1415: A 121 ARG  HD2 : A  85 VAL HG12 :   -0.471:        0
+
+:  1415: A 114 PHE  HD2 : A 130 ALA  CB  :   -0.453:        0
+:  1415: A 130 ALA  HA  : A 104 ALA  O   :   -0.405:        0
+
+:  1415: A  76 ARG  HD2 : A  78 GLY  O   :   -0.416:        0
+:  1415: A  76 ARG HH11 : A  73 ILE HG22 :   -0.414:        0
+
+:  1415: A  62 ASP  OD1 : A  63 TYR  N   :   -0.408:        0
+
+:  1415: A  87 ASN  HB3 : A  20 ILE HD12 :   -0.405:        0
+
+:  1415: A  95 LEU HD23 : A  64 VAL HG23 :   -0.402:        0
+:  1415: A  95 LEU HD13 : A  24 VAL  CG2 :   -0.401:        0
+#sum2 ::17.67 clashscore : 17.67 clashscore B<40 
+#summary::1415 atoms:1415 atoms B<40:167497 potential dots:10470.0 A^2:25 bumps:25 bumps B<40:378.7 score

@@ -1,0 +1,89 @@
+
+:  1477: A 106 MET  CE  : A 102 MET  HB3 :   -1.303:        0
+:  1477: A 111 VAL HG22 : A 106 MET  CE  :   -1.215:        0
+:  1477: A 102 MET  CB  : A 106 MET  CE  :   -0.847:        0
+:  1477: A 106 MET  HE3 : A 111 VAL HG22 :   -0.844:        0
+:  1477: A 102 MET  HB3 : A 106 MET  HE3 :   -0.816:        0
+:  1477: A 102 MET  HB3 : A 106 MET  HE2 :   -0.791:        0
+:  1477: A 106 MET  CE  : A 111 VAL  CG2 :   -0.758:        0
+:  1477: A 111 VAL HG22 : A 106 MET  SD  :   -0.740:        0
+:  1477: A 106 MET  HE2 : A 102 MET  C   :   -0.624:        0
+:  1477: A 106 MET  HE3 : A 102 MET  HE2 :   -0.592:        0
+:  1477: A 106 MET  CG  : A 111 VAL HG23 :   -0.587:        0
+:  1477: A 102 MET  O   : A 106 MET  HE2 :   -0.536:        0
+:  1477: A 106 MET  SD  : A 111 VAL  CG2 :   -0.534:        0
+:  1477: A 111 VAL HG22 : A 106 MET  HE2 :   -0.534:        0
+:  1477: A 106 MET  CG  : A 111 VAL  CG2 :   -0.510:        0
+:  1477: A 102 MET  CE  : A 106 MET  HE3 :   -0.501:        0
+:  1477: A 106 MET  HE2 : A 102 MET  CB  :   -0.478:        0
+:  1477: A 106 MET  HE2 : A 111 VAL  CG2 :   -0.475:        0
+:  1477: A 102 MET  O   : A 106 MET  HG2 :   -0.468:        0
+:  1477: A 106 MET  CE  : A 102 MET  CE  :   -0.461:        0
+
+:  1477: A  76 ARG  NH1 : A  73 ALA  HA  :   -1.138:        0
+:  1477: A  73 ALA  CA  : A  76 ARG  NH1 :   -0.809:        0
+:  1477: A  76 ARG  CZ  : A  73 ALA  HA  :   -0.713:        0
+:  1477: A  76 ARG  HB2 : A  76 ARG  CZ  :   -0.663:        0
+:  1477: A  76 ARG  CZ  : A  76 ARG  CB  :   -0.555:        0
+
+:  1477: A  87 VAL  CB  : A  87 VAL  C   :   -0.880:        0
+:  1477: A  87 VAL  C   : A  87 VAL  CG1 :   -0.400:        0
+
+:  1477: A 129 ALA  C   : A 129 ALA  CB  :   -0.861:        0
+
+:  1477: A 138 TRP  CZ2 : A 146 ALA  HA  :   -0.841:        0
+:  1477: A 146 ALA  HA  : A 138 TRP  CH2 :   -0.460:        0
+
+:  1477: A  79 LEU  CB  : A  79 LEU  N   :   -0.832:        0
+:  1477: A  75 VAL  O   : A  79 LEU  HG  :   -0.521:        0
+
+:  1477: A  22 GLU  OE1 : A  22 GLU  CG  :   -0.769:        0
+
+:  1477: A 159 ASP  OD2 : A 162 LYS  NZ  :   -0.706:        0
+:  1477: A 159 ASP  HA  : A 162 LYS  HE2 :   -0.637:        0
+:  1477: A 159 ASP  HA  : A 162 LYS  CE  :   -0.504:        0
+:  1477: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.479:        0
+
+:  1477: A  14 ARG  NH2 : A  18 TYR  CB  :   -0.699:        0
+
+:  1477: A 158 TRP  HH2 : A  97 ALA  CB  :   -0.695:        0
+:  1477: A  97 ALA  CB  : A 158 TRP  CH2 :   -0.443:        0
+:  1477: A 158 TRP  HH2 : A  97 ALA  HB1 :   -0.438:        0
+
+:  1477: A  92 ASP  OD2 : A  95 ARG  NH2 :   -0.685:        0
+:  1477: A  96 ARG  HG3 : A  92 ASP  O   :   -0.519:        0
+:  1477: A  95 ARG  HD2 : A  92 ASP  OD2 :   -0.462:        0
+
+:  1477: A 139 TYR  HE1 : A 147 LYS  HG3 :   -0.604:        0
+:  1477: A 139 TYR  OH  : A 147 LYS  HE3 :   -0.549:        0
+:  1477: A 147 LYS  CE  : A 139 TYR  OH  :   -0.481:        0
+:  1477: A 139 TYR  CE1 : A 147 LYS  HG3 :   -0.433:        0
+
+:  1477: A 145 ARG HH22 : A  11 GLU  CD  :   -0.593:        0
+:  1477: A  11 GLU  OE1 : A 145 ARG  NH2 :   -0.592:        0
+
+:  1477: A   8 ARG HH21 : A   8 ARG  HG3 :   -0.564:        0
+:  1477: A   8 ARG  HG3 : A   8 ARG  NH2 :   -0.469:        0
+
+:  1477: A  26 THR HG22 : A  27 ILE  N   :   -0.563:        0
+:  1477: A  26 THR HG23 : A  31 HIS  C   :   -0.491:        0
+:  1477: A  31 HIS  O   : A  26 THR HG23 :   -0.455:        0
+:  1477: A  27 ILE  N   : A  26 THR  CG2 :   -0.421:        0
+
+:  1477: A 103 VAL HG21 : A  78 ILE  CG1 :   -0.551:        0
+:  1477: A 103 VAL HG21 : A  78 ILE HD11 :   -0.490:        0
+:  1477: A 103 VAL HG21 : A  78 ILE  CD1 :   -0.420:        0
+
+:  1477: A  67 PHE  CD1 : A  29 ILE HD13 :   -0.526:        0
+:  1477: A  29 ILE HG22 : A  29 ILE  O   :   -0.465:        0
+:  1477: A  67 PHE  HB2 : A  29 ILE HD12 :   -0.452:        0
+
+:  1477: A 151 THR  O   : A 155 THR HG23 :   -0.511:        0
+
+:  1477: A  20 ASP  OD2 : A  20 ASP  C   :   -0.498:        0
+
+:  1477: A   3 ILE HG23 : A   4 PHE  N   :   -0.435:        0
+
+:  1477: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.410:        0
+#sum2 ::44.69 clashscore : 44.69 clashscore B<40 
+#summary::1477 atoms:1477 atoms B<40:176295 potential dots:11020.0 A^2:66 bumps:66 bumps B<40:260.8 score

@@ -1,0 +1,53 @@
+
+:   890: A  52 ARG HH11 : A  62 GLU  CD  :   -1.056:        0
+:   890: A  62 GLU  OE1 : A  52 ARG  NH1 :   -0.888:        0
+:   890: A  50 ILE HG22 : A  52 ARG  HG2 :   -0.870:        0
+:   890: A  62 GLU  OE2 : A  52 ARG  NE  :   -0.838:        0
+:   890: A  62 GLU  H   : A  59 VAL HG23 :   -0.750:        0
+:   890: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.743:        0
+:   890: A  58 ILE  HA  : A  52 ARG HH12 :   -0.683:        0
+:   890: A  62 GLU  CD  : A  52 ARG  NH1 :   -0.680:        0
+:   890: A  62 GLU  CD  : A  52 ARG  HE  :   -0.667:        0
+:   890: A  59 VAL  CG2 : A  62 GLU  HG3 :   -0.608:        0
+:   890: A  52 ARG  CZ  : A  62 GLU  OE2 :   -0.597:        0
+:   890: A  62 GLU  HG3 : A  59 VAL HG22 :   -0.556:        0
+:   890: A  52 ARG  NH1 : A  62 GLU  OE2 :   -0.511:        0
+:   890: A  59 VAL HG22 : A  62 GLU  CG  :   -0.491:        0
+:   890: A  52 ARG  CZ  : A  54 CYS  SG  :   -0.477:        0
+:   890: A  58 ILE  HA  : A  52 ARG  NH1 :   -0.468:        0
+:   890: A  52 ARG  NE  : A  50 ILE HG21 :   -0.454:        0
+:   890: A  54 CYS  SG  : A  52 ARG  HG3 :   -0.404:        0
+
+:   890: A  72 ASP  CB  : A  72 ASP  N   :   -0.841:        0
+
+:   890: A  34 THR  CA  : A  34 THR  O   :   -0.800:        0
+
+:   890: A   4 PHE  N   : A   3 ILE  O   :   -0.696:        0
+:   890: A   3 ILE  O   : A   4 PHE  CA  :   -0.512:        0
+
+:   890: A  14 ARG HH21 : A  14 ARG  CG  :   -0.687:        0
+:   890: A  14 ARG  CG  : A  14 ARG  NH2 :   -0.556:        0
+:   890: A  14 ARG  HG3 : A  14 ARG  NH2 :   -0.518:        0
+
+:   890: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.586:        0
+:   890: A  39 LEU HD22 : A  43 LYS  HD3 :   -0.432:        0
+:   890: A  39 LEU  O   : A  39 LEU HD22 :   -0.414:        0
+
+:   890: A  26 THR HG22 : A  27 ILE  N   :   -0.570:        0
+:   890: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:   890: A  18 TYR  CZ  : A  26 THR  HB  :   -0.516:        0
+:   890: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:   890: A  18 TYR  OH  : A  26 THR  CG2 :   -0.452:        0
+:   890: A  26 THR  HB  : A  18 TYR  CE1 :   -0.444:        0
+:   890: A  18 TYR  OH  : A  26 THR HG21 :   -0.433:        0
+:   890: A  27 ILE  N   : A  26 THR  CG2 :   -0.433:        0
+:   890: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+
+:   890: A  24 TYR  O   : A  19 LYS  HA  :   -0.547:        0
+
+:   890: A  60 LYS  O   : A  64 GLU  HG3 :   -0.489:        0
+
+:   890: A  29 ILE HG22 : A  29 ILE  O   :   -0.433:        0
+:   890: A  29 ILE HD13 : A  67 PHE  CD1 :   -0.403:        0
+#sum2 ::46.07 clashscore : 46.07 clashscore B<40 
+#summary::890 atoms:890 atoms B<40:103412 potential dots:6463.0 A^2:41 bumps:41 bumps B<40:145.6 score

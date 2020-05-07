@@ -1,0 +1,34 @@
+
+______________________________________________
+
+SECONDARY STRUCTURE INFORMATION
+-------------------------------
+NO OF HELICES and RESIDUE  =      0     0
+NO OF STRANDS and RESIDUE  =      0     0
+NO OF TURNS   and RESIDUE  =      0     0
+______________________________________________
+Setting cut-off distance to     5.000
+$SALTB    1 GLU A  26 .   HIS A  29        . OE2  NE2      4.904  $INTRA $NO
+$SALTB    2 ASP A  37 .   HIS A  32        . OD2  ND1      4.987  $INTRA $NO
+$SALTB    3 ASP A  37 .   ARG A  40        . OD1  NE       3.476  $INTRA $NO
+$SALTB    4 ASP A  58 .   LYS A  54        . OD1  NZ       4.660  $INTRA $NO
+$SALTB    5 ASP A  66 .   LYS A 100        . OD1  NZ       4.103  $INTRA $NO
+$SALTB    6 ASP A  89 .   LYS A  17        . OD1  NZ       4.653  $INTRA $NO
+$SALTB    7 ASP A  89 .   HIS A  32        . OD1  NE2      4.822  $INTRA $NO
+$SALTB    8 ASP A 102 .   LYS A 106        . OD2  NZ       4.275  $INTRA $NO
+$SALTB    9 GLU A 113 .   ARG A   6        . OE2  NE       4.155  $INTRA $NO
+$SALTB   10 GLU A 113 .   LYS A 219        . OE1  NZ       4.576  $INTRA $NO
+$SALTB   11 GLU A 117 .   LYS A 119        . OE1  NZ       3.922  $INTRA $NO
+$SALTB   12 ASP A 122 .   HIS A 181        . OD1  ND1      4.765  $INTRA $NO
+$SALTB   13 ASP A 155 .   HIS A 135        . OD1  ND1      3.851  $INTRA $NO
+$SALTB   14 ASP A 155 .   ARG A 140        . OD1  NE       3.968  $INTRA $NO
+$SALTB   15 GLU A 160 .   HIS A 135        . OE1  NE2      3.852  $INTRA $NO
+$SALTB   16 ASP A 167 .   ARG A 165        . OD1  NE       2.872  $INTRA $NO
+$SALTB   17 ASP A 167 .   ARG A 176        . OD1  NH2      4.562  $INTRA $NO
+$SALTB   18 ASP A 168 .   ARG A 132        . OD1  NE       4.045  $INTRA $NO
+$SALTB   19 ASP A 168 .   ARG A 165        . OD1  NE       4.099  $INTRA $NO
+$SALTB   20 ASP A 168 .   ARG A 176        . OD1  NE       4.953  $INTRA $NO
+$SALTB   21 ASP A 171 .   LYS A 174        . OD1  NZ       3.966  $INTRA $NO
+$SALTB   22 GLU A 185 .   HIS A 181        . OE1  ND1      3.122  $INTRA $NO
+$SALTB   23 ASP A 189 .   LYS A 192        . OD1  NZ       4.414  $INTRA $NO
+$SALTB   24 ASP A 212 .   LYS A 216        . OD1  NZ       3.069  $INTRA $NO

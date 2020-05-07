@@ -1,0 +1,120 @@
+#residue:score%:phi:psi:evaluation:type
+A  62 LEU:37.76:-85.93:-16.06:Favored:General case
+A  63 GLY:39.51:58.79:-138.04:Favored:Glycine
+A  64 SER:30.84:-63.83:-11.29:Favored:General case
+A  65 VAL:62.72:-63.55:-17.39:Favored:General case
+A  66 SER:68.50:-60.74:-26.50:Favored:General case
+A  67 LYS:66.82:-60.94:-23.86:Favored:General case
+A  68 THR:76.56:-70.56:-37.24:Favored:General case
+A  69 PHE:94.37:-65.69:-41.54:Favored:General case
+A  70 THR:97.29:-63.33:-40.02:Favored:General case
+A  71 GLY:97.37:-65.23:-39.72:Favored:Glycine
+A  72 VAL:75.29:-71.09:-38.16:Favored:General case
+A  73 LEU:97.05:-64.14:-40.18:Favored:General case
+A  74 GLY:98.06:-64.56:-41.89:Favored:Glycine
+A 103 GLY:68.71:94.76:-8.75:Favored:Glycine
+A 104 ILE:35.27:-91.70:119.02:Favored:General case
+A 105 THR:8.44:-106.84:169.68:Favored:General case
+A 106 LEU:70.96:-58.39:-33.47:Favored:General case
+A 107 LEU:90.82:-59.18:-44.13:Favored:General case
+A 108 HIS:90.27:-59.02:-43.58:Favored:General case
+A 109 LEU:83.76:-63.43:-47.73:Favored:General case
+A 110 ALA:68.58:-61.41:-25.59:Favored:General case
+A 111 THR:17.16:-114.89:11.22:Favored:General case
+A 112 TYR:8.14:67.82:26.91:Favored:General case
+A 113 THR:14.40:-113.40:22.11:Favored:General case
+A 114 ALA:64.79:-71.10:-20.03:Favored:General case
+A 115 GLY:1.62:127.71:25.64:Allowed:Glycine
+A 116 GLY:4.50:105.63:31.53:Favored:Glycine
+A 117 LEU:95.03:-63.29:142.98:Favored:Pre-proline
+A 118 PRO:81.64:-68.02:151.86:Favored:Proline
+A 119 LEU:82.35:-57.76:-41.43:Favored:General case
+A 120 GLN:42.36:-119.53:145.90:Favored:General case
+A 121 VAL:66.70:-84.29:134.44:Favored:Pre-proline
+A 122 PRO:76.40:-58.28:148.00:Favored:Proline
+A 123 ASP:69.41:-60.79:-27.77:Favored:General case
+A 134 PHE:82.11:-59.78:-48.64:Favored:General case
+A 135 TYR:71.72:-71.33:-33.12:Favored:General case
+A 136 GLN:89.58:-66.13:-38.15:Favored:General case
+A 137 ASN:50.89:-80.58:-15.68:Favored:General case
+A 138 TRP:44.10:-63.42:131.58:Favored:General case
+A 139 GLN:51.03:-112.40:114.07:Favored:Pre-proline
+A 140 PRO:97.36:-63.43:145.45:Favored:Proline
+A 141 ALA:23.76:-86.33:-27.37:Favored:General case
+A 142 TRP:46.93:-135.94:160.20:Favored:General case
+A 143 ALA:81.86:-65.22:154.19:Favored:Pre-proline
+A 144 PRO:91.55:-65.78:147.90:Favored:Proline
+A 145 GLY:79.29:67.45:29.36:Favored:Glycine
+A 146 THR:4.28:-120.75:-29.97:Favored:General case
+A 147 GLN:44.29:-138.74:144.56:Favored:General case
+A 148 ARG:54.99:-101.16:129.94:Favored:General case
+A 149 LEU:5.65:-137.80:103.41:Favored:General case
+A 150 TYR:8.87:-46.71:128.87:Favored:General case
+A 151 ALA:6.14:-158.01:129.58:Favored:General case
+A 152 ASN:72.69:-69.34:-31.56:Favored:General case
+A 153 SER:53.22:-74.72:-9.76:Favored:General case
+A 154 SER:1.45:-91.98:-65.87:Allowed:General case
+A 155 ILE:67.92:-67.72:-23.94:Favored:General case
+A 156 GLY:97.04:-63.00:-44.49:Favored:Glycine
+A 157 LEU:82.49:-68.43:-37.48:Favored:General case
+A 158 PHE:79.37:-56.50:-46.38:Favored:General case
+A 159 GLY:99.37:-62.49:-42.48:Favored:Glycine
+A 160 ALA:97.29:-64.65:-41.84:Favored:General case
+A 161 LEU:65.55:-74.67:-33.65:Favored:General case
+A 214 GLY:30.58:-161.63:159.33:Favored:Glycine
+A 215 ALA:55.91:-63.63:137.79:Favored:General case
+A 216 LEU:10.35:59.92:23.47:Favored:General case
+A 217 ASP:95.45:-64.98:-39.49:Favored:General case
+A 218 ALA:87.04:-58.52:-45.80:Favored:General case
+A 219 GLU:78.38:-68.84:-35.05:Favored:General case
+A 220 ALA:9.19:-102.33:-33.31:Favored:General case
+A 221 TYR:0.24:-159.31:21.31:Allowed:General case
+A 222 GLY:53.00:-102.98:15.69:Favored:Glycine
+A 255 ALA:65.69:-69.94:-20.20:Favored:General case
+A 256 GLN:36.29:-100.92:7.11:Favored:General case
+A 257 SER:37.74:-73.41:152.85:Favored:General case
+A 258 ARG:26.83:-98.12:110.12:Favored:General case
+A 259 TYR:14.47:-94.19:-31.93:Favored:General case
+A 260 TRP:37.52:-145.61:154.08:Favored:General case
+A 261 GLN:60.97:-126.21:135.65:Favored:General case
+A 262 THR:13.46:-137.13:114.50:Favored:General case
+A 263 GLY:31.20:66.67:-131.60:Favored:Glycine
+A 264 ASP:49.25:-94.94:1.81:Favored:General case
+A 265 MET:26.89:-105.76:149.25:Favored:General case
+A 266 TYR:55.68:-117.72:138.57:Favored:General case
+A 267 GLN:47.85:-96.88:123.57:Favored:General case
+A 268 GLY:24.59:-105.14:-153.13:Favored:Glycine
+A 269 LEU:15.71:-100.40:101.71:Favored:General case
+A 270 GLY:2.02:85.29:-63.06:Favored:Glycine
+A 271 TRP:35.07:-66.99:153.93:Favored:General case
+A 272 GLU:50.89:-124.91:145.49:Favored:General case
+A 273 MET:51.22:-138.16:153.89:Favored:General case
+A 274 LEU:54.10:-134.94:155.97:Favored:General case
+A 282 SER:47.14:-78.94:-30.39:Favored:General case
+A 283 ILE:73.61:-58.50:-35.36:Favored:General case
+A 292 ALA:67.03:-68.31:-22.10:Favored:General case
+A 293 LEU:4.37:-155.55:121.15:Favored:General case
+A 294 ALA:3.70:-132.62:95.58:Favored:General case
+A 295 ALA:35.47:-85.72:125.39:Favored:General case
+A 296 ARG:31.13:-130.17:136.61:Favored:Pre-proline
+A 297 PRO:74.67:-69.50:147.90:Favored:Proline
+A 298 VAL:42.99:-122.37:150.32:Favored:General case
+A 299 LYS:59.98:-107.96:130.46:Favored:General case
+A 300 ALA:46.41:-71.87:144.13:Favored:General case
+A 313 VAL:57.20:-107.26:133.32:Favored:General case
+A 314 HIS:18.47:-158.51:170.84:Favored:General case
+A 315 LYS:3.55:-163.14:130.41:Favored:General case
+A 316 THR:17.27:-96.92:156.73:Favored:General case
+A 317 GLY:14.17:-152.28:148.07:Favored:Glycine
+A 318 ALA:28.69:-154.49:154.61:Favored:General case
+A 319 THR:5.73:-131.18:179.65:Favored:General case
+A 320 GLY:66.59:-57.41:-31.87:Favored:Glycine
+A 323 GLY:3.77:-141.17:125.60:Favored:Glycine
+A 324 SER:35.37:-130.10:162.84:Favored:General case
+A 325 TYR:9.62:-157.42:136.44:Favored:General case
+A 326 VAL:45.52:-134.78:134.63:Favored:General case
+A 327 ALA:26.96:-148.32:142.45:Favored:General case
+A 344 TYR:18.74:-104.44:162.18:Favored:Pre-proline
+A 345 PRO:12.56:-44.20:131.49:Favored:Proline
+A 346 ASN:64.36:-57.00:-40.47:Favored:Pre-proline
+A 347 PRO:94.64:-57.14:-36.94:Favored:Proline

@@ -1,0 +1,14 @@
+
+:   860: A  96 ARG  CA  : A  97 THR  N   :   -0.822:       23
+
+:   860: A 120 TRP  O   : A 132 TYR  HA  :   -0.466:       21
+
+:   860: A  85 THR HG22 : A  86 LEU  O   :   -0.450:       58
+
+:   860: A 107 GLU  OE2 : A 124 SER  OG  :   -0.429:       30
+
+:   860: A 142 ASP  HB2 : A 141 VAL  O   :   -0.423:       80
+
+:   860: A 125 LEU HD23 : A 125 LEU  HA  :   -0.411:       37
+#sum2 ::6.98 clashscore : 5.36 clashscore B<40 
+#summary::860 atoms:746 atoms B<40:98637 potential dots:6165.0 A^2:6 bumps:4 bumps B<40:291 score

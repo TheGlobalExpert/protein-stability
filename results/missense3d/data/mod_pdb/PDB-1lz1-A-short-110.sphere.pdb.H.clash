@@ -1,0 +1,44 @@
+
+:  1264: A 123 GLN  CB  : A 123 GLN  N   :   -1.001:       79
+:  1264: A 122 ARG  CA  : A 123 GLN  N   :   -0.911:       54
+:  1264: A 123 GLN  CB  : A 123 GLN  C   :   -0.876:       79
+:  1264: A 123 GLN  C   : A 123 GLN  N   :   -0.683:       38
+:  1264: A 123 GLN  C   : A 123 GLN  CG  :   -0.599:       56
+
+:  1264: A  73 ALA  CA  : A  74 VAL  N   :   -0.900:       45
+:  1264: A  74 VAL  CA  : A  75 ASN  N   :   -0.831:       33
+
+:  1264: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:  1264: A 112 TRP  HH2 : A 107 ARG HH12 :   -0.762:      106
+:  1264: A 107 ARG  NH1 : A 112 TRP  CZ3 :   -0.738:      106
+:  1264: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+:  1264: A 112 TRP  HZ3 : A 107 ARG HH11 :   -0.478:      106
+
+:  1264: A 111 ALA  O   : A 115 ARG  HG2 :   -0.767:       46
+
+:  1264: A 101 ARG  NE  : A 101 ARG  NH1 :   -0.729:       39
+:  1264: A 101 ARG  NH1 : A 101 ARG  CD  :   -0.530:       39
+
+:  1264: A  41 ARG  C   : A  41 ARG  N   :   -0.703:       16
+
+:  1264: A  91 ASP  O   : A  92 ALA  N   :   -0.668:       12
+:  1264: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.495:       22
+:  1264: A  84 LEU HD22 : A  92 ALA  HA  :   -0.465:       22
+
+:  1264: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:  1264: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:  1264: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+:  1264: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:  1264: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:  1264: A  52 THR  HB  : A  54 TYR  CE2 :   -0.421:       15
+
+:  1264: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1264: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:  1264: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.402:       88
+#sum2 ::22.15 clashscore : 9.99 clashscore B<40 
+#summary::1264 atoms:1101 atoms B<40:153983 potential dots:9624.0 A^2:28 bumps:11 bumps B<40:326.4 score

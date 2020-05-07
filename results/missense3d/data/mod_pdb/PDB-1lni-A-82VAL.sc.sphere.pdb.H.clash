@@ -1,0 +1,58 @@
+
+:  1328: A  40 ARG HH21 : A  40 ARG  CG  :   -1.004:        0
+:  1328: A  40 ARG HH21 : A  40 ARG  HG3 :   -0.976:        0
+:  1328: A  40 ARG  HG3 : A  40 ARG  NH2 :   -0.926:        0
+:  1328: A  40 ARG  NH2 : A  40 ARG  CG  :   -0.705:        0
+
+:  1328: A  65 ARG  HB3 : A  69 ARG  NH1 :   -0.972:        0
+:  1328: A  69 ARG HH12 : A  65 ARG  CB  :   -0.957:        0
+:  1328: A  65 ARG  HB3 : A  69 ARG HH12 :   -0.934:        0
+:  1328: A  88 THR  O   : A  82 VAL HG23 :   -0.901:        0
+:  1328: A  71 ILE HD12 : A  89 PHE  CE2 :   -0.838:        0
+:  1328: A  69 ARG  NH1 : A  65 ARG  CB  :   -0.800:        0
+:  1328: A  86 TYR  H   : A  82 VAL HG21 :   -0.701:        0
+:  1328: A  71 ILE  CD1 : A  89 PHE  CE2 :   -0.684:        0
+:  1328: A  84 ASP  H   : A  82 VAL HG22 :   -0.676:        0
+:  1328: A  69 ARG  HD3 : A  56 THR  HA  :   -0.659:        0
+:  1328: A  82 VAL  CG2 : A  84 ASP  OD1 :   -0.636:        0
+:  1328: A  82 VAL  CG2 : A  88 THR  O   :   -0.626:        0
+:  1328: A  69 ARG  CZ  : A  65 ARG  HB3 :   -0.592:        0
+:  1328: A  71 ILE HD13 : A  37 PHE  CE1 :   -0.571:        0
+:  1328: A  69 ARG  HG3 : A  86 TYR  CZ  :   -0.565:        0
+:  1328: A  86 TYR  H   : A  82 VAL  CG2 :   -0.559:        0
+:  1328: A  86 TYR  N   : A  82 VAL HG21 :   -0.555:        0
+:  1328: A  87 ALA  HB3 : A  84 ASP  OD2 :   -0.531:        0
+:  1328: A  82 VAL  HB  : A  89 PHE  CD2 :   -0.525:        0
+:  1328: A  84 ASP  CG  : A  87 ALA  HB3 :   -0.510:        0
+:  1328: A  84 ASP  OD1 : A  82 VAL HG23 :   -0.504:        0
+:  1328: A  86 TYR  HA  : A  89 PHE  CZ  :   -0.461:        0
+:  1328: A  86 TYR  CA  : A  82 VAL HG21 :   -0.445:        0
+:  1328: A  69 ARG  HG3 : A  86 TYR  OH  :   -0.443:        0
+:  1328: A  69 ARG HH12 : A  65 ARG  HB2 :   -0.417:        0
+
+:  1328: A  48 SER  C   : A  49 TYR  CA  :   -0.932:        0
+:  1328: A  48 SER  N   : A  48 SER  C   :   -0.761:        0
+
+:  1328: A  92 ILE HD11 : A  81 TYR  HB2 :   -0.771:        0
+:  1328: A  68 ARG  HD3 : A  81 TYR  OH  :   -0.474:        0
+
+:  1328: A  80 TYR  CE2 : A  91 LEU  HG  :   -0.707:        0
+:  1328: A  80 TYR  CE2 : A  91 LEU  CD2 :   -0.624:        0
+:  1328: A  80 TYR  CZ  : A  91 LEU HD21 :   -0.617:        0
+:  1328: A  80 TYR  CE2 : A  91 LEU  CG  :   -0.527:        0
+:  1328: A  91 LEU  HG  : A  80 TYR  HE2 :   -0.450:        0
+:  1328: A  80 TYR  CE2 : A  91 LEU HD21 :   -0.436:        0
+
+:  1328: A  31 SER  N   : A  31 SER  C   :   -0.691:        0
+
+:  1328: A  72 THR  O   : A  52 TYR  HA  :   -0.491:        0
+:  1328: A  72 THR HG22 : A  79 ASP  OD2 :   -0.422:        0
+
+:  1328: A  70 ILE HD12 : A  18 THR  HB  :   -0.449:        0
+:  1328: A  57 VAL  CG2 : A  70 ILE HG13 :   -0.418:        0
+
+:  1328: A  51 TYR  CE1 : A  74 GLU  HB2 :   -0.429:        0
+
+:  1328: A  76 THR  C   : A  77 GLN  HG2 :   -0.424:        0
+#sum2 ::34.64 clashscore : 34.64 clashscore B<40 
+#summary::1328 atoms:1328 atoms B<40:152838 potential dots:9552.0 A^2:46 bumps:46 bumps B<40:277.4 score

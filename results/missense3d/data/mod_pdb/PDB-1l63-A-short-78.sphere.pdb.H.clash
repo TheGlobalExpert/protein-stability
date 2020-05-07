@@ -1,0 +1,16 @@
+
+:  1289: A  66 LEU  CB  : A  66 LEU  CD2 :   -0.976:       19
+
+:  1289: A 145 ARG  C   : A 145 ARG  CB  :   -0.909:       24
+:  1289: A 145 ARG  C   : A 145 ARG  CG  :   -0.663:       24
+
+:  1289: A 132 ASN  C   : A 132 ASN  CB  :   -0.879:       22
+
+:  1289: A 151 THR  C   : A 151 THR  N   :   -0.772:       16
+
+:  1289: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1289: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1289: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::6.21 clashscore : 6.68 clashscore B<40 
+#summary::1289 atoms:1198 atoms B<40:155034 potential dots:9690.0 A^2:8 bumps:8 bumps B<40:473 score

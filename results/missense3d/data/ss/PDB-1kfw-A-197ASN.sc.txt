@@ -1,0 +1,6 @@
+SGFILE missense3d/data/mod_pdb/PDB-1kfw-A-197ASN.sc.pdb            
+NUMCYS      2
+NUMSGA      2
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap
+INTRA   65  CYS A  SG   . -  159  CYS A  SG   .     2.175    95

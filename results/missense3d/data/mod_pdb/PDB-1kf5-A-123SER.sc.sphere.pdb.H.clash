@@ -1,0 +1,42 @@
+
+:  1361: A  75 SER  HA  : A  60 GLN  OE1 :   -1.153:        0
+:  1361: A  60 GLN  OE1 : A  75 SER  CA  :   -0.766:        0
+:  1361: A  57 VAL  HA  : A  60 GLN  CD  :   -0.512:        0
+
+:  1361: A  39 ARG  NH2 : A  39 ARG  NH1 :   -0.799:        0
+
+:  1361: A  35 LEU  CA  : A  35 LEU  O   :   -0.781:        0
+
+:  1361: A  86 GLU  CG  : A  86 GLU  OE1 :   -0.771:        0
+:  1361: A  86 GLU  OE1 : A  86 GLU  CB  :   -0.401:        0
+
+:  1361: A 111 GLU  CA  : A 111 GLU  O   :   -0.765:        0
+
+:  1361: A  96 ALA  O   : A  97 TYR  N   :   -0.682:        0
+
+:  1361: A 110 CYS  HB2 : A 115 TYR  CE2 :   -0.654:        0
+:  1361: A 110 CYS  HB2 : A 115 TYR  CZ  :   -0.601:        0
+:  1361: A 110 CYS  CB  : A 115 TYR  CE2 :   -0.473:        0
+
+:  1361: A  72 CYS  O   : A  62 ASN  ND2 :   -0.503:        0
+
+:  1361: A 109 ALA  HB3 : A 119 HIS  HB3 :   -0.495:        0
+:  1361: A 121 ASP  HA  : A 119 HIS  NE2 :   -0.425:        0
+:  1361: A 119 HIS  HE2 : A 121 ASP  HA  :   -0.408:        0
+
+:  1361: A  29 MET  HG3 : A  25 TYR  CZ  :   -0.474:        0
+
+:  1361: A 122 ALA  HB2 : A  66 LYS  NZ  :   -0.461:        0
+:  1361: A 122 ALA  HB2 : A  66 LYS  HZ2 :   -0.412:        0
+
+:  1361: A  43 VAL HG12 : A  85 ARG  HD3 :   -0.458:        0
+
+:  1361: A  82 THR  CG2 : A  99 THR HG23 :   -0.452:        0
+
+:  1361: A  87 THR  CG2 : A  87 THR  N   :   -0.445:        0
+
+:  1361: A  76 TYR  O   : A 105 HIS  HE1 :   -0.411:        0
+
+:  1361: A  11 GLN  HG3 : A   7 LYS  O   :   -0.405:        0
+#sum2 ::17.63 clashscore : 17.63 clashscore B<40 
+#summary::1361 atoms:1361 atoms B<40:161391 potential dots:10090.0 A^2:24 bumps:24 bumps B<40:411.7 score

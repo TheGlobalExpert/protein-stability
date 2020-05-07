@@ -1,0 +1,14 @@
+
+:  1287: A 141 GLN  CB  : A 141 GLN  C   :   -0.832:       29
+
+:  1287: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1287: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1287: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1287: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1287: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1287: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1287: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::6.22 clashscore : 1.76 clashscore B<40 
+#summary::1287 atoms:1135 atoms B<40:149320 potential dots:9332.0 A^2:8 bumps:2 bumps B<40:468.1 score

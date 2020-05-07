@@ -1,0 +1,36 @@
+
+:   945: A  27 PRO  N   : A  27 PRO  CA  :   -1.305:        0
+:   945: A  27 PRO  CD  : A  27 PRO  N   :   -1.013:        0
+:   945: A  27 PRO  CA  : A  26 GLY  C   :   -0.551:        0
+:   945: A  26 GLY  CA  : A  27 PRO  CA  :   -0.530:        0
+:   945: A  27 PRO  C   : A  27 PRO  CG  :   -0.477:        0
+:   945: A  27 PRO  N   : A  27 PRO  CB  :   -0.438:        0
+:   945: A  27 PRO  N   : A  27 PRO  CG  :   -0.437:        0
+:   945: A  27 PRO  C   : A  27 PRO  HG2 :   -0.409:        0
+
+:   945: A  41 GLU  N   : A  41 GLU  CB  :   -0.851:        0
+:   945: A  41 GLU  N   : A  40 ARG  CA  :   -0.834:        0
+
+:   945: A  92 ILE HD11 : A  81 TYR  HB2 :   -0.771:        0
+
+:   945: A  39 ASN  OD1 : A  39 ASN  CB  :   -0.749:        0
+
+:   945: A  69 ARG  NE  : A  86 TYR  OH  :   -0.653:        0
+:   945: A  86 TYR  CE1 : A  69 ARG  HG3 :   -0.527:        0
+:   945: A  69 ARG  HG2 : A  68 ARG  C   :   -0.487:        0
+:   945: A  66 GLY  O   : A  69 ARG  NH1 :   -0.482:        0
+:   945: A  82 THR  HB  : A  89 PHE  CD2 :   -0.481:        0
+:   945: A  86 TYR  HA  : A  89 PHE  CZ  :   -0.432:        0
+:   945: A  69 ARG  HG3 : A  86 TYR  CZ  :   -0.416:        0
+
+:   945: A  71 ILE HD12 : A  70 ILE  C   :   -0.583:        0
+:   945: A  71 ILE  CD1 : A  71 ILE  N   :   -0.525:        0
+:   945: A  70 ILE HD12 : A  18 THR  HB  :   -0.449:        0
+:   945: A  57 VAL  CG2 : A  70 ILE HG13 :   -0.418:        0
+
+:   945: A  72 THR  O   : A  52 TYR  HA  :   -0.491:        0
+:   945: A  72 THR HG22 : A  79 ASP  OD2 :   -0.422:        0
+
+:   945: A  84 ASP  CG  : A  87 ALA  HB3 :   -0.462:        0
+#sum2 ::27.51 clashscore : 27.51 clashscore B<40 
+#summary::945 atoms:945 atoms B<40:113745 potential dots:7109.0 A^2:26 bumps:26 bumps B<40:177.9 score

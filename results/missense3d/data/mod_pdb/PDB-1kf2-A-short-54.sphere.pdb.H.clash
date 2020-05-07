@@ -1,0 +1,11 @@
+
+:  1283: A  30 MET  CA  : A  30 MET  CG  :   -0.931:       11
+
+:  1283: A  66 LYS  CA  : A  67 ASN  N   :   -0.831:       14
+
+:  1283: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.502:       29
+:  1283: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.426:       29
+
+:  1283: A  29 MET  HG3 : A  25 TYR  CZ  :   -0.402:       15
+#sum2 ::3.90 clashscore : 4.02 clashscore B<40 
+#summary::1283 atoms:1243 atoms B<40:151015 potential dots:9438.0 A^2:5 bumps:5 bumps B<40:481.8 score

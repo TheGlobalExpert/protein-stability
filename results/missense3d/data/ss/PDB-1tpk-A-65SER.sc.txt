@@ -1,0 +1,8 @@
+SGFILE missense3d/data/mod_pdb/PDB-1tpk-A-65SER.sc.pdb             
+NUMCYS      6
+NUMSGA      6
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap
+INTRA    1  CYS A  SG   . -   80  CYS A  SG   .     2.190    79
+INTRA   22  CYS A  SG   . -   63  CYS A  SG   .     1.857    41
+INTRA   51  CYS A  SG   . -   75  CYS A  SG   .     1.889    24

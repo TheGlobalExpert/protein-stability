@@ -1,0 +1,36 @@
+
+:  2044: A 304 PRO  CA  : A 305 THR  N   :   -0.868:       24
+
+:  2044: A 212 SER  N   : A 211 VAL  CA  :   -0.845:       28
+:  2044: A 212 SER  C   : A 212 SER  N   :   -0.715:       30
+
+:  2044: A 342 LYS  O   : A 343 ASN  N   :   -0.694:       25
+
+:  2044: A  85 LEU  N   : A  84 LYS  O   :   -0.665:       23
+:  2044: A  85 LEU  HG  : A  78 ILE  CD1 :   -0.478:       26
+
+:  2044: A 125 VAL HG11 : A 131 LEU HD23 :   -0.660:       34
+:  2044: A 131 LEU HD23 : A 125 VAL  CG1 :   -0.410:       34
+:  2044: A 124 GLU  N   : A 125 VAL  N   :   -0.406:       37
+
+:  2044: A 189 ILE  CD1 : A 223 VAL HG22 :   -0.545:       30
+
+:  2044: A 119 LEU  HA  : A 151 ALA  HA  :   -0.514:       25
+
+:  2044: A 293 LEU  HG  : A 149 LEU HD11 :   -0.479:       34
+
+:  2044: A 316 THR HG22 : A 325 TYR  CD1 :   -0.461:       25
+
+:  2044: A  64 SER  HB2 : A 317 GLY  HA2 :   -0.456:       21
+
+:  2044: A 219 GLU  OE1 : A 216 LEU  HA  :   -0.429:       28
+
+:  2044: A 346 ASN  N   : A 347 PRO  CD  :   -0.425:       27
+
+:  2044: A 298 VAL HG11 : A 148 ARG  HB2 :   -0.422:       30
+
+:  2044: A 313 VAL  O   : A 327 ALA  HA  :   -0.418:       20
+
+:  2044: A 108 HIS  HB3 : A 114 ALA  HA  :   -0.411:       20
+#sum2 ::9.30 clashscore : 9.55 clashscore B<40 
+#summary::2044 atoms:1989 atoms B<40:248581 potential dots:15540.0 A^2:19 bumps:19 bumps B<40:748.7 score

@@ -1,0 +1,24 @@
+
+:   965: A  24 TYR  CZ  : A  24 TYR  CD2 :   -1.055:       18
+
+:   965: A  68 TYR  CE1 : A  68 TYR  CG  :   -1.007:       18
+
+:   965: A  96 SER  O   : A  99 ASN  HB2 :   -0.903:       39
+:   965: A  96 SER  O   : A  99 ASN  CB  :   -0.465:       39
+
+:   965: A  92 HIS  CE1 : A 100 PHE  CZ  :   -0.534:       23
+:   965: A  92 HIS  CE1 : A 100 PHE  CE1 :   -0.464:       23
+
+:   965: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:   965: A  20 GLN HE21 : A  86 LEU  HB2 :   -0.473:       19
+
+:   965: A  56 TYR  CE2 : A  54 SER  HB3 :   -0.471:       23
+:   965: A  55 PRO  HA  : A  54 SER  HB2 :   -0.435:       23
+:   965: A  79 VAL  CG1 : A  56 TYR  HB3 :   -0.434:       15
+
+:   965: A  44 ASN  HA  : A  42 TYR  CZ  :   -0.429:       29
+
+:   965: A  32 THR  CA  : A  31 GLU  O   :   -0.410:       27
+#sum2 ::13.47 clashscore : 13.77 clashscore B<40 
+#summary::965 atoms:944 atoms B<40:117006 potential dots:7313.0 A^2:13 bumps:13 bumps B<40:320.1 score

@@ -1,0 +1,30 @@
+
+:  1043: A 124 TYR  CD1 : A 124 TYR  CZ  :   -0.997:       23
+
+:  1043: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:  1043: A 107 ARG HH12 : A 112 TRP  HH2 :   -0.762:      106
+:  1043: A 112 TRP  CZ3 : A 107 ARG  NH1 :   -0.738:      106
+:  1043: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+:  1043: A 112 TRP  HZ3 : A 107 ARG HH11 :   -0.478:      106
+
+:  1043: A  35 GLU  N   : A  35 GLU  CB  :   -0.800:       12
+
+:  1043: A 115 ARG  C   : A 115 ARG  N   :   -0.655:       17
+
+:  1043: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1043: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1043: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+
+:  1043: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1043: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1043: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1043: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+
+:  1043: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:  1043: A 103 PRO  HD2 : A 102 ASP  HB3 :   -0.402:       88
+#sum2 ::16.30 clashscore : 10.91 clashscore B<40 
+#summary::1043 atoms:917 atoms B<40:126121 potential dots:7883.0 A^2:17 bumps:10 bumps B<40:332.8 score

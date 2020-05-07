@@ -1,0 +1,19 @@
+
+:  1082: A  60 GLN  OE1 : A  75 SER  HA  :   -1.191:        0
+:  1082: A  60 GLN  OE1 : A  75 SER  CA  :   -0.732:        0
+:  1082: A  60 GLN  CD  : A  57 VAL  HA  :   -0.567:        0
+:  1082: A 106 ILE HD11 : A  57 VAL HG21 :   -0.427:        0
+:  1082: A  60 GLN  NE2 : A  57 VAL  HA  :   -0.408:        0
+
+:  1082: A 124 VAL  N   : A 124 VAL  CB  :   -0.812:        0
+
+:  1082: A 119 HIS  NE2 : A 121 ASP  HA  :   -0.470:        0
+:  1082: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.443:        0
+
+:  1082: A 117 PRO  HD2 : A 116 ALA  HB1 :   -0.463:        0
+
+:  1082: A 115 TYR  CD2 : A 112 GLY  O   :   -0.432:        0
+
+:  1082: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.412:        0
+#sum2 ::10.17 clashscore : 10.17 clashscore B<40 
+#summary::1082 atoms:1082 atoms B<40:127889 potential dots:7993.0 A^2:11 bumps:11 bumps B<40:332.9 score

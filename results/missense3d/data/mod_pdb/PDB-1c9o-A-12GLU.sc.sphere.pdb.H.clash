@@ -1,0 +1,20 @@
+
+:   607: A  25 ASP  C   : A  25 ASP  CB  :   -0.891:        0
+
+:   607: A  34 GLN  NE2 : A  34 GLN  CG  :   -0.881:        0
+
+:   607: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.795:        0
+:   607: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.503:        0
+:   607: A  65 LYS  HE2 : A  41 LEU  CD2 :   -0.432:        0
+
+:   607: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.778:        0
+:   607: A  17 PHE  CD1 : A   8 TRP  CZ2 :   -0.688:        0
+:   607: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.452:        0
+
+:   607: A  13 LYS  HB3 : A  15 TYR  CE2 :   -0.505:        0
+
+:   607: A  30 PHE  CE2 : A  29 HIS  CE1 :   -0.452:        0
+
+:   607: A  36 GLU  CG  : A  37 GLY  N   :   -0.448:        0
+#sum2 ::18.12 clashscore : 18.12 clashscore B<40 
+#summary::607 atoms:607 atoms B<40:73060 potential dots:4566.0 A^2:11 bumps:11 bumps B<40:123.6 score

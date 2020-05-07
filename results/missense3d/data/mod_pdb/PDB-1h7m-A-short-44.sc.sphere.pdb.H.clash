@@ -1,0 +1,34 @@
+
+:   896: A  18 MET  CE  : A  80 VAL HG21 :   -1.187:        0
+:   896: A  80 VAL  CG2 : A  18 MET  CE  :   -1.090:        0
+:   896: A  18 MET  HE1 : A  80 VAL HG21 :   -1.017:        0
+:   896: A  18 MET  HE3 : A  80 VAL  CG2 :   -0.945:        0
+:   896: A  18 MET  HE1 : A  80 VAL  CG2 :   -0.686:        0
+:   896: A  18 MET  CE  : A  80 VAL HG22 :   -0.634:        0
+:   896: A  80 VAL  O   : A  70 LEU HD23 :   -0.615:        0
+:   896: A  80 VAL HG22 : A  18 MET  HE3 :   -0.547:        0
+:   896: A  18 MET  HE3 : A  80 VAL  CG1 :   -0.416:        0
+
+:   896: A  31 GLY  N   : A  30 GLY  CA  :   -0.894:        0
+
+:   896: A  32 ALA  CA  : A  32 ALA  O   :   -0.779:        0
+
+:   896: A  29 MET  CG  : A  29 MET  CE  :   -0.724:        0
+
+:   896: A  68 VAL  CG2 : A  79 THR HG22 :   -0.680:        0
+:   896: A  68 VAL HG22 : A  79 THR HG22 :   -0.551:        0
+:   896: A  79 THR  HB  : A  67 SER  HB2 :   -0.538:        0
+:   896: A  68 VAL  CG2 : A  79 THR  CG2 :   -0.463:        0
+:   896: A  79 THR  CG2 : A  68 VAL HG22 :   -0.459:        0
+
+:   896: A  28 LYS  HE2 : A  52 TYR  CZ  :   -0.650:        0
+:   896: A  28 LYS  HE3 : A  24 ILE  CG2 :   -0.466:        0
+
+:   896: A  64 GLU  OE1 : A  39 ARG  HD2 :   -0.445:        0
+:   896: A  64 GLU  OE1 : A  39 ARG  NH2 :   -0.400:        0
+
+:   896: A  69 GLU  OE1 : A  69 GLU  CB  :   -0.429:        0
+
+:   896: A  36 ILE  O   : A  82 ALA  HA  :   -0.407:        0
+#sum2 ::25.67 clashscore : 25.67 clashscore B<40 
+#summary::896 atoms:896 atoms B<40:104311 potential dots:6519.0 A^2:23 bumps:23 bumps B<40:215.9 score

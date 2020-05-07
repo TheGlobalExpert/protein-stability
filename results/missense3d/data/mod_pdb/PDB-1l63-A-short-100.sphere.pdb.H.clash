@@ -1,0 +1,20 @@
+
+:  1831: A 137 ARG  CZ  : A 137 ARG  CD  :   -1.017:       38
+
+:  1831: A  27 ILE  CA  : A  27 ILE  CG2 :   -0.997:       23
+:  1831: A  27 ILE  CG2 : A  27 ILE  C   :   -0.504:       23
+
+:  1831: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1831: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1831: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1831: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1831: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1831: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1831: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1831: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::6.01 clashscore : 5.31 clashscore B<40 
+#summary::1831 atoms:1696 atoms B<40:213696 potential dots:13360.0 A^2:11 bumps:9 bumps B<40:740.7 score

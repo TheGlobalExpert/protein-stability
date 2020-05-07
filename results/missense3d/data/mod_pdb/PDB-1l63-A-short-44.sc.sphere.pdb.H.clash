@@ -1,0 +1,30 @@
+
+:   808: A  22 GLU  C   : A  22 GLU  CB  :   -0.909:        0
+
+:   808: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.859:        0
+:   808: A  16 LYS  HE2 : A  56 GLY  O   :   -0.632:        0
+:   808: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.619:        0
+:   808: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.606:        0
+:   808: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.530:        0
+:   808: A  16 LYS  CE  : A  56 GLY  O   :   -0.486:        0
+
+:   808: A  14 ARG  NH2 : A  18 TYR  HB2 :   -0.777:        0
+:   808: A  18 TYR  CB  : A  14 ARG  NH2 :   -0.699:        0
+:   808: A  18 TYR  HB3 : A  14 ARG  CZ  :   -0.417:        0
+
+:   808: A  52 ARG  NH2 : A  54 THR  HA  :   -0.600:        0
+:   808: A  54 THR HG22 : A  52 ARG  CZ  :   -0.500:        0
+:   808: A  54 THR  HA  : A  52 ARG HH22 :   -0.448:        0
+
+:   808: A  27 ILE  N   : A  26 THR HG22 :   -0.563:        0
+:   808: A  31 HIS  C   : A  26 THR HG23 :   -0.491:        0
+:   808: A  26 THR HG23 : A  31 HIS  O   :   -0.455:        0
+:   808: A  27 ILE  N   : A  26 THR  CG2 :   -0.421:        0
+
+:   808: A  20 ASP  C   : A  20 ASP  OD2 :   -0.498:        0
+
+:   808: A  62 GLU  OE1 : A  58 ILE  HB  :   -0.423:        0
+
+:   808: A  48 LYS  HB3 : A  48 LYS  HE3 :   -0.410:        0
+#sum2 ::24.75 clashscore : 24.75 clashscore B<40 
+#summary::808 atoms:808 atoms B<40:93591 potential dots:5849.0 A^2:20 bumps:20 bumps B<40:227.8 score

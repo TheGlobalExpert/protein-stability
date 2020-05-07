@@ -1,0 +1,17 @@
+
+:   788: A  22 GLY  O   : A  23 GLN  HG2 :   -0.661:       60
+:   788: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+
+:   788: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   788: A  29 HIS  ND1 : A  31 SER  OG  :   -0.471:       16
+
+:   788: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   788: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   788: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   788: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::10.15 clashscore : 8.00 clashscore B<40 
+#summary::788 atoms:625 atoms B<40:91757 potential dots:5735.0 A^2:8 bumps:5 bumps B<40:226.9 score

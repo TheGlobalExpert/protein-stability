@@ -1,0 +1,30 @@
+
+:  1230: A   1 VAL  CA  : A   1 VAL  CG2 :   -0.973:        0
+:  1230: A   1 VAL  C   : A   1 VAL  CG2 :   -0.461:        0
+
+:  1230: A 104 LEU  C   : A 105 GLU  CA  :   -0.953:        0
+
+:  1230: A  32 LEU  CB  : A  32 LEU  N   :   -0.845:        0
+
+:  1230: A  14 TRP  HH2 : A  72 LEU HD23 :   -0.756:        0
+:  1230: A  73 GLY  HA3 : A  14 TRP  HE1 :   -0.660:        0
+:  1230: A  14 TRP  NE1 : A  73 GLY  CA  :   -0.619:        0
+:  1230: A  72 LEU  CD2 : A  14 TRP  HH2 :   -0.603:        0
+:  1230: A  73 GLY  CA  : A  14 TRP  HE1 :   -0.560:        0
+:  1230: A  14 TRP  NE1 : A  73 GLY  HA2 :   -0.557:        0
+:  1230: A  14 TRP  CZ3 : A  76 LEU  CD1 :   -0.487:        0
+:  1230: A  14 TRP  CE3 : A  76 LEU  CD1 :   -0.477:        0
+:  1230: A  14 TRP  CH2 : A  72 LEU  HG  :   -0.447:        0
+:  1230: A  73 GLY  HA2 : A  14 TRP  CE2 :   -0.440:        0
+:  1230: A  76 LEU HD12 : A  14 TRP  CD2 :   -0.426:        0
+
+:  1230: A  79 LYS  HA  : A   7 TRP  CZ3 :   -0.572:        0
+:  1230: A   7 TRP  CZ2 : A  79 LYS  C   :   -0.462:        0
+:  1230: A  79 LYS  HA  : A   7 TRP  CH2 :   -0.446:        0
+:  1230: A  79 LYS  HA  : A   7 TRP  CE3 :   -0.400:        0
+
+:  1230: A 131 MET  CE  : A  10 VAL HG13 :   -0.500:        0
+
+:  1230: A 123 PHE  CZ  : A 128 GLN  HA  :   -0.485:        0
+#sum2 ::17.07 clashscore : 17.07 clashscore B<40 
+#summary::1230 atoms:1230 atoms B<40:144051 potential dots:9003.0 A^2:21 bumps:21 bumps B<40:383.3 score

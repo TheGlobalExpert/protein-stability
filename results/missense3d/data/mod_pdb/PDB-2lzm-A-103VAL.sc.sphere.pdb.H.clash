@@ -1,0 +1,106 @@
+
+:  1889: A   6 MET  HE2 : A 161 TYR  OH  :   -1.283:        0
+:  1889: A 161 TYR  OH  : A   6 MET  CE  :   -0.956:        0
+:  1889: A   6 MET  HE2 : A 161 TYR  CZ  :   -0.947:        0
+:  1889: A 161 TYR  CZ  : A   6 MET  HG3 :   -0.894:        0
+:  1889: A 161 TYR  CZ  : A   6 MET  CE  :   -0.850:        0
+:  1889: A   6 MET  HE3 : A 161 TYR  CE2 :   -0.834:        0
+:  1889: A   6 MET  CE  : A 161 TYR  CE2 :   -0.832:        0
+:  1889: A   6 MET  HG3 : A 161 TYR  CE1 :   -0.748:        0
+:  1889: A   6 MET  CG  : A 161 TYR  CZ  :   -0.697:        0
+:  1889: A 161 TYR  CE1 : A   6 MET  CG  :   -0.540:        0
+:  1889: A   6 MET  HE3 : A 161 TYR  HE2 :   -0.532:        0
+:  1889: A   6 MET  CE  : A 161 TYR  HE2 :   -0.475:        0
+:  1889: A   6 MET  HE3 : A 158 TRP  HZ3 :   -0.465:        0
+
+:  1889: A  22 GLU  OE1 : A  24 TYR  HE1 :   -0.986:        0
+:  1889: A  18 TYR  C   : A  19 LYS  CA  :   -0.963:        0
+:  1889: A  24 TYR  CE1 : A  22 GLU  OE1 :   -0.748:        0
+:  1889: A  24 TYR  CE1 : A  22 GLU  HB3 :   -0.730:        0
+:  1889: A  26 THR HG22 : A  27 ILE  N   :   -0.570:        0
+:  1889: A  20 ASP  HB3 : A  22 GLU  H   :   -0.558:        0
+:  1889: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:  1889: A  24 TYR  HE1 : A  22 GLU  CD  :   -0.520:        0
+:  1889: A  18 TYR  CZ  : A  26 THR  HB  :   -0.516:        0
+:  1889: A  20 ASP  HB2 : A  24 TYR  H   :   -0.516:        0
+:  1889: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:  1889: A  24 TYR  CE1 : A  22 GLU  CB  :   -0.495:        0
+:  1889: A  18 TYR  C   : A  18 TYR  CG  :   -0.457:        0
+:  1889: A  18 TYR  OH  : A  26 THR  CG2 :   -0.452:        0
+:  1889: A  26 THR  HB  : A  18 TYR  CE1 :   -0.444:        0
+:  1889: A  22 GLU  HB3 : A  24 TYR  CD1 :   -0.435:        0
+:  1889: A  18 TYR  OH  : A  26 THR HG21 :   -0.433:        0
+:  1889: A  27 ILE  N   : A  26 THR  CG2 :   -0.433:        0
+:  1889: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+
+:  1889: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.983:        0
+:  1889: A 144 ASN  HA  : A 147 LYS  HD2 :   -0.842:        0
+:  1889: A 148 ARG  CD  : A 164 LEU  CD2 :   -0.731:        0
+:  1889: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.711:        0
+:  1889: A 148 ARG  N   : A 147 LYS  HG2 :   -0.502:        0
+:  1889: A 148 ARG  HD3 : A 164 LEU HD22 :   -0.467:        0
+:  1889: A 147 LYS  HB3 : A 147 LYS  HE3 :   -0.402:        0
+
+:  1889: A  13 LEU  CD1 : A  13 LEU  CB  :   -0.980:        0
+
+:  1889: A 138 TRP  CZ2 : A 146 ALA  HA  :   -0.937:        0
+:  1889: A 138 TRP  CH2 : A 146 ALA  HA  :   -0.552:        0
+:  1889: A 138 TRP  CZ2 : A 146 ALA  CA  :   -0.513:        0
+
+:  1889: A 123 GLN  CA  : A 124 LYS  N   :   -0.873:        0
+:  1889: A 124 LYS  CA  : A 125 ARG  N   :   -0.862:        0
+:  1889: A 125 ARG  N   : A 125 ARG  C   :   -0.759:        0
+:  1889: A 124 LYS  N   : A 123 GLN  N   :   -0.424:        0
+
+:  1889: A 154 ARG  CG  : A 154 ARG  NE  :   -0.822:        0
+:  1889: A 154 ARG  NE  : A 154 ARG  CB  :   -0.542:        0
+:  1889: A 151 THR  HA  : A 154 ARG  CZ  :   -0.472:        0
+:  1889: A 154 ARG  NH1 : A 151 THR  HA  :   -0.454:        0
+:  1889: A 151 THR  OG1 : A 154 ARG  NH1 :   -0.406:        0
+
+:  1889: A 119 ARG  NH2 : A 119 ARG  HB3 :   -0.743:        0
+:  1889: A 119 ARG  NH2 : A 119 ARG  CD  :   -0.476:        0
+
+:  1889: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.715:        0
+:  1889: A  86 PRO  HD2 : A  85 LYS  N   :   -0.571:        0
+:  1889: A  85 LYS  HB3 : A  86 PRO  CD  :   -0.463:        0
+:  1889: A  85 LYS  N   : A  86 PRO  CD  :   -0.445:        0
+
+:  1889: A 111 VAL HG13 : A  84 LEU HD21 :   -0.703:        0
+:  1889: A  81 ASN  HB3 : A  84 LEU  HB2 :   -0.500:        0
+:  1889: A 111 VAL HG11 : A 103 VAL HG22 :   -0.491:        0
+:  1889: A 108 GLU  O   : A 111 VAL HG12 :   -0.416:        0
+
+:  1889: A  92 ASP  OD2 : A  95 ARG  NH2 :   -0.652:        0
+:  1889: A  95 ARG  HD2 : A  92 ASP  OD2 :   -0.413:        0
+
+:  1889: A   5 GLU  OE1 : A   1 MET  HA  :   -0.600:        0
+
+:  1889: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:  1889: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:  1889: A  14 ARG  CG  : A  14 ARG  NH2 :   -0.571:        0
+:  1889: A  14 ARG  CG  : A  14 ARG  CZ  :   -0.545:        0
+
+:  1889: A  75 VAL  O   : A  79 LEU  HG  :   -0.559:        0
+
+:  1889: A  87 VAL HG22 : A 122 GLN  HG3 :   -0.551:        0
+
+:  1889: A   7 LEU HD22 : A 104 PHE  CD2 :   -0.519:        0
+:  1889: A 104 PHE  HE2 : A  11 GLU  HG3 :   -0.511:        0
+:  1889: A 145 ARG HH22 : A  11 GLU  CD  :   -0.423:        0
+
+:  1889: A 114 PHE  O   : A 118 LEU  HG  :   -0.475:        0
+
+:  1889: A 106 MET  HE3 : A 106 MET  HB3 :   -0.454:        0
+
+:  1889: A  29 ILE HG22 : A  29 ILE  O   :   -0.433:        0
+:  1889: A  29 ILE HD13 : A  67 PHE  CD1 :   -0.403:        0
+
+:  1889: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.417:        0
+
+:  1889: A   3 ILE HG23 : A   4 PHE  N   :   -0.408:        0
+
+:  1889: A 132 ASN  OD1 : A 117 SER  OG  :   -0.402:        0
+#sum2 ::42.88 clashscore : 42.88 clashscore B<40 
+#summary::1889 atoms:1889 atoms B<40:222784 potential dots:13920.0 A^2:81 bumps:81 bumps B<40:333.8 score

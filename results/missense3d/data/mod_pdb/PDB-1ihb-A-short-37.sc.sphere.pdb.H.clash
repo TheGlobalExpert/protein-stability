@@ -1,0 +1,43 @@
+
+:   768: A  63 PRO  CD  : A  63 PRO  N   :   -1.430:        0
+
+:   768: A  89 LEU  CD1 : A  89 LEU  CD2 :   -0.997:        0
+
+:   768: A  20 GLN  C   : A  20 GLN  CB  :   -0.898:        0
+:   768: A  20 GLN  C   : A  20 GLN  CG  :   -0.427:        0
+
+:   768: A  35 ASN  ND2 : A  37 PHE  CZ  :   -0.880:        0
+:   768: A  39 ARG  HD3 : A  37 PHE  CE2 :   -0.850:        0
+:   768: A  39 ARG  HD3 : A  37 PHE  HE2 :   -0.812:        0
+:   768: A  37 PHE  CE1 : A  35 ASN  ND2 :   -0.801:        0
+:   768: A  39 ARG HH21 : A  37 PHE  HE2 :   -0.733:        0
+:   768: A  37 PHE  CD2 : A  39 ARG  HD3 :   -0.512:        0
+
+:   768: A  52 ILE  CB  : A  52 ILE  C   :   -0.848:        0
+:   768: A  52 ILE  CG2 : A  52 ILE  C   :   -0.571:        0
+
+:   768: A  21 LEU  CA  : A  21 LEU  O   :   -0.738:        0
+
+:   768: A  17 ASP  CA  : A  17 ASP  O   :   -0.734:        0
+
+:   768: A  29 VAL  N   : A  28 ASN  O   :   -0.709:        0
+:   768: A  29 VAL HG23 : A   5 TRP  HB3 :   -0.647:        0
+:   768: A   5 TRP  HB3 : A  29 VAL  CG2 :   -0.613:        0
+:   768: A   5 TRP  HA  : A   5 TRP  HE3 :   -0.530:        0
+:   768: A  29 VAL HG22 : A  30 ASN  N   :   -0.509:        0
+:   768: A   5 TRP  CA  : A   5 TRP  CE3 :   -0.455:        0
+:   768: A  29 VAL  CG2 : A  30 ASN  N   :   -0.435:        0
+:   768: A  29 VAL  CA  : A  28 ASN  O   :   -0.418:        0
+:   768: A   5 TRP  HA  : A   5 TRP  CE3 :   -0.417:        0
+:   768: A  28 ASN  O   : A  29 VAL  HA  :   -0.407:        0
+:   768: A  29 VAL HG23 : A   5 TRP  CB  :   -0.404:        0
+
+:   768: A  46 LYS  HB2 : A  14 ALA  O   :   -0.569:        0
+
+:   768: A  75 HIS  HD1 : A  72 ALA  H   :   -0.517:        0
+
+:   768: A  43 GLN  HA  : A  73 VAL HG22 :   -0.505:        0
+
+:   768: A   8 GLU  HB3 : A  24 LEU HD21 :   -0.438:        0
+#sum2 ::37.76 clashscore : 37.76 clashscore B<40 
+#summary::768 atoms:768 atoms B<40:94993 potential dots:5937.0 A^2:29 bumps:29 bumps B<40:56.1 score

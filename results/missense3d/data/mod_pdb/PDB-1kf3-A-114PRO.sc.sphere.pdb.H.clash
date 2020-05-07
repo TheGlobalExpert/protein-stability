@@ -1,0 +1,18 @@
+
+:   711: A  60 GLN  OE1 : A  75 SER  HA  :   -1.195:        0
+:   711: A  60 GLN  OE1 : A  75 SER  CA  :   -0.739:        0
+:   711: A  60 GLN  CD  : A  57 VAL  HA  :   -0.600:        0
+:   711: A  60 GLN  NE2 : A  57 VAL  HA  :   -0.456:        0
+
+:   711: A  65 CYS  N   : A  65 CYS  CB  :   -0.850:        0
+
+:   711: A  10 ARG  CG  : A  10 ARG  NE  :   -0.819:        0
+
+:   711: A 115 TYR  CD1 : A 112 GLY  O   :   -0.494:        0
+:   711: A 112 GLY  O   : A 115 TYR  CG  :   -0.402:        0
+
+:   711: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.461:        0
+
+:   711: A  13 MET  SD  : A  54 VAL HG21 :   -0.454:        0
+#sum2 ::14.06 clashscore : 14.06 clashscore B<40 
+#summary::711 atoms:711 atoms B<40:87390 potential dots:5462.0 A^2:10 bumps:10 bumps B<40:190.7 score

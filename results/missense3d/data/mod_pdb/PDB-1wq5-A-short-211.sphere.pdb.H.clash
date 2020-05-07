@@ -1,0 +1,60 @@
+
+:  2035: A 203 TYR  CB  : A 203 TYR  CD1 :   -0.979:       32
+
+:  2035: A 188 ARG  CB  : A 188 ARG  C   :   -0.886:       58
+:  2035: A 188 ARG  CB  : A 188 ARG  NE  :   -0.422:       77
+:  2035: A 188 ARG HH21 : A 186 GLU  N   :   -0.419:       80
+
+:  2035: A  36 ILE  C   : A  36 ILE  CB  :   -0.867:       21
+:  2035: A  36 ILE  CG2 : A  36 ILE  C   :   -0.614:       21
+
+:  2035: A 268 SER  CB  : A 268 SER  N   :   -0.858:       56
+
+:  2035: A 201 LYS  CD  : A 201 LYS  NZ  :   -0.742:       59
+
+:  2035: A 164 ARG  N   : A 164 ARG  C   :   -0.738:       39
+
+:  2035: A 158 ALA  HB2 : A 155 PRO  HG2 :   -0.612:       32
+
+:  2035: A 236 ALA  HB2 : A 215 SER  HB2 :   -0.606:       33
+:  2035: A 236 ALA  O   : A 240 ILE HG13 :   -0.419:       30
+
+:  2035: A 134 GLU  OE2 : A 133 VAL HG12 :   -0.603:       67
+:  2035: A 152 PHE  CD1 : A 133 VAL HG23 :   -0.418:       32
+
+:  2035: A  11 LEU  CD1 : A  18 ALA  HB2 :   -0.599:       30
+
+:  2035: A  99 LEU HD13 : A  52 ILE  CD1 :   -0.576:       43
+
+:  2035: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.555:       30
+
+:  2035: A 226 ALA  HB3 : A 193 LEU HD23 :   -0.555:       38
+
+:  2035: A  22 PHE  HA  : A  49 GLU  O   :   -0.531:       24
+
+:  2035: A 226 ALA  CB  : A 193 LEU HD23 :   -0.497:       38
+:  2035: A 193 LEU  CD2 : A 226 ALA  HB3 :   -0.430:       38
+
+:  2035: A  22 PHE  CD1 : A  22 PHE  C   :   -0.410:       20
+
+:  2035: A  20 VAL  HB  : A 232 ILE HG12 :   -0.552:       25
+:  2035: A  20 VAL  O   : A 232 ILE  HA  :   -0.532:       21
+:  2035: A  20 VAL  O   : A 232 ILE HG23 :   -0.430:       25
+
+:  2035: A 177 LEU HD11 : A 181 GLY  HA3 :   -0.546:       33
+
+:  2035: A 125 SER  HB2 : A 151 ILE HD11 :   -0.535:       22
+
+:  2035: A 220 VAL  O   : A 224 ILE HD13 :   -0.456:       40
+
+:  2035: A 211 GLY  O   : A 212 PHE  CB  :   -0.454:       17
+
+:  2035: A 182 VAL  O   : A 183 THR HG22 :   -0.446:       67
+:  2035: A 182 VAL  CG1 : A 156 PRO  HG2 :   -0.435:       41
+:  2035: A 182 VAL HG22 : A 179 ARG  O   :   -0.434:       44
+
+:  2035: A 237 ILE HG23 : A 255 LEU  CD2 :   -0.418:       32
+
+:  2035: A 261 PRO  HD3 : A 260 GLN  CB  :   -0.407:       26
+#sum2 ::16.71 clashscore : 12.21 clashscore B<40 
+#summary::2035 atoms:1884 atoms B<40:243565 potential dots:15220.0 A^2:34 bumps:23 bumps B<40:596.7 score

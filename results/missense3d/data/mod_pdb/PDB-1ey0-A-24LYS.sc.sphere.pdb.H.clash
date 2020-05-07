@@ -1,0 +1,49 @@
+
+:  1368: A  51 VAL  CG2 : A  51 VAL  CG1 :   -0.995:        0
+:  1368: A  51 VAL  CA  : A  51 VAL  CG1 :   -0.978:        0
+:  1368: A  51 VAL  CA  : A  51 VAL  CG2 :   -0.975:        0
+:  1368: A  50 GLY  C   : A  51 VAL  CA  :   -0.915:        0
+
+:  1368: A 125 LEU  CD1 : A 125 LEU  CD2 :   -0.993:        0
+
+:  1368: A   8 HIS  CG  : A   8 HIS  CA  :   -0.960:        0
+:  1368: A   8 HIS  C   : A   8 HIS  CG  :   -0.542:        0
+
+:  1368: A  74 VAL HG12 : A  92 ILE  CD1 :   -0.780:        0
+:  1368: A  74 VAL HG12 : A  92 ILE HD12 :   -0.586:        0
+
+:  1368: A 109 ALA  HB2 : A  41 THR HG22 :   -0.710:        0
+
+:  1368: A  76 PHE  CG  : A  81 ARG  HD3 :   -0.705:        0
+:  1368: A  81 ARG  HG2 : A  81 ARG HH21 :   -0.633:        0
+:  1368: A  76 PHE  CB  : A  81 ARG  HD3 :   -0.593:        0
+:  1368: A  81 ARG HH21 : A  81 ARG  CG  :   -0.556:        0
+:  1368: A  81 ARG  NH2 : A  81 ARG  CG  :   -0.461:        0
+:  1368: A  76 PHE  HB3 : A  81 ARG  HD3 :   -0.433:        0
+
+:  1368: A  84 LYS  NZ  : A  85 TYR  CE2 :   -0.612:        0
+:  1368: A  84 LYS  NZ  : A  85 TYR  CZ  :   -0.601:        0
+:  1368: A  84 LYS  NZ  : A  85 TYR  OH  :   -0.506:        0
+
+:  1368: A  36 LEU  HB3 : A 100 ASN  ND2 :   -0.564:        0
+
+:  1368: A  10 GLU  OE1 : A  27 TYR  OH  :   -0.563:        0
+:  1368: A  28 LYS  HD2 : A  27 TYR  CZ  :   -0.536:        0
+
+:  1368: A  62 THR  O   : A  66 VAL HG22 :   -0.530:        0
+
+:  1368: A  26 MET  CE  : A  15 ILE HD11 :   -0.513:        0
+:  1368: A  26 MET  HE2 : A  26 MET  HB2 :   -0.500:        0
+:  1368: A  26 MET  HE1 : A  15 ILE HD11 :   -0.428:        0
+
+:  1368: A  67 GLU  HB2 : A  63 LYS  O   :   -0.449:        0
+:  1368: A  67 GLU  OE1 : A  63 LYS  NZ  :   -0.408:        0
+
+:  1368: A  14 LEU  HB2 : A  72 ILE  CD1 :   -0.448:        0
+
+:  1368: A  45 LYS  HE2 : A  18 ILE HG23 :   -0.446:        0
+:  1368: A  45 LYS  HE2 : A  18 ILE  CG2 :   -0.433:        0
+
+:  1368: A 118 ASN  OD1 : A  77 ASP  HB3 :   -0.408:        0
+#sum2 ::23.39 clashscore : 23.39 clashscore B<40 
+#summary::1368 atoms:1368 atoms B<40:161561 potential dots:10100.0 A^2:32 bumps:32 bumps B<40:280.1 score

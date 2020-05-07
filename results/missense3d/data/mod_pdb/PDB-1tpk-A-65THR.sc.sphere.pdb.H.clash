@@ -1,0 +1,37 @@
+
+:  1039: A  54 PRO  N   : A  54 PRO  CD  :   -1.377:        0
+:  1039: A  35 TYR  CZ  : A  55 ASP  HB3 :   -1.177:        0
+:  1039: A  55 ASP  HB3 : A  35 TYR  CE2 :   -1.085:        0
+:  1039: A  35 TYR  CZ  : A  55 ASP  CB  :   -0.761:        0
+:  1039: A  35 TYR  CE2 : A  55 ASP  CB  :   -0.681:        0
+:  1039: A  55 ASP  CB  : A  35 TYR  OH  :   -0.594:        0
+:  1039: A  35 TYR  CD1 : A  54 PRO  CG  :   -0.574:        0
+:  1039: A  35 TYR  CD1 : A  54 PRO  HG2 :   -0.553:        0
+:  1039: A  54 PRO  HB2 : A  44 LEU HD13 :   -0.483:        0
+
+:  1039: A  16 THR  HA  : A  75 CYS  HA  :   -0.666:        0
+:  1039: A  65 THR HG21 : A  16 THR HG21 :   -0.576:        0
+:  1039: A  65 THR HG22 : A  22 CYS  HA  :   -0.497:        0
+:  1039: A  16 THR  CG2 : A  65 THR HG21 :   -0.447:        0
+
+:  1039: A  66 LEU  HG  : A  23 LEU HD11 :   -0.660:        0
+:  1039: A  23 LEU HD11 : A  66 LEU  CG  :   -0.532:        0
+:  1039: A  70 ARG  O   : A  66 LEU  HA  :   -0.453:        0
+:  1039: A  66 LEU  CD2 : A  23 LEU HD11 :   -0.414:        0
+
+:  1039: A  10 ARG  HA  : A  52 ARG  CZ  :   -0.611:        0
+:  1039: A  51 CYS  O   : A  52 ARG  NH2 :   -0.445:        0
+
+:  1039: A  57 ASP  OD1 : A  74 TYR  OH  :   -0.610:        0
+
+:  1039: A  46 LEU HD22 : A  25 TRP  CD2 :   -0.567:        0
+:  1039: A  25 TRP  CE2 : A  46 LEU HD22 :   -0.474:        0
+:  1039: A  46 LEU  O   : A  42 ALA  HB1 :   -0.431:        0
+
+:  1039: A  31 ILE HG12 : A  28 MET  O   :   -0.506:        0
+
+:  1039: A  61 PRO  HD3 : A   6 GLY  HA3 :   -0.434:        0
+
+:  1039: A  21 SER  HA  : A  15 LEU HD23 :   -0.424:        0
+#sum2 ::25.02 clashscore : 25.02 clashscore B<40 
+#summary::1039 atoms:1039 atoms B<40:120559 potential dots:7535.0 A^2:26 bumps:26 bumps B<40:254.2 score

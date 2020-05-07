@@ -1,0 +1,15 @@
+
+:   736: A  22 GLY  O   : A  23 GLN  HG2 :   -0.661:       60
+:   736: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+
+:   736: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   736: A  29 HIS  ND1 : A  31 SER  OG  :   -0.471:       16
+
+:   736: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   736: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   736: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::9.51 clashscore : 8.53 clashscore B<40 
+#summary::736 atoms:586 atoms B<40:86470 potential dots:5404.0 A^2:7 bumps:5 bumps B<40:214.5 score

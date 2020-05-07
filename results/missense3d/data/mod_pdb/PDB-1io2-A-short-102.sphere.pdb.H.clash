@@ -1,0 +1,35 @@
+
+:  1626: A  30 LEU HD11 : A   3 ILE HD12 :   -1.057:       23
+:  1626: A   3 ILE  CD1 : A  30 LEU HD11 :   -0.856:       23
+:  1626: A   3 ILE HD12 : A  30 LEU  CD1 :   -0.554:       23
+:  1626: A  30 LEU  N   : A  31 PRO  CD  :   -0.413:       24
+
+:  1626: A  83 PHE  CD2 : A  83 PHE  CB  :   -0.963:       15
+
+:  1626: A 116 ARG  O   : A 120 GLU  HG3 :   -0.799:       20
+
+:  1626: A  11 ARG  HD3 : A  84 GLU  OE1 :   -0.728:       17
+
+:  1626: A  37 LYS  C   : A  37 LYS  N   :   -0.718:       24
+
+:  1626: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.658:       13
+:  1626: A   4 ALA  HB2 : A  99 PRO  CB  :   -0.435:       13
+
+:  1626: A  25 VAL HG22 : A  60 LEU HD23 :   -0.483:       15
+:  1626: A  26 ASP  O   : A  25 VAL HG12 :   -0.473:       18
+
+:  1626: A 133 LYS  HG3 : A 133 LYS  O   :   -0.474:       24
+
+:  1626: A  57 LEU HD22 : A  63 TYR  CE2 :   -0.455:       17
+
+:  1626: A  88 PHE  HA  : A   6 ILE HD11 :   -0.452:       11
+
+:  1626: A   1 MET  HB2 : A  27 GLU  OE1 :   -0.436:       21
+
+:  1626: A  95 LEU HD23 : A  64 VAL HG23 :   -0.422:       12
+
+:  1626: A  32 LYS  HB2 : A  29 SER  O   :   -0.421:       24
+
+:  1626: A 104 ALA  O   : A 130 ALA  HA  :   -0.409:       19
+#sum2 ::11.69 clashscore : 11.69 clashscore B<40 
+#summary::1626 atoms:1626 atoms B<40:190612 potential dots:11910.0 A^2:19 bumps:19 bumps B<40:566.9 score

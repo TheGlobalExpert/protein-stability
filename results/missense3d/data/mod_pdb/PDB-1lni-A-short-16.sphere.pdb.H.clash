@@ -1,0 +1,15 @@
+
+:  1089: A  27 PRO  CA  : A  27 PRO  CB  :   -1.477:       13
+:  1089: A  27 PRO  CA  : A  27 PRO  N   :   -1.305:       12
+:  1089: A  27 PRO  CA  : A  27 PRO  CG  :   -0.774:       18
+:  1089: A  27 PRO  CA  : A  26 GLY  C   :   -0.551:       11
+:  1089: A  26 GLY  CA  : A  27 PRO  CA  :   -0.530:       10
+:  1089: A  27 PRO  CB  : A  27 PRO  C   :   -0.431:       13
+
+:  1089: A  64 THR  CA  : A  64 THR  OG1 :   -0.772:       13
+
+:  1089: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:  1089: A  29 PRO  HD3 : A  21 LEU HD13 :   -0.431:       12
+#sum2 ::8.26 clashscore : 8.26 clashscore B<40 
+#summary::1089 atoms:1089 atoms B<40:129015 potential dots:8063.0 A^2:9 bumps:9 bumps B<40:350.9 score

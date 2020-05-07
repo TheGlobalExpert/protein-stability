@@ -1,0 +1,65 @@
+
+:  1431: A  15 ARG HH21 : A  15 ARG  CG  :   -1.164:        0
+:  1431: A  15 ARG  HG2 : A  15 ARG  NH2 :   -0.914:        0
+:  1431: A  15 ARG  HG3 : A  38 TYR  CD2 :   -0.871:        0
+:  1431: A  15 ARG  HG3 : A  38 TYR  CE2 :   -0.505:        0
+:  1431: A  15 ARG  CG  : A  38 TYR  CD2 :   -0.490:        0
+:  1431: A  15 ARG HH21 : A  15 ARG  HG2 :   -0.461:        0
+:  1431: A  15 ARG  NH2 : A  15 ARG  CG  :   -0.417:        0
+
+:  1431: A  28 PHE  HE2 : A  34 ASN  ND2 :   -1.130:        0
+:  1431: A  34 ASN  ND2 : A  28 PHE  CE2 :   -0.985:        0
+:  1431: A  19 CYS  SG  : A  68 CYS  SG  :   -0.841:        0
+:  1431: A  34 ASN  CG  : A  28 PHE  HE2 :   -0.839:        0
+:  1431: A  31 LYS  O   : A  77 TYR  OH  :   -0.753:        0
+:  1431: A  69 ASN  OD1 : A  33 LYS  HG3 :   -0.684:        0
+:  1431: A  67 ASP  OD1 : A  33 LYS  HE3 :   -0.643:        0
+:  1431: A  77 TYR  HD2 : A  69 ASN  C   :   -0.566:        0
+:  1431: A  33 LYS  HG2 : A  34 ASN  N   :   -0.542:        0
+:  1431: A  67 ASP  OD1 : A  35 THR  OG1 :   -0.527:        0
+:  1431: A  34 ASN  CG  : A  28 PHE  CE2 :   -0.434:        0
+:  1431: A  36 PHE  HZ  : A  28 PHE  CZ  :   -0.424:        0
+:  1431: A  68 CYS  O   : A  33 LYS  HA  :   -0.423:        0
+:  1431: A  34 ASN  ND2 : A  28 PHE  CD2 :   -0.419:        0
+:  1431: A  28 PHE  CZ  : A  36 PHE  CZ  :   -0.417:        0
+:  1431: A  19 CYS  SG  : A  68 CYS  CB  :   -0.409:        0
+
+:  1431: A  43 PRO  HD3 : A  42 GLU  CG  :   -1.111:        0
+:  1431: A  42 GLU  HG2 : A  43 PRO  CD  :   -1.069:        0
+:  1431: A  42 GLU  OE2 : A  40 ARG  HB3 :   -1.014:        0
+:  1431: A  42 GLU  CD  : A  42 GLU  H   :   -0.783:        0
+:  1431: A  42 GLU  OE2 : A  41 PRO  HD2 :   -0.759:        0
+:  1431: A  40 ARG  O   : A  43 PRO  HD2 :   -0.657:        0
+:  1431: A  43 PRO  HD3 : A  42 GLU  HG2 :   -0.591:        0
+:  1431: A  42 GLU  OE2 : A  40 ARG  CB  :   -0.586:        0
+:  1431: A  42 GLU  N   : A  43 PRO  CD  :   -0.417:        0
+:  1431: A  42 GLU  CG  : A  43 PRO  CD  :   -0.400:        0
+
+:  1431: A  73 ARG  C   : A  74 PRO  CA  :   -0.959:        0
+
+:  1431: A  91 GLU  O   : A  91 GLU  CA  :   -0.768:        0
+:  1431: A  91 GLU  OE1 : A  91 GLU  CB  :   -0.408:        0
+
+:  1431: A  86 PHE  CD1 : A  88 VAL HG13 :   -0.531:        0
+:  1431: A  86 PHE  CE2 : A  59 THR HG21 :   -0.464:        0
+:  1431: A  86 PHE  HE1 : A  88 VAL  CG1 :   -0.436:        0
+:  1431: A  86 PHE  HD1 : A  88 VAL HG13 :   -0.427:        0
+:  1431: A  86 PHE  CE1 : A  88 VAL HG13 :   -0.414:        0
+
+:  1431: A   3 TRP  CE3 : A  95 PRO  HD2 :   -0.521:        0
+:  1431: A  94 ALA  HA  : A  95 PRO  HD3 :   -0.430:        0
+
+:  1431: A  17 VAL HG13 : A  22 ILE HD12 :   -0.505:        0
+
+:  1431: A  60 THR  O   : A  85 LYS  HE2 :   -0.502:        0
+
+:  1431: A   7 GLN  HG2 : A  11 ILE HD12 :   -0.500:        0
+:  1431: A   7 GLN  HA  : A  11 ILE HD12 :   -0.468:        0
+
+:  1431: A  44 VAL  O   : A  47 ILE HD12 :   -0.463:        0
+
+:  1431: A  89 THR  HB  : A  97 HIS  HB2 :   -0.419:        0
+
+:  1431: A  64 TYR  CD1 : A  83 THR HG22 :   -0.413:        0
+#sum2 ::34.94 clashscore : 34.94 clashscore B<40 
+#summary::1431 atoms:1431 atoms B<40:163854 potential dots:10240.0 A^2:50 bumps:50 bumps B<40:265.7 score

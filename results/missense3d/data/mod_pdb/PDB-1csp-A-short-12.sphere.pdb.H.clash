@@ -1,0 +1,13 @@
+
+:   619: A  61 ALA  CA  : A  62 ASN  N   :   -0.903:       17
+:   619: A  62 ASN  C   : A  62 ASN  N   :   -0.644:       24
+
+:   619: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   619: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   619: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   619: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::9.69 clashscore : 10.08 clashscore B<40 
+#summary::619 atoms:496 atoms B<40:72283 potential dots:4518.0 A^2:6 bumps:5 bumps B<40:155.6 score

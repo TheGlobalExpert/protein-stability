@@ -1,0 +1,37 @@
+
+:   942: A  38 LEU  CB  : A  38 LEU  C   :   -0.890:        0
+
+:   942: A  61 GLN  CD  : A  61 GLN  CB  :   -0.866:        0
+
+:   942: A  72 ASP  OD1 : A  72 ASP  CB  :   -0.765:        0
+:   942: A  72 ASP  OD1 : A  72 ASP  CA  :   -0.418:        0
+
+:   942: A  73 GLU  HG2 : A  50 LEU HD13 :   -0.707:        0
+:   942: A  50 LEU  CD1 : A  73 GLU  HG2 :   -0.693:        0
+:   942: A  73 GLU  CG  : A  50 LEU  CD1 :   -0.518:        0
+:   942: A  50 LEU HD12 : A  73 GLU  CD  :   -0.504:        0
+:   942: A  50 LEU HD13 : A  73 GLU  CG  :   -0.404:        0
+
+:   942: A  59 PHE  HZ  : A  29 LEU  CD1 :   -0.619:        0
+:   942: A  29 LEU HD13 : A  57 LEU  CD1 :   -0.539:        0
+:   942: A  29 LEU  CD1 : A  59 PHE  CZ  :   -0.506:        0
+:   942: A  29 LEU HD13 : A  57 LEU HD13 :   -0.417:        0
+
+:   942: A  15 ASP  OD1 : A  13 ASN  HB3 :   -0.614:        0
+
+:   942: A  77 MET  HG3 : A  52 CYS  O   :   -0.608:        0
+:   942: A  80 LEU HD12 : A  77 MET  CE  :   -0.608:        0
+:   942: A  90 LEU HD11 : A  77 MET  HB3 :   -0.586:        0
+:   942: A  77 MET  HA  : A  77 MET  CE  :   -0.527:        0
+:   942: A  80 LEU HD12 : A  77 MET  HE3 :   -0.501:        0
+:   942: A  90 LEU HD12 : A  74 GLU  HG3 :   -0.447:        0
+
+:   942: A  55 CYS  HA  : A  43 PHE  CE2 :   -0.558:        0
+
+:   942: A 108 PRO  HG3 : A  56 HIS  ND1 :   -0.521:        0
+:   942: A 108 PRO  HG3 : A  56 HIS  CE1 :   -0.503:        0
+:   942: A  88 SER  CB  : A  56 HIS  NE2 :   -0.427:        0
+
+:   942: A  39 ASP  CG  : A  39 ASP  O   :   -0.434:        0
+#sum2 ::26.54 clashscore : 26.54 clashscore B<40 
+#summary::942 atoms:942 atoms B<40:114829 potential dots:7177.0 A^2:25 bumps:25 bumps B<40:248.4 score

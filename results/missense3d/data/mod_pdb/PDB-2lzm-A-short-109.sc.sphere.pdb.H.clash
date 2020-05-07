@@ -1,0 +1,76 @@
+
+:  1231: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:  1231: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:  1231: A 106 MET  CG  : A 111 VAL HG23 :   -0.934:        0
+:  1231: A 111 VAL HG23 : A 106 MET  SD  :   -0.634:        0
+:  1231: A 111 VAL HG23 : A 106 MET  HG2 :   -0.614:        0
+:  1231: A 106 MET  CG  : A 111 VAL  CG2 :   -0.485:        0
+:  1231: A 106 MET  HE3 : A 106 MET  HB3 :   -0.454:        0
+
+:  1231: A 119 ARG  HB3 : A 119 ARG HH21 :   -1.038:        0
+:  1231: A 119 ARG  NH2 : A 119 ARG  HB3 :   -0.727:        0
+
+:  1231: A  66 LEU  C   : A  67 PHE  CA  :   -0.986:        0
+
+:  1231: A  22 GLU  OE1 : A  24 TYR  HE1 :   -0.986:        0
+:  1231: A  26 THR  CA  : A  25 TYR  C   :   -0.913:        0
+:  1231: A  24 TYR  CE1 : A  22 GLU  OE1 :   -0.748:        0
+:  1231: A  24 TYR  CE1 : A  22 GLU  HB3 :   -0.730:        0
+:  1231: A  25 TYR  N   : A  25 TYR  C   :   -0.721:        0
+
+:  1231: A  67 PHE  CA  : A  67 PHE  CD2 :   -0.601:        0
+
+:  1231: A  20 ASP  HB3 : A  22 GLU  H   :   -0.558:        0
+:  1231: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:  1231: A  24 TYR  HE1 : A  22 GLU  CD  :   -0.520:        0
+:  1231: A  20 ASP  HB2 : A  24 TYR  H   :   -0.516:        0
+:  1231: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:  1231: A  24 TYR  CE1 : A  22 GLU  CB  :   -0.495:        0
+:  1231: A  18 TYR  OH  : A  26 THR  CG2 :   -0.452:        0
+:  1231: A  22 GLU  HB3 : A  24 TYR  CD1 :   -0.435:        0
+:  1231: A  18 TYR  OH  : A  26 THR HG21 :   -0.433:        0
+:  1231: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+
+:  1231: A 108 GLU  OE2 : A  77 GLY  O   :   -0.959:        0
+:  1231: A  77 GLY  C   : A 108 GLU  OE2 :   -0.859:        0
+:  1231: A  77 GLY  CA  : A 108 GLU  OE2 :   -0.730:        0
+
+:  1231: A   6 MET  CE  : A 161 TYR  OH  :   -0.956:        0
+
+:  1231: A 138 TRP  CZ2 : A 146 ALA  HA  :   -0.937:        0
+:  1231: A 138 TRP  CH2 : A 146 ALA  HA  :   -0.552:        0
+:  1231: A 138 TRP  CZ2 : A 146 ALA  CA  :   -0.513:        0
+
+:  1231: A   7 LEU  CA  : A   7 LEU  O   :   -0.766:        0
+
+:  1231: A 130 ALA  CA  : A 130 ALA  O   :   -0.759:        0
+
+:  1231: A  23 GLY  N   : A  23 GLY  C   :   -0.754:        0
+
+:  1231: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.715:        0
+:  1231: A  86 PRO  HD2 : A  85 LYS  N   :   -0.571:        0
+:  1231: A  85 LYS  HB3 : A  86 PRO  CD  :   -0.463:        0
+:  1231: A  85 LYS  N   : A  86 PRO  CD  :   -0.445:        0
+
+:  1231: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:  1231: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:  1231: A  81 ASN  CB  : A  84 LEU HD12 :   -0.566:        0
+:  1231: A  84 LEU HD12 : A  81 ASN  HB3 :   -0.440:        0
+
+:  1231: A  75 VAL  O   : A  79 LEU  HG  :   -0.559:        0
+
+:  1231: A  87 VAL HG22 : A 122 GLN  HG3 :   -0.551:        0
+
+:  1231: A  11 GLU  CA  : A  10 ASP  O   :   -0.484:        0
+:  1231: A 145 ARG HH22 : A  11 GLU  CD  :   -0.423:        0
+
+:  1231: A 114 PHE  O   : A 118 LEU  HG  :   -0.475:        0
+
+:  1231: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+
+:  1231: A  95 ARG  CA  : A  94 VAL  O   :   -0.418:        0
+
+:  1231: A 132 ASN  OD1 : A 117 SER  OG  :   -0.402:        0
+#sum2 ::42.24 clashscore : 42.24 clashscore B<40 
+#summary::1231 atoms:1231 atoms B<40:151643 potential dots:9478.0 A^2:52 bumps:52 bumps B<40:118.5 score

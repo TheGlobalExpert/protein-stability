@@ -1,0 +1,51 @@
+
+:  1040: A   8 ARG  CA  : A   7 LEU  C   :   -1.140:        0
+:  1040: A   7 LEU  CB  : A   7 LEU  C   :   -0.911:        0
+:  1040: A   8 ARG  CA  : A   7 LEU  O   :   -0.667:        0
+
+:  1040: A  76 ARG  N   : A  75 VAL  CA  :   -0.869:        0
+
+:  1040: A  62 GLU  OE2 : A  52 ARG  NE  :   -0.770:        0
+:  1040: A  52 ARG HH21 : A  52 ARG  HG3 :   -0.672:        0
+:  1040: A  52 ARG  HG3 : A  52 ARG  NH2 :   -0.596:        0
+:  1040: A  54 CYS  HA  : A  52 ARG HH22 :   -0.519:        0
+:  1040: A  52 ARG  HE  : A  62 GLU  CD  :   -0.507:        0
+:  1040: A  52 ARG HH21 : A  52 ARG  CG  :   -0.483:        0
+:  1040: A  54 CYS  HA  : A  52 ARG  NH2 :   -0.476:        0
+:  1040: A  52 ARG  CZ  : A  54 CYS  SG  :   -0.454:        0
+
+:  1040: A  14 ARG HH21 : A  14 ARG  CG  :   -0.687:        0
+:  1040: A  14 ARG  CG  : A  14 ARG  NH2 :   -0.556:        0
+:  1040: A  14 ARG  HG3 : A  14 ARG  NH2 :   -0.518:        0
+
+:  1040: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.586:        0
+:  1040: A  39 LEU HD22 : A  43 LYS  HD3 :   -0.432:        0
+:  1040: A  39 LEU HD23 : A  39 LEU  HA  :   -0.420:        0
+:  1040: A  39 LEU  O   : A  39 LEU HD22 :   -0.414:        0
+
+:  1040: A  26 THR HG22 : A  27 ILE  N   :   -0.570:        0
+:  1040: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:  1040: A  24 TYR  O   : A  19 LYS  HA  :   -0.547:        0
+:  1040: A  18 TYR  CZ  : A  26 THR  HB  :   -0.516:        0
+:  1040: A  20 ASP  HB2 : A  24 TYR  H   :   -0.516:        0
+:  1040: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:  1040: A  18 TYR  OH  : A  26 THR  CG2 :   -0.452:        0
+:  1040: A  26 THR  HB  : A  18 TYR  CE1 :   -0.444:        0
+:  1040: A  18 TYR  OH  : A  26 THR HG21 :   -0.433:        0
+:  1040: A  27 ILE  N   : A  26 THR  CG2 :   -0.433:        0
+:  1040: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+
+:  1040: A  50 ILE HD11 : A  66 LEU HD11 :   -0.529:        0
+
+:  1040: A 103 VAL  CG1 : A 103 VAL  C   :   -0.526:        0
+
+:  1040: A  45 GLU  HG2 : A  33 LEU  O   :   -0.521:        0
+
+:  1040: A  41 ALA  H   : A  38 SER  HB2 :   -0.493:        0
+
+:  1040: A  60 LYS  O   : A  64 GLU  HG3 :   -0.489:        0
+
+:  1040: A  29 ILE HG22 : A  29 ILE  O   :   -0.433:        0
+:  1040: A  29 ILE HD13 : A  67 PHE  CD1 :   -0.403:        0
+#sum2 ::35.58 clashscore : 35.58 clashscore B<40 
+#summary::1040 atoms:1040 atoms B<40:121225 potential dots:7577.0 A^2:37 bumps:37 bumps B<40:213.7 score

@@ -1,0 +1,56 @@
+
+:  1503: A  28 PRO  CD  : A  28 PRO  N   :   -1.378:        0
+:  1503: A  61 LYS  HD2 : A  28 PRO  HG3 :   -0.626:        0
+:  1503: A  28 PRO  CD  : A  27 PRO  C   :   -0.471:        0
+
+:  1503: A  50 LEU HD23 : A  80 ILE HG23 :   -0.910:        0
+:  1503: A  80 ILE HG23 : A  50 LEU  CD2 :   -0.818:        0
+:  1503: A  84 LEU  HG  : A  50 LEU  CD2 :   -0.606:        0
+:  1503: A  50 LEU HD22 : A  84 LEU  CG  :   -0.550:        0
+:  1503: A  84 LEU  HG  : A  50 LEU HD22 :   -0.469:        0
+:  1503: A  84 LEU HD21 : A  50 LEU HD13 :   -0.467:        0
+:  1503: A  84 LEU  CD1 : A  50 LEU HD22 :   -0.433:        0
+:  1503: A  50 LEU  CD1 : A  84 LEU HD21 :   -0.418:        0
+:  1503: A  84 LEU HD11 : A  50 LEU HD22 :   -0.413:        0
+:  1503: A  50 LEU  CD2 : A  84 LEU  CG  :   -0.411:        0
+
+:  1503: A 111 LEU HD12 : A  47 ILE HG21 :   -0.794:        0
+:  1503: A 111 LEU HD12 : A  47 ILE  CG2 :   -0.612:        0
+:  1503: A 111 LEU  CD1 : A  47 ILE  CG2 :   -0.435:        0
+
+:  1503: A  19 GLY  CA  : A  91 TRP  CZ2 :   -0.782:        0
+:  1503: A  91 TRP  CZ2 : A  19 GLY  HA3 :   -0.781:        0
+:  1503: A  91 TRP  CE2 : A  19 GLY  HA3 :   -0.603:        0
+:  1503: A  91 TRP  CD2 : A  30 ALA  HB2 :   -0.514:        0
+:  1503: A  19 GLY  HA3 : A  91 TRP  CH2 :   -0.441:        0
+:  1503: A  91 TRP  NE1 : A  18 ASN  C   :   -0.418:        0
+
+:  1503: A  44 GLU  OE1 : A  44 GLU  CG  :   -0.762:        0
+
+:  1503: A  78 GLU  C   : A  78 GLU  N   :   -0.734:        0
+
+:  1503: A 113 ALA  N   : A 113 ALA  C   :   -0.706:        0
+
+:  1503: A  45 TYR  OH  : A 125 ARG  HD2 :   -0.674:        0
+:  1503: A 125 ARG  HB2 : A  45 TYR  CE1 :   -0.577:        0
+:  1503: A  45 TYR  OH  : A 125 ARG  CD  :   -0.438:        0
+
+:  1503: A 122 LEU HD22 : A  56 GLY  HA3 :   -0.634:        0
+
+:  1503: A 114 LYS  HB2 : A  52 TYR  OH  :   -0.596:        0
+:  1503: A 115 LYS  N   : A  52 TYR  OH  :   -0.493:        0
+:  1503: A 116 LEU  HG  : A 114 LYS  HB3 :   -0.435:        0
+
+:  1503: A  36 ILE HD11 : A  32 HIS  NE2 :   -0.510:        0
+
+:  1503: A  23 PRO  HA  : A  65 TYR  OH  :   -0.483:        0
+
+:  1503: A  64 LYS  HE2 : A  59 GLU  OE1 :   -0.475:        0
+
+:  1503: A  68 VAL  CB  : A  55 GLN  HG2 :   -0.420:        0
+
+:  1503: A 112 ARG HH21 : A 112 ARG  HD3 :   -0.411:        0
+
+:  1503: A   3 ASP  O   : A   4 GLY  CA  :   -0.403:        0
+#sum2 ::25.28 clashscore : 25.28 clashscore B<40 
+#summary::1503 atoms:1503 atoms B<40:175047 potential dots:10940.0 A^2:38 bumps:38 bumps B<40:467 score

@@ -1,0 +1,41 @@
+
+:  1284: A  74 TYR  CD1 : A  74 TYR  CZ  :   -1.076:       26
+:  1284: A  74 TYR  CA  : A  75 ILE  N   :   -0.838:       20
+:  1284: A  75 ILE  CB  : A  75 ILE  N   :   -0.736:       18
+:  1284: A  75 ILE  CG1 : A  75 ILE  N   :   -0.455:       19
+:  1284: A  74 TYR  N   : A  73 LYS  N   :   -0.415:       21
+
+:  1284: A  48 TYR  CE2 : A  48 TYR  CG  :   -1.021:       12
+
+:  1284: A  41 GLY  N   : A  40 SER  CA  :   -0.877:       11
+:  1284: A  52 ASN HD21 : A  41 GLY  N   :   -0.583:       13
+
+:  1284: A  38 ARG  N   : A  37 GLY  CA  :   -0.867:       24
+
+:  1284: A  99 LYS  HZ2 : A 100 LYS  HD3 :   -0.546:       32
+
+:  1284: A  85 LEU HD22 : A  90 ASP  HB3 :   -0.535:       22
+
+:  1284: A  86 LYS  HD3 : A  86 LYS  N   :   -0.511:       30
+:  1284: A  69 THR  O   : A  86 LYS  NZ  :   -0.426:       34
+
+:  1284: A  62 ASN  N   : A  60 ASP  OD1 :   -0.500:       31
+:  1284: A  60 ASP  OD1 : A  60 ASP  C   :   -0.475:       31
+:  1284: A  62 ASN  HB2 : A  60 ASP  OD1 :   -0.441:       31
+
+:  1284: A   9 LEU  HB3 : A  94 LEU HD13 :   -0.491:       13
+:  1284: A  68 LEU HD13 : A  94 LEU HD23 :   -0.450:       13
+
+:  1284: A  20 VAL HG13 : A  10 PHE  CZ  :   -0.451:       12
+
+:  1284: A  57 VAL  CG1 : A  63 ASN  OD1 :   -0.446:       30
+
+:  1284: A   5 LYS  HG2 : A  93 ASP  OD2 :   -0.443:       24
+
+:  1284: A  64 MET  O   : A  64 MET  HG3 :   -0.437:       20
+
+:  1284: A  21 GLU  HG2 : A  24 GLY  HA3 :   -0.422:       28
+
+:  1284: A  -3 PHE  HB3 : A  -5 THR  OG1 :   -0.401:       55
+#sum2 ::18.69 clashscore : 18.08 clashscore B<40 
+#summary::1284 atoms:1272 atoms B<40:151419 potential dots:9464.0 A^2:24 bumps:23 bumps B<40:336.7 score

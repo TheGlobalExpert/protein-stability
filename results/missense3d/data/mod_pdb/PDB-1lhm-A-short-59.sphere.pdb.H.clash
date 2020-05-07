@@ -1,0 +1,25 @@
+
+:  1685: A   4 GLU  C   : A   5 ARG  CA  :   -0.929:       12
+:  1685: A   4 GLU  C   : A   4 GLU  N   :   -0.867:       12
+:  1685: A   5 ARG  CA  : A   5 ARG  O   :   -0.728:       11
+:  1685: A   4 GLU  N   : A   4 GLU  O   :   -0.415:       12
+
+:  1685: A  24 SER  OG  : A  24 SER  CA  :   -0.680:       10
+
+:  1685: A 117 GLN  HB2 : A 112 TRP  CZ3 :   -0.564:       18
+:  1685: A 112 TRP  CD1 : A 116 CYS  HB2 :   -0.411:       12
+
+:  1685: A  64 TRP  O   : A  77 ALA  HB3 :   -0.498:       24
+:  1685: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.479:       24
+:  1685: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.429:       15
+:  1685: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.400:       17
+
+:  1685: A  62 ARG  HD2 : A  62 ARG HH11 :   -0.477:       29
+
+:  1685: A  53 ASP  HB3 : A  58 GLN  HB3 :   -0.461:       12
+
+:  1685: A  33 LYS  HG2 : A 124 TYR  HE1 :   -0.438:       20
+
+:  1685: A  97 LYS  O   : A 101 ARG  HG3 :   -0.416:       16
+#sum2 ::8.90 clashscore : 8.94 clashscore B<40 
+#summary::1685 atoms:1678 atoms B<40:194068 potential dots:12130.0 A^2:15 bumps:15 bumps B<40:641.7 score

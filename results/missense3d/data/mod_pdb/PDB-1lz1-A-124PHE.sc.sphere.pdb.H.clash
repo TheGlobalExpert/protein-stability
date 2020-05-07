@@ -1,0 +1,43 @@
+
+:  1171: A 120 ASP  OD1 : A 122 ARG  HD2 :   -1.043:        0
+:  1171: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.807:        0
+:  1171: A 122 ARG HH21 : A 122 ARG  CG  :   -0.739:        0
+:  1171: A 122 ARG  HG3 : A 122 ARG HH21 :   -0.583:        0
+:  1171: A 122 ARG  CG  : A 122 ARG  NH2 :   -0.577:        0
+
+:  1171: A 107 ARG  HG3 : A 107 ARG  NH2 :   -1.032:        0
+:  1171: A 107 ARG HH21 : A 107 ARG  CG  :   -1.013:        0
+:  1171: A 107 ARG HH21 : A 107 ARG  HG3 :   -0.868:        0
+:  1171: A 107 ARG  NH2 : A 107 ARG  CG  :   -0.630:        0
+:  1171: A 112 TRP  CZ3 : A 107 ARG  NH2 :   -0.458:        0
+
+:  1171: A  38 TYR  CZ  : A  33 LYS  HD3 :   -0.894:        0
+:  1171: A  38 TYR  CE1 : A  33 LYS  HD3 :   -0.734:        0
+:  1171: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.634:        0
+:  1171: A  33 LYS  HD3 : A  38 TYR  OH  :   -0.619:        0
+:  1171: A  38 TYR  CZ  : A  33 LYS  CD  :   -0.533:        0
+:  1171: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.504:        0
+:  1171: A  38 TYR  CE2 : A  33 LYS  CA  :   -0.431:        0
+:  1171: A  33 LYS  HG2 : A 124 PHE  HE2 :   -0.400:        0
+
+:  1171: A   1 LYS  NZ  : A   7 GLU  OE2 :   -0.843:        0
+
+:  1171: A 108 ALA  C   : A 108 ALA  N   :   -0.758:        0
+:  1171: A 109 TRP  N   : A 108 ALA  N   :   -0.500:        0
+
+:  1171: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:  1171: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1171: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+
+:  1171: A 126 GLN  HA  : A 126 GLN  OE1 :   -0.574:        0
+
+:  1171: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1171: A 111 ALA  HB3 : A  35 GLU  OE2 :   -0.510:        0
+
+:  1171: A 115 ARG  O   : A 119 ARG  HD2 :   -0.441:        0
+:  1171: A 119 ARG  HG3 : A 117 GLN  O   :   -0.434:        0
+
+:  1171: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+#sum2 ::25.62 clashscore : 25.62 clashscore B<40 
+#summary::1171 atoms:1171 atoms B<40:137002 potential dots:8563.0 A^2:30 bumps:30 bumps B<40:326 score

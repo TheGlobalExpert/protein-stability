@@ -1,0 +1,62 @@
+
+:  1287: A  18 HIS  HE1 : A  30 PRO  HD2 :   -1.061:        0
+:  1287: A  29 GLY  HA3 : A  18 HIS  CE1 :   -0.902:        0
+:  1287: A  30 PRO  HD2 : A  18 HIS  CE1 :   -0.826:        0
+:  1287: A  30 PRO  HD3 : A  46 TYR  CZ  :   -0.741:        0
+:  1287: A  18 HIS  HE1 : A  30 PRO  CD  :   -0.696:        0
+:  1287: A  29 GLY  CA  : A  18 HIS  CE1 :   -0.588:        0
+:  1287: A  48 TYR  CD2 : A  46 TYR  HD2 :   -0.423:        0
+:  1287: A  30 PRO  CD  : A  18 HIS  CE1 :   -0.405:        0
+:  1287: A  46 TYR  OH  : A  29 GLY  HA2 :   -0.401:        0
+
+:  1287: A  -3 PHE  HD2 : A  61 GLU  OE1 :   -1.038:        0
+:  1287: A  -3 PHE  CD2 : A  61 GLU  CD  :   -0.892:        0
+:  1287: A  -3 PHE  CD2 : A  61 GLU  OE1 :   -0.796:        0
+:  1287: A  -3 PHE  HD2 : A  61 GLU  CD  :   -0.791:        0
+:  1287: A  -3 PHE  HE2 : A  61 GLU  OE2 :   -0.677:        0
+:  1287: A  61 GLU  CD  : A  -3 PHE  CE2 :   -0.639:        0
+:  1287: A  61 GLU  OE2 : A  -3 PHE  CE2 :   -0.636:        0
+:  1287: A  61 GLU  HB2 : A  -3 PHE  CE2 :   -0.544:        0
+
+:  1287: A  15 LEU  O   : A  27 LYS  NZ  :   -0.973:        0
+
+:  1287: A  53 ILE  CG1 : A  53 ILE  CA  :   -0.969:        0
+
+:  1287: A   7 ALA  HB2 : A  97 TYR  CE1 :   -0.940:        0
+:  1287: A  97 TYR  CE1 : A   7 ALA  CB  :   -0.789:        0
+:  1287: A  97 TYR  CD1 : A   7 ALA  HB2 :   -0.640:        0
+:  1287: A   7 ALA  HA  : A  97 TYR  CE2 :   -0.467:        0
+:  1287: A   7 ALA  HA  : A  97 TYR  CZ  :   -0.467:        0
+
+:  1287: A  69 THR  CA  : A  70 ASN  N   :   -0.912:        0
+
+:  1287: A  36 PHE  CE2 : A  99 LYS  HA  :   -0.861:        0
+:  1287: A  57 VAL  O   : A  39 HIS  HA  :   -0.600:        0
+:  1287: A  57 VAL  N   : A  40 SER  HG  :   -0.551:        0
+:  1287: A  39 HIS  O   : A  38 ARG  HG2 :   -0.543:        0
+:  1287: A  36 PHE  CE2 : A  99 LYS  CA  :   -0.540:        0
+:  1287: A  39 HIS  CE1 : A  58 LEU HD23 :   -0.536:        0
+:  1287: A  99 LYS  HB3 : A  99 LYS  HE3 :   -0.445:        0
+:  1287: A  36 PHE  HE2 : A  98 LEU  C   :   -0.409:        0
+:  1287: A  36 PHE  N   : A  35 ILE HG23 :   -0.402:        0
+:  1287: A  38 ARG HH11 : A  35 ILE HD12 :   -0.402:        0
+
+:  1287: A  62 ASN  OD1 : A  62 ASN  CB  :   -0.751:        0
+:  1287: A  62 ASN  N   : A  60 ASP  OD1 :   -0.599:        0
+:  1287: A  60 ASP  OD1 : A  60 ASP  C   :   -0.472:        0
+
+:  1287: A  49 THR  OG1 : A  49 THR  CG2 :   -0.747:        0
+
+:  1287: A  83 GLY  N   : A  83 GLY  C   :   -0.733:        0
+
+:  1287: A   9 LEU HD23 : A  94 LEU  HB2 :   -0.675:        0
+:  1287: A  68 LEU HD13 : A  94 LEU HD23 :   -0.533:        0
+:  1287: A  64 MET  O   : A  68 LEU  HG  :   -0.429:        0
+
+:  1287: A  10 PHE  CE1 : A  20 CYS  SG  :   -0.665:        0
+:  1287: A  10 PHE  CZ  : A  20 CYS  SG  :   -0.631:        0
+
+:  1287: A  22 LYS  HB2 : A  33 HIS  CD2 :   -0.663:        0
+:  1287: A  22 LYS  HB2 : A  33 HIS  NE2 :   -0.464:        0
+#sum2 ::36.52 clashscore : 36.52 clashscore B<40 
+#summary::1287 atoms:1287 atoms B<40:151823 potential dots:9489.0 A^2:47 bumps:47 bumps B<40:161.2 score

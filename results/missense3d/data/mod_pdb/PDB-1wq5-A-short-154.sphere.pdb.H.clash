@@ -1,0 +1,53 @@
+
+:  1696: A 115 TYR  CD1 : A 115 TYR  CD2 :   -1.035:       22
+
+:  1696: A  19 PHE  CB  : A  19 PHE  CD1 :   -0.980:       23
+:  1696: A  19 PHE  CD1 : A  19 PHE  CA  :   -0.411:       23
+
+:  1696: A 188 ARG  H   : A 188 ARG  HE  :   -0.930:       77
+:  1696: A 188 ARG HH21 : A 186 GLU  N   :   -0.419:       80
+
+:  1696: A  52 ILE  N   : A  51 GLY  CA  :   -0.859:       34
+
+:  1696: A  96 PRO  CB  : A  96 PRO  C   :   -0.821:       24
+
+:  1696: A 221 LYS  N   : A 221 LYS  C   :   -0.704:       25
+
+:  1696: A 199 LYS  HA  : A 199 LYS  HE2 :   -0.644:       49
+
+:  1696: A 158 ALA  HB2 : A 155 PRO  HG2 :   -0.612:       32
+
+:  1696: A 134 GLU  OE2 : A 133 VAL HG12 :   -0.603:       67
+:  1696: A 135 GLU  OE1 : A 134 GLU  HB2 :   -0.553:       68
+:  1696: A 152 PHE  CD1 : A 133 VAL HG23 :   -0.418:       32
+:  1696: A 134 GLU  CD  : A 134 GLU  H   :   -0.402:       65
+
+:  1696: A  11 LEU  CD1 : A  18 ALA  HB2 :   -0.599:       30
+
+:  1696: A 226 ALA  HB3 : A 193 LEU HD23 :   -0.555:       38
+
+:  1696: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.555:       30
+:  1696: A  22 PHE  HA  : A  49 GLU  O   :   -0.531:       24
+
+:  1696: A 226 ALA  CB  : A 193 LEU HD23 :   -0.497:       38
+:  1696: A 193 LEU  CD2 : A 226 ALA  HB3 :   -0.430:       38
+
+:  1696: A  22 PHE  CD1 : A  22 PHE  C   :   -0.410:       20
+
+:  1696: A  20 VAL  HB  : A 232 ILE HG12 :   -0.552:       25
+:  1696: A  20 VAL  O   : A 232 ILE  HA  :   -0.532:       21
+:  1696: A  20 VAL  O   : A 232 ILE HG23 :   -0.430:       25
+
+:  1696: A 177 LEU HD11 : A 181 GLY  HA3 :   -0.546:       33
+
+:  1696: A 125 SER  HB2 : A 151 ILE HD11 :   -0.535:       22
+
+:  1696: A 220 VAL  O   : A 224 ILE HD13 :   -0.456:       40
+
+:  1696: A 211 GLY  O   : A 212 PHE  CB  :   -0.454:       17
+
+:  1696: A 182 VAL  O   : A 183 THR HG22 :   -0.446:       67
+:  1696: A 182 VAL  CG1 : A 156 PRO  HG2 :   -0.435:       41
+:  1696: A 182 VAL HG22 : A 179 ARG  O   :   -0.434:       44
+#sum2 ::18.28 clashscore : 14.32 clashscore B<40 
+#summary::1696 atoms:1466 atoms B<40:201948 potential dots:12620.0 A^2:31 bumps:21 bumps B<40:429.8 score

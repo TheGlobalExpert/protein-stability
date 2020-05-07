@@ -1,0 +1,13 @@
+
+:  1438: A  97 HIS  CB  : A  97 HIS  CD2 :   -0.959:       10
+
+:  1438: A 103 TYR  CE2 : A 103 TYR  CE1 :   -0.948:        7
+
+:  1438: A  67 THR  CG2 : A  67 THR  CA  :   -0.924:        8
+:  1438: A  66 VAL  O   : A  67 THR  CA  :   -0.412:        8
+
+:  1438: A 152 GLN  CD  : A 152 GLN  CB  :   -0.857:       12
+
+:  1438: A 151 TYR  CZ  : A 153 GLY  HA3 :   -0.519:       12
+#sum2 ::4.17 clashscore : 4.17 clashscore B<40 
+#summary::1438 atoms:1438 atoms B<40:169826 potential dots:10610.0 A^2:6 bumps:6 bumps B<40:591.2 score

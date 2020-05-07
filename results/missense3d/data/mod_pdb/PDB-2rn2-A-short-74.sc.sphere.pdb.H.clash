@@ -1,0 +1,65 @@
+
+:  1802: A  17 PRO  N   : A  17 PRO  CD  :   -1.310:        0
+:  1802: A  17 PRO  CD  : A  16 ASN  C   :   -0.436:        0
+
+:  1802: A  34 THR  CG2 : A  34 THR  CA  :   -0.978:        0
+:  1802: A  34 THR  CG2 : A  34 THR  C   :   -0.435:        0
+
+:  1802: A 149 THR  CA  : A 149 THR  CG2 :   -0.970:        0
+:  1802: A 149 THR  CG2 : A 149 THR  C   :   -0.821:        0
+:  1802: A 149 THR  CG2 : A 150 GLY  N   :   -0.525:        0
+
+:  1802: A  63 CYS  CB  : A  63 CYS  C   :   -0.857:        0
+
+:  1802: A 128 PRO  N   : A 128 PRO  C   :   -0.769:        0
+:  1802: A 128 PRO  N   : A 129 GLU  N   :   -0.424:        0
+
+:  1802: A   4 GLN  OE1 : A   4 GLN  CG  :   -0.754:        0
+
+:  1802: A  59 LEU  CA  : A  59 LEU  O   :   -0.747:        0
+
+:  1802: A 148 ASP  OD2 : A  46 ARG  NH1 :   -0.731:        0
+:  1802: A 148 ASP  N   : A 147 GLU  O   :   -0.638:        0
+:  1802: A 148 ASP  OD1 : A  42 THR  OG1 :   -0.454:        0
+
+:  1802: A  81 TRP  CE3 : A  85 TRP  CH2 :   -0.710:        0
+:  1802: A  81 TRP  CE3 : A  85 TRP  HH2 :   -0.644:        0
+:  1802: A  81 TRP  HE3 : A  85 TRP  CH2 :   -0.582:        0
+:  1802: A  81 TRP  HB3 : A  85 TRP  CE2 :   -0.571:        0
+:  1802: A  81 TRP  HB3 : A  85 TRP  CZ2 :   -0.508:        0
+
+:  1802: A  73 TYR  HH  : A 104 TRP  HE1 :   -0.559:        0
+:  1802: A  77 GLY  HA3 : A 104 TRP  CH2 :   -0.504:        0
+:  1802: A  49 LEU HD11 : A 104 TRP  CE2 :   -0.464:        0
+:  1802: A  49 LEU  CD1 : A  73 TYR  HE2 :   -0.445:        0
+:  1802: A  74 VAL HG22 : A  49 LEU HD23 :   -0.445:        0
+
+:  1802: A  53 ILE  O   : A  57 GLU  HG3 :   -0.557:        0
+:  1802: A  53 ILE HD12 : A  50 MET  HA  :   -0.460:        0
+
+:  1802: A  22 TYR  CD1 : A  22 TYR  C   :   -0.551:        0
+:  1802: A  22 TYR  HB2 : A  51 ALA  HB2 :   -0.546:        0
+:  1802: A  51 ALA  CB  : A   9 THR  HB  :   -0.448:        0
+
+:  1802: A  82 ILE  CG2 : A  83 HIS  N   :   -0.546:        0
+:  1802: A  83 HIS  N   : A  82 ILE HG23 :   -0.471:        0
+
+:  1802: A 154 GLU  O   : A 155 VAL  OXT :   -0.524:        0
+
+:  1802: A  99 LYS  NZ  : A  99 LYS  HB3 :   -0.477:        0
+
+:  1802: A  47 MET  HA  : A  47 MET  CE  :   -0.470:        0
+
+:  1802: A  66 ILE  N   : A  65 VAL  CG1 :   -0.447:        0
+:  1802: A   6 GLU  HG2 : A  66 ILE  CG2 :   -0.428:        0
+:  1802: A  66 ILE  N   : A  65 VAL HG12 :   -0.400:        0
+
+:  1802: A   8 PHE  CD1 : A  68 SER  HB3 :   -0.441:        0
+:  1802: A  68 SER  HB2 : A 119 GLU  OE1 :   -0.400:        0
+
+:  1802: A 120 TRP  CZ2 : A 118 TRP  HB3 :   -0.439:        0
+:  1802: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+
+:  1802: A  78 ILE HD13 : A  78 ILE  HA  :   -0.406:        0
+#sum2 ::23.86 clashscore : 23.86 clashscore B<40 
+#summary::1802 atoms:1802 atoms B<40:213469 potential dots:13340.0 A^2:43 bumps:43 bumps B<40:457.1 score

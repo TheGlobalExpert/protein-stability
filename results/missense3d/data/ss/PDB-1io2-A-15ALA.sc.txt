@@ -1,0 +1,5 @@
+SGFILE missense3d/data/mod_pdb/PDB-1io2-A-15ALA.sc.pdb             
+NUMCYS      0
+NUMSGA      0
+DISMAX   3.300
+SGNONE 

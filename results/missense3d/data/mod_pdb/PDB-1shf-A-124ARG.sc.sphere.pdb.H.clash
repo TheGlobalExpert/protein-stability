@@ -1,0 +1,50 @@
+
+:   909: A 124 ARG HH11 : A 127 THR  CB  :   -1.528:        0
+:   909: A 124 ARG  NH1 : A 127 THR HG21 :   -1.416:        0
+:   909: A 124 ARG  NH1 : A 127 THR  CG2 :   -1.414:        0
+:   909: A 124 ARG HH11 : A 127 THR  CG2 :   -1.123:        0
+:   909: A 124 ARG  NH1 : A 127 THR  OG1 :   -1.107:        0
+:   909: A 127 THR  CB  : A 124 ARG  NH1 :   -1.034:        0
+:   909: A 127 THR  OG1 : A 124 ARG  CZ  :   -0.983:        0
+:   909: A 124 ARG  CZ  : A 127 THR  CG2 :   -0.941:        0
+:   909: A 127 THR  OG1 : A 124 ARG  NE  :   -0.917:        0
+:   909: A 126 THR  H   : A 124 ARG  HG2 :   -0.687:        0
+:   909: A 127 THR HG21 : A 124 ARG HH12 :   -0.642:        0
+:   909: A 124 ARG  CZ  : A 127 THR HG23 :   -0.557:        0
+:   909: A 124 ARG  HE  : A 127 THR  HG1 :   -0.524:        0
+:   909: A 124 ARG  HE  : A 127 THR  CB  :   -0.514:        0
+:   909: A 129 GLU  OE2 : A 124 ARG  NH1 :   -0.506:        0
+:   909: A 127 THR HG21 : A 124 ARG  CZ  :   -0.488:        0
+:   909: A 124 ARG  CD  : A 126 THR  HB  :   -0.486:        0
+:   909: A 124 ARG  HG2 : A 126 THR  N   :   -0.484:        0
+:   909: A 126 THR  HB  : A 124 ARG  HG2 :   -0.435:        0
+:   909: A 124 ARG  NE  : A 127 THR  CB  :   -0.418:        0
+:   909: A 126 THR  HB  : A 124 ARG  CG  :   -0.407:        0
+
+:   909: A 104 HIS  H   : A 107 GLU  CD  :   -0.878:        0
+:   909: A 107 GLU  OE2 : A 104 HIS  N   :   -0.412:        0
+
+:   909: A 125 LEU HD11 : A  86 LEU HD22 :   -0.721:        0
+:   909: A 108 LYS  CB  : A 125 LEU HD12 :   -0.559:        0
+:   909: A 125 LEU HD12 : A 108 LYS  HB3 :   -0.475:        0
+
+:   909: A  93 TYR  HB3 : A 103 PHE  CZ  :   -0.621:        0
+:   909: A 103 PHE  CE1 : A  93 TYR  HB3 :   -0.465:        0
+:   909: A 103 PHE  CZ  : A  93 TYR  CB  :   -0.405:        0
+
+:   909: A 100 ASP  OD2 : A  96 ARG  N   :   -0.616:        0
+:   909: A 100 ASP  OD1 : A 100 ASP  N   :   -0.565:        0
+
+:   909: A  84 VAL  CG1 : A 110 GLN  HG3 :   -0.567:        0
+
+:   909: A 141 VAL  O   : A 142 ASP  CB  :   -0.554:        0
+:   909: A 142 ASP  HB2 : A 141 VAL  O   :   -0.508:        0
+
+:   909: A 116 GLU  CG  : A 116 GLU  O   :   -0.537:        0
+:   909: A 116 GLU  HG2 : A 116 GLU  O   :   -0.463:        0
+
+:   909: A 132 TYR  HA  : A 120 TRP  O   :   -0.465:        0
+
+:   909: A 111 ILE HG21 : A 114 SER  HB3 :   -0.407:        0
+#sum2 ::41.80 clashscore : 41.80 clashscore B<40 
+#summary::909 atoms:909 atoms B<40:102896 potential dots:6431.0 A^2:38 bumps:38 bumps B<40:122.5 score

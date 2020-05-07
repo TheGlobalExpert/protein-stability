@@ -1,0 +1,105 @@
+
+:  1393: A  29 GLU  HG3 : A  26 THR  OG1 :   -1.138:        0
+:  1393: A  26 THR  OG1 : A  29 GLU  CG  :   -0.766:        0
+
+:  1393: A  56 PHE  HE2 : A  63 LEU HD12 :   -1.043:        0
+:  1393: A 106 PHE  CA  : A 107 THR  N   :   -0.956:        0
+:  1393: A  56 PHE  HE2 : A  63 LEU  CD1 :   -0.951:        0
+:  1393: A  89 LEU HD22 : A  63 LEU HD11 :   -0.949:        0
+:  1393: A  63 LEU HD12 : A  56 PHE  CE2 :   -0.929:        0
+:  1393: A  63 LEU  CD1 : A  56 PHE  CE2 :   -0.904:        0
+:  1393: A  89 LEU  CD2 : A  56 PHE  CD2 :   -0.792:        0
+:  1393: A  63 LEU  CD1 : A  89 LEU HD22 :   -0.714:        0
+:  1393: A  89 LEU HD21 : A  56 PHE  CG  :   -0.547:        0
+:  1393: A  56 PHE  CE2 : A  89 LEU  CD2 :   -0.543:        0
+:  1393: A  56 PHE  CD2 : A  89 LEU HD21 :   -0.542:        0
+:  1393: A  89 LEU  CD2 : A  56 PHE  CG  :   -0.457:        0
+:  1393: A 106 PHE  CE2 : A  89 LEU HD13 :   -0.431:        0
+:  1393: A  56 PHE  CE2 : A  63 LEU HD11 :   -0.416:        0
+:  1393: A 106 PHE  CD2 : A  89 LEU HD13 :   -0.406:        0
+
+:  1393: A  78 TYR  CE2 : A  42 LEU HD23 :   -0.935:        0
+:  1393: A  78 TYR  HE2 : A  42 LEU HD23 :   -0.686:        0
+:  1393: A  78 TYR  OH  : A  42 LEU  HB3 :   -0.467:        0
+
+:  1393: A  94 TRP  CH2 : A  18 HIS  CA  :   -0.926:        0
+:  1393: A  94 TRP  HH2 : A  18 HIS  O   :   -0.925:        0
+:  1393: A  94 TRP  CH2 : A  18 HIS  HA  :   -0.882:        0
+:  1393: A  94 TRP  HH2 : A  18 HIS  C   :   -0.866:        0
+:  1393: A  17 TYR  CE2 : A  13 TYR  CE2 :   -0.827:        0
+:  1393: A  94 TRP  CZ2 : A  18 HIS  HB3 :   -0.819:        0
+:  1393: A  94 TRP  CH2 : A  18 HIS  C   :   -0.774:        0
+:  1393: A  17 TYR  CD2 : A  13 TYR  CZ  :   -0.760:        0
+:  1393: A  18 HIS  CB  : A  94 TRP  CZ2 :   -0.736:        0
+:  1393: A  18 HIS  HA  : A  14 LEU  O   :   -0.724:        0
+:  1393: A  18 HIS  HB3 : A  94 TRP  HZ2 :   -0.662:        0
+:  1393: A  13 TYR  CE2 : A  17 TYR  CD2 :   -0.647:        0
+:  1393: A  13 TYR  CE2 : A  17 TYR  HE2 :   -0.644:        0
+:  1393: A  13 TYR  HD1 : A  19 LYS  O   :   -0.589:        0
+:  1393: A  14 LEU  O   : A  18 HIS  CA  :   -0.562:        0
+:  1393: A  18 HIS  O   : A  94 TRP  CH2 :   -0.532:        0
+:  1393: A  18 HIS  CB  : A  94 TRP  CH2 :   -0.523:        0
+:  1393: A  18 HIS  HA  : A  94 TRP  CZ3 :   -0.512:        0
+:  1393: A  18 HIS  HB2 : A  17 TYR  O   :   -0.507:        0
+:  1393: A  13 TYR  CE1 : A  17 TYR  HD2 :   -0.491:        0
+:  1393: A  17 TYR  CD2 : A  13 TYR  CE1 :   -0.484:        0
+:  1393: A  17 TYR  HD2 : A  13 TYR  CD1 :   -0.439:        0
+:  1393: A  17 TYR  CE2 : A  13 TYR  CZ  :   -0.437:        0
+:  1393: A  19 LYS  O   : A  13 TYR  CD1 :   -0.427:        0
+:  1393: A  14 LEU  O   : A  18 HIS  N   :   -0.426:        0
+:  1393: A  18 HIS  CA  : A  94 TRP  CZ2 :   -0.416:        0
+:  1393: A  94 TRP  CZ2 : A  18 HIS  CG  :   -0.407:        0
+:  1393: A  94 TRP  HZ3 : A  14 LEU HD22 :   -0.407:        0
+
+:  1393: A  96 ILE  CG2 : A 109 ILE HD11 :   -0.869:        0
+:  1393: A 109 ILE HD11 : A  96 ILE HG22 :   -0.724:        0
+:  1393: A  96 ILE HG22 : A 109 ILE  CD1 :   -0.614:        0
+:  1393: A  98 LYS  HB2 : A   7 PHE  CE1 :   -0.559:        0
+:  1393: A 109 ILE  CG1 : A  96 ILE HG22 :   -0.555:        0
+:  1393: A 109 ILE  CG2 : A  98 LYS  HG2 :   -0.529:        0
+:  1393: A  96 ILE HG21 : A 109 ILE HD11 :   -0.516:        0
+:  1393: A  96 ILE HG21 : A  88 ILE HD11 :   -0.433:        0
+:  1393: A  96 ILE  CG2 : A 109 ILE  CD1 :   -0.431:        0
+:  1393: A  88 ILE HD11 : A 109 ILE HD11 :   -0.403:        0
+
+:  1393: A 102 HIS  HB2 : A 101 ASP  O   :   -0.866:        0
+:  1393: A 101 ASP  O   : A 102 HIS  CB  :   -0.682:        0
+:  1393: A 104 GLN  HB2 : A 101 ASP  CG  :   -0.621:        0
+:  1393: A 102 HIS  C   : A 103 TYR  CD1 :   -0.545:        0
+:  1393: A 101 ASP  OD1 : A 104 GLN  HB2 :   -0.433:        0
+
+:  1393: A  23 ASN  OD1 : A  21 PRO  HB2 :   -0.806:        0
+:  1393: A  74 ALA  HB1 : A  24 TYR  CE1 :   -0.675:        0
+:  1393: A  24 TYR  CE2 : A  21 PRO  HD2 :   -0.540:        0
+:  1393: A  49 LYS  HE2 : A  23 ASN  HA  :   -0.537:        0
+:  1393: A  21 PRO  HB3 : A   4 ILE HD12 :   -0.509:        0
+:  1393: A  24 TYR  CD2 : A  21 PRO  HD2 :   -0.488:        0
+:  1393: A  24 TYR  HA  : A  50 SER  O   :   -0.470:        0
+:  1393: A  21 PRO  HD3 : A  20 LEU  HA  :   -0.464:        0
+:  1393: A  52 GLY  HA2 : A  74 ALA  HA  :   -0.450:        0
+:  1393: A   6 THR  O   : A  10 VAL HG23 :   -0.438:        0
+:  1393: A  10 VAL HG21 : A  24 TYR  OH  :   -0.406:        0
+
+:  1393: A  39 LYS  HG3 : A  36 VAL  HB  :   -0.783:        0
+
+:  1393: A  16 THR  C   : A  16 THR  N   :   -0.730:        0
+
+:  1393: A  90 TYR  HA  : A  95 LEU  O   :   -0.631:        0
+
+:  1393: A  70 THR  N   : A  92 SER  HG  :   -0.627:        0
+
+:  1393: A  99 THR HG22 : A  87 ARG  HB2 :   -0.574:        0
+:  1393: A  75 ASP  HA  : A  87 ARG  HD3 :   -0.567:        0
+:  1393: A  87 ARG  HB2 : A  99 THR  CG2 :   -0.526:        0
+
+:  1393: A  51 ILE  HA  : A  25 ILE  O   :   -0.493:        0
+
+:  1393: A  71 TRP  CZ3 : A  91 SER  HB3 :   -0.488:        0
+
+:  1393: A  84 ASN  OD1 : A  84 ASN  C   :   -0.402:        0
+
+:  1393: A  27 LYS  HZ3 : A  54 ASP  CG  :   -0.401:        0
+
+:  1393: A  59 ARG  N   : A  59 ARG  CG  :   -0.400:        0
+#sum2 ::61.74 clashscore : 61.74 clashscore B<40 
+#summary::1393 atoms:1393 atoms B<40:162819 potential dots:10180.0 A^2:86 bumps:86 bumps B<40:92.2 score

@@ -1,0 +1,19 @@
+
+:   981: A   7 PHE  CD1 : A   7 PHE  CZ  :   -1.003:       10
+
+:   981: A  18 ILE  CB  : A  18 ILE  CD1 :   -0.882:       24
+
+:   981: A  32 ALA  HA  : A  82 LYS  HE2 :   -0.877:       78
+:   981: A  82 LYS  HB2 : A  31 ALA  CB  :   -0.440:       71
+
+:   981: A  17 ALA  N   : A  17 ALA  C   :   -0.760:        8
+
+:   981: A  11 GLY  C   : A  11 GLY  N   :   -0.642:       15
+
+:   981: A  56 TRP  CZ2 : A  33 LYS  HE2 :   -0.496:       75
+
+:   981: A  76 LYS  HE3 : A  73 THR  HA  :   -0.409:       49
+
+:   981: A  79 LEU HD23 : A  79 LEU  HA  :   -0.405:       19
+#sum2 ::9.17 clashscore : 5.73 clashscore B<40 
+#summary::981 atoms:873 atoms B<40:115388 potential dots:7212.0 A^2:9 bumps:5 bumps B<40:285.2 score

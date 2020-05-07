@@ -1,0 +1,59 @@
+
+:  1951: A  93 HIS  HB3 : A 146 TYR  OH  :   -1.124:        0
+:  1951: A 146 TYR  OH  : A  93 HIS  CB  :   -0.955:        0
+:  1951: A  94 ALA  HB2 : A 146 TYR  CD1 :   -0.728:        0
+:  1951: A  93 HIS  HB3 : A 146 TYR  HH  :   -0.725:        0
+:  1951: A 146 TYR  OH  : A  93 HIS  HB2 :   -0.418:        0
+
+:  1951: A   2 LEU  CD1 : A   2 LEU  CD2 :   -0.988:        0
+
+:  1951: A  43 PHE  CG  : A  46 PHE  CZ  :   -0.772:        0
+:  1951: A  43 PHE  HE1 : A  64 HIS  CE1 :   -0.645:        0
+:  1951: A  46 PHE  CZ  : A  43 PHE  CB  :   -0.520:        0
+:  1951: A  43 PHE  CD1 : A  46 PHE  CZ  :   -0.518:        0
+:  1951: A  46 PHE  CE2 : A  43 PHE  HB3 :   -0.504:        0
+:  1951: A  64 HIS  NE2 : A  43 PHE  CE1 :   -0.417:        0
+
+:  1951: A 136 GLU  OE1 : A 136 GLU  CG  :   -0.759:        0
+
+:  1951: A  14 TRP  HH2 : A  72 LEU HD23 :   -0.756:        0
+:  1951: A  73 GLY  HA3 : A  14 TRP  HE1 :   -0.660:        0
+:  1951: A  14 TRP  NE1 : A  73 GLY  CA  :   -0.619:        0
+:  1951: A  72 LEU  CD2 : A  14 TRP  HH2 :   -0.603:        0
+:  1951: A  73 GLY  CA  : A  14 TRP  HE1 :   -0.560:        0
+:  1951: A  14 TRP  NE1 : A  73 GLY  HA2 :   -0.557:        0
+:  1951: A  14 TRP  CZ3 : A  76 LEU  CD1 :   -0.487:        0
+:  1951: A  14 TRP  CE3 : A  76 LEU  CD1 :   -0.477:        0
+:  1951: A  14 TRP  CH2 : A  72 LEU  HG  :   -0.447:        0
+:  1951: A  73 GLY  HA2 : A  14 TRP  CE2 :   -0.440:        0
+:  1951: A  76 LEU HD12 : A  14 TRP  CD2 :   -0.426:        0
+
+:  1951: A 144 ALA  C   : A 144 ALA  N   :   -0.736:        0
+
+:  1951: A  48 HIS  N   : A  48 HIS  C   :   -0.695:        0
+
+:  1951: A 130 ALA  N   : A 129 GLY  O   :   -0.665:        0
+
+:  1951: A  87 LYS  N   : A 145 LYS  HZ2 :   -0.600:        0
+:  1951: A  87 LYS  N   : A 145 LYS  NZ  :   -0.556:        0
+:  1951: A  86 LEU  C   : A 145 LYS  HZ2 :   -0.466:        0
+:  1951: A 145 LYS  HZ2 : A  87 LYS  CA  :   -0.440:        0
+:  1951: A 145 LYS  NZ  : A  87 LYS  CA  :   -0.436:        0
+
+:  1951: A  79 LYS  HA  : A   7 TRP  CZ3 :   -0.572:        0
+:  1951: A   7 TRP  CZ2 : A  79 LYS  C   :   -0.462:        0
+:  1951: A  79 LYS  HA  : A   7 TRP  CH2 :   -0.446:        0
+:  1951: A  79 LYS  HA  : A   7 TRP  CE3 :   -0.400:        0
+
+:  1951: A  22 ALA  HB1 : A  62 LYS  HE3 :   -0.508:        0
+:  1951: A  62 LYS  HE3 : A  22 ALA  CB  :   -0.422:        0
+
+:  1951: A 131 MET  CE  : A  10 VAL HG13 :   -0.500:        0
+
+:  1951: A 123 PHE  CZ  : A 128 GLN  HA  :   -0.485:        0
+
+:  1951: A  51 THR  O   : A  52 GLU  CA  :   -0.434:        0
+
+:  1951: A  40 LEU  HG  : A  47 LYS  HA  :   -0.420:        0
+#sum2 ::21.53 clashscore : 21.53 clashscore B<40 
+#summary::1951 atoms:1951 atoms B<40:228612 potential dots:14290.0 A^2:42 bumps:42 bumps B<40:594.6 score

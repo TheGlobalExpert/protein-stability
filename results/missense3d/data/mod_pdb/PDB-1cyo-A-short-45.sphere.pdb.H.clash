@@ -1,0 +1,18 @@
+
+:   954: A   9 LEU  CG  : A   9 LEU  CA  :   -0.877:        9
+:   954: A   9 LEU  O   : A   9 LEU  CA  :   -0.726:        8
+:   954: A   9 LEU  CA  : A   9 LEU  CD1 :   -0.437:       12
+
+:   954: A  76 ILE  N   : A  76 ILE  CB  :   -0.770:        8
+
+:   954: A  47 ARG  NH1 : A  18 SER  HB3 :   -0.739:       44
+:   954: A  47 ARG HH12 : A  18 SER  HB3 :   -0.633:       44
+:   954: A  47 ARG  HG2 : A  43 GLU  O   :   -0.436:       29
+
+:   954: A  88 THR  C   : A  88 THR  N   :   -0.677:       45
+
+:   954: A  24 ILE  HB  : A  53 ASP  HA  :   -0.417:       10
+
+:   954: A  61 VAL HG22 : A  61 VAL  O   :   -0.417:       11
+#sum2 ::10.48 clashscore : 7.57 clashscore B<40 
+#summary::954 atoms:925 atoms B<40:112722 potential dots:7045.0 A^2:10 bumps:7 bumps B<40:294.6 score

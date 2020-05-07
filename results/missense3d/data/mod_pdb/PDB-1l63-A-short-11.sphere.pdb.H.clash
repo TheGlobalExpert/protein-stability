@@ -1,0 +1,24 @@
+
+:  1642: A 108 GLU  CG  : A 108 GLU  OE2 :   -0.828:      100
+:  1642: A 108 GLU  CB  : A 108 GLU  OE2 :   -0.610:      100
+
+:  1642: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1642: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1642: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1642: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1642: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1642: A  45 GLU  CG  : A  45 GLU  OE1 :   -0.747:       27
+
+:  1642: A 157 THR  CA  : A 157 THR  OG1 :   -0.728:       23
+:  1642: A 157 THR  OG1 : A 157 THR  C   :   -0.401:       23
+
+:  1642: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1642: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1642: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1642: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1642: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+#sum2 ::9.14 clashscore : 3.31 clashscore B<40 
+#summary::1642 atoms:1511 atoms B<40:192680 potential dots:12040.0 A^2:15 bumps:5 bumps B<40:597.6 score

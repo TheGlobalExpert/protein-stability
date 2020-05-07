@@ -1,0 +1,86 @@
+
+:  1658: A 317 ILE  CD1 : A 311 LEU  HB3 :   -1.112:        0
+:  1658: A 317 ILE  CD1 : A 311 LEU  CB  :   -0.453:        0
+
+:  1658: A  67 PHE  CD1 : A  67 PHE  CD2 :   -1.043:        0
+:  1658: A  67 PHE  CE2 : A 105 ALA  HB2 :   -0.613:        0
+:  1658: A  67 PHE  CE2 : A 105 ALA  CB  :   -0.566:        0
+:  1658: A 105 ALA  HB2 : A  67 PHE  HE2 :   -0.520:        0
+:  1658: A  67 PHE  HE2 : A 105 ALA  CB  :   -0.449:        0
+
+:  1658: A  61 PHE  CE2 : A 264 ALA  HB2 :   -0.901:        0
+:  1658: A 264 ALA  HB2 : A  61 PHE  CZ  :   -0.558:        0
+:  1658: A 263 SER  O   : A  61 PHE  HA  :   -0.510:        0
+:  1658: A  61 PHE  CZ  : A 264 ALA  CB  :   -0.448:        0
+
+:  1658: A  94 TRP  HE1 : A  89 LEU  HB2 :   -0.876:        0
+:  1658: A  97 VAL  CA  : A  97 VAL  O   :   -0.740:        0
+:  1658: A  89 LEU  HB2 : A  94 TRP  NE1 :   -0.687:        0
+:  1658: A  94 TRP  CZ2 : A  89 LEU HD12 :   -0.651:        0
+:  1658: A  89 LEU  CD2 : A 304 LEU  HA  :   -0.649:        0
+:  1658: A  88 LYS  C   : A  89 LEU HD23 :   -0.643:        0
+:  1658: A  89 LEU HD23 : A  88 LYS  O   :   -0.588:        0
+:  1658: A 304 LEU  HA  : A  89 LEU HD22 :   -0.525:        0
+:  1658: A 107 PRO  HD3 : A  94 TRP  CZ3 :   -0.521:        0
+:  1658: A 304 LEU  CA  : A  89 LEU HD22 :   -0.457:        0
+:  1658: A  97 VAL  O   : A  97 VAL  CB  :   -0.418:        0
+:  1658: A  97 VAL HG22 : A  94 TRP  HA  :   -0.403:        0
+
+:  1658: A  80 THR HG22 : A  80 THR  O   :   -0.867:        0
+:  1658: A  80 THR  O   : A  80 THR  CG2 :   -0.673:        0
+
+:  1658: A   7 LEU  HG  : A  33 ILE HD11 :   -0.822:        0
+:  1658: A   3 GLU  O   : A   6 LYS  CD  :   -0.808:        0
+:  1658: A  33 ILE  O   : A  28 GLU  HB2 :   -0.723:        0
+:  1658: A  28 GLU  OE1 : A  34 LYS  HA  :   -0.519:        0
+:  1658: A   3 GLU  O   : A   4 GLU  C   :   -0.495:        0
+:  1658: A   6 LYS  CA  : A  33 ILE HD12 :   -0.468:        0
+
+:  1658: A 275 LEU  HG  : A 274 GLU  OE1 :   -0.785:        0
+:  1658: A 274 GLU  N   : A 274 GLU  OE2 :   -0.452:        0
+
+:  1658: A  82 ASP  OD1 : A  82 ASP  C   :   -0.783:        0
+:  1658: A  81 PRO  O   : A  82 ASP  HB3 :   -0.717:        0
+:  1658: A  84 ALA  N   : A  82 ASP  OD1 :   -0.516:        0
+:  1658: A  82 ASP  O   : A  82 ASP  OD1 :   -0.484:        0
+
+:  1658: A  39 HIS  CD2 : A  39 HIS  CB  :   -0.754:        0
+
+:  1658: A  18 ASN  O   : A  22 GLU  OE2 :   -0.751:        0
+:  1658: A  22 GLU  OE1 : A  22 GLU  N   :   -0.699:        0
+:  1658: A  18 ASN  O   : A  22 GLU  CD  :   -0.521:        0
+:  1658: A  21 ALA  C   : A  22 GLU  OE1 :   -0.521:        0
+:  1658: A  22 GLU  CA  : A  22 GLU  OE1 :   -0.509:        0
+:  1658: A  22 GLU  N   : A  22 GLU  CD  :   -0.434:        0
+
+:  1658: A 306 SER  OG  : A 287 ASP  OD1 :   -0.610:        0
+
+:  1658: A 296 ASP  OD2 : A  16 GLY  HA2 :   -0.604:        0
+:  1658: A 296 ASP  OD2 : A  16 GLY  CA  :   -0.598:        0
+:  1658: A  16 GLY  C   : A 296 ASP  OD2 :   -0.461:        0
+
+:  1658: A 285 LEU HD13 : A  85 PHE  HZ  :   -0.595:        0
+:  1658: A 285 LEU  CD1 : A  85 PHE  HZ  :   -0.577:        0
+:  1658: A  85 PHE  CZ  : A 285 LEU HD13 :   -0.459:        0
+
+:  1658: A  10 TRP  CG  : A  57 PRO  HG3 :   -0.594:        0
+
+:  1658: A  79 ILE HD11 : A 103 LEU  HB3 :   -0.571:        0
+:  1658: A 106 TYR  CE1 : A  79 ILE HG21 :   -0.476:        0
+:  1658: A  79 ILE  H   : A  79 ILE HG13 :   -0.417:        0
+
+:  1658: A  36 THR HG23 : A   8 VAL HG22 :   -0.533:        0
+
+:  1658: A 305 LYS  CE  : A  87 ASP  O   :   -0.528:        0
+
+:  1658: A  27 PHE  CE1 : A 279 PHE  HA  :   -0.512:        0
+:  1658: A  24 GLY  O   : A  27 PHE  HB3 :   -0.427:        0
+
+:  1658: A 308 GLU  HA  : A 308 GLU  OE1 :   -0.493:        0
+
+:  1658: A 283 ASP  OD2 : A  23 VAL  O   :   -0.468:        0
+:  1658: A  23 VAL HG13 : A 283 ASP  OD1 :   -0.417:        0
+
+:  1658: A 288 GLU  CD  : A 288 GLU  H   :   -0.425:        0
+#sum2 ::38.00 clashscore : 38.00 clashscore B<40 
+#summary::1658 atoms:1658 atoms B<40:195054 potential dots:12190.0 A^2:63 bumps:63 bumps B<40:317.5 score

@@ -1,0 +1,28 @@
+
+:  1338: A 146 PHE  C   : A 147 ASN  CA  :   -0.945:        0
+:  1338: A 146 PHE  CB  : A 146 PHE  C   :   -0.930:        0
+
+:  1338: A 184 THR  C   : A 184 THR  CB  :   -0.902:        0
+
+:  1338: A 140 ARG  CA  : A 141 SER  N   :   -0.831:        0
+
+:  1338: A 220 ASN  HA  : A 214 LEU  HB3 :   -0.791:        0
+:  1338: A 220 ASN  HB2 : A 219 LYS  O   :   -0.546:        0
+
+:  1338: A 198 ALA  HB3 : A 116 ILE HD13 :   -0.529:        0
+
+:  1338: A 125 LEU HD21 : A 120 VAL  CG1 :   -0.498:        0
+:  1338: A 125 LEU HD21 : A 120 VAL HG13 :   -0.404:        0
+
+:  1338: A  10 ILE HG13 : A   8 VAL HG12 :   -0.495:        0
+:  1338: A 191 TYR  HE2 : A  10 ILE HD11 :   -0.480:        0
+:  1338: A 194 THR  OG1 : A 191 TYR  HA  :   -0.402:        0
+
+:  1338: A   9 LEU HD12 : A   9 LEU  HA  :   -0.490:        0
+:  1338: A   7 MET  CE  : A   9 LEU HD13 :   -0.435:        0
+
+:  1338: A 112 LEU  HG  : A 105 LEU  CD1 :   -0.448:        0
+
+:  1338: A 114 LYS  HA  : A 114 LYS  HD3 :   -0.441:        0
+#sum2 ::11.96 clashscore : 11.96 clashscore B<40 
+#summary::1338 atoms:1338 atoms B<40:160084 potential dots:10010.0 A^2:16 bumps:16 bumps B<40:358.7 score

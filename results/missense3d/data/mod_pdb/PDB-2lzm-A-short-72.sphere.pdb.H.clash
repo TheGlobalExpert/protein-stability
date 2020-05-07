@@ -1,0 +1,18 @@
+
+:  1319: A  14 ARG  C   : A  14 ARG  N   :   -0.781:       27
+
+:  1319: A  47 ASP  O   : A  48 LYS  N   :   -0.686:       23
+
+:  1319: A 149 VAL  O   : A 149 VAL  CA  :   -0.682:       13
+
+:  1319: A   1 MET  HA  : A   5 GLU  OE1 :   -0.635:       38
+:  1319: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1319: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1319: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1319: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1319: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::6.82 clashscore : 7.35 clashscore B<40 
+#summary::1319 atoms:1225 atoms B<40:158159 potential dots:9885.0 A^2:9 bumps:9 bumps B<40:500 score

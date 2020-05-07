@@ -1,0 +1,60 @@
+
+:  1316: A  61 GLU  OE1 : A  28 TYR  OH  :   -1.082:        0
+:  1316: A  61 GLU  CD  : A  28 TYR  OH  :   -0.917:        0
+:  1316: A  28 TYR  HH  : A  61 GLU  CD  :   -0.840:        0
+:  1316: A  28 TYR  OH  : A  61 GLU  OE2 :   -0.564:        0
+:  1316: A  61 GLU  O   : A 114 HIS  HE1 :   -0.495:        0
+:  1316: A  29 ARG  NH2 : A  29 ARG  CD  :   -0.484:        0
+:  1316: A  28 TYR  O   : A  29 ARG  HB2 :   -0.410:        0
+
+:  1316: A  22 TYR  CD1 : A  22 TYR  CB  :   -0.972:        0
+
+:  1316: A  85 TRP  N   : A  84 ASN  CA  :   -0.884:        0
+:  1316: A  85 TRP  CD2 : A  85 TRP  CB  :   -0.873:        0
+:  1316: A  84 ASN  CG  : A  84 ASN  CA  :   -0.862:        0
+:  1316: A  85 TRP  N   : A  85 TRP  CB  :   -0.830:        0
+:  1316: A  81 TRP  CE3 : A  85 TRP  CH2 :   -0.710:        0
+:  1316: A  81 TRP  HE3 : A  85 TRP  CH2 :   -0.582:        0
+:  1316: A  85 TRP  N   : A  84 ASN  N   :   -0.406:        0
+
+:  1316: A  31 ARG  N   : A  30 GLY  CA  :   -0.850:        0
+:  1316: A  31 ARG  N   : A  31 ARG  C   :   -0.737:        0
+:  1316: A  31 ARG  N   : A  30 GLY  N   :   -0.449:        0
+
+:  1316: A  86 LYS  N   : A  86 LYS  CB  :   -0.820:        0
+
+:  1316: A  73 TYR  HH  : A 104 TRP  HE1 :   -0.559:        0
+:  1316: A  77 GLY  HA3 : A 104 TRP  CH2 :   -0.504:        0
+:  1316: A  49 LEU HD11 : A 104 TRP  CE2 :   -0.464:        0
+:  1316: A  49 LEU  CD1 : A  73 TYR  HE2 :   -0.445:        0
+:  1316: A  74 VAL HG22 : A  49 LEU HD23 :   -0.445:        0
+
+:  1316: A  53 ILE  O   : A  57 GLU  HG3 :   -0.557:        0
+:  1316: A  53 ILE HD12 : A  50 MET  HA  :   -0.460:        0
+
+:  1316: A  82 ILE  CG2 : A  83 HIS  N   :   -0.546:        0
+:  1316: A  83 HIS  N   : A  82 ILE HG23 :   -0.471:        0
+
+:  1316: A 117 LYS  HE3 : A  66 ILE HD12 :   -0.540:        0
+:  1316: A  66 ILE  N   : A  65 VAL  CG1 :   -0.447:        0
+:  1316: A   6 GLU  HG2 : A  66 ILE  CG2 :   -0.428:        0
+:  1316: A  66 ILE  N   : A  65 VAL HG12 :   -0.400:        0
+
+:  1316: A 127 HIS  HB3 : A 128 PRO  HD2 :   -0.525:        0
+
+:  1316: A  27 ARG HH12 : A 129 GLU  CD  :   -0.494:        0
+:  1316: A 129 GLU  OE1 : A  27 ARG  NH1 :   -0.401:        0
+
+:  1316: A 125 ALA  N   : A 124 HIS  N   :   -0.455:        0
+
+:  1316: A  51 ALA  CB  : A   9 THR  HB  :   -0.448:        0
+
+:  1316: A   8 PHE  CD1 : A  68 SER  HB3 :   -0.441:        0
+:  1316: A  68 SER  HB2 : A 119 GLU  OE1 :   -0.400:        0
+
+:  1316: A 120 TRP  CZ2 : A 118 TRP  HB3 :   -0.439:        0
+:  1316: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+
+:  1316: A  78 ILE HD13 : A  78 ILE  HA  :   -0.406:        0
+#sum2 ::31.91 clashscore : 31.91 clashscore B<40 
+#summary::1316 atoms:1316 atoms B<40:159451 potential dots:9966.0 A^2:42 bumps:42 bumps B<40:207.1 score

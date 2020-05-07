@@ -1,0 +1,36 @@
+
+:   702: A  24 LYS  CD  : A  24 LYS  CB  :   -0.979:        0
+:   702: A  24 LYS  CB  : A  24 LYS  N   :   -0.844:        0
+:   702: A  24 LYS  CD  : A  24 LYS  NZ  :   -0.806:        0
+
+:   702: A  50 GLY  H   : A  46 HIS  HB3 :   -0.953:        0
+:   702: A  46 HIS  HE1 : A  48 LYS  HB2 :   -0.490:        0
+:   702: A  46 HIS  ND1 : A  49 LYS  N   :   -0.470:        0
+:   702: A  48 LYS  HB2 : A  46 HIS  CE1 :   -0.468:        0
+
+:   702: A  16 LYS  CB  : A  16 LYS  C   :   -0.942:        0
+
+:   702: A 139 ILE HD13 : A  54 TYR  CD2 :   -0.888:        0
+:   702: A  53 LYS  O   : A  54 TYR  HB2 :   -0.615:        0
+:   702: A  54 TYR  CD2 : A 139 ILE  CD1 :   -0.570:        0
+:   702: A 139 ILE HD13 : A 139 ILE  HA  :   -0.475:        0
+
+:   702: A 112 ALA  CA  : A 113 TYR  N   :   -0.852:        0
+
+:   702: A  34 PHE  N   : A  33 THR  CA  :   -0.833:        0
+:   702: A  34 PHE  N   : A  34 PHE  C   :   -0.784:        0
+
+:   702: A 111 VAL  C   : A 111 VAL  N   :   -0.822:        0
+
+:   702: A 103 LEU  O   : A 103 LEU  CA  :   -0.741:        0
+
+:   702: A 109 ALA  HB2 : A  41 THR HG22 :   -0.710:        0
+
+:   702: A  84 LYS  NZ  : A  85 TYR  CE2 :   -0.612:        0
+:   702: A  84 LYS  NZ  : A  85 TYR  CZ  :   -0.601:        0
+:   702: A  84 LYS  NZ  : A  85 TYR  OH  :   -0.506:        0
+
+:   702: A  45 LYS  HE2 : A  18 ILE HG23 :   -0.446:        0
+:   702: A  45 LYS  HE2 : A  18 ILE  CG2 :   -0.433:        0
+#sum2 ::32.76 clashscore : 32.76 clashscore B<40 
+#summary::702 atoms:702 atoms B<40:85589 potential dots:5349.0 A^2:23 bumps:23 bumps B<40:0.5997 score

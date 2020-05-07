@@ -1,0 +1,77 @@
+
+:  1432: A 100 PHE  CZ  : A  92 HIS  NE2 :   -1.599:        0
+:  1432: A  92 HIS  CE1 : A 100 PHE  CZ  :   -1.561:        0
+:  1432: A  92 HIS  CE1 : A 100 PHE  CE2 :   -1.243:        0
+:  1432: A  92 HIS  CD2 : A 100 PHE  CE1 :   -1.177:        0
+:  1432: A 100 PHE  CE1 : A  92 HIS  CE1 :   -1.135:        0
+:  1432: A  92 HIS  NE2 : A 100 PHE  CE1 :   -1.102:        0
+:  1432: A 100 PHE  CZ  : A  92 HIS  CD2 :   -0.898:        0
+:  1432: A 100 PHE  HZ  : A  92 HIS  NE2 :   -0.866:        0
+:  1432: A  92 HIS  HE1 : A 100 PHE  CE2 :   -0.853:        0
+:  1432: A  92 HIS  CG  : A 100 PHE  CE1 :   -0.836:        0
+:  1432: A 100 PHE  HE1 : A  92 HIS  CD2 :   -0.752:        0
+:  1432: A  92 HIS  ND1 : A 100 PHE  CE1 :   -0.662:        0
+:  1432: A 100 PHE  HD1 : A  91 THR  C   :   -0.620:        0
+:  1432: A  92 HIS  CE1 : A 100 PHE  CD2 :   -0.548:        0
+:  1432: A  92 HIS  CE1 : A 100 PHE  CD1 :   -0.462:        0
+:  1432: A  92 HIS  ND1 : A 100 PHE  CD1 :   -0.416:        0
+
+:  1432: A  39 PRO  N   : A  39 PRO  CD  :   -1.432:        0
+:  1432: A  39 PRO  CD  : A  38 TYR  C   :   -0.778:        0
+:  1432: A  36 ASN  HB2 : A  38 TYR  CE2 :   -0.421:        0
+
+:  1432: A  40 HIS  NE2 : A  58 GLU  CD  :   -1.065:        0
+:  1432: A  40 HIS  CE1 : A  58 GLU  CD  :   -1.000:        0
+:  1432: A  58 GLU  OE1 : A  40 HIS  NE2 :   -0.777:        0
+:  1432: A  40 HIS  HE2 : A  58 GLU  CD  :   -0.774:        0
+:  1432: A  40 HIS  NE2 : A  58 GLU  CG  :   -0.688:        0
+:  1432: A  58 GLU  OE2 : A  40 HIS  CE1 :   -0.672:        0
+:  1432: A  40 HIS  CE1 : A  58 GLU  CG  :   -0.607:        0
+:  1432: A  40 HIS  HD2 : A  41 LYS  O   :   -0.586:        0
+:  1432: A  58 GLU  HG2 : A  40 HIS  CD2 :   -0.585:        0
+:  1432: A  40 HIS  C   : A  40 HIS  CD2 :   -0.513:        0
+:  1432: A  58 GLU  OE2 : A  40 HIS  HE1 :   -0.490:        0
+:  1432: A  40 HIS  NE2 : A  58 GLU  HG2 :   -0.476:        0
+
+:  1432: A  99 ASN  HB2 : A  96 SER  O   :   -0.877:        0
+:  1432: A  96 SER  O   : A  99 ASN  CB  :   -0.517:        0
+
+:  1432: A  13 SER  N   : A   3 ASP  OD2 :   -0.866:        0
+:  1432: A  12 SER  HA  : A   3 ASP  OD2 :   -0.553:        0
+:  1432: A   3 ASP  OD2 : A  12 SER  CA  :   -0.507:        0
+
+:  1432: A  77 ARG  NH1 : A  73 PRO  HB2 :   -0.801:        0
+:  1432: A  73 PRO  HB2 : A  77 ARG  CZ  :   -0.770:        0
+:  1432: A  33 VAL HG21 : A  59 TRP  HH2 :   -0.643:        0
+:  1432: A  77 ARG  HD3 : A  60 PRO  HA  :   -0.619:        0
+:  1432: A  61 ILE  HB  : A  78 VAL HG13 :   -0.585:        0
+:  1432: A  73 PRO  CB  : A  77 ARG  NH1 :   -0.576:        0
+:  1432: A  77 ARG HH12 : A  73 PRO  HG2 :   -0.515:        0
+:  1432: A  59 TRP  CZ2 : A  68 TYR  HB3 :   -0.504:        0
+:  1432: A  73 PRO  CG  : A  77 ARG  NH1 :   -0.489:        0
+:  1432: A  33 VAL HG21 : A  59 TRP  CH2 :   -0.466:        0
+:  1432: A  33 VAL  CG2 : A  59 TRP  CH2 :   -0.453:        0
+:  1432: A  59 TRP  HH2 : A  33 VAL  CG2 :   -0.437:        0
+:  1432: A  60 PRO  HD3 : A  59 TRP  HA  :   -0.424:        0
+:  1432: A  78 VAL HG22 : A  59 TRP  O   :   -0.413:        0
+
+:  1432: A  56 TYR  CE2 : A  54 SER  HB3 :   -0.714:        0
+:  1432: A  52 VAL  O   : A  56 TYR  OH  :   -0.698:        0
+:  1432: A  55 PRO  HA  : A  54 SER  HB2 :   -0.696:        0
+:  1432: A  56 TYR  HE1 : A  52 VAL HG23 :   -0.508:        0
+:  1432: A  54 SER  HB2 : A  55 PRO  CA  :   -0.438:        0
+
+:  1432: A  24 TYR  CZ  : A  84 ASN  HB2 :   -0.526:        0
+
+:  1432: A  26 LEU HD13 : A  22 ALA  O   :   -0.475:        0
+
+:  1432: A 104 THR  OXT : A   4 TYR  HA  :   -0.447:        0
+:  1432: A 104 THR HG22 : A 104 THR  O   :   -0.435:        0
+
+:  1432: A  43 ASN  O   : A  44 ASN  CB  :   -0.425:        0
+
+:  1432: A  57 TYR  CZ  : A  27 HIS  CE1 :   -0.418:        0
+
+:  1432: A  81 ASN  OD1 : A  81 ASN  C   :   -0.414:        0
+#sum2 ::43.30 clashscore : 43.30 clashscore B<40 
+#summary::1432 atoms:1432 atoms B<40:164069 potential dots:10250.0 A^2:62 bumps:62 bumps B<40:202.8 score

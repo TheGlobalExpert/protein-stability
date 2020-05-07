@@ -1,0 +1,50 @@
+
+:  1593: A 275 LEU  CD2 : A 275 LEU  CB  :   -1.086:       37
+
+:  1593: A  43 LEU  CD1 : A  60 ILE HD11 :   -1.064:       32
+:  1593: A  43 LEU HD13 : A  60 ILE  CD1 :   -0.726:       32
+:  1593: A  43 LEU  CD1 : A  60 ILE  CD1 :   -0.705:       32
+:  1593: A  60 ILE HD11 : A  43 LEU HD13 :   -0.700:       32
+:  1593: A  60 ILE HD11 : A  43 LEU HD12 :   -0.459:       32
+:  1593: A  43 LEU HD12 : A  43 LEU  C   :   -0.454:       23
+
+:  1593: A 266 ILE  CG1 : A 266 ILE  CA  :   -0.946:       24
+
+:  1593: A  26 LYS  HE3 : A  26 LYS  C   :   -0.945:       51
+:  1593: A  26 LYS  O   : A  26 LYS  HE3 :   -0.901:       52
+:  1593: A  26 LYS  CE  : A  26 LYS  O   :   -0.691:       52
+:  1593: A  26 LYS  C   : A  26 LYS  CE  :   -0.460:       51
+
+:  1593: A 105 ALA  CB  : A 105 ALA  C   :   -0.933:       19
+
+:  1593: A 316 ARG  CB  : A 316 ARG  C   :   -0.882:       18
+
+:  1593: A 227 ASN  C   : A 227 ASN  CB  :   -0.803:       13
+
+:  1593: A 305 LYS  N   : A 305 LYS  C   :   -0.743:       21
+
+:  1593: A 309 GLU  N   : A 309 GLU  C   :   -0.676:       30
+
+:  1593: A 287 ASP  OD1 : A 306 SER  OG  :   -0.636:       33
+:  1593: A 291 GLU  HB2 : A 287 ASP  O   :   -0.413:       29
+
+:  1593: A  57 PRO  HG3 : A  10 TRP  CD2 :   -0.610:       27
+:  1593: A  10 TRP  CG  : A  57 PRO  HG3 :   -0.467:       27
+
+:  1593: A  33 ILE  O   : A  28 GLU  HB2 :   -0.609:       54
+:  1593: A  34 LYS  HA  : A  28 GLU  OE1 :   -0.402:       64
+:  1593: A   7 LEU  HG  : A  33 ILE HD11 :   -0.400:       58
+
+:  1593: A 288 GLU  CD  : A 288 GLU  H   :   -0.548:       51
+
+:  1593: A 263 SER  O   : A  61 PHE  HA  :   -0.478:       15
+
+:  1593: A 238 SER  OG  : A 238 SER  N   :   -0.471:       38
+
+:  1593: A 232 TRP  CE2 : A 229 PRO  HA  :   -0.451:       15
+
+:  1593: A 233 SER  O   : A 237 THR HG23 :   -0.444:       26
+
+:  1593: A  39 HIS  HA  : A  11 ILE  O   :   -0.402:       26
+#sum2 ::18.83 clashscore : 16.38 clashscore B<40 
+#summary::1593 atoms:1343 atoms B<40:192331 potential dots:12020.0 A^2:30 bumps:22 bumps B<40:390.3 score

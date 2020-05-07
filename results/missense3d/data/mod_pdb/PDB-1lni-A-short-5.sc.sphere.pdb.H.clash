@@ -1,0 +1,39 @@
+
+:   937: A  55 TYR  CD1 : A  55 TYR  CZ  :   -1.001:        0
+
+:   937: A  23 ALA  CB  : A  23 ALA  N   :   -0.847:        0
+
+:   937: A  92 ILE HD11 : A  81 TYR  HB2 :   -0.771:        0
+
+:   937: A  74 GLU  CG  : A  74 GLU  OE1 :   -0.768:        0
+:   937: A  51 TYR  CE1 : A  74 GLU  HB2 :   -0.429:        0
+
+:   937: A  37 PHE  CA  : A  37 PHE  O   :   -0.758:        0
+
+:   937: A  80 TYR  CE2 : A  91 LEU  HG  :   -0.707:        0
+:   937: A  80 TYR  CE2 : A  91 LEU  CD2 :   -0.624:        0
+:   937: A  80 TYR  CZ  : A  91 LEU HD21 :   -0.617:        0
+:   937: A  80 TYR  CE2 : A  91 LEU  CG  :   -0.527:        0
+:   937: A  91 LEU  HG  : A  80 TYR  HE2 :   -0.450:        0
+:   937: A  80 TYR  CE2 : A  91 LEU HD21 :   -0.436:        0
+
+:   937: A  69 ARG  NE  : A  86 TYR  OH  :   -0.653:        0
+:   937: A  86 TYR  CE1 : A  69 ARG  HG3 :   -0.527:        0
+:   937: A  69 ARG  HG2 : A  68 ARG  C   :   -0.487:        0
+:   937: A  82 THR  HB  : A  89 PHE  CD2 :   -0.481:        0
+:   937: A  86 TYR  HA  : A  89 PHE  CZ  :   -0.432:        0
+:   937: A  69 ARG  HG3 : A  86 TYR  CZ  :   -0.416:        0
+
+:   937: A  71 ILE HD12 : A  70 ILE  C   :   -0.583:        0
+:   937: A  71 ILE  CD1 : A  71 ILE  N   :   -0.525:        0
+:   937: A  70 ILE HD12 : A  18 THR  HB  :   -0.449:        0
+:   937: A  57 VAL  CG2 : A  70 ILE HG13 :   -0.418:        0
+
+:   937: A  72 THR  O   : A  52 TYR  HA  :   -0.491:        0
+:   937: A  72 THR HG22 : A  79 ASP  OD2 :   -0.422:        0
+
+:   937: A  84 ASP  CG  : A  87 ALA  HB3 :   -0.462:        0
+
+:   937: A  76 THR  C   : A  77 GLN  HG2 :   -0.424:        0
+#sum2 ::27.75 clashscore : 27.75 clashscore B<40 
+#summary::937 atoms:937 atoms B<40:112256 potential dots:7016.0 A^2:26 bumps:26 bumps B<40:227.4 score

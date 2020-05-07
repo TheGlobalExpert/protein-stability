@@ -1,0 +1,14 @@
+
+:   855: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   855: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   855: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   855: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   855: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+
+:   855: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+#sum2 ::7.02 clashscore : 6.31 clashscore B<40 
+#summary::855 atoms:634 atoms B<40:97690 potential dots:6106.0 A^2:6 bumps:4 bumps B<40:256.2 score

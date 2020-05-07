@@ -1,0 +1,20 @@
+
+:  2158: A 123 TRP  CE2 : A 123 TRP  CH2 :   -1.082:       15
+
+:  2158: A  16 PHE  CG  : A  16 PHE  CA  :   -0.952:        8
+
+:  2158: A 166 LYS  CB  : A 166 LYS  CD  :   -0.926:       19
+
+:  2158: A 277 GLU  CA  : A 277 GLU  CG  :   -0.924:       25
+
+:  2158: A  40 MET  C   : A  40 MET  CB  :   -0.869:        8
+
+:  2158: A 191 ASP  N   : A 191 ASP  CB  :   -0.856:       11
+
+:  2158: A 257 VAL  CA  : A 257 VAL  O   :   -0.725:        8
+
+:  2158: A 142 ASN  C   : A 142 ASN  N   :   -0.710:        8
+
+:  2158: A 229 GLY  C   : A 229 GLY  N   :   -0.696:       10
+#sum2 ::4.17 clashscore : 4.18 clashscore B<40 
+#summary::2158 atoms:2154 atoms B<40:264461 potential dots:16530.0 A^2:9 bumps:9 bumps B<40:768.2 score

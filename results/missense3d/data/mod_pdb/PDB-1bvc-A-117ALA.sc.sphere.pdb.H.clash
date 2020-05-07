@@ -1,0 +1,23 @@
+
+:  1077: A   8 GLN  CA  : A   7 TRP  C   :   -0.976:        0
+:  1077: A   8 GLN  CA  : A   7 TRP  O   :   -0.457:        0
+
+:  1077: A  61 LEU  C   : A  61 LEU  CB  :   -0.875:        0
+
+:  1077: A  14 TRP  HH2 : A  72 LEU HD23 :   -0.756:        0
+:  1077: A  73 GLY  CA  : A  14 TRP  NE1 :   -0.619:        0
+:  1077: A  14 TRP  HH2 : A  72 LEU  CD2 :   -0.603:        0
+:  1077: A  73 GLY  CA  : A  14 TRP  HE1 :   -0.560:        0
+:  1077: A  76 LEU  CD1 : A  14 TRP  CZ3 :   -0.487:        0
+:  1077: A  76 LEU  CD1 : A  14 TRP  CE3 :   -0.477:        0
+:  1077: A  72 LEU  HG  : A  14 TRP  CH2 :   -0.447:        0
+:  1077: A  76 LEU HD12 : A  14 TRP  CD2 :   -0.426:        0
+
+:  1077: A  27 ASP  OD2 : A 118 ARG  NH1 :   -0.674:        0
+:  1077: A 118 ARG HH11 : A  27 ASP  CG  :   -0.445:        0
+
+:  1077: A  10 VAL HG13 : A 131 MET  CE  :   -0.500:        0
+
+:  1077: A 128 GLN  HA  : A 123 PHE  CZ  :   -0.485:        0
+#sum2 ::13.93 clashscore : 13.93 clashscore B<40 
+#summary::1077 atoms:1077 atoms B<40:128972 potential dots:8061.0 A^2:15 bumps:15 bumps B<40:371 score

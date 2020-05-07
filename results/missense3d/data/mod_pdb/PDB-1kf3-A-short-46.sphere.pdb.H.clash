@@ -1,0 +1,18 @@
+
+:  1515: A  60 GLN  CA  : A  61 LYS  N   :   -0.834:       16
+
+:  1515: A  38 ASP  CB  : A  38 ASP  OD2 :   -0.797:       39
+
+:  1515: A 111 GLU  O   : A 111 GLU  CA  :   -0.763:       17
+
+:  1515: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.506:       28
+:  1515: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.494:       28
+
+:  1515: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.485:       16
+
+:  1515: A  43 VAL HG12 : A  85 ARG  HG3 :   -0.464:       48
+:  1515: A  85 ARG  NH2 : A  83 ASP  OD1 :   -0.457:      143
+
+:  1515: A  25 TYR  CZ  : A  29 MET  HG3 :   -0.406:       16
+#sum2 ::5.94 clashscore : 4.88 clashscore B<40 
+#summary::1515 atoms:1433 atoms B<40:177807 potential dots:11110.0 A^2:9 bumps:7 bumps B<40:530 score

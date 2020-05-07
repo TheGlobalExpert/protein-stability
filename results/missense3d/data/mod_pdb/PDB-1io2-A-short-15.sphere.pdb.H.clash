@@ -1,0 +1,54 @@
+
+:  1519: A 199 LYS  HD3 : A 199 LYS  H   :   -1.087:       30
+:  1519: A 199 LYS  CD  : A 199 LYS  H   :   -0.886:       30
+:  1519: A 199 LYS  N   : A 199 LYS  HD3 :   -0.827:       30
+
+:  1519: A 209 GLU  CG  : A 209 GLU  OE2 :   -0.764:       39
+
+:  1519: A  82 GLU  N   : A  82 GLU  C   :   -0.753:       17
+
+:  1519: A 107 ALA  CA  : A 107 ALA  O   :   -0.748:       27
+
+:  1519: A  84 GLU  OE1 : A  11 ARG  HD3 :   -0.728:       17
+:  1519: A  12 GLY  N   : A  13 PRO  CD  :   -0.467:       14
+:  1519: A  11 ARG  C   : A  13 PRO  HD2 :   -0.416:       14
+
+:  1519: A 191 PRO  HD3 : A 183 TYR  CD2 :   -0.694:       31
+:  1519: A 191 PRO  O   : A 194 VAL HG22 :   -0.499:       25
+
+:  1519: A 185 ARG  NH1 : A 182 ASN  HA  :   -0.644:       33
+:  1519: A 182 ASN  HA  : A 185 ARG HH12 :   -0.519:       33
+
+:  1519: A 175 ARG  HG3 : A 175 ARG  NH1 :   -0.613:       29
+:  1519: A 175 ARG HH11 : A 175 ARG  HG3 :   -0.603:       29
+:  1519: A 175 ARG  CG  : A 175 ARG HH11 :   -0.464:       29
+
+:  1519: A 211 GLU  OE1 : A 211 GLU  OE2 :   -0.594:       41
+
+:  1519: A 181 GLU  HG3 : A 177 ARG  O   :   -0.563:       30
+:  1519: A 181 GLU  HG2 : A 204 ILE HG23 :   -0.426:       33
+
+:  1519: A 153 ASP  OD2 : A 149 LYS  HE3 :   -0.546:       17
+
+:  1519: A  83 PHE  CZ  : A  68 LEU HD13 :   -0.501:       15
+
+:  1519: A 171 PRO  HB3 : A 200 THR HG21 :   -0.496:       30
+
+:  1519: A 206 GLU  HG3 : A 202 LYS  O   :   -0.492:       36
+
+:  1519: A  14 VAL HG13 : A  15 ILE HG13 :   -0.482:       14
+
+:  1519: A 151 THR  HB  : A  19 VAL HG11 :   -0.480:       13
+
+:  1519: A 157 GLU  O   : A 161 GLU  HG3 :   -0.478:       27
+
+:  1519: A  76 ARG  HD2 : A  78 GLY  O   :   -0.475:       21
+
+:  1519: A  69 PRO  HG2 : A  72 VAL HG23 :   -0.457:       18
+
+:  1519: A 174 PRO  HD3 : A 173 ASP  HA  :   -0.439:       25
+:  1519: A 173 ASP  OD2 : A 173 ASP  C   :   -0.402:       25
+
+:  1519: A 166 ILE HG12 : A 160 LYS  HG2 :   -0.431:       25
+#sum2 ::20.41 clashscore : 19.78 clashscore B<40 
+#summary::1519 atoms:1517 atoms B<40:177025 potential dots:11060.0 A^2:31 bumps:30 bumps B<40:481.4 score

@@ -1,0 +1,8 @@
+
+:   762: A   4 ALA  C   : A   5 ALA  CA  :   -0.978:       15
+:   762: A   4 ALA  C   : A   4 ALA  CB  :   -0.874:       20
+:   762: A   5 ALA  CA  : A   4 ALA  O   :   -0.428:       15
+
+:   762: A 114 PRO  CA  : A 113 ASN  CA  :   -0.473:       27
+#sum2 ::5.25 clashscore : 5.44 clashscore B<40 
+#summary::762 atoms:735 atoms B<40:92924 potential dots:5808.0 A^2:4 bumps:4 bumps B<40:257 score

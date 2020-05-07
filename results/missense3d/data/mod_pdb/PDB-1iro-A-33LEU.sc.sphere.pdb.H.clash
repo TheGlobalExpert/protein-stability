@@ -1,0 +1,32 @@
+
+:   782: A  24 VAL  CG1 : A  33 LEU  CD2 :   -1.130:        0
+:   782: A  33 LEU  CD2 : A  24 VAL HG11 :   -0.976:        0
+:   782: A  24 VAL  CG1 : A  33 LEU HD21 :   -0.957:        0
+:   782: A  24 VAL HG11 : A  33 LEU HD21 :   -0.953:        0
+:   782: A  24 VAL HG13 : A  33 LEU  CD2 :   -0.914:        0
+:   782: A  13 TYR  CZ  : A  33 LEU HD11 :   -0.858:        0
+:   782: A  33 LEU HD21 : A  13 TYR  OH  :   -0.751:        0
+:   782: A  24 VAL  CG1 : A  33 LEU HD22 :   -0.639:        0
+:   782: A  24 VAL HG13 : A  33 LEU HD23 :   -0.594:        0
+:   782: A  13 TYR  CE2 : A  33 LEU HD11 :   -0.530:        0
+:   782: A  24 VAL  CG2 : A  33 LEU HD22 :   -0.527:        0
+:   782: A  24 VAL HG11 : A  33 LEU HD22 :   -0.501:        0
+:   782: A  28 THR HG21 : A  33 LEU HD23 :   -0.481:        0
+:   782: A  33 LEU HD11 : A  13 TYR  CE1 :   -0.433:        0
+
+:   782: A  37 TRP  CZ2 : A  40 PRO  HD3 :   -0.945:        0
+:   782: A  37 TRP  CH2 : A  40 PRO  HD3 :   -0.700:        0
+:   782: A  37 TRP  CH2 : A  39 CYS  HA  :   -0.418:        0
+
+:   782: A  11 TYR  HB2 : A  41 LEU HD12 :   -0.866:        0
+:   782: A  11 TYR  HB2 : A  41 LEU  CD1 :   -0.431:        0
+
+:   782: A  51 GLU  OE2 : A   2 LYS  HG3 :   -0.838:        0
+
+:   782: A  44 VAL HG22 : A  42 CYS  SG  :   -0.653:        0
+
+:   782: A  48 GLN  O   : A   7 THR HG23 :   -0.444:        0
+
+:   782: A  15 PRO  HD2 : A  14 ASN  HA  :   -0.407:        0
+#sum2 ::29.41 clashscore : 29.41 clashscore B<40 
+#summary::782 atoms:782 atoms B<40:89116 potential dots:5570.0 A^2:23 bumps:23 bumps B<40:165 score

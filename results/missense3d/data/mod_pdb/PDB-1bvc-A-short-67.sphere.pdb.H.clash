@@ -1,0 +1,14 @@
+
+:  1614: A  80 GLY  N   : A  79 LYS  CA  :   -0.886:        8
+
+:  1614: A  35 SER  CB  : A  35 SER  N   :   -0.848:        7
+:  1614: A  35 SER  N   : A  34 LYS  CA  :   -0.824:        8
+
+:  1614: A  52 GLU  CG  : A  52 GLU  OE2 :   -0.793:       24
+:  1614: A  52 GLU  CG  : A  52 GLU  C   :   -0.512:       20
+
+:  1614: A  12 HIS  C   : A  12 HIS  N   :   -0.741:        9
+
+:  1614: A 102 LYS  C   : A 102 LYS  N   :   -0.685:        5
+#sum2 ::4.34 clashscore : 4.34 clashscore B<40 
+#summary::1614 atoms:1614 atoms B<40:194174 potential dots:12140.0 A^2:7 bumps:7 bumps B<40:641.4 score

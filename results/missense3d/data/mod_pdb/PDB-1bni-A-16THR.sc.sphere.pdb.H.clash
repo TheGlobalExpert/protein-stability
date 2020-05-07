@@ -1,0 +1,62 @@
+
+:   789: A  25 ILE  CA  : A  25 ILE  CG2 :   -0.980:        0
+
+:   789: A  94 TRP  CH2 : A  18 HIS  CA  :   -0.926:        0
+:   789: A  94 TRP  HH2 : A  18 HIS  O   :   -0.925:        0
+:   789: A  94 TRP  CH2 : A  18 HIS  HA  :   -0.882:        0
+:   789: A  94 TRP  HH2 : A  18 HIS  C   :   -0.866:        0
+:   789: A  94 TRP  CZ2 : A  18 HIS  HB3 :   -0.819:        0
+:   789: A  94 TRP  CH2 : A  18 HIS  C   :   -0.774:        0
+:   789: A  18 HIS  CB  : A  94 TRP  CZ2 :   -0.736:        0
+:   789: A  18 HIS  HA  : A  14 LEU  O   :   -0.724:        0
+:   789: A  18 HIS  HB3 : A  94 TRP  HZ2 :   -0.662:        0
+:   789: A  14 LEU  O   : A  18 HIS  CA  :   -0.562:        0
+:   789: A  18 HIS  O   : A  94 TRP  CH2 :   -0.532:        0
+:   789: A  18 HIS  CB  : A  94 TRP  CH2 :   -0.523:        0
+:   789: A  18 HIS  HA  : A  94 TRP  CZ3 :   -0.512:        0
+:   789: A  18 HIS  HB2 : A  17 TYR  O   :   -0.507:        0
+:   789: A  14 LEU  O   : A  18 HIS  N   :   -0.426:        0
+:   789: A  18 HIS  CA  : A  94 TRP  CZ2 :   -0.416:        0
+:   789: A  94 TRP  CZ2 : A  18 HIS  CG  :   -0.407:        0
+:   789: A  94 TRP  HZ3 : A  14 LEU HD22 :   -0.407:        0
+
+:   789: A  96 ILE  CG2 : A 109 ILE HD11 :   -0.869:        0
+:   789: A 109 ILE HD11 : A  96 ILE HG22 :   -0.724:        0
+:   789: A 110 ARG  NH2 : A 109 ILE  O   :   -0.678:        0
+:   789: A  96 ILE  HB  : A 110 ARG  HB2 :   -0.629:        0
+:   789: A  96 ILE HG22 : A 109 ILE  CD1 :   -0.614:        0
+:   789: A  98 LYS  HB2 : A   7 PHE  CE1 :   -0.559:        0
+:   789: A 109 ILE  CG1 : A  96 ILE HG22 :   -0.555:        0
+:   789: A 109 ILE  CG2 : A  98 LYS  HG2 :   -0.529:        0
+:   789: A  15 GLN HE21 : A 110 ARG  HB3 :   -0.522:        0
+:   789: A 110 ARG  HB3 : A  15 GLN  NE2 :   -0.516:        0
+:   789: A  96 ILE HG21 : A 109 ILE HD11 :   -0.516:        0
+:   789: A 110 ARG HH21 : A 109 ILE  C   :   -0.490:        0
+:   789: A  11 ALA  HB1 : A 110 ARG  HG3 :   -0.457:        0
+:   789: A  96 ILE HG21 : A  88 ILE HD11 :   -0.433:        0
+:   789: A  96 ILE  CG2 : A 109 ILE  CD1 :   -0.431:        0
+:   789: A  88 ILE HD11 : A 109 ILE HD11 :   -0.403:        0
+
+:   789: A  77 ASN  CG  : A  77 ASN  CA  :   -0.866:        0
+
+:   789: A  23 ASN  OD1 : A  21 PRO  HB2 :   -0.806:        0
+:   789: A  74 ALA  HB1 : A  24 TYR  CE1 :   -0.675:        0
+:   789: A  24 TYR  CE2 : A  21 PRO  HD2 :   -0.540:        0
+:   789: A  21 PRO  HB3 : A   4 ILE HD12 :   -0.509:        0
+:   789: A  24 TYR  CD2 : A  21 PRO  HD2 :   -0.488:        0
+:   789: A  24 TYR  HA  : A  50 SER  O   :   -0.470:        0
+:   789: A  21 PRO  HD3 : A  20 LEU  HA  :   -0.464:        0
+:   789: A  52 GLY  HA2 : A  74 ALA  HA  :   -0.450:        0
+:   789: A   6 THR  O   : A  10 VAL HG23 :   -0.438:        0
+:   789: A  10 VAL HG21 : A  24 TYR  OH  :   -0.406:        0
+
+:   789: A  90 TYR  HA  : A  95 LEU  O   :   -0.631:        0
+
+:   789: A  13 TYR  HD1 : A  19 LYS  O   :   -0.589:        0
+:   789: A  19 LYS  O   : A  13 TYR  CD1 :   -0.427:        0
+
+:   789: A  93 ASP  OD1 : A  93 ASP  N   :   -0.587:        0
+
+:   789: A  71 TRP  CZ3 : A  91 SER  HB3 :   -0.488:        0
+#sum2 ::64.64 clashscore : 64.64 clashscore B<40 
+#summary::789 atoms:789 atoms B<40:95325 potential dots:5958.0 A^2:51 bumps:51 bumps B<40:32.11 score

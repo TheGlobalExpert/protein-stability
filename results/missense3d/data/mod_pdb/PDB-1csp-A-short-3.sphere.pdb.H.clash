@@ -1,0 +1,22 @@
+
+:   806: A  38 PHE  O   : A  39 LYS  N   :   -0.741:       31
+:   806: A  39 LYS  CA  : A  38 PHE  O   :   -0.481:       31
+
+:   806: A  22 GLY  O   : A  23 GLN  HG2 :   -0.661:       60
+:   806: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+
+:   806: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   806: A  29 HIS  ND1 : A  31 SER  OG  :   -0.471:       16
+
+:   806: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   806: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   806: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   806: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+
+:   806: A  36 GLU  O   : A  36 GLU  N   :   -0.412:       50
+#sum2 ::13.65 clashscore : 10.94 clashscore B<40 
+#summary::806 atoms:640 atoms B<40:93760 potential dots:5860.0 A^2:11 bumps:7 bumps B<40:218.5 score

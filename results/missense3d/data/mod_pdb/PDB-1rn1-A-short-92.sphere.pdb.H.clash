@@ -1,0 +1,19 @@
+
+:  1019: A  96 SER  O   : A  99 ASN  HB2 :   -0.903:       39
+:  1019: A  96 SER  O   : A  99 ASN  CB  :   -0.465:       39
+
+:  1019: A  13 SER  O   : A  13 SER  CA  :   -0.776:       21
+
+:  1019: A  86 LEU  N   : A  85 GLN  O   :   -0.775:       14
+:  1019: A  86 LEU  CA  : A  85 GLN  O   :   -0.469:       15
+
+:  1019: A  92 HIS  CE1 : A 100 PHE  CZ  :   -0.534:       23
+:  1019: A  92 HIS  CE1 : A 100 PHE  CE1 :   -0.464:       23
+
+:  1019: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:  1019: A  79 VAL  CG1 : A  56 TYR  HB3 :   -0.434:       15
+
+:  1019: A  44 ASN  HA  : A  42 TYR  CZ  :   -0.429:       29
+#sum2 ::9.81 clashscore : 10.01 clashscore B<40 
+#summary::1019 atoms:999 atoms B<40:123211 potential dots:7701.0 A^2:10 bumps:10 bumps B<40:357.4 score

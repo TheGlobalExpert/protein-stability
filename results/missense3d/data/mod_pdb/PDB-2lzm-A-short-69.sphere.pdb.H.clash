@@ -1,0 +1,21 @@
+
+:  1326: A  85 LYS  CG  : A  85 LYS  CE  :   -1.017:       46
+
+:  1326: A   1 MET  CA  : A   1 MET  CG  :   -0.999:       30
+:  1326: A   1 MET  CG  : A   1 MET  C   :   -0.407:       30
+
+:  1326: A  96 ARG  NH1 : A  96 ARG  NE  :   -0.821:       32
+:  1326: A  96 ARG  NH1 : A  96 ARG  CD  :   -0.543:       32
+
+:  1326: A  44 SER  CA  : A  44 SER  OG  :   -0.697:       46
+
+:  1326: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.571:       48
+:  1326: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:  1326: A  50 ILE  CG2 : A  52 ARG  HG2 :   -0.496:       48
+:  1326: A  52 ARG  HG3 : A  52 ARG  NH1 :   -0.473:       48
+
+:  1326: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1326: A 106 MET  HE3 : A 106 MET  HB3 :   -0.427:       33
+#sum2 ::9.05 clashscore : 4.94 clashscore B<40 
+#summary::1326 atoms:1215 atoms B<40:158294 potential dots:9893.0 A^2:12 bumps:6 bumps B<40:478.9 score

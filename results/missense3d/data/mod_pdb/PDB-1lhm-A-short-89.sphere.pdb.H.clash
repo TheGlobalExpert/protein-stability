@@ -1,0 +1,19 @@
+
+:  1430: A  63 TYR  CB  : A  63 TYR  CD2 :   -1.000:       26
+
+:  1430: A 111 ALA  C   : A 111 ALA  CB  :   -0.915:       16
+
+:  1430: A  13 LYS  HE2 : A 130 VAL  OXT :   -0.564:       26
+
+:  1430: A  64 TRP  O   : A  77 ALA  HB3 :   -0.498:       24
+:  1430: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.479:       24
+:  1430: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.429:       15
+:  1430: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.400:       17
+
+:  1430: A  53 ASP  HB3 : A  58 GLN  HB3 :   -0.461:       12
+
+:  1430: A  33 LYS  HG2 : A 124 TYR  HE1 :   -0.438:       20
+
+:  1430: A  97 LYS  O   : A 101 ARG  HG3 :   -0.416:       16
+#sum2 ::6.99 clashscore : 7.03 clashscore B<40 
+#summary::1430 atoms:1423 atoms B<40:168171 potential dots:10510.0 A^2:10 bumps:10 bumps B<40:555.8 score

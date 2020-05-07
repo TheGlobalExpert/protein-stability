@@ -1,0 +1,35 @@
+
+:   909: A  92 ASN  CA  : A  92 ASN  CG  :   -0.887:       16
+
+:   909: A  35 ILE  C   : A  35 ILE  CB  :   -0.870:       17
+:   909: A  35 ILE  C   : A  35 ILE  CG1 :   -0.400:       20
+
+:   909: A  28 VAL  C   : A  28 VAL  CB  :   -0.833:        8
+:   909: A  28 VAL  CG1 : A  28 VAL  C   :   -0.509:        8
+
+:   909: A  30 PRO  CA  : A  30 PRO  O   :   -0.817:        6
+
+:   909: A  57 VAL  CG2 : A  55 LYS  HG3 :   -0.748:       28
+:   909: A  55 LYS  HG3 : A  57 VAL HG23 :   -0.724:       28
+:   909: A  57 VAL  O   : A  39 HIS  HA  :   -0.576:       25
+:   909: A  55 LYS  CG  : A  57 VAL  CG2 :   -0.555:       28
+:   909: A  55 LYS  CE  : A  57 VAL HG22 :   -0.483:       28
+:   909: A  57 VAL  CG1 : A  63 ASN  OD1 :   -0.446:       30
+:   909: A  57 VAL HG23 : A  55 LYS  CG  :   -0.426:       28
+
+:   909: A  85 LEU HD22 : A  90 ASP  HB3 :   -0.535:       22
+
+:   909: A  86 LYS  HD3 : A  86 LYS  N   :   -0.511:       30
+:   909: A  69 THR  O   : A  86 LYS  NZ  :   -0.426:       34
+
+:   909: A  78 THR HG22 : A  75 ILE  O   :   -0.508:       16
+
+:   909: A  62 ASN  N   : A  60 ASP  OD1 :   -0.500:       31
+:   909: A  60 ASP  OD1 : A  60 ASP  C   :   -0.475:       31
+:   909: A  62 ASN  HB2 : A  60 ASP  OD1 :   -0.441:       31
+
+:   909: A  68 LEU HD13 : A  94 LEU HD23 :   -0.450:       13
+
+:   909: A  64 MET  O   : A  64 MET  HG3 :   -0.437:       20
+#sum2 ::24.20 clashscore : 24.89 clashscore B<40 
+#summary::909 atoms:884 atoms B<40:111256 potential dots:6954.0 A^2:22 bumps:22 bumps B<40:182 score

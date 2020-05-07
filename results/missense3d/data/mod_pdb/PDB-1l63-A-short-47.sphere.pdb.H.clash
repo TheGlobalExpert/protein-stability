@@ -1,0 +1,14 @@
+
+:   882: A 104 PHE  CD1 : A 104 PHE  CD2 :   -1.020:       16
+
+:   882: A  24 TYR  CE1 : A  24 TYR  CE2 :   -0.995:       52
+
+:   882: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:   882: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:   882: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:   882: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:   882: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:   882: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::9.07 clashscore : 2.63 clashscore B<40 
+#summary::882 atoms:761 atoms B<40:101180 potential dots:6324.0 A^2:8 bumps:2 bumps B<40:298 score

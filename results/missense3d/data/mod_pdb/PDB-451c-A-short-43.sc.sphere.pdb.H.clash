@@ -1,0 +1,36 @@
+
+:   977: A   7 PHE  CD1 : A   7 PHE  CZ  :   -0.997:        0
+
+:   977: A  18 ILE  CD1 : A  18 ILE  C   :   -0.988:        0
+:   977: A  18 ILE  CB  : A  18 ILE  CD1 :   -0.950:        0
+:   977: A  18 ILE  O   : A  18 ILE  CD1 :   -0.883:        0
+:   977: A  28 LYS  HB3 : A  18 ILE  CD1 :   -0.562:        0
+:   977: A  18 ILE  CD1 : A  18 ILE  CA  :   -0.550:        0
+
+:   977: A  32 ALA  HA  : A  82 LYS  HE2 :   -0.972:        0
+:   977: A  82 LYS  HE2 : A  32 ALA  CA  :   -0.814:        0
+:   977: A  32 ALA  HA  : A  82 LYS  CE  :   -0.743:        0
+:   977: A  82 LYS  HB2 : A  31 ALA  CB  :   -0.450:        0
+
+:   977: A   1 GLU  CD  : A   1 GLU  CB  :   -0.855:        0
+
+:   977: A  17 ALA  N   : A  17 ALA  C   :   -0.760:        0
+
+:   977: A  56 TRP  CZ2 : A  33 LYS  HE2 :   -0.750:        0
+:   977: A  56 TRP  CZ2 : A  33 LYS  CE  :   -0.496:        0
+:   977: A  33 LYS  HE2 : A  56 TRP  CH2 :   -0.442:        0
+
+:   977: A  11 GLY  C   : A  11 GLY  N   :   -0.642:        0
+
+:   977: A  39 GLY  O   : A  43 GLU  HG3 :   -0.583:        0
+
+:   977: A  47 ARG HH22 : A  34 PHE  HZ  :   -0.534:        0
+
+:   977: A  25 PRO  HD2 : A  16 HIS  HE1 :   -0.517:        0
+:   977: A  24 GLY  HA3 : A  16 HIS  CE1 :   -0.471:        0
+
+:   977: A  69 ASP  OD1 : A  67 SER  OG  :   -0.461:        0
+
+:   977: A  44 LEU HD23 : A  44 LEU  HA  :   -0.408:        0
+#sum2 ::22.52 clashscore : 22.52 clashscore B<40 
+#summary::977 atoms:977 atoms B<40:114940 potential dots:7184.0 A^2:22 bumps:22 bumps B<40:204.1 score

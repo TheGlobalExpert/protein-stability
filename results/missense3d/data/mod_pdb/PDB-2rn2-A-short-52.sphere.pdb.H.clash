@@ -1,0 +1,33 @@
+
+:  1976: A 151 TYR  CD1 : A 151 TYR  CZ  :   -1.042:       21
+
+:  1976: A  14 LEU  CA  : A  14 LEU  CG  :   -0.923:       24
+:  1976: A  15 GLY  N   : A  14 LEU  CA  :   -0.823:       24
+
+:  1976: A  31 ARG  NH1 : A  31 ARG  NE  :   -0.764:       38
+:  1976: A  31 ARG  CD  : A  31 ARG  NH1 :   -0.472:       37
+
+:  1976: A 143 ASN  C   : A 143 ASN  N   :   -0.762:       25
+:  1976: A 143 ASN  N   : A 142 MET  N   :   -0.429:       25
+
+:  1976: A  18 GLY  C   : A  18 GLY  N   :   -0.749:       20
+
+:  1976: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:  1976: A 128 PRO  HD2 : A 127 HIS  HB3 :   -0.619:       29
+
+:  1976: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.502:       19
+
+:  1976: A  44 ASN  OD1 : A  48 GLU  OE2 :   -0.432:       28
+:  1976: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:  1976: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+:  1976: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.413:       12
+
+:  1976: A  60 LYS  HA  : A  60 LYS  HD2 :   -0.428:       35
+
+:  1976: A  47 MET  HA  : A  47 MET  CE  :   -0.412:       12
+
+:  1976: A  85 TRP  N   : A  84 ASN  N   :   -0.407:       27
+#sum2 ::9.11 clashscore : 9.16 clashscore B<40 
+#summary::1976 atoms:1966 atoms B<40:232258 potential dots:14520.0 A^2:18 bumps:18 bumps B<40:677.5 score

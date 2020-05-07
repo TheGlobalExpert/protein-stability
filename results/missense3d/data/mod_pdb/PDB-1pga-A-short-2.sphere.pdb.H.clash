@@ -1,0 +1,19 @@
+
+:   651: A  12 LEU  CD1 : A  12 LEU  CD2 :   -0.936:        9
+
+:   651: A  36 ASP  CB  : A  36 ASP  OD2 :   -0.770:       19
+
+:   651: A  28 LYS  HE3 : A  28 LYS  N   :   -0.595:       19
+:   651: A  24 ALA  O   : A  28 LYS  NZ  :   -0.426:       17
+
+:   651: A   4 LYS  HD2 : A  15 GLU  CG  :   -0.532:       26
+:   651: A  17 THR  HA  : A   3 TYR  O   :   -0.427:       13
+:   651: A  17 THR  HA  : A   4 LYS  HA  :   -0.425:       13
+
+:   651: A  52 PHE  HE2 : A  27 GLU  HG3 :   -0.495:       21
+
+:   651: A  43 TRP  HA  : A  53 THR  O   :   -0.415:        8
+
+:   651: A   6 ILE HD13 : A   6 ILE HG21 :   -0.405:       11
+#sum2 ::15.36 clashscore : 15.36 clashscore B<40 
+#summary::651 atoms:651 atoms B<40:76509 potential dots:4782.0 A^2:10 bumps:10 bumps B<40:200.7 score

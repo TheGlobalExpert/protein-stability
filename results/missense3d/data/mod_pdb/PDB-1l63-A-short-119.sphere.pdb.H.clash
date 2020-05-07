@@ -1,0 +1,19 @@
+
+:  1110: A 105 GLN  CB  : A 105 GLN  C   :   -0.976:       20
+:  1110: A 105 GLN  N   : A 104 PHE  CA  :   -0.849:       16
+:  1110: A 105 GLN  N   : A 105 GLN  CB  :   -0.797:       16
+:  1110: A 105 GLN  C   : A 105 GLN  N   :   -0.722:       20
+
+:  1110: A  75 VAL  CG1 : A  75 VAL  CA  :   -0.923:       23
+:  1110: A  75 VAL  C   : A  75 VAL  CG1 :   -0.449:       32
+
+:  1110: A 145 ARG  O   : A 146 ALA  N   :   -0.677:       21
+
+:  1110: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1110: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1110: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1110: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::9.91 clashscore : 10.83 clashscore B<40 
+#summary::1110 atoms:1016 atoms B<40:129165 potential dots:8073.0 A^2:11 bumps:11 bumps B<40:368.3 score

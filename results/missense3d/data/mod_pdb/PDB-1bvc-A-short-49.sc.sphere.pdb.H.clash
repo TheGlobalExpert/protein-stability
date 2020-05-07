@@ -1,0 +1,26 @@
+
+:   858: A 106 PHE  CZ  : A 106 PHE  CD1 :   -0.994:        0
+
+:   858: A  43 PHE  CG  : A  46 PHE  CZ  :   -0.772:        0
+:   858: A  43 PHE  CE1 : A  64 HIS  NE2 :   -0.603:        0
+:   858: A  64 HIS  CE1 : A  43 PHE  HE1 :   -0.564:        0
+:   858: A  64 HIS  NE2 : A  43 PHE  HE1 :   -0.553:        0
+:   858: A  43 PHE  CE1 : A  64 HIS  CD2 :   -0.541:        0
+:   858: A  43 PHE  CB  : A  46 PHE  CZ  :   -0.520:        0
+:   858: A  46 PHE  CZ  : A  43 PHE  CD1 :   -0.518:        0
+:   858: A  43 PHE  HB3 : A  46 PHE  CE2 :   -0.504:        0
+
+:   858: A  99 ILE  CA  : A 100 PRO  CD  :   -0.524:        0
+
+:   858: A  22 ALA  HB1 : A  62 LYS  HE3 :   -0.508:        0
+:   858: A  62 LYS  HE3 : A  22 ALA  CB  :   -0.422:        0
+
+:   858: A  48 HIS  O   : A  50 LYS  HG3 :   -0.445:        0
+:   858: A  50 LYS  HB2 : A  50 LYS  HE2 :   -0.421:        0
+
+:   858: A  54 GLU  HG3 : A  51 THR  OG1 :   -0.430:        0
+:   858: A  54 GLU  HB3 : A  49 LEU HD22 :   -0.425:        0
+
+:   858: A  40 LEU  HG  : A  47 LYS  HA  :   -0.420:        0
+#sum2 ::19.81 clashscore : 19.81 clashscore B<40 
+#summary::858 atoms:858 atoms B<40:101542 potential dots:6346.0 A^2:17 bumps:17 bumps B<40:223.6 score

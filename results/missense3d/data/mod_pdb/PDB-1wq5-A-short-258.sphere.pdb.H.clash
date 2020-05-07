@@ -1,0 +1,40 @@
+
+:  1317: A  88 ILE  CG2 : A  88 ILE  CG1 :   -0.947:       17
+
+:  1317: A  25 LEU  CG  : A  25 LEU  CA  :   -0.879:       34
+
+:  1317: A 260 GLN  HB2 : A 261 PRO  HD3 :   -0.707:       26
+:  1317: A 256 LYS  O   : A 260 GLN  HG3 :   -0.448:       33
+
+:  1317: A  15 LYS  O   : A  16 GLU  N   :   -0.697:       35
+:  1317: A  16 GLU  HG2 : A 267 ARG  HG2 :   -0.543:       41
+
+:  1317: A  26 GLY  N   : A  26 GLY  C   :   -0.659:       30
+
+:  1317: A 251 MET  CE  : A 241 ILE HG23 :   -0.611:       34
+:  1317: A 241 ILE HG23 : A 251 MET  HE1 :   -0.525:       34
+
+:  1317: A 236 ALA  HB2 : A 215 SER  HB2 :   -0.606:       33
+:  1317: A 236 ALA  O   : A 240 ILE HG13 :   -0.419:       30
+
+:  1317: A  11 LEU  CD1 : A  18 ALA  HB2 :   -0.599:       30
+
+:  1317: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.555:       30
+:  1317: A  22 PHE  HA  : A  49 GLU  O   :   -0.531:       24
+:  1317: A  22 PHE  CD1 : A  22 PHE  C   :   -0.410:       20
+
+:  1317: A  20 VAL  HB  : A 232 ILE HG12 :   -0.552:       25
+:  1317: A  20 VAL  O   : A 232 ILE  HA  :   -0.532:       21
+:  1317: A  20 VAL  O   : A 232 ILE HG23 :   -0.430:       25
+
+:  1317: A  95 ILE  CA  : A  96 PRO  CD  :   -0.534:       23
+
+:  1317: A 238 VAL  O   : A 242 GLU  HG3 :   -0.507:       41
+
+:  1317: A 220 VAL  O   : A 224 ILE HD13 :   -0.456:       40
+
+:  1317: A 211 GLY  O   : A 212 PHE  CB  :   -0.454:       17
+
+:  1317: A 237 ILE HG23 : A 255 LEU  CD2 :   -0.418:       32
+#sum2 ::17.46 clashscore : 17.47 clashscore B<40 
+#summary::1317 atoms:1145 atoms B<40:158274 potential dots:9892.0 A^2:23 bumps:20 bumps B<40:409.1 score

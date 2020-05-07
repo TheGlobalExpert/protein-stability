@@ -1,0 +1,32 @@
+
+:  1205: A  96 VAL  CG1 : A  96 VAL  CA  :   -0.941:       19
+
+:  1205: A  91 GLU  HG2 : A  88 THR  HA  :   -0.757:       42
+:  1205: A  84 ASP  O   : A  88 THR HG23 :   -0.671:       13
+:  1205: A  91 GLU  CG  : A  88 THR  HA  :   -0.532:       42
+:  1205: A  91 GLU  HG2 : A  88 THR  CA  :   -0.518:       42
+
+:  1205: A  29 VAL HG23 : A   5 TRP  HB3 :   -0.585:       41
+:  1205: A   5 TRP  HB3 : A  29 VAL  CG2 :   -0.543:       41
+:  1205: A   5 TRP  HA  : A   5 TRP  HE3 :   -0.486:       39
+:  1205: A  29 VAL HG22 : A  30 ASN  N   :   -0.451:       25
+:  1205: A   5 TRP  CA  : A   5 TRP  CE3 :   -0.446:       39
+:  1205: A   5 TRP  HA  : A   5 TRP  CE3 :   -0.401:       39
+
+:  1205: A  39 ARG  HD3 : A  37 PHE  CE2 :   -0.564:       41
+:  1205: A  39 ARG  CZ  : A  44 VAL HG12 :   -0.441:       32
+
+:  1205: A  46 LYS  HB2 : A  14 ALA  O   :   -0.522:       20
+
+:  1205: A  43 GLN  HA  : A  73 VAL HG22 :   -0.512:       20
+:  1205: A  42 LEU  HG  : A  73 VAL HG21 :   -0.435:       20
+
+:  1205: A   9 LEU HD21 : A  31 VAL HG12 :   -0.466:       20
+
+:  1205: A  90 LEU HD12 : A 121 PHE  HE2 :   -0.450:       21
+
+:  1205: A  55 ARG  HG2 : A  51 GLU  O   :   -0.438:       17
+
+:  1205: A   8 GLU  HB3 : A  24 LEU HD21 :   -0.412:       25
+#sum2 ::16.60 clashscore : 12.04 clashscore B<40 
+#summary::1205 atoms:1163 atoms B<40:140131 potential dots:8758.0 A^2:20 bumps:14 bumps B<40:393.8 score

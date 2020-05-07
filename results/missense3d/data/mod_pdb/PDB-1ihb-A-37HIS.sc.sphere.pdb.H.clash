@@ -1,0 +1,45 @@
+
+:   765: A  63 PRO  CD  : A  63 PRO  N   :   -1.430:        0
+
+:   765: A  89 LEU  CD1 : A  89 LEU  CD2 :   -0.997:        0
+
+:   765: A  20 GLN  C   : A  20 GLN  CB  :   -0.898:        0
+:   765: A  20 GLN  C   : A  20 GLN  CG  :   -0.427:        0
+
+:   765: A  52 ILE  CB  : A  52 ILE  C   :   -0.848:        0
+:   765: A  52 ILE  CG2 : A  52 ILE  C   :   -0.571:        0
+
+:   765: A  39 ARG  NH2 : A  67 ASP  CB  :   -0.838:        0
+:   765: A  67 ASP  CB  : A  39 ARG HH22 :   -0.821:        0
+:   765: A  39 ARG  NH2 : A  67 ASP  HB3 :   -0.694:        0
+:   765: A  67 ASP  HB2 : A  39 ARG  CZ  :   -0.628:        0
+:   765: A  67 ASP  HB2 : A  39 ARG  NH2 :   -0.588:        0
+:   765: A  39 ARG HH22 : A  67 ASP  HB3 :   -0.500:        0
+:   765: A  67 ASP  HB2 : A  39 ARG  NH1 :   -0.432:        0
+:   765: A  39 ARG HH22 : A  67 ASP  CG  :   -0.425:        0
+
+:   765: A  21 LEU  CA  : A  21 LEU  O   :   -0.738:        0
+
+:   765: A  17 ASP  CA  : A  17 ASP  O   :   -0.734:        0
+
+:   765: A  29 VAL  N   : A  28 ASN  O   :   -0.709:        0
+:   765: A  29 VAL HG23 : A   5 TRP  HB3 :   -0.647:        0
+:   765: A   5 TRP  HB3 : A  29 VAL  CG2 :   -0.613:        0
+:   765: A   5 TRP  HA  : A   5 TRP  HE3 :   -0.530:        0
+:   765: A  29 VAL HG22 : A  30 ASN  N   :   -0.509:        0
+:   765: A   5 TRP  CA  : A   5 TRP  CE3 :   -0.455:        0
+:   765: A  29 VAL  CG2 : A  30 ASN  N   :   -0.435:        0
+:   765: A  29 VAL  CA  : A  28 ASN  O   :   -0.418:        0
+:   765: A   5 TRP  HA  : A   5 TRP  CE3 :   -0.417:        0
+:   765: A  28 ASN  O   : A  29 VAL  HA  :   -0.407:        0
+:   765: A  29 VAL HG23 : A   5 TRP  CB  :   -0.404:        0
+
+:   765: A  46 LYS  HB2 : A  14 ALA  O   :   -0.569:        0
+
+:   765: A  75 HIS  HD1 : A  72 ALA  H   :   -0.517:        0
+
+:   765: A  43 GLN  HA  : A  73 VAL HG22 :   -0.505:        0
+
+:   765: A   8 GLU  HB3 : A  24 LEU HD21 :   -0.438:        0
+#sum2 ::40.52 clashscore : 40.52 clashscore B<40 
+#summary::765 atoms:765 atoms B<40:94807 potential dots:5925.0 A^2:31 bumps:31 bumps B<40:57.29 score

@@ -1,0 +1,27 @@
+
+:  1615: A  69 LYS  CA  : A  69 LYS  CG  :   -0.754:       44
+
+:  1615: A  49 ASP  OD1 : A  49 ASP  OD2 :   -0.676:       77
+
+:  1615: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+
+:  1615: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1615: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1615: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:  1615: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:  1615: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1615: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1615: A   6 CYS  CB  : A 128 CYS  SG  :   -0.470:       17
+
+:  1615: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1615: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:  1615: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:  1615: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+#sum2 ::8.67 clashscore : 6.09 clashscore B<40 
+#summary::1615 atoms:1478 atoms B<40:189593 potential dots:11850.0 A^2:14 bumps:9 bumps B<40:648.1 score

@@ -1,0 +1,27 @@
+
+:  1483: A  17 VAL HG11 : A  14 TRP  CZ3 :   -0.872:        0
+:  1483: A  73 GLY  HA3 : A  14 TRP  CZ2 :   -0.564:        0
+:  1483: A  14 TRP  CZ2 : A  73 GLY  CA  :   -0.499:        0
+:  1483: A  14 TRP  HH2 : A  69 LEU  HB3 :   -0.492:        0
+:  1483: A  73 GLY  CA  : A  14 TRP  CE2 :   -0.447:        0
+:  1483: A  14 TRP  CZ3 : A  17 VAL  CG1 :   -0.442:        0
+:  1483: A  73 GLY  HA3 : A  14 TRP  CE2 :   -0.435:        0
+
+:  1483: A  90 ALA  N   : A  90 ALA  CB  :   -0.843:        0
+
+:  1483: A  30 ILE  C   : A  30 ILE  N   :   -0.752:        0
+
+:  1483: A  84 ALA  N   : A  84 ALA  C   :   -0.731:        0
+
+:  1483: A 128 GLN  HA  : A 123 PHE  CZ  :   -0.575:        0
+
+:  1483: A  79 LYS  HA  : A   7 TRP  CZ3 :   -0.572:        0
+:  1483: A   7 TRP  CZ2 : A  79 LYS  C   :   -0.462:        0
+:  1483: A  79 LYS  HA  : A   7 TRP  CH2 :   -0.446:        0
+:  1483: A  79 LYS  HA  : A   7 TRP  CE3 :   -0.400:        0
+
+:  1483: A 145 LYS  NZ  : A  87 LYS  N   :   -0.556:        0
+:  1483: A 145 LYS  HZ2 : A  87 LYS  N   :   -0.499:        0
+:  1483: A  86 LEU  C   : A 145 LYS  HZ2 :   -0.467:        0
+#sum2 ::12.14 clashscore : 12.14 clashscore B<40 
+#summary::1483 atoms:1483 atoms B<40:172504 potential dots:10780.0 A^2:18 bumps:18 bumps B<40:556.1 score

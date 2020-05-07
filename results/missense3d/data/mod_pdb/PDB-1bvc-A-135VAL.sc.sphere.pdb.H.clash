@@ -1,0 +1,47 @@
+
+:  1812: A  93 HIS  HB3 : A 146 TYR  OH  :   -1.124:        0
+:  1812: A 146 TYR  OH  : A  93 HIS  CB  :   -0.955:        0
+:  1812: A  94 ALA  HB2 : A 146 TYR  CD1 :   -0.728:        0
+:  1812: A  93 HIS  HB3 : A 146 TYR  HH  :   -0.725:        0
+:  1812: A 146 TYR  OH  : A  93 HIS  HB2 :   -0.418:        0
+
+:  1812: A  43 PHE  CD2 : A  43 PHE  CD1 :   -1.049:        0
+:  1812: A  63 LYS  O   : A  64 HIS  N   :   -0.705:        0
+:  1812: A  64 HIS  NE2 : A  43 PHE  CE1 :   -0.603:        0
+:  1812: A  43 PHE  HE1 : A  64 HIS  CE1 :   -0.564:        0
+:  1812: A  64 HIS  NE2 : A  43 PHE  HE1 :   -0.553:        0
+:  1812: A  64 HIS  CD2 : A  43 PHE  CE1 :   -0.541:        0
+:  1812: A  63 LYS  O   : A  64 HIS  CA  :   -0.488:        0
+
+:  1812: A 138 PHE  CE1 : A  75 ILE HD13 :   -0.831:        0
+:  1812: A  75 ILE HD13 : A 138 PHE  HE1 :   -0.790:        0
+:  1812: A 138 PHE  HE1 : A  75 ILE  CD1 :   -0.638:        0
+:  1812: A 138 PHE  CE1 : A  75 ILE  CD1 :   -0.425:        0
+
+:  1812: A  20 ASP  N   : A  20 ASP  C   :   -0.769:        0
+:  1812: A  19 ALA  N   : A  20 ASP  N   :   -0.413:        0
+
+:  1812: A  73 GLY  HA3 : A  14 TRP  HE1 :   -0.660:        0
+:  1812: A  14 TRP  NE1 : A  73 GLY  CA  :   -0.619:        0
+:  1812: A  73 GLY  CA  : A  14 TRP  HE1 :   -0.560:        0
+:  1812: A  14 TRP  NE1 : A  73 GLY  HA2 :   -0.557:        0
+:  1812: A  14 TRP  CZ3 : A  76 LEU  CD1 :   -0.473:        0
+:  1812: A  14 TRP  CE3 : A  76 LEU  CD1 :   -0.461:        0
+:  1812: A  73 GLY  HA2 : A  14 TRP  CE2 :   -0.440:        0
+
+:  1812: A  87 LYS  N   : A 145 LYS  HZ2 :   -0.600:        0
+:  1812: A  87 LYS  N   : A 145 LYS  NZ  :   -0.556:        0
+:  1812: A  86 LEU  C   : A 145 LYS  HZ2 :   -0.466:        0
+:  1812: A 145 LYS  HZ2 : A  87 LYS  CA  :   -0.440:        0
+:  1812: A 145 LYS  NZ  : A  87 LYS  CA  :   -0.436:        0
+
+:  1812: A  79 LYS  HA  : A   7 TRP  CZ3 :   -0.572:        0
+:  1812: A   7 TRP  CZ2 : A  79 LYS  C   :   -0.462:        0
+:  1812: A  79 LYS  HA  : A   7 TRP  CH2 :   -0.446:        0
+:  1812: A  79 LYS  HA  : A   7 TRP  CE3 :   -0.400:        0
+
+:  1812: A 123 PHE  CZ  : A 128 GLN  HA  :   -0.485:        0
+
+:  1812: A 132 ASN  O   : A 135 VAL HG22 :   -0.435:        0
+#sum2 ::19.87 clashscore : 19.87 clashscore B<40 
+#summary::1812 atoms:1812 atoms B<40:210413 potential dots:13150.0 A^2:36 bumps:36 bumps B<40:586.6 score

@@ -1,0 +1,14 @@
+
+:  1246: A  66 LEU  C   : A  67 PHE  CA  :   -0.929:       14
+:  1246: A  67 PHE  CA  : A  67 PHE  CD2 :   -0.487:       15
+
+:  1246: A  25 TYR  N   : A  25 TYR  C   :   -0.747:       17
+
+:  1246: A   7 LEU  CA  : A   7 LEU  O   :   -0.729:       17
+
+:  1246: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1246: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1246: A  10 ASP  O   : A  11 GLU  CA  :   -0.461:       23
+#sum2 ::5.62 clashscore : 6.17 clashscore B<40 
+#summary::1246 atoms:1134 atoms B<40:151745 potential dots:9484.0 A^2:7 bumps:7 bumps B<40:433.6 score

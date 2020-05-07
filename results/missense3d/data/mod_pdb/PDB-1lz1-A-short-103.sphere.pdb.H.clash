@@ -1,0 +1,30 @@
+
+:   808: A  30 CYS  CB  : A  30 CYS  N   :   -0.949:       12
+:   808: A  30 CYS  CB  : A  30 CYS  C   :   -0.830:       12
+:   808: A  30 CYS  C   : A  30 CYS  N   :   -0.772:       10
+
+:   808: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:   808: A 107 ARG HH12 : A 112 TRP  HH2 :   -0.762:      106
+:   808: A 112 TRP  CZ3 : A 107 ARG  NH1 :   -0.738:      106
+:   808: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+:   808: A 112 TRP  HZ3 : A 107 ARG HH11 :   -0.478:      106
+
+:   808: A  26 ALA  N   : A  26 ALA  C   :   -0.743:        9
+
+:   808: A  18 ASP  OD1 : A  18 ASP  CB  :   -0.692:       20
+
+:   808: A 115 ARG  C   : A 115 ARG  N   :   -0.655:       17
+
+:   808: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   808: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   808: A  15 LEU  O   : A  16 GLY  CA  :   -0.428:       14
+
+:   808: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+:   808: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:   808: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:   808: A 103 PRO  HD2 : A 102 ASP  HB3 :   -0.402:       88
+#sum2 ::22.28 clashscore : 11.38 clashscore B<40 
+#summary::808 atoms:703 atoms B<40:99930 potential dots:6246.0 A^2:18 bumps:8 bumps B<40:205.8 score

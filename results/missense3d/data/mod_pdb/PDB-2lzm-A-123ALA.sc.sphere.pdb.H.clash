@@ -1,0 +1,43 @@
+
+:   930: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:   930: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:   930: A 111 VAL HG23 : A 106 MET  SD  :   -0.719:        0
+
+:   930: A  79 LEU  CA  : A  79 LEU  CG  :   -0.889:        0
+
+:   930: A 101 ASN  CB  : A 101 ASN  N   :   -0.847:        0
+
+:   930: A 136 SER  CB  : A 136 SER  N   :   -0.828:        0
+
+:   930: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.715:        0
+:   930: A  86 PRO  HD2 : A  85 LYS  N   :   -0.571:        0
+:   930: A  85 LYS  HB3 : A  86 PRO  CD  :   -0.463:        0
+:   930: A  85 LYS  N   : A  86 PRO  CD  :   -0.445:        0
+
+:   930: A  92 ASP  OD2 : A  95 ARG  NH2 :   -0.652:        0
+:   930: A  95 ARG  HD2 : A  92 ASP  OD2 :   -0.413:        0
+
+:   930: A 116 ASN  HA  : A 119 ARG  NH2 :   -0.589:        0
+:   930: A 116 ASN  HA  : A 119 ARG  CZ  :   -0.523:        0
+:   930: A 116 ASN  CG  : A 119 ARG HH12 :   -0.504:        0
+:   930: A 116 ASN  CB  : A 119 ARG HH12 :   -0.404:        0
+
+:   930: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:   930: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:   930: A  81 ASN  CB  : A  84 LEU HD12 :   -0.566:        0
+:   930: A  84 LEU HD12 : A  81 ASN  HB3 :   -0.440:        0
+
+:   930: A  87 VAL HG22 : A 122 GLN  HG3 :   -0.551:        0
+
+:   930: A 114 PHE  O   : A 118 LEU  HG  :   -0.475:        0
+
+:   930: A 151 THR  HA  : A 154 ARG  CZ  :   -0.472:        0
+:   930: A 154 ARG  NH1 : A 151 THR  HA  :   -0.454:        0
+:   930: A 151 THR  OG1 : A 154 ARG  NH1 :   -0.406:        0
+
+:   930: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+
+:   930: A 132 ASN  OD1 : A 117 SER  OG  :   -0.402:        0
+#sum2 ::29.03 clashscore : 29.03 clashscore B<40 
+#summary::930 atoms:930 atoms B<40:109746 potential dots:6859.0 A^2:27 bumps:27 bumps B<40:221 score

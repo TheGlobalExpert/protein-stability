@@ -1,0 +1,14 @@
+
+:  1041: A  70 ASP  C   : A  71 VAL  CA  :   -0.921:       18
+
+:  1041: A 150 ILE  CG1 : A 150 ILE  CA  :   -0.909:       19
+
+:  1041: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1041: A 155 THR  C   : A 155 THR  N   :   -0.669:       28
+
+:  1041: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1041: A 106 MET  HE3 : A 106 MET  HB3 :   -0.427:       33
+#sum2 ::5.76 clashscore : 5.33 clashscore B<40 
+#summary::1041 atoms:938 atoms B<40:123054 potential dots:7691.0 A^2:6 bumps:5 bumps B<40:359.7 score

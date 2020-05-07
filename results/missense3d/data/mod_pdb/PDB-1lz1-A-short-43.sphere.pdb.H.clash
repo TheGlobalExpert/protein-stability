@@ -1,0 +1,28 @@
+
+:  1238: A  97 LYS  CA  : A  98 ARG  N   :   -0.837:       11
+
+:  1238: A  29 MET  SD  : A  29 MET  CB  :   -0.831:       13
+
+:  1238: A 115 ARG  HG2 : A 111 ALA  O   :   -0.767:       46
+
+:  1238: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:  1238: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:  1238: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:  1238: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:  1238: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:  1238: A 114 ASN  ND2 : A 110 VAL HG12 :   -0.572:       39
+
+:  1238: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1238: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1238: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:  1238: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:  1238: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:  1238: A 100 VAL  N   : A 100 VAL  CG1 :   -0.409:       14
+#sum2 ::12.12 clashscore : 7.09 clashscore B<40 
+#summary::1238 atoms:1129 atoms B<40:149081 potential dots:9318.0 A^2:15 bumps:8 bumps B<40:409.6 score

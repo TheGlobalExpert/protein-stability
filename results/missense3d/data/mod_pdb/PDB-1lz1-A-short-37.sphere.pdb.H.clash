@@ -1,0 +1,35 @@
+
+:  1349: A  97 LYS  CA  : A  97 LYS  CG  :   -0.960:       12
+
+:  1349: A 117 GLN  NE2 : A 117 GLN  CG  :   -0.954:       42
+:  1349: A 117 GLN  NE2 : A 117 GLN  CB  :   -0.614:       42
+
+:  1349: A 100 VAL  CB  : A 100 VAL  N   :   -0.844:       14
+:  1349: A 100 VAL  N   : A  99 VAL  CA  :   -0.830:       14
+:  1349: A 100 VAL  N   : A 100 VAL  CG1 :   -0.402:       14
+
+:  1349: A 115 ARG  HG2 : A 111 ALA  O   :   -0.767:       46
+
+:  1349: A 113 ARG  NH1 : A 113 ARG  NE  :   -0.713:       93
+:  1349: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+:  1349: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:  1349: A  18 ASP  OD1 : A  18 ASP  CB  :   -0.692:       20
+
+:  1349: A 118 ASN  C   : A 118 ASN  N   :   -0.639:       38
+
+:  1349: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1349: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1349: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1349: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1349: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1349: A  80 SER  O   : A  81 CYS  CA  :   -0.450:       13
+
+:  1349: A 126 GLN  NE2 : A 126 GLN  HA  :   -0.423:       89
+
+:  1349: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+#sum2 ::14.83 clashscore : 10.44 clashscore B<40 
+#summary::1349 atoms:1245 atoms B<40:163192 potential dots:10200.0 A^2:20 bumps:13 bumps B<40:409.1 score

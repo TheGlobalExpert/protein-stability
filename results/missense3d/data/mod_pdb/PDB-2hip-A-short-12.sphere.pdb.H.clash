@@ -1,0 +1,45 @@
+
+:   987: A  67 TYR  CE2 : A  29 GLN  HG2 :   -0.978:       25
+:   987: A  30 LEU HD13 : A  29 GLN  O   :   -0.606:       26
+:   987: A  67 TYR  CE1 : A  34 CYS  HB2 :   -0.605:       20
+:   987: A  26 GLN  O   : A  29 GLN  HB2 :   -0.565:       22
+:   987: A  29 GLN  HG2 : A  67 TYR  CZ  :   -0.537:       25
+:   987: A  67 TYR  CD1 : A  34 CYS  HB2 :   -0.495:       20
+:   987: A  67 TYR  CE2 : A  29 GLN  CG  :   -0.455:       25
+:   987: A  16 ALA  HB2 : A  30 LEU  CD1 :   -0.442:       19
+:   987: A  30 LEU HD11 : A  16 ALA  HB2 :   -0.419:       19
+
+:   987: A  59 LYS  NZ  : A  61 GLU  OE1 :   -0.722:       42
+:   987: A  45 TRP  CZ3 : A   3 ARG  HG2 :   -0.484:       25
+:   987: A  45 TRP  CE3 : A   3 ARG  HG2 :   -0.483:       28
+:   987: A  45 TRP  CZ2 : A  59 LYS  HD3 :   -0.457:       18
+
+:   987: A   2 PRO  HD2 : A   1 GLU  HB3 :   -0.689:       48
+:   987: A   1 GLU  CB  : A   2 PRO  HD2 :   -0.547:       48
+:   987: A   1 GLU  CB  : A   2 PRO  CD  :   -0.475:       48
+
+:   987: A  23 PRO  HD2 : A  22 HIS  CG  :   -0.685:       34
+:   987: A  23 PRO  HD3 : A  22 HIS  HA  :   -0.462:       34
+
+:   987: A  36 PHE  O   : A  49 THR HG23 :   -0.596:        5
+
+:   987: A  66 VAL HG22 : A  64 CYS  SG  :   -0.584:       19
+:   987: A  64 CYS  SG  : A  66 VAL  CG2 :   -0.436:       19
+
+:   987: A  70 ALA  HB2 : A  35 ALA  HB2 :   -0.558:       31
+:   987: A  70 ALA  HB2 : A  35 ALA  CB  :   -0.455:       31
+:   987: A  70 ALA  HB2 : A  35 ALA  CA  :   -0.413:       59
+
+:   987: A  37 TRP  HB2 : A  31 CYS  O   :   -0.517:       29
+:   987: A  37 TRP  NE1 : A  39 GLU  HA  :   -0.405:       29
+
+:   987: A  52 ASP  HB2 : A  50 HIS  CE1 :   -0.509:       19
+:   987: A  10 HIS  NE2 : A  52 ASP  OD2 :   -0.485:       10
+
+:   987: A  53 PHE  HB3 : A  48 CYS  HB3 :   -0.469:       29
+
+:   987: A  57 LEU HD12 : A  57 LEU  HA  :   -0.469:        3
+
+:   987: A  19 ALA  O   : A  21 GLY  N   :   -0.419:       28
+#sum2 ::31.41 clashscore : 31.67 clashscore B<40 
+#summary::987 atoms:821 atoms B<40:113947 potential dots:7122.0 A^2:31 bumps:26 bumps B<40:202.8 score

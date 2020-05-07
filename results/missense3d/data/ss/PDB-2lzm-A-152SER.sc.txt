@@ -1,0 +1,5 @@
+SGFILE missense3d/data/mod_pdb/PDB-2lzm-A-152SER.sc.pdb            
+NUMCYS      2
+NUMSGA      2
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap

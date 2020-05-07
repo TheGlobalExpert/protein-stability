@@ -48,4 +48,33 @@ for threshold in missense3d_toi:
     plt.text(missense3d_x[threshold] - 0.06, missense3d_y[threshold] + 0.01, str(abs(round(thresholds[threshold],3))))
     plt.scatter(missense3d_x[threshold], missense3d_y[threshold], c="orange")
 
+#Calc AUROC
+
+AUROC = 0
+
+for i in range(1, len(foldx_x)):
+    base = (foldx_x[i-1] - foldx_x[i]) * foldx_y[i]
+    top = ((foldx_x[i-1] - foldx_x[i]) * (foldx_y[i-1] - foldx_y[i])) / 2
+    total = base + top
+    print(total)
+    if math.isnan(total):
+        pass
+    else:
+        AUROC = AUROC + total
+
+print("FoldX", AUROC)
+
+AUROC = 0
+
+for i in range(1, len(foldx_x)):
+    base = (missense3d_x[i-1] - missense3d_x[i]) * missense3d_y[i]
+    top = ((missense3d_x[i-1] - missense3d_x[i]) * (missense3d_y[i-1] - missense3d_y[i])) / 2
+    total = base + top
+    if math.isnan(total):
+        pass
+    else:
+        AUROC = AUROC + total
+
+print("Missense3D", AUROC)
+
 plt.show()

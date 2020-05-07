@@ -1,0 +1,45 @@
+
+:  1318: A  18 TYR  CB  : A  18 TYR  CD2 :   -0.959:       27
+:  1318: A  18 TYR  C   : A  18 TYR  CB  :   -0.889:       27
+:  1318: A  17 GLY  CA  : A  18 TYR  N   :   -0.877:       28
+:  1318: A  18 TYR  CB  : A  18 TYR  N   :   -0.826:       28
+:  1318: A  18 TYR  N   : A  18 TYR  C   :   -0.744:       28
+
+:  1318: A  60 TRP  CH2 : A  60 TRP  CE3 :   -0.915:       22
+
+:  1318: A  11 GLU  HG3 : A   7 GLU  O   :   -0.864:       47
+:  1318: A   4 THR  OG1 : A   7 GLU  HG3 :   -0.534:       53
+:  1318: A   4 THR HG23 : A   7 GLU  OE1 :   -0.516:       61
+
+:  1318: A  84 ASP  N   : A  84 ASP  C   :   -0.778:       43
+
+:  1318: A  94 LYS  C   : A  94 LYS  N   :   -0.747:       26
+
+:  1318: A  36 TYR  CD2 : A   8 VAL HG21 :   -0.613:       36
+
+:  1318: A  16 LYS  HB2 : A  13 LYS  O   :   -0.605:       36
+:  1318: A  16 LYS  CG  : A  23 LEU  HG  :   -0.476:       35
+
+:  1318: A   1 GLU  HB3 : A  38 THR  OG1 :   -0.564:       56
+
+:  1318: A 116 ASP  O   : A 119 LEU  HB2 :   -0.509:       60
+:  1318: A 119 LEU HD23 : A 116 ASP  HA  :   -0.486:       61
+
+:  1318: A  89 ILE HG13 : A  85 LEU  O   :   -0.496:       27
+
+:  1318: A 103 TYR  HD1 : A  99 VAL HG11 :   -0.482:       35
+:  1318: A  99 VAL  O   : A  99 VAL HG12 :   -0.406:       37
+
+:  1318: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.478:       52
+
+:  1318: A  27 VAL HG21 : A   9 PHE  HD1 :   -0.473:       38
+
+:  1318: A  56 ASN  OD1 : A  56 ASN  C   :   -0.469:       45
+
+:  1318: A  25 GLU  HB2 : A  22 SER  O   :   -0.423:       26
+
+:  1318: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.407:       28
+
+:  1318: A  48 THR  HA  : A  42 VAL  O   :   -0.404:       29
+#sum2 ::19.73 clashscore : 16.30 clashscore B<40 
+#summary::1318 atoms:1043 atoms B<40:158056 potential dots:9878.0 A^2:26 bumps:17 bumps B<40:340.1 score

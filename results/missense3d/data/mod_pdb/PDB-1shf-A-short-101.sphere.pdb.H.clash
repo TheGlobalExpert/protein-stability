@@ -1,0 +1,12 @@
+
+:   892: A  96 ARG  HG3 : A  96 ARG HH11 :   -0.475:       81
+
+:   892: A 120 TRP  O   : A 132 TYR  HA  :   -0.466:       21
+
+:   892: A  85 THR HG22 : A  86 LEU  O   :   -0.450:       58
+
+:   892: A 107 GLU  OE2 : A 124 SER  OG  :   -0.429:       30
+
+:   892: A 125 LEU HD23 : A 125 LEU  HA  :   -0.411:       37
+#sum2 ::5.61 clashscore : 3.90 clashscore B<40 
+#summary::892 atoms:770 atoms B<40:100597 potential dots:6287.0 A^2:5 bumps:3 bumps B<40:305.1 score

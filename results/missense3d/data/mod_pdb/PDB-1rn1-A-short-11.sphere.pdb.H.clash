@@ -1,0 +1,17 @@
+
+:   958: A  56 TYR  CB  : A  56 TYR  C   :   -0.905:       17
+
+:   958: A  51 SER  CA  : A  52 VAL  N   :   -0.846:       19
+:   958: A  52 VAL  CB  : A  52 VAL  N   :   -0.758:       18
+:   958: A  52 VAL  N   : A  51 SER  N   :   -0.400:       19
+
+:   958: A  81 ASN  OD1 : A  81 ASN  CB  :   -0.760:       17
+:   958: A  81 ASN  O   : A  81 ASN  CA  :   -0.707:       15
+:   958: A  81 ASN  OD1 : A  81 ASN  CA  :   -0.450:       15
+
+:   958: A  92 HIS  CE1 : A 100 PHE  CZ  :   -0.534:       23
+:   958: A  92 HIS  CE1 : A 100 PHE  CE1 :   -0.464:       23
+
+:   958: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+#sum2 ::10.44 clashscore : 10.63 clashscore B<40 
+#summary::958 atoms:941 atoms B<40:117392 potential dots:7337.0 A^2:10 bumps:10 bumps B<40:337.4 score

@@ -1,0 +1,24 @@
+
+:  1383: A  23 ILE  CB  : A  23 ILE  CD1 :   -0.896:       12
+
+:  1383: A 128 CYS  O   : A 128 CYS  CA  :   -0.787:       25
+
+:  1383: A 115 ARG  HG2 : A 111 ALA  O   :   -0.767:       46
+
+:  1383: A  76 ALA  C   : A  76 ALA  N   :   -0.727:       21
+
+:  1383: A 106 ILE  N   : A 105 GLY  O   :   -0.643:       19
+
+:  1383: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1383: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1383: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1383: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1383: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1383: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:  1383: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+#sum2 ::8.68 clashscore : 8.40 clashscore B<40 
+#summary::1383 atoms:1309 atoms B<40:166918 potential dots:10430.0 A^2:12 bumps:11 bumps B<40:513.8 score

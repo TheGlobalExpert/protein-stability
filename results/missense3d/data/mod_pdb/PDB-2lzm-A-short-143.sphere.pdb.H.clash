@@ -1,0 +1,50 @@
+
+:  1150: A   8 ARG  CG  : A   8 ARG  NE  :   -1.059:       45
+:  1150: A   8 ARG  NE  : A   8 ARG  NH2 :   -0.862:       46
+:  1150: A   8 ARG  NE  : A   8 ARG  CB  :   -0.404:       45
+
+:  1150: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1150: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1150: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1150: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1150: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+:  1150: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1150: A 141 GLN  HG2 : A 137 ARG  CZ  :   -0.450:       39
+
+:  1150: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1150: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1150: A 164 LEU  CD1 : A 164 LEU  N   :   -0.593:       64
+:  1150: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  1150: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1150: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1150: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+:  1150: A 163 ASN  O   : A 164 LEU  OXT :   -0.425:       65
+
+:  1150: A   5 GLU  CA  : A   4 PHE  C   :   -0.987:       17
+
+:  1150: A   3 ILE  CG1 : A   3 ILE  CA  :   -0.896:       11
+
+:  1150: A 118 LEU  CG  : A 118 LEU  CA  :   -0.866:       22
+:  1150: A 118 LEU  CA  : A 118 LEU  CD2 :   -0.424:       22
+
+:  1150: A 120 MET  SD  : A 120 MET  CB  :   -0.835:       32
+
+:  1150: A  18 TYR  C   : A  18 TYR  CB  :   -0.830:       21
+
+:  1150: A  95 ARG  NE  : A  95 ARG  NH2 :   -0.748:       13
+
+:  1150: A 125 ARG  O   : A 126 TRP  N   :   -0.649:       23
+
+:  1150: A 154 ARG  HD3 : A 127 ASP  OD2 :   -0.507:       53
+:  1150: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1150: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1150: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1150: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1150: A 159 ASP  O   : A 162 LYS  HB2 :   -0.428:       58
+
+:  1150: A  94 VAL  C   : A  94 VAL  CG1 :   -0.415:       17
+#sum2 ::28.70 clashscore : 13.65 clashscore B<40 
+#summary::1150 atoms:1026 atoms B<40:145447 potential dots:9090.0 A^2:33 bumps:14 bumps B<40:228.6 score

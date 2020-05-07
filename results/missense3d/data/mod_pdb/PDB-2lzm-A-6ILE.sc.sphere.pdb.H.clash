@@ -1,0 +1,80 @@
+
+:  1503: A 162 LYS  HE2 : A 158 TRP  CD1 :   -1.377:        0
+:  1503: A 158 TRP  CD1 : A 162 LYS  CE  :   -1.122:        0
+:  1503: A 162 LYS  HE2 : A 158 TRP  NE1 :   -1.059:        0
+:  1503: A 158 TRP  NE1 : A 162 LYS  CE  :   -0.963:        0
+:  1503: A 162 LYS  HE2 : A 158 TRP  HD1 :   -0.849:        0
+:  1503: A 158 TRP  HE1 : A 162 LYS  CE  :   -0.843:        0
+:  1503: A 162 LYS  NZ  : A 158 TRP  CD1 :   -0.770:        0
+:  1503: A 162 LYS  CE  : A 158 TRP  HD1 :   -0.688:        0
+:  1503: A 162 LYS  NZ  : A 158 TRP  NE1 :   -0.533:        0
+
+:  1503: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:  1503: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:  1503: A 106 MET  CG  : A 111 VAL HG23 :   -0.934:        0
+:  1503: A 111 VAL HG23 : A 106 MET  SD  :   -0.634:        0
+:  1503: A 111 VAL HG23 : A 106 MET  HG2 :   -0.614:        0
+:  1503: A 106 MET  CG  : A 111 VAL  CG2 :   -0.485:        0
+:  1503: A 106 MET  HE3 : A 106 MET  HB3 :   -0.454:        0
+
+:  1503: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.983:        0
+:  1503: A 144 ASN  HA  : A 147 LYS  HD2 :   -0.842:        0
+:  1503: A 148 ARG  CD  : A 164 LEU  CD2 :   -0.731:        0
+:  1503: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.711:        0
+:  1503: A 148 ARG  N   : A 147 LYS  HG2 :   -0.502:        0
+:  1503: A 148 ARG  HD3 : A 164 LEU HD22 :   -0.467:        0
+:  1503: A 163 ASN  O   : A 164 LEU  OXT :   -0.419:        0
+:  1503: A 147 LYS  HB3 : A 147 LYS  HE3 :   -0.402:        0
+
+:  1503: A 138 TRP  CZ2 : A 146 ALA  HA  :   -0.937:        0
+:  1503: A 138 TRP  CH2 : A 146 ALA  HA  :   -0.552:        0
+:  1503: A 138 TRP  CZ2 : A 146 ALA  CA  :   -0.513:        0
+
+:  1503: A  87 VAL  CB  : A  87 VAL  C   :   -0.861:        0
+:  1503: A  87 VAL  C   : A  87 VAL  CG1 :   -0.433:        0
+
+:  1503: A  76 ARG  NH1 : A  76 ARG  NE  :   -0.794:        0
+
+:  1503: A   6 ILE HG21 : A 101 ASN HD21 :   -0.702:        0
+:  1503: A   6 ILE HG23 : A 161 TYR  CZ  :   -0.658:        0
+:  1503: A   6 ILE HG23 : A 161 TYR  CE2 :   -0.442:        0
+
+:  1503: A  14 ARG HH21 : A  14 ARG  CG  :   -0.687:        0
+:  1503: A  14 ARG  CG  : A  14 ARG  NH2 :   -0.556:        0
+:  1503: A  14 ARG  HG3 : A  14 ARG  NH2 :   -0.518:        0
+
+:  1503: A  92 ASP  OD2 : A  95 ARG  NH2 :   -0.652:        0
+:  1503: A  95 ARG  HD2 : A  92 ASP  OD2 :   -0.413:        0
+
+:  1503: A   5 GLU  OE1 : A   1 MET  HA  :   -0.600:        0
+
+:  1503: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:  1503: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:  1503: A  26 THR HG22 : A  27 ILE  N   :   -0.570:        0
+:  1503: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:  1503: A  18 TYR  CZ  : A  26 THR  HB  :   -0.516:        0
+:  1503: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:  1503: A  18 TYR  OH  : A  26 THR  CG2 :   -0.452:        0
+:  1503: A  26 THR  HB  : A  18 TYR  CE1 :   -0.444:        0
+:  1503: A  18 TYR  OH  : A  26 THR HG21 :   -0.433:        0
+:  1503: A  27 ILE  N   : A  26 THR  CG2 :   -0.433:        0
+:  1503: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+
+:  1503: A  60 LYS  O   : A  64 GLU  HG3 :   -0.489:        0
+
+:  1503: A 151 THR  HA  : A 154 ARG  CZ  :   -0.472:        0
+:  1503: A 154 ARG  NH1 : A 151 THR  HA  :   -0.454:        0
+:  1503: A 151 THR  OG1 : A 154 ARG  NH1 :   -0.406:        0
+
+:  1503: A  29 ILE HG22 : A  29 ILE  O   :   -0.433:        0
+
+:  1503: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+
+:  1503: A  29 ILE HD13 : A  67 PHE  CD1 :   -0.403:        0
+
+:  1503: A 145 ARG HH22 : A  11 GLU  CD  :   -0.423:        0
+
+:  1503: A   3 ILE HG23 : A   4 PHE  N   :   -0.408:        0
+#sum2 ::39.25 clashscore : 39.25 clashscore B<40 
+#summary::1503 atoms:1503 atoms B<40:178836 potential dots:11180.0 A^2:59 bumps:59 bumps B<40:295 score

@@ -1,0 +1,16 @@
+
+:   671: A  53 GLN  CA  : A  53 GLN  CG  :   -0.940:        0
+
+:   671: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.778:        0
+:   671: A  17 PHE  CD1 : A   8 TRP  CZ2 :   -0.688:        0
+:   671: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.452:        0
+
+:   671: A  29 HIS  CA  : A  29 HIS  O   :   -0.764:        0
+
+:   671: A   1 MET  SD  : A  50 GLU  HG3 :   -0.673:        0
+
+:   671: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.635:        0
+
+:   671: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.503:        0
+#sum2 ::11.92 clashscore : 11.92 clashscore B<40 
+#summary::671 atoms:671 atoms B<40:79976 potential dots:4998.0 A^2:8 bumps:8 bumps B<40:159.2 score

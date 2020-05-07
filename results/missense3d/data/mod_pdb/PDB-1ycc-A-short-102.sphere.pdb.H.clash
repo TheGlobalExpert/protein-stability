@@ -1,0 +1,47 @@
+
+:  1247: A  89 LYS  CA  : A  88 GLU  C   :   -1.017:       12
+:  1247: A  89 LYS  CA  : A  88 GLU  O   :   -0.471:       12
+
+:  1247: A  74 TYR  CE1 : A  74 TYR  CG  :   -0.994:       25
+
+:  1247: A  -4 GLU  N   : A  -5 THR  CA  :   -0.895:       54
+:  1247: A  -4 GLU  N   : A  -4 GLU  C   :   -0.823:       50
+:  1247: A  -5 THR HG21 : A  61 GLU  OE1 :   -0.630:       55
+:  1247: A  -3 PHE  N   : A  -4 GLU  N   :   -0.622:       50
+:  1247: A  -3 PHE  H   : A  -4 GLU  N   :   -0.517:       50
+:  1247: A  62 ASN  N   : A  60 ASP  OD1 :   -0.500:       31
+:  1247: A  -5 THR  CB  : A  -4 GLU  N   :   -0.480:       55
+:  1247: A  60 ASP  OD1 : A  60 ASP  C   :   -0.475:       31
+:  1247: A  62 ASN  HB2 : A  60 ASP  OD1 :   -0.441:       31
+:  1247: A  -5 THR  HB  : A  62 ASN  ND2 :   -0.414:       55
+:  1247: A  -3 PHE  HB3 : A  -5 THR  OG1 :   -0.401:       55
+
+:  1247: A  69 THR  OG1 : A  69 THR  CA  :   -0.865:       19
+
+:  1247: A   5 LYS  NZ  : A   5 LYS  CD  :   -0.754:       32
+:  1247: A   5 LYS  CG  : A   5 LYS  NZ  :   -0.502:       32
+:  1247: A   5 LYS  HG3 : A   5 LYS  NZ  :   -0.490:       32
+:  1247: A   5 LYS  HG2 : A  93 ASP  OD2 :   -0.443:       24
+
+:  1247: A  85 LEU  CA  : A  85 LEU  O   :   -0.752:       15
+:  1247: A  85 LEU HD22 : A  90 ASP  HB3 :   -0.535:       22
+
+:  1247: A  56 ASN  CG  : A  56 ASN  CA  :   -0.720:       26
+
+:  1247: A  57 VAL  O   : A  39 HIS  HA  :   -0.576:       25
+:  1247: A  57 VAL  CG1 : A  63 ASN  OD1 :   -0.446:       30
+
+:  1247: A  99 LYS  HZ2 : A 100 LYS  HD3 :   -0.546:       32
+
+:  1247: A   9 LEU  HB3 : A  94 LEU HD13 :   -0.491:       13
+:  1247: A  68 LEU HD13 : A  94 LEU HD23 :   -0.450:       13
+
+:  1247: A  20 VAL HG13 : A  10 PHE  CZ  :   -0.451:       12
+
+:  1247: A  64 MET  O   : A  64 MET  HG3 :   -0.437:       20
+
+:  1247: A  21 GLU  HG2 : A  24 GLY  HA3 :   -0.422:       28
+
+:  1247: A  66 GLU  OE1 : A  66 GLU  CB  :   -0.401:       34
+#sum2 ::24.86 clashscore : 18.67 clashscore B<40 
+#summary::1247 atoms:1232 atoms B<40:149562 potential dots:9348.0 A^2:31 bumps:23 bumps B<40:274.3 score

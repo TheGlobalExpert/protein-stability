@@ -1,0 +1,27 @@
+KVFinder Input = missense3d/data/mod_pdb/PDB-1shf-A-124ASN.sc.pdb
+KVFinder Output = PDB-1shf-A-124ASN.sc.KVFinder.output.pdb
+
+#KVFinder Results:
+Binary file KVFinder.output.tmp matches
+
+#Interface Residues for Each Cavity: 
+Cavity KAA 129 A
+Cavity KAA 127 A
+Cavity KAA 125 A
+Cavity KAA 124 A
+Cavity KAA 109 A
+Cavity KAA 107 A
+Cavity KAA 104 A
+Cavity KAA 103 A
+Cavity KAA 102 A
+Cavity KAA 101 A
+Cavity KAA 129 A
+Cavity KAA 127 A
+Cavity KAA 125 A
+Cavity KAA 124 A
+Cavity KAA 109 A
+Cavity KAA 107 A
+Cavity KAA 104 A
+Cavity KAA 103 A
+Cavity KAA 102 A
+Cavity KAA 101 A

@@ -1,0 +1,34 @@
+
+:   993: A   1 MET  CA  : A   1 MET  CG  :   -0.926:        0
+:   993: A   1 MET  C   : A   1 MET  CG  :   -0.509:        0
+
+:   993: A  65 LYS  CA  : A  66 LYS  N   :   -0.879:        0
+:   993: A  65 LYS  N   : A  66 LYS  N   :   -0.530:        0
+
+:   993: A  14 GLU  HG2 : A   5 LYS  HB3 :   -0.834:        0
+:   993: A  14 GLU  CG  : A   5 LYS  HB3 :   -0.662:        0
+:   993: A   3 LYS  HE3 : A  14 GLU  HB3 :   -0.533:        0
+:   993: A   4 VAL  O   : A  14 GLU  HA  :   -0.527:        0
+:   993: A  14 GLU  HG2 : A   5 LYS  CB  :   -0.526:        0
+:   993: A   5 LYS  NZ  : A   5 LYS  CB  :   -0.446:        0
+:   993: A  14 GLU  OE2 : A   5 LYS  HE2 :   -0.436:        0
+
+:   993: A   6 PHE  HE1 : A  15 VAL HG12 :   -0.710:        0
+:   993: A  15 VAL HG12 : A   6 PHE  CE1 :   -0.467:        0
+
+:   993: A   7 LYS  HD3 : A   7 LYS  O   :   -0.695:        0
+:   993: A   7 LYS  HD3 : A   7 LYS  C   :   -0.512:        0
+
+:   993: A  35 ASP  HB3 : A  19 LYS  HD2 :   -0.679:        0
+
+:   993: A  36 ASP  HB2 : A  34 TYR  CE2 :   -0.535:        0
+
+:   993: A  23 VAL HG12 : A  58 LEU HD13 :   -0.471:        0
+
+:   993: A   9 LYS  C   : A  11 GLU  H   :   -0.450:        0
+
+:   993: A  16 ASP  OD2 : A  18 SER  OG  :   -0.447:        0
+
+:   993: A  13 LYS  HE3 : A  13 LYS  HB2 :   -0.426:        0
+#sum2 ::21.15 clashscore : 21.15 clashscore B<40 
+#summary::993 atoms:993 atoms B<40:112726 potential dots:7045.0 A^2:21 bumps:21 bumps B<40:221.7 score

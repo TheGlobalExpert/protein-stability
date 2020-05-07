@@ -1,0 +1,16 @@
+
+:  1280: A  18 SER  CA  : A  17 THR  C   :   -0.979:       14
+
+:  1280: A  99 THR  CA  : A  99 THR  CG2 :   -0.948:       13
+:  1280: A  99 THR  CG2 : A  99 THR  C   :   -0.411:       13
+
+:  1280: A  20 ALA  N   : A  20 ALA  CB  :   -0.862:       14
+
+:  1280: A  10 ARG  CG  : A  10 ARG  NE  :   -0.789:       13
+
+:  1280: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.502:       29
+:  1280: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.426:       29
+
+:  1280: A  85 ARG  NH2 : A  83 ASP  OD1 :   -0.447:      158
+#sum2 ::6.25 clashscore : 5.70 clashscore B<40 
+#summary::1280 atoms:1229 atoms B<40:152670 potential dots:9542.0 A^2:8 bumps:7 bumps B<40:430.6 score

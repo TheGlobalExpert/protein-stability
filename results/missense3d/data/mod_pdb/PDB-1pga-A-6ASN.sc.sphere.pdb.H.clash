@@ -1,0 +1,31 @@
+
+:   838: A  52 PHE  CE1 : A  45 TYR  CD1 :   -1.112:        0
+:   838: A  52 PHE  CE1 : A  45 TYR  CE1 :   -1.052:        0
+:   838: A  52 PHE  CZ  : A  45 TYR  CD1 :   -1.030:        0
+:   838: A  52 PHE  CD1 : A  45 TYR  CD1 :   -0.640:        0
+:   838: A  45 TYR  HD1 : A  52 PHE  CD1 :   -0.639:        0
+:   838: A  45 TYR  CE1 : A  52 PHE  CZ  :   -0.603:        0
+:   838: A  45 TYR  HB2 : A  52 PHE  CE2 :   -0.577:        0
+:   838: A  45 TYR  CE1 : A  52 PHE  HE1 :   -0.551:        0
+:   838: A  52 PHE  CZ  : A  45 TYR  CG  :   -0.527:        0
+:   838: A  45 TYR  CD1 : A  52 PHE  CE2 :   -0.466:        0
+:   838: A  45 TYR  HB2 : A  52 PHE  CD2 :   -0.433:        0
+
+:   838: A   4 LYS  HG2 : A  17 THR HG22 :   -0.982:        0
+:   838: A   4 LYS  HG2 : A  17 THR  CG2 :   -0.511:        0
+:   838: A   3 TYR  O   : A  17 THR  HA  :   -0.446:        0
+:   838: A   4 LYS  HA  : A  17 THR  HA  :   -0.403:        0
+
+:   838: A  28 LYS  N   : A  28 LYS  HE3 :   -0.853:        0
+:   838: A  28 LYS  HE3 : A  28 LYS  CA  :   -0.480:        0
+:   838: A  28 LYS  HD2 : A  24 ALA  O   :   -0.412:        0
+
+:   838: A  43 TRP  CE2 : A  54 VAL  HB  :   -0.535:        0
+:   838: A  53 THR  O   : A  43 TRP  HA  :   -0.442:        0
+:   838: A  53 THR  HA  : A   6 ASN  O   :   -0.401:        0
+
+:   838: A  13 LYS  N   : A  12 LEU HD22 :   -0.433:        0
+
+:   838: A  55 THR HG23 : A   8 ASN  OD1 :   -0.425:        0
+#sum2 ::27.45 clashscore : 27.45 clashscore B<40 
+#summary::838 atoms:838 atoms B<40:94768 potential dots:5923.0 A^2:23 bumps:23 bumps B<40:147.9 score

@@ -1,0 +1,37 @@
+
+:   824: A  27 PRO  N   : A  27 PRO  CA  :   -1.305:        0
+:   824: A  27 PRO  CD  : A  27 PRO  N   :   -1.013:        0
+:   824: A  27 PRO  CA  : A  26 GLY  C   :   -0.551:        0
+:   824: A  26 GLY  CA  : A  27 PRO  CA  :   -0.530:        0
+:   824: A  27 PRO  C   : A  27 PRO  CG  :   -0.477:        0
+:   824: A  27 PRO  N   : A  27 PRO  CB  :   -0.438:        0
+:   824: A  27 PRO  N   : A  27 PRO  CG  :   -0.437:        0
+:   824: A  27 PRO  C   : A  27 PRO  HG2 :   -0.409:        0
+
+:   824: A  80 TYR  CD2 : A  80 TYR  CZ  :   -1.028:        0
+
+:   824: A  11 LEU  CD1 : A  11 LEU  CB  :   -0.972:        0
+
+:   824: A  49 TYR  CG  : A  49 TYR  CA  :   -0.941:        0
+:   824: A  49 TYR  CG  : A  49 TYR  C   :   -0.418:        0
+
+:   824: A  92 ILE HD11 : A  81 TYR  HB2 :   -0.771:        0
+
+:   824: A  69 ARG  NE  : A  86 TYR  OH  :   -0.653:        0
+:   824: A  86 TYR  CE1 : A  69 ARG  HG3 :   -0.527:        0
+:   824: A  69 ARG  HG2 : A  68 ARG  C   :   -0.487:        0
+:   824: A  69 ARG  HG3 : A  86 TYR  CZ  :   -0.416:        0
+
+:   824: A  71 ILE HD12 : A  70 ILE  C   :   -0.583:        0
+:   824: A  71 ILE  CD1 : A  71 ILE  N   :   -0.525:        0
+:   824: A  70 ILE HD12 : A  18 THR  HB  :   -0.449:        0
+:   824: A  57 VAL  CG2 : A  70 ILE HG13 :   -0.418:        0
+
+:   824: A  72 THR  O   : A  52 TYR  HA  :   -0.491:        0
+:   824: A  72 THR HG22 : A  79 ASP  OD2 :   -0.422:        0
+
+:   824: A  51 TYR  CE1 : A  74 GLU  HB2 :   -0.429:        0
+
+:   824: A  76 THR  C   : A  77 GLN  HG2 :   -0.424:        0
+#sum2 ::30.34 clashscore : 30.34 clashscore B<40 
+#summary::824 atoms:824 atoms B<40:101649 potential dots:6353.0 A^2:25 bumps:25 bumps B<40:159.1 score

@@ -1,0 +1,29 @@
+
+:  1072: A  63 VAL  C   : A  64 ALA  CA  :   -0.959:        0
+:  1072: A  62 ASN  CA  : A  63 VAL  N   :   -0.890:        0
+:  1072: A  62 ASN  CG  : A  62 ASN  CA  :   -0.864:        0
+:  1072: A  63 VAL  N   : A  63 VAL  C   :   -0.775:        0
+:  1072: A  72 CYS  O   : A  62 ASN  ND2 :   -0.503:        0
+:  1072: A  62 ASN  CA  : A  62 ASN  ND2 :   -0.458:        0
+:  1072: A  62 ASN  CA  : A  61 LYS  O   :   -0.442:        0
+:  1072: A  64 ALA  CA  : A  63 VAL  O   :   -0.430:        0
+:  1072: A  63 VAL  CG2 : A  63 VAL  C   :   -0.409:        0
+
+:  1072: A  60 GLN  CB  : A  60 GLN  N   :   -0.854:        0
+:  1072: A  60 GLN  OE1 : A  75 SER  CA  :   -0.787:        0
+:  1072: A  57 VAL  HA  : A  60 GLN  CD  :   -0.512:        0
+
+:  1072: A 110 CYS  HB2 : A 115 TYR  CE2 :   -0.654:        0
+:  1072: A 110 CYS  HB2 : A 115 TYR  CZ  :   -0.601:        0
+:  1072: A 110 CYS  CB  : A 115 TYR  CE2 :   -0.473:        0
+
+:  1072: A 109 ALA  HB3 : A 119 HIS  HB3 :   -0.495:        0
+:  1072: A 121 ASP  HA  : A 119 HIS  NE2 :   -0.425:        0
+:  1072: A 119 HIS  HE2 : A 121 ASP  HA  :   -0.408:        0
+
+:  1072: A 122 ALA  HB2 : A  66 LYS  NZ  :   -0.461:        0
+:  1072: A 122 ALA  HB2 : A  66 LYS  HZ2 :   -0.412:        0
+
+:  1072: A  11 GLN  HG3 : A   7 LYS  O   :   -0.405:        0
+#sum2 ::19.59 clashscore : 19.59 clashscore B<40 
+#summary::1072 atoms:1072 atoms B<40:129155 potential dots:8072.0 A^2:21 bumps:21 bumps B<40:248.4 score

@@ -1,0 +1,9 @@
+
+:   966: A   1 MET  CA  : A   1 MET  CG  :   -0.940:       13
+:   966: A   1 MET  SD  : A  50 GLU  HG3 :   -0.567:       21
+
+:   966: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.512:       16
+
+:   966: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.495:       28
+#sum2 ::4.14 clashscore : 4.17 clashscore B<40 
+#summary::966 atoms:959 atoms B<40:110001 potential dots:6875.0 A^2:4 bumps:4 bumps B<40:323.7 score

@@ -1,0 +1,19 @@
+
+:   890: A  36 GLU  C   : A  36 GLU  N   :   -0.895:       50
+
+:   890: A  53 GLU  CG  : A  53 GLU  OE1 :   -0.764:       30
+
+:   890: A  22 GLY  O   : A  23 GLN  HG2 :   -0.661:       60
+:   890: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+
+:   890: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   890: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   890: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   890: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   890: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::10.11 clashscore : 7.29 clashscore B<40 
+#summary::890 atoms:686 atoms B<40:102612 potential dots:6413.0 A^2:9 bumps:5 bumps B<40:236.4 score

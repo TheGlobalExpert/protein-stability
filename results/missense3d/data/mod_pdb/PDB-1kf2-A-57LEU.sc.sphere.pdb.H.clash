@@ -1,0 +1,27 @@
+
+:  1127: A  57 LEU HD11 : A  79 MET  HE3 :   -0.922:        0
+:  1127: A  60 GLN  OE1 : A  75 SER  HA  :   -0.892:        0
+:  1127: A  79 MET  CE  : A  57 LEU HD11 :   -0.852:        0
+:  1127: A  57 LEU  HG  : A  60 GLN  OE1 :   -0.629:        0
+:  1127: A  57 LEU HD21 : A  75 SER  HB2 :   -0.618:        0
+:  1127: A  57 LEU  CD2 : A  75 SER  HB2 :   -0.537:        0
+:  1127: A  60 GLN  OE1 : A  57 LEU  HA  :   -0.465:        0
+:  1127: A  79 MET  CE  : A  57 LEU  CD1 :   -0.430:        0
+:  1127: A  75 SER  HB2 : A  57 LEU  CG  :   -0.426:        0
+
+:  1127: A  16 SER  CA  : A  17 THR  N   :   -0.852:        0
+:  1127: A  17 THR  CA  : A  17 THR  OG1 :   -0.715:        0
+
+:  1127: A 110 CYS  HB2 : A 115 TYR  CE2 :   -0.631:        0
+:  1127: A 115 TYR  CZ  : A 110 CYS  HB2 :   -0.587:        0
+:  1127: A 110 CYS  CB  : A 115 TYR  CE2 :   -0.492:        0
+
+:  1127: A 120 PHE  CE2 : A 106 ILE HG23 :   -0.499:        0
+:  1127: A 106 ILE  CG2 : A 120 PHE  CE2 :   -0.455:        0
+:  1127: A 107 ILE  N   : A 106 ILE  CG2 :   -0.427:        0
+:  1127: A 106 ILE HG22 : A 108 VAL HG13 :   -0.415:        0
+
+:  1127: A 119 HIS  NE2 : A 121 ASP  HA  :   -0.470:        0
+:  1127: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.443:        0
+#sum2 ::17.75 clashscore : 17.75 clashscore B<40 
+#summary::1127 atoms:1127 atoms B<40:132018 potential dots:8251.0 A^2:20 bumps:20 bumps B<40:309.9 score

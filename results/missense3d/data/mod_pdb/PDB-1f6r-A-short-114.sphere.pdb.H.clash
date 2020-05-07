@@ -1,0 +1,25 @@
+
+:   742: A 123 LEU  CB  : A 123 LEU  CD1 :   -0.980:       87
+
+:   742: A   7 GLU  C   : A   7 GLU  N   :   -0.800:       39
+:   742: A   8 VAL HG21 : A  36 TYR  CD2 :   -0.613:       36
+:   742: A   7 GLU  N   : A   8 VAL  N   :   -0.435:       39
+
+:   742: A  34 SER  CA  : A  34 SER  OG  :   -0.774:       27
+
+:   742: A  13 LYS  CA  : A  13 LYS  O   :   -0.755:       36
+:   742: A  13 LYS  O   : A  16 LYS  HB2 :   -0.605:       36
+:   742: A  23 LEU  HG  : A  16 LYS  CG  :   -0.476:       35
+
+:   742: A 116 ASP  O   : A 119 LEU  HB2 :   -0.509:       60
+:   742: A 116 ASP  HA  : A 119 LEU HD23 :   -0.486:       61
+
+:   742: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.478:       52
+
+:   742: A  27 VAL HG21 : A   9 PHE  HD1 :   -0.473:       38
+
+:   742: A  25 GLU  HB2 : A  22 SER  O   :   -0.423:       26
+
+:   742: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.407:       28
+#sum2 ::18.87 clashscore : 18.21 clashscore B<40 
+#summary::742 atoms:549 atoms B<40:90433 potential dots:5652.0 A^2:14 bumps:10 bumps B<40:176.1 score

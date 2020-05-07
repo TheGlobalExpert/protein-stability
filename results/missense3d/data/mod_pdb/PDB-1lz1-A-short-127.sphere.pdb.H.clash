@@ -1,0 +1,13 @@
+
+:   679: A 122 ARG  HD2 : A 120 ASP  OD1 :   -1.187:      101
+:   679: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.810:      101
+
+:   679: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:   679: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:   679: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:   679: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:   679: A 126 GLN  NE2 : A 126 GLN  HA  :   -0.423:       89
+#sum2 ::10.31 clashscore : 6.84 clashscore B<40 
+#summary::679 atoms:585 atoms B<40:82702 potential dots:5169.0 A^2:7 bumps:4 bumps B<40:213.5 score

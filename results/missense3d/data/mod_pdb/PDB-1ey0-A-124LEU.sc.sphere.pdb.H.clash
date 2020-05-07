@@ -1,0 +1,33 @@
+
+:  1203: A  61 PHE  CB  : A  61 PHE  C   :   -0.880:        0
+
+:  1203: A  74 VAL HG12 : A  92 ILE  CD1 :   -0.780:        0
+:  1203: A  74 VAL HG12 : A  92 ILE HD12 :   -0.586:        0
+
+:  1203: A  80 GLN  C   : A  80 GLN  N   :   -0.729:        0
+
+:  1203: A 140 TRP  CH2 : A 110 LYS  HE2 :   -0.722:        0
+:  1203: A 129 GLU  O   : A 133 LYS  HG3 :   -0.689:        0
+:  1203: A 133 LYS  HG2 : A 140 TRP  CE2 :   -0.636:        0
+:  1203: A 140 TRP  CD2 : A 133 LYS  HG2 :   -0.519:        0
+
+:  1203: A  41 THR HG22 : A 109 ALA  HB2 :   -0.710:        0
+
+:  1203: A  58 ALA  CA  : A  58 ALA  O   :   -0.672:        0
+
+:  1203: A  36 LEU  HB3 : A 100 ASN  ND2 :   -0.564:        0
+
+:  1203: A 106 GLN  O   : A 138 ASN  ND2 :   -0.545:        0
+
+:  1203: A 139 ILE  HA  : A 139 ILE HD13 :   -0.475:        0
+
+:  1203: A   7 LEU HD21 : A  78 LYS  HG3 :   -0.429:        0
+
+:  1203: A 122 GLU  CD  : A 114 VAL HG21 :   -0.420:        0
+:  1203: A  38 LEU HD22 : A 114 VAL HG22 :   -0.402:        0
+
+:  1203: A 117 PRO  HA  : A 116 LYS  CG  :   -0.411:        0
+
+:  1203: A 118 ASN  OD1 : A  77 ASP  HB3 :   -0.408:        0
+#sum2 ::14.96 clashscore : 14.96 clashscore B<40 
+#summary::1203 atoms:1203 atoms B<40:140650 potential dots:8791.0 A^2:18 bumps:18 bumps B<40:310.8 score

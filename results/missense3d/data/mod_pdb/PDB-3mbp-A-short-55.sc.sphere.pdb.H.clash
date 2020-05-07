@@ -1,0 +1,87 @@
+
+:  1108: A   6 LYS  CE  : A   3 GLU  HB3 :   -1.474:        0
+:  1108: A   3 GLU  CB  : A   6 LYS  HE2 :   -1.312:        0
+:  1108: A   6 LYS  HD3 : A   3 GLU  O   :   -0.931:        0
+:  1108: A   6 LYS  CE  : A   3 GLU  CB  :   -0.845:        0
+:  1108: A   7 LEU  HG  : A  33 ILE HD11 :   -0.822:        0
+:  1108: A   3 GLU  CG  : A   6 LYS  HE2 :   -0.817:        0
+:  1108: A   3 GLU  O   : A   6 LYS  CD  :   -0.794:        0
+:  1108: A   3 GLU  HB3 : A   6 LYS  HE2 :   -0.745:        0
+:  1108: A   3 GLU  HB3 : A   6 LYS  HE3 :   -0.725:        0
+:  1108: A   4 GLU  HG2 : A 271 PRO  HB2 :   -0.711:        0
+:  1108: A   3 GLU  O   : A   4 GLU  C   :   -0.495:        0
+:  1108: A   6 LYS  CE  : A   3 GLU  O   :   -0.482:        0
+:  1108: A   6 LYS  CA  : A  33 ILE HD12 :   -0.468:        0
+:  1108: A 271 PRO  HD3 : A 270 SER  HA  :   -0.460:        0
+
+:  1108: A  43 LEU  CD1 : A  60 ILE HD11 :   -1.155:        0
+:  1108: A  60 ILE HD11 : A  43 LEU HD13 :   -0.937:        0
+:  1108: A  43 LEU HD13 : A  60 ILE  CD1 :   -0.878:        0
+:  1108: A  43 LEU  CD1 : A  60 ILE  CD1 :   -0.468:        0
+:  1108: A  43 LEU HD12 : A  43 LEU  C   :   -0.423:        0
+
+:  1108: A  61 PHE  CE2 : A 264 ALA  HB2 :   -0.901:        0
+:  1108: A 264 ALA  HB2 : A  61 PHE  CZ  :   -0.558:        0
+:  1108: A 263 SER  O   : A  61 PHE  HA  :   -0.510:        0
+:  1108: A  61 PHE  CZ  : A 264 ALA  CB  :   -0.448:        0
+
+:  1108: A 277 LYS  CE  : A 277 LYS  CB  :   -0.868:        0
+
+:  1108: A  57 PRO  HG3 : A  10 TRP  CD2 :   -0.845:        0
+:  1108: A  10 TRP  CG  : A  57 PRO  HG3 :   -0.590:        0
+:  1108: A  57 PRO  HG3 : A  10 TRP  CE3 :   -0.534:        0
+
+:  1108: A 279 PHE  CA  : A 280 LEU  N   :   -0.829:        0
+:  1108: A 280 LEU  CB  : A 280 LEU  N   :   -0.819:        0
+
+:  1108: A 341 TYR  OH  : A  45 GLU  OE2 :   -0.808:        0
+:  1108: A  44 GLU  HB3 : A  62 TRP  CZ3 :   -0.476:        0
+:  1108: A  62 TRP  CH2 : A  44 GLU  HB3 :   -0.450:        0
+:  1108: A  62 TRP  CD1 : A  66 ARG  HB2 :   -0.427:        0
+:  1108: A  44 GLU  HG2 : A  45 GLU  HG2 :   -0.419:        0
+:  1108: A  44 GLU  O   : A  70 TYR  OH  :   -0.419:        0
+
+:  1108: A 104 ILE HD12 : A  71 ALA  HB2 :   -0.805:        0
+:  1108: A 104 ILE  N   : A 103 LEU  O   :   -0.743:        0
+:  1108: A 104 ILE  CD1 : A  71 ALA  HB2 :   -0.645:        0
+:  1108: A 103 LEU  O   : A 104 ILE  HA  :   -0.544:        0
+:  1108: A 104 ILE  CA  : A 103 LEU  O   :   -0.519:        0
+
+:  1108: A 275 LEU  HG  : A 274 GLU  OE1 :   -0.785:        0
+:  1108: A 274 GLU  N   : A 274 GLU  OE2 :   -0.452:        0
+
+:  1108: A  55 ASP  HA  : A   2 ILE  CD1 :   -0.700:        0
+:  1108: A   2 ILE HD11 : A  55 ASP  C   :   -0.692:        0
+:  1108: A  55 ASP  HA  : A   2 ILE HD12 :   -0.594:        0
+:  1108: A  55 ASP  CA  : A   2 ILE HD11 :   -0.452:        0
+:  1108: A   2 ILE  CD1 : A  55 ASP  CA  :   -0.447:        0
+
+:  1108: A  47 PHE  N   : A  48 PRO  HD2 :   -0.673:        0
+:  1108: A  47 PHE  HB3 : A  48 PRO  HD3 :   -0.650:        0
+:  1108: A  46 LYS  HE2 : A  41 ASP  O   :   -0.628:        0
+:  1108: A  46 LYS  CE  : A  41 ASP  O   :   -0.557:        0
+:  1108: A  47 PHE  N   : A  48 PRO  CD  :   -0.549:        0
+:  1108: A  52 ALA  HB2 : A  48 PRO  O   :   -0.522:        0
+:  1108: A  48 PRO  HD2 : A  46 LYS  C   :   -0.476:        0
+:  1108: A  48 PRO  HA  : A  75 LEU  CD1 :   -0.448:        0
+:  1108: A  41 ASP  O   : A  46 LYS  NZ  :   -0.442:        0
+:  1108: A  49 GLN  HB2 : A  46 LYS  O   :   -0.442:        0
+:  1108: A  48 PRO  HD3 : A  47 PHE  CB  :   -0.439:        0
+:  1108: A  75 LEU HD13 : A  48 PRO  HA  :   -0.420:        0
+
+:  1108: A  67 PHE  CE2 : A 105 ALA  HB2 :   -0.613:        0
+:  1108: A  67 PHE  CE2 : A 105 ALA  CB  :   -0.566:        0
+:  1108: A 105 ALA  HB2 : A  67 PHE  HE2 :   -0.520:        0
+:  1108: A  67 PHE  HE2 : A 105 ALA  CB  :   -0.449:        0
+
+:  1108: A  36 THR HG23 : A   8 VAL HG22 :   -0.533:        0
+
+:  1108: A 106 TYR  CE1 : A  79 ILE HG21 :   -0.476:        0
+
+:  1108: A  56 GLY  CA  : A  50 VAL  CG2 :   -0.445:        0
+:  1108: A  56 GLY  HA2 : A  50 VAL HG21 :   -0.438:        0
+
+:  1108: A  11 ILE  O   : A  39 HIS  HA  :   -0.427:        0
+:  1108: A  39 HIS  N   : A  40 PRO  HD3 :   -0.409:        0
+#sum2 ::62.27 clashscore : 62.27 clashscore B<40 
+#summary::1108 atoms:1108 atoms B<40:131066 potential dots:8192.0 A^2:69 bumps:69 bumps B<40:43.55 score

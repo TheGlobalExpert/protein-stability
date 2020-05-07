@@ -1,0 +1,48 @@
+
+:   903: A  63 ASN  OD1 : A  74 TYR  OH  :   -1.155:        0
+:   903: A  55 LYS  HG3 : A  57 VAL HG23 :   -0.809:        0
+:   903: A  57 VAL HG23 : A  55 LYS  CG  :   -0.710:        0
+:   903: A  57 VAL  CG2 : A  55 LYS  HG3 :   -0.691:        0
+:   903: A  57 VAL  CG2 : A  55 LYS  HE2 :   -0.664:        0
+:   903: A  55 LYS  CG  : A  57 VAL  CG2 :   -0.601:        0
+:   903: A  57 VAL  O   : A  39 HIS  HA  :   -0.600:        0
+:   903: A  55 LYS  CE  : A  57 VAL HG22 :   -0.589:        0
+:   903: A  55 LYS  CE  : A  57 VAL  CG2 :   -0.494:        0
+:   903: A  74 TYR  HE2 : A  57 VAL HG21 :   -0.451:        0
+:   903: A  55 LYS  HE2 : A  57 VAL HG22 :   -0.440:        0
+
+:   903: A  18 HIS  HE1 : A  30 PRO  HD2 :   -1.061:        0
+:   903: A  29 GLY  HA3 : A  18 HIS  CE1 :   -0.902:        0
+:   903: A  30 PRO  HD2 : A  18 HIS  CE1 :   -0.826:        0
+:   903: A  30 PRO  CA  : A  30 PRO  O   :   -0.817:        0
+:   903: A  30 PRO  HD3 : A  46 TYR  CZ  :   -0.741:        0
+:   903: A  18 HIS  HE1 : A  30 PRO  CD  :   -0.696:        0
+:   903: A  29 GLY  CA  : A  18 HIS  CE1 :   -0.588:        0
+:   903: A  30 PRO  CD  : A  18 HIS  CE1 :   -0.405:        0
+:   903: A  46 TYR  OH  : A  29 GLY  HA2 :   -0.401:        0
+
+:   903: A  35 ILE  C   : A  35 ILE  CB  :   -0.915:        0
+:   903: A  35 ILE  CG2 : A  35 ILE  C   :   -0.514:        0
+
+:   903: A  28 VAL  C   : A  28 VAL  CB  :   -0.893:        0
+:   903: A  28 VAL  CG1 : A  28 VAL  C   :   -0.540:        0
+
+:   903: A  92 ASN  CA  : A  92 ASN  CG  :   -0.862:        0
+
+:   903: A  73 ILE HG12 : A  70 ASN  OD1 :   -0.715:        0
+:   903: A  73 ILE HG12 : A  70 ASN  CG  :   -0.409:        0
+
+:   903: A  62 ASN  N   : A  60 ASP  OD1 :   -0.599:        0
+:   903: A  62 ASN  HB2 : A  60 ASP  OD1 :   -0.539:        0
+:   903: A  62 ASN  O   : A  66 GLU  OE1 :   -0.516:        0
+:   903: A  60 ASP  OD1 : A  60 ASP  C   :   -0.472:        0
+
+:   903: A  68 LEU HD13 : A  94 LEU HD23 :   -0.533:        0
+:   903: A  64 MET  O   : A  68 LEU  HG  :   -0.429:        0
+
+:   903: A  49 THR HG23 : A  79 LYS  HE2 :   -0.507:        0
+:   903: A  79 LYS  HG2 : A  49 THR HG23 :   -0.402:        0
+
+:   903: A  86 LYS  N   : A  86 LYS  HD3 :   -0.414:        0
+#sum2 ::39.87 clashscore : 39.87 clashscore B<40 
+#summary::903 atoms:903 atoms B<40:110288 potential dots:6893.0 A^2:36 bumps:36 bumps B<40:83.23 score

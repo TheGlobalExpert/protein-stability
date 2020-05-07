@@ -1,0 +1,39 @@
+
+:   825: A 107 ARG  HG3 : A 107 ARG  NH2 :   -1.032:        0
+:   825: A 107 ARG HH21 : A 107 ARG  CG  :   -1.013:        0
+:   825: A 113 ARG  CZ  : A 107 ARG  O   :   -0.888:        0
+:   825: A 107 ARG HH21 : A 107 ARG  HG3 :   -0.868:        0
+:   825: A 107 ARG  HB3 : A 113 ARG HH11 :   -0.722:        0
+:   825: A 107 ARG  NH2 : A 107 ARG  CG  :   -0.630:        0
+:   825: A 107 ARG  HB3 : A 113 ARG  NH1 :   -0.538:        0
+:   825: A 107 ARG  O   : A 113 ARG  NH1 :   -0.507:        0
+:   825: A 112 TRP  CZ3 : A 107 ARG  NH2 :   -0.458:        0
+:   825: A 113 ARG  HE  : A 107 ARG  HB3 :   -0.442:        0
+
+:   825: A 111 ALA  O   : A 115 ARG  HG2 :   -0.725:        0
+:   825: A 111 ALA  HB3 : A  35 GLU  OE2 :   -0.510:        0
+:   825: A 115 ARG  O   : A 119 ARG  HD2 :   -0.441:        0
+:   825: A 119 ARG  HG3 : A 117 GLN  O   :   -0.434:        0
+:   825: A 115 ARG  HB2 : A  34 TRP  CD1 :   -0.413:        0
+
+:   825: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:   825: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:   825: A  33 LYS  HD3 : A  38 TYR  OH  :   -0.604:        0
+:   825: A  38 TYR  CE2 : A  33 LYS  CA  :   -0.431:        0
+:   825: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:   825: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:   825: A  36 SER  OG  : A  36 SER  CA  :   -0.716:        0
+
+:   825: A 126 GLN  HA  : A 126 GLN  OE1 :   -0.574:        0
+:   825: A 122 ARG  HB3 : A 126 GLN HE22 :   -0.427:        0
+
+:   825: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.549:        0
+
+:   825: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:   825: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+
+:   825: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::33.94 clashscore : 33.94 clashscore B<40 
+#summary::825 atoms:825 atoms B<40:97925 potential dots:6120.0 A^2:28 bumps:28 bumps B<40:171.7 score

@@ -1,0 +1,54 @@
+
+:  2201: A   3 ILE HD12 : A  30 LEU HD11 :   -1.057:       23
+:  2201: A  30 LEU HD11 : A   3 ILE  CD1 :   -0.856:       23
+:  2201: A   3 ILE HD12 : A  30 LEU  CD1 :   -0.554:       23
+
+:  2201: A   1 MET  C   : A   1 MET  CB  :   -0.923:       16
+
+:  2201: A 120 GLU  HG3 : A 116 ARG  O   :   -0.799:       20
+
+:  2201: A 146 ILE HD13 : A  52 LEU HD13 :   -0.794:       17
+
+:  2201: A  35 GLU  N   : A  35 GLU  C   :   -0.755:       25
+
+:  2201: A  84 GLU  OE1 : A  11 ARG  HD3 :   -0.728:       17
+:  2201: A  12 GLY  N   : A  13 PRO  CD  :   -0.467:       14
+:  2201: A  11 ARG  C   : A  13 PRO  HD2 :   -0.416:       14
+
+:  2201: A  47 LYS  N   : A  47 LYS  C   :   -0.721:       20
+
+:  2201: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.658:       13
+:  2201: A   4 ALA  HB2 : A  99 PRO  CB  :   -0.435:       13
+
+:  2201: A  49 ARG  HG2 : A 150 VAL  CG2 :   -0.605:       20
+:  2201: A  50 GLU  O   : A  53 PHE  HB3 :   -0.490:       19
+:  2201: A  53 PHE  HB2 : A 150 VAL HG21 :   -0.402:       17
+
+:  2201: A 170 TYR  CA  : A 171 PRO  CD  :   -0.547:       23
+
+:  2201: A 153 ASP  OD2 : A 149 LYS  HE3 :   -0.546:       17
+
+:  2201: A  83 PHE  CZ  : A  68 LEU HD13 :   -0.501:       15
+
+:  2201: A  60 LEU HD23 : A  25 VAL HG22 :   -0.483:       15
+:  2201: A  26 ASP  O   : A  25 VAL HG12 :   -0.473:       18
+
+:  2201: A 151 THR  HB  : A  19 VAL HG11 :   -0.480:       13
+
+:  2201: A  76 ARG  HD2 : A  78 GLY  O   :   -0.475:       21
+
+:  2201: A 133 LYS  O   : A 133 LYS  HG3 :   -0.474:       24
+
+:  2201: A  69 PRO  HG2 : A  72 VAL HG23 :   -0.457:       18
+
+:  2201: A  63 TYR  CE2 : A  57 LEU HD22 :   -0.455:       17
+
+:  2201: A   6 ILE HD11 : A  88 PHE  HA  :   -0.452:       11
+
+:  2201: A  64 VAL HG23 : A  95 LEU HD23 :   -0.422:       12
+
+:  2201: A 130 ALA  HA  : A 104 ALA  O   :   -0.409:       19
+
+:  2201: A  41 SER  HA  : A  44 LEU  HG  :   -0.407:       24
+#sum2 ::13.63 clashscore : 13.63 clashscore B<40 
+#summary::2201 atoms:2201 atoms B<40:255726 potential dots:15980.0 A^2:30 bumps:30 bumps B<40:760.1 score

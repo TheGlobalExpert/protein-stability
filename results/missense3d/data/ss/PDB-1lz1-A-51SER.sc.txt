@@ -1,0 +1,9 @@
+SGFILE missense3d/data/mod_pdb/PDB-1lz1-A-51SER.sc.pdb             
+NUMCYS      8
+NUMSGA      8
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap
+INTRA    6  CYS A  SG   . -  128  CYS A  SG   .     2.017   123
+INTRA   30  CYS A  SG   . -  116  CYS A  SG   .     1.923    87
+INTRA   65  CYS A  SG   . -   81  CYS A  SG   .     2.051    17
+INTRA   77  CYS A  SG   . -   95  CYS A  SG   .     1.843    19

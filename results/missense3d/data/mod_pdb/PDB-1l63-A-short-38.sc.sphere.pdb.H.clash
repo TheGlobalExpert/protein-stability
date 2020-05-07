@@ -1,0 +1,32 @@
+
+:   670: A  52 ARG  CA  : A  52 ARG  CG  :   -0.924:        0
+:   670: A  52 ARG  N   : A  51 GLY  CA  :   -0.878:        0
+:   670: A  54 THR  HA  : A  52 ARG  NH2 :   -0.600:        0
+:   670: A  52 ARG  C   : A  52 ARG  CG  :   -0.537:        0
+:   670: A  52 ARG  CZ  : A  54 THR HG22 :   -0.500:        0
+
+:   670: A  16 LYS  HE3 : A  57 VAL HG23 :   -0.859:        0
+:   670: A  16 LYS  HE2 : A  56 GLY  O   :   -0.632:        0
+:   670: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.619:        0
+:   670: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.606:        0
+:   670: A  57 VAL  CG2 : A  16 LYS  HD2 :   -0.530:        0
+:   670: A  16 LYS  CE  : A  56 GLY  O   :   -0.486:        0
+
+:   670: A 137 ARG  NH2 : A 137 ARG  NH1 :   -0.789:        0
+
+:   670: A  14 ARG  NH2 : A  18 TYR  HB2 :   -0.777:        0
+:   670: A  14 ARG  NH2 : A  18 TYR  CB  :   -0.699:        0
+:   670: A  14 ARG  CZ  : A  18 TYR  HB3 :   -0.417:        0
+
+:   670: A  29 ILE  N   : A  29 ILE  C   :   -0.710:        0
+
+:   670: A  26 THR HG22 : A  27 ILE  N   :   -0.563:        0
+:   670: A  26 THR HG23 : A  31 HIS  C   :   -0.491:        0
+:   670: A  31 HIS  O   : A  26 THR HG23 :   -0.455:        0
+:   670: A  27 ILE  N   : A  26 THR  CG2 :   -0.421:        0
+
+:   670: A  20 ASP  OD2 : A  20 ASP  C   :   -0.498:        0
+
+:   670: A  48 LYS  HB3 : A  48 LYS  HE3 :   -0.410:        0
+#sum2 ::32.84 clashscore : 32.84 clashscore B<40 
+#summary::670 atoms:670 atoms B<40:78386 potential dots:4899.0 A^2:22 bumps:22 bumps B<40:127.7 score

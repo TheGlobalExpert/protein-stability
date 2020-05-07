@@ -1,0 +1,19 @@
+
+:   999: A  80 VAL HG21 : A  18 MET  CE  :   -0.825:       31
+:   999: A  80 VAL  CG2 : A  18 MET  CE  :   -0.761:       31
+:   999: A  80 VAL HG21 : A  18 MET  HE1 :   -0.745:       31
+:   999: A  80 VAL  CG2 : A  18 MET  HE3 :   -0.687:       31
+
+:   999: A  57 GLY  O   : A  58 ILE  N   :   -0.717:       14
+
+:   999: A  93 ILE HD13 : A  85 VAL HG21 :   -0.643:       27
+
+:   999: A  78 HIS  CD2 : A  79 THR  O   :   -0.475:       50
+
+:   999: A  96 LEU HD22 : A  61 TYR  CE2 :   -0.435:       30
+
+:   999: A   1 VAL  O   : A   1 VAL HG12 :   -0.425:       30
+
+:   999: A  73 LEU HD12 : A  73 LEU  HA  :   -0.413:       30
+#sum2 ::10.01 clashscore : 9.30 clashscore B<40 
+#summary::999 atoms:968 atoms B<40:117547 potential dots:7347.0 A^2:10 bumps:9 bumps B<40:329.3 score

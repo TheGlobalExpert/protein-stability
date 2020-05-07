@@ -1,0 +1,16 @@
+
+:  1371: A   4 PHE  CB  : A   4 PHE  CD2 :   -0.949:       18
+
+:  1371: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1371: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1371: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1371: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1371: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1371: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1371: A  48 LYS  CB  : A  48 LYS  CE  :   -0.445:       25
+
+:  1371: A  62 GLU  OE1 : A  62 GLU  CB  :   -0.433:       21
+#sum2 ::6.56 clashscore : 2.44 clashscore B<40 
+#summary::1371 atoms:1231 atoms B<40:162395 potential dots:10150.0 A^2:9 bumps:3 bumps B<40:499.3 score

@@ -1,0 +1,22 @@
+
+:   669: A 110 VAL  N   : A 110 VAL  CB  :   -0.838:       39
+:   669: A 110 VAL  N   : A 110 VAL  CG2 :   -0.582:       40
+
+:   669: A 107 ARG  O   : A 108 ALA  N   :   -0.707:       25
+
+:   669: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   669: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   669: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   669: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   669: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   669: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:   669: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:   669: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:   669: A 103 PRO  HD2 : A 102 ASP  HB3 :   -0.402:       88
+#sum2 ::17.94 clashscore : 6.85 clashscore B<40 
+#summary::669 atoms:584 atoms B<40:81713 potential dots:5107.0 A^2:12 bumps:4 bumps B<40:196.7 score

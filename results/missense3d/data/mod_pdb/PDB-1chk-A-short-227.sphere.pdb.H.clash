@@ -1,0 +1,38 @@
+
+:  1265: A 200 HIS  CB  : A 200 HIS  C   :   -0.967:       49
+:  1265: A 200 HIS  CB  : A 200 HIS  ND1 :   -0.682:       45
+:  1265: A 200 HIS  CB  : A 201 ASP  N   :   -0.417:       49
+
+:  1265: A 143 TYR  CB  : A 143 TYR  CD1 :   -0.915:        9
+:  1265: A 143 TYR  CD1 : A 143 TYR  CA  :   -0.546:       11
+
+:  1265: A   9 HIS  N   : A   8 PRO  O   :   -0.751:       20
+:  1265: A   9 HIS  CA  : A   8 PRO  O   :   -0.488:       22
+
+:  1265: A 180 THR  N   : A 179 GLU  O   :   -0.716:       25
+:  1265: A 180 THR  CA  : A 179 GLU  O   :   -0.488:       25
+
+:  1265: A 206 VAL HG13 : A 187 LEU  HG  :   -0.574:       13
+:  1265: A 210 GLN  HB2 : A 206 VAL  HA  :   -0.451:       18
+:  1265: A 187 LEU HD12 : A 187 LEU  HA  :   -0.404:       13
+
+:  1265: A  26 LEU  HG  : A  16 GLU  HB3 :   -0.561:       23
+:  1265: A  26 LEU HD13 : A 234 TYR  CD2 :   -0.411:       23
+
+:  1265: A 141 PHE  CZ  : A  17 LEU  HB3 :   -0.498:       15
+:  1265: A 227 TRP  CZ2 : A  17 LEU HD13 :   -0.402:       25
+
+:  1265: A 232 ASP  O   : A 228 LYS  HA  :   -0.450:       22
+
+:  1265: A  19 SER  HB2 : A  28 TRP  HB3 :   -0.416:       14
+
+:  1265: A 212 VAL  HB  : A 209 GLU  O   :   -0.410:       23
+
+:  1265: A 148 VAL HG11 : A  18 VAL  CG1 :   -0.409:       13
+:  1265: A 147 ILE  N   : A 148 VAL  N   :   -0.403:       12
+
+:  1265: A 223 PRO  HB2 : A 238 SER  HA  :   -0.407:       40
+
+:  1265: A 190 ARG  HE  : A 150 HIS  HE1 :   -0.403:       27
+#sum2 ::18.18 clashscore : 15.46 clashscore B<40 
+#summary::1265 atoms:1229 atoms B<40:152882 potential dots:9555.0 A^2:23 bumps:19 bumps B<40:438.9 score

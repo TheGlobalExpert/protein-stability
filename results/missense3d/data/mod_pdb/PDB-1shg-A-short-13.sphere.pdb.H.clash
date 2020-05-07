@@ -1,0 +1,20 @@
+
+:   872: A  46 VAL HG22 : A  31 LEU HD22 :   -0.970:       33
+:   872: A  46 VAL HG22 : A  31 LEU  CD2 :   -0.729:       33
+:   872: A  60 LYS  HA  : A   9 VAL HG12 :   -0.710:       38
+:   872: A  60 LYS  CG  : A   7 GLU  OE1 :   -0.455:      100
+:   872: A   9 VAL  CG2 : A  31 LEU  HB2 :   -0.424:       22
+
+:   872: A  47 ASN  HB3 : A  48 ASP  OD1 :   -0.816:       65
+:   872: A  48 ASP  OD1 : A  48 ASP  N   :   -0.764:       54
+
+:   872: A  51 GLY  HA3 : A  23 VAL HG13 :   -0.750:       25
+:   872: A  51 GLY  HA3 : A  23 VAL  CG1 :   -0.424:       25
+
+:   872: A  39 LYS  HE2 : A  40 ASP  OD1 :   -0.672:       69
+
+:   872: A  44 VAL  O   : A  50 GLN  HA  :   -0.442:       29
+
+:   872: A  45 GLU  HA  : A  49 ARG  O   :   -0.426:       34
+#sum2 ::13.76 clashscore : 11.41 clashscore B<40 
+#summary::872 atoms:701 atoms B<40:98532 potential dots:6158.0 A^2:12 bumps:8 bumps B<40:211.1 score

@@ -1,0 +1,51 @@
+
+:  1041: A  39 PRO  N   : A  39 PRO  CD  :   -1.432:        0
+:  1041: A  39 PRO  CD  : A  38 TYR  C   :   -0.778:        0
+:  1041: A  36 ASN  HB2 : A  38 TYR  CE2 :   -0.421:        0
+
+:  1041: A 100 PHE  CE2 : A  77 ARG  NH2 :   -1.127:        0
+:  1041: A  40 HIS  NE2 : A  58 GLU  CD  :   -1.065:        0
+:  1041: A 100 PHE  CZ  : A  77 ARG  NH2 :   -1.060:        0
+:  1041: A  40 HIS  CE1 : A  58 GLU  CD  :   -1.000:        0
+:  1041: A  77 ARG  NH2 : A 100 PHE  HE2 :   -0.900:        0
+:  1041: A  77 ARG  NE  : A  58 GLU  OE2 :   -0.879:        0
+:  1041: A  77 ARG  CD  : A  58 GLU  OE2 :   -0.810:        0
+:  1041: A  58 GLU  OE1 : A  40 HIS  NE2 :   -0.777:        0
+:  1041: A  40 HIS  HE2 : A  58 GLU  CD  :   -0.774:        0
+:  1041: A 100 PHE  HE2 : A  77 ARG HH21 :   -0.761:        0
+:  1041: A 100 PHE  HZ  : A  77 ARG  NH2 :   -0.718:        0
+:  1041: A  40 HIS  NE2 : A  58 GLU  CG  :   -0.688:        0
+:  1041: A  58 GLU  OE2 : A  40 HIS  CE1 :   -0.672:        0
+:  1041: A  58 GLU  OE2 : A  77 ARG  HD3 :   -0.639:        0
+:  1041: A  40 HIS  CE1 : A  58 GLU  CG  :   -0.607:        0
+:  1041: A  40 HIS  HD2 : A  41 LYS  O   :   -0.586:        0
+:  1041: A  58 GLU  HG2 : A  40 HIS  CD2 :   -0.585:        0
+:  1041: A 100 PHE  HZ  : A  77 ARG  CZ  :   -0.514:        0
+:  1041: A  40 HIS  C   : A  40 HIS  CD2 :   -0.513:        0
+:  1041: A  58 GLU  OE2 : A  40 HIS  HE1 :   -0.490:        0
+:  1041: A  58 GLU  CD  : A  77 ARG  HD3 :   -0.485:        0
+:  1041: A  40 HIS  NE2 : A  58 GLU  HG2 :   -0.476:        0
+
+:  1041: A  99 ASN  HB2 : A  96 SER  O   :   -0.951:        0
+:  1041: A  96 SER  O   : A  99 ASN  CB  :   -0.512:        0
+
+:  1041: A  13 SER  CA  : A  13 SER  O   :   -0.776:        0
+
+:  1041: A  85 GLN  O   : A  86 LEU  N   :   -0.775:        0
+:  1041: A  86 LEU  CA  : A  85 GLN  O   :   -0.469:        0
+
+:  1041: A  33 VAL HG21 : A  59 TRP  HH2 :   -0.643:        0
+:  1041: A  61 ILE  HB  : A  78 VAL HG13 :   -0.585:        0
+:  1041: A  59 TRP  CZ2 : A  68 TYR  HB3 :   -0.504:        0
+:  1041: A  33 VAL HG21 : A  59 TRP  CH2 :   -0.466:        0
+:  1041: A  33 VAL  CG2 : A  59 TRP  CH2 :   -0.453:        0
+:  1041: A  59 TRP  HH2 : A  33 VAL  CG2 :   -0.437:        0
+:  1041: A  60 PRO  HD3 : A  59 TRP  HA  :   -0.424:        0
+:  1041: A  78 VAL HG22 : A  59 TRP  O   :   -0.413:        0
+
+:  1041: A 104 THR  OXT : A   4 TYR  HA  :   -0.447:        0
+:  1041: A 104 THR HG22 : A 104 THR  O   :   -0.435:        0
+
+:  1041: A  43 ASN  O   : A  44 ASN  CB  :   -0.425:        0
+#sum2 ::39.39 clashscore : 39.39 clashscore B<40 
+#summary::1041 atoms:1041 atoms B<40:125839 potential dots:7865.0 A^2:41 bumps:41 bumps B<40:165.5 score

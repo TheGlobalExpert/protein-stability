@@ -1,0 +1,13 @@
+
+:   965: A  30 TYR  C   : A  31 SER  CA  :   -0.965:        9
+:   965: A  30 TYR  CB  : A  30 TYR  C   :   -0.934:        9
+
+:   965: A   6 VAL  CB  : A   6 VAL  N   :   -0.814:        7
+
+:   965: A  15 ALA  CA  : A  15 ALA  O   :   -0.725:        6
+
+:   965: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:   965: A  35 VAL HG11 : A  32 GLN  OE1 :   -0.408:       11
+#sum2 ::6.22 clashscore : 6.22 clashscore B<40 
+#summary::965 atoms:964 atoms B<40:116012 potential dots:7251.0 A^2:6 bumps:6 bumps B<40:334.4 score

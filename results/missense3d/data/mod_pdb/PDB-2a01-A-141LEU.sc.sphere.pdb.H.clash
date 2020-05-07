@@ -1,0 +1,26 @@
+
+:   436: A 143 PRO  HD3 : A 142 SER  HB3 :   -1.021:        0
+:   436: A 142 SER  HB3 : A 143 PRO  CD  :   -0.718:        0
+:   436: A 142 SER  CB  : A 143 PRO  CD  :   -0.567:        0
+:   436: A 142 SER  H   : A 143 PRO  HD2 :   -0.522:        0
+
+:   436: A  42 LEU  CA  : A  41 GLN  C   :   -0.960:        0
+
+:   436: A 153 ARG  CB  : A 153 ARG  N   :   -0.862:        0
+
+:   436: A 139 GLU  CD  : A 140 LYS  H   :   -0.836:        0
+:   436: A 139 GLU  OE1 : A 140 LYS  N   :   -0.499:        0
+
+:   436: A 137 LEU HD12 : A 133 LYS  HA  :   -0.711:        0
+:   436: A 137 LEU HD12 : A 133 LYS  CA  :   -0.527:        0
+:   436: A 137 LEU  HB2 : A 133 LYS  O   :   -0.415:        0
+
+:   436: A 134 LEU  HA  : A 138 GLN  OE1 :   -0.642:        0
+:   436: A 138 GLN  HB2 : A 134 LEU  O   :   -0.402:        0
+
+:   436: A 148 MET  CE  : A 144 LEU HD22 :   -0.487:        0
+
+:   436: A 136 GLU  OE1 : A 132 GLN  HA  :   -0.430:        0
+:   436: A 136 GLU  HB2 : A 132 GLN  O   :   -0.419:        0
+#sum2 ::36.70 clashscore : 36.70 clashscore B<40 
+#summary::436 atoms:436 atoms B<40:52888 potential dots:3306.0 A^2:16 bumps:16 bumps B<40:-13.49 score

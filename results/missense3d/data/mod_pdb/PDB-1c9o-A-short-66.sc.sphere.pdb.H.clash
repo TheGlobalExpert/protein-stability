@@ -1,0 +1,30 @@
+
+:   802: A  52 VAL  CB  : A  52 VAL  N   :   -0.810:        0
+
+:   802: A  36 GLU  HG3 : A  37 GLY  H   :   -0.805:        0
+:   802: A  36 GLU  HG3 : A  37 GLY  N   :   -0.728:        0
+
+:   802: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.795:        0
+:   802: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.503:        0
+:   802: A  65 LYS  HE2 : A  41 LEU  CD2 :   -0.432:        0
+
+:   802: A   5 LYS  HE2 : A  19 GLU  CD  :   -0.761:        0
+:   802: A  19 GLU  OE1 : A   5 LYS  HE2 :   -0.695:        0
+:   802: A  19 GLU  CG  : A   5 LYS  HG3 :   -0.624:        0
+:   802: A   5 LYS  CE  : A  19 GLU  CD  :   -0.573:        0
+:   802: A  19 GLU  OE1 : A   5 LYS  CE  :   -0.542:        0
+:   802: A   5 LYS  HE2 : A  19 GLU  CG  :   -0.424:        0
+:   802: A  19 GLU  HG3 : A   5 LYS  CG  :   -0.420:        0
+:   802: A  19 GLU  CG  : A   5 LYS  CG  :   -0.419:        0
+
+:   802: A  11 ASN  CA  : A  11 ASN  O   :   -0.754:        0
+
+:   802: A  24 SER  N   : A  24 SER  C   :   -0.720:        0
+
+:   802: A   1 MET  SD  : A  50 GLU  HG3 :   -0.673:        0
+
+:   802: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.635:        0
+
+:   802: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.452:        0
+#sum2 ::23.69 clashscore : 23.69 clashscore B<40 
+#summary::802 atoms:802 atoms B<40:95258 potential dots:5954.0 A^2:19 bumps:19 bumps B<40:180.8 score

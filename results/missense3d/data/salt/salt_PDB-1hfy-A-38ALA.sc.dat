@@ -1,0 +1,15 @@
+
+______________________________________________
+
+SECONDARY STRUCTURE INFORMATION
+-------------------------------
+NO OF HELICES and RESIDUE  =      0     0
+NO OF STRANDS and RESIDUE  =      0     0
+NO OF TURNS   and RESIDUE  =      0     0
+______________________________________________
+Setting cut-off distance to     5.000
+$SALTB    1 GLU A   1 .   LYS A  11        . OE1  NZ       4.572  $INTRA $NO
+$SALTB    2 ASP A  14 .   LYS A  93        . OD1  NZ       4.850  $INTRA $NO
+$SALTB    3 ASP A  17 .   LYS A  16        . OD2  NZ       4.806  $INTRA $NO
+$SALTB    4 GLU A  25 .   LYS A 108        . OE1  NZ       4.087  $INTRA $NO
+$SALTB    5 ASP A  46 .   LYS A  58        . OD2  NZ       3.250  $INTRA $NO

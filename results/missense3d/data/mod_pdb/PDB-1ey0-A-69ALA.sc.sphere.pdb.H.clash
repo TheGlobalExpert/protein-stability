@@ -1,0 +1,26 @@
+
+:  1016: A  76 PHE  CE1 : A  76 PHE  CG  :   -1.009:        0
+:  1016: A  76 PHE  CG  : A  76 PHE  CA  :   -0.950:        0
+
+:  1016: A  74 VAL HG12 : A  92 ILE  CD1 :   -0.780:        0
+:  1016: A  74 VAL HG12 : A  92 ILE HD12 :   -0.586:        0
+
+:  1016: A  73 GLU  CG  : A  71 LYS  HE2 :   -0.645:        0
+:  1016: A  71 LYS  HE2 : A  73 GLU  CD  :   -0.591:        0
+
+:  1016: A  36 LEU  HB3 : A 100 ASN  ND2 :   -0.564:        0
+
+:  1016: A  10 GLU  OE1 : A  27 TYR  OH  :   -0.563:        0
+
+:  1016: A  26 MET  CE  : A  15 ILE HD11 :   -0.513:        0
+:  1016: A  26 MET  HE2 : A  26 MET  HB2 :   -0.500:        0
+:  1016: A  15 ILE HD11 : A  26 MET  HE1 :   -0.428:        0
+
+:  1016: A  63 LYS  O   : A  67 GLU  HB2 :   -0.449:        0
+:  1016: A  67 GLU  OE1 : A  63 LYS  NZ  :   -0.408:        0
+
+:  1016: A  14 LEU  HB2 : A  72 ILE  CD1 :   -0.439:        0
+
+:  1016: A  65 MET  HG2 : A  61 PHE  O   :   -0.418:        0
+#sum2 ::14.76 clashscore : 14.76 clashscore B<40 
+#summary::1016 atoms:1016 atoms B<40:122801 potential dots:7675.0 A^2:15 bumps:15 bumps B<40:271.4 score

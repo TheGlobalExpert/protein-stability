@@ -1,0 +1,35 @@
+
+:  1304: A 122 ARG  HD2 : A 120 ASP  OD1 :   -1.187:      101
+:  1304: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.810:      101
+
+:  1304: A  76 ALA  C   : A  76 ALA  CB  :   -0.890:       21
+
+:  1304: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:  1304: A 107 ARG HH12 : A 112 TRP  HH2 :   -0.762:      106
+:  1304: A 112 TRP  CZ3 : A 107 ARG  NH1 :   -0.738:      106
+:  1304: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+:  1304: A 112 TRP  HZ3 : A 107 ARG HH11 :   -0.478:      106
+
+:  1304: A 115 ARG  HG2 : A 111 ALA  O   :   -0.767:       46
+
+:  1304: A  10 ARG  NE  : A  10 ARG  NH2 :   -0.761:       19
+:  1304: A  10 ARG  NH2 : A  10 ARG  CD  :   -0.485:       19
+
+:  1304: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1304: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1304: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+
+:  1304: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1304: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1304: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1304: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+:  1304: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:  1304: A 126 GLN  NE2 : A 126 GLN  HA  :   -0.423:       89
+
+:  1304: A 103 PRO  HD2 : A 102 ASP  HB3 :   -0.402:       88
+#sum2 ::16.10 clashscore : 7.98 clashscore B<40 
+#summary::1304 atoms:1128 atoms B<40:151184 potential dots:9449.0 A^2:21 bumps:9 bumps B<40:404.2 score

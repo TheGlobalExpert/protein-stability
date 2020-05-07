@@ -1,0 +1,18 @@
+
+:  1192: A  32 LEU  CD1 : A  32 LEU  CB  :   -0.974:       27
+:  1192: A  32 LEU  CB  : A  32 LEU  N   :   -0.817:       27
+
+:  1192: A  18 TYR  C   : A  18 TYR  CB  :   -0.880:       19
+
+:  1192: A 126 TRP  CE3 : A 126 TRP  CG  :   -0.878:       17
+:  1192: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1192: A 114 PHE  CA  : A 114 PHE  O   :   -0.736:       22
+
+:  1192: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1192: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1192: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1192: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+#sum2 ::8.39 clashscore : 7.24 clashscore B<40 
+#summary::1192 atoms:1105 atoms B<40:143471 potential dots:8967.0 A^2:10 bumps:8 bumps B<40:407.3 score

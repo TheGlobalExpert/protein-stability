@@ -1,0 +1,14 @@
+
+:   708: A  42 TYR  H   : A  43 LYS  HD3 :   -0.678:       72
+:   708: A  43 LYS  HD2 : A  39 ASN  ND2 :   -0.619:       79
+:   708: A  43 LYS  HD2 : A  39 ASN HD22 :   -0.607:       79
+:   708: A  39 ASN  HA  : A  43 LYS  HG3 :   -0.429:       70
+:   708: A  43 LYS  HE2 : A  41 GLY  HA2 :   -0.424:       76
+
+:   708: A  70 LEU HD11 : A   6 THR HG22 :   -0.473:       40
+
+:   708: A  34 PHE  HA  : A  37 ILE HD12 :   -0.451:       29
+
+:   708: A  67 VAL  HA  : A  52 SER  O   :   -0.400:       20
+#sum2 ::11.30 clashscore : 5.07 clashscore B<40 
+#summary::708 atoms:592 atoms B<40:83876 potential dots:5242.0 A^2:8 bumps:3 bumps B<40:236 score

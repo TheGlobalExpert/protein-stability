@@ -1,0 +1,30 @@
+
+:  1441: A   5 ARG  CA  : A   5 ARG  CG  :   -0.922:       13
+
+:  1441: A  79 LEU  O   : A  79 LEU  CA  :   -0.758:       20
+
+:  1441: A  62 ARG  NH1 : A  62 ARG  NE  :   -0.753:       29
+:  1441: A  62 ARG  CD  : A  62 ARG  NH1 :   -0.651:       29
+:  1441: A  62 ARG  HD2 : A  62 ARG  NH1 :   -0.591:       29
+
+:  1441: A  81 CYS  CA  : A  81 CYS  O   :   -0.717:       10
+
+:  1441: A 120 ASP  OD1 : A 122 ARG  HG2 :   -0.624:       31
+
+:  1441: A  13 LYS  HE2 : A 130 VAL  OXT :   -0.564:       26
+
+:  1441: A 117 GLN  HB2 : A 112 TRP  CZ3 :   -0.564:       18
+:  1441: A 112 TRP  CD1 : A 116 CYS  HB2 :   -0.411:       12
+
+:  1441: A  64 TRP  O   : A  77 ALA  HB3 :   -0.498:       24
+:  1441: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.479:       24
+:  1441: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.429:       15
+:  1441: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.400:       17
+
+:  1441: A  53 ASP  HB3 : A  58 GLN  HB3 :   -0.461:       12
+
+:  1441: A  33 LYS  HG2 : A 124 TYR  HE1 :   -0.438:       20
+
+:  1441: A  97 LYS  O   : A 101 ARG  HG3 :   -0.416:       16
+#sum2 ::11.80 clashscore : 11.81 clashscore B<40 
+#summary::1441 atoms:1440 atoms B<40:172022 potential dots:10750.0 A^2:17 bumps:17 bumps B<40:528.8 score

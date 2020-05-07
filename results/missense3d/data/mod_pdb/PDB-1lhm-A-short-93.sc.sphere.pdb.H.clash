@@ -1,0 +1,70 @@
+
+:  1608: A  99 VAL HG22 : A  64 TRP  CE2 :   -1.005:        0
+:  1608: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.916:        0
+:  1608: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.876:        0
+:  1608: A  99 VAL HG13 : A  64 TRP  CZ2 :   -0.698:        0
+:  1608: A  99 VAL  HA  : A  64 TRP  CZ3 :   -0.678:        0
+:  1608: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.673:        0
+:  1608: A  64 TRP  CZ2 : A  99 VAL HG22 :   -0.664:        0
+:  1608: A 109 TRP  CH2 : A  99 VAL  CG1 :   -0.581:        0
+:  1608: A  59 ILE  CG2 : A  64 TRP  HB2 :   -0.549:        0
+:  1608: A  77 ALA  HB3 : A  64 TRP  O   :   -0.519:        0
+:  1608: A  64 TRP  CD1 : A  59 ILE HG23 :   -0.504:        0
+:  1608: A  99 VAL HG22 : A  64 TRP  CE3 :   -0.450:        0
+:  1608: A  99 VAL HG11 : A 109 TRP  CZ2 :   -0.425:        0
+:  1608: A  95 ALA  HB1 : A  59 ILE HD13 :   -0.403:        0
+:  1608: A  99 VAL  HB  : A 109 TRP  HH2 :   -0.403:        0
+
+:  1608: A 115 ARG  CB  : A 115 ARG  C   :   -0.982:        0
+
+:  1608: A 113 ARG  CG  : A 113 ARG  CA  :   -0.924:        0
+:  1608: A 113 ARG  CG  : A 113 ARG  NE  :   -0.823:        0
+:  1608: A 107 ARG  O   : A 113 ARG  NH1 :   -0.602:        0
+:  1608: A 107 ARG  CD  : A 107 ARG  NH2 :   -0.476:        0
+
+:  1608: A  51 SER  CB  : A  51 SER  C   :   -0.850:        0
+
+:  1608: A 128 CYS  SG  : A   6 CYS  SG  :   -0.769:        0
+
+:  1608: A 129 GLY  C   : A 129 GLY  N   :   -0.742:        0
+
+:  1608: A  93 VAL HG21 : A  15 LEU  CD1 :   -0.632:        0
+:  1608: A  97 LYS  HB3 : A  20 TYR  CZ  :   -0.590:        0
+:  1608: A 101 ARG  CZ  : A  98 ARG  HA  :   -0.541:        0
+:  1608: A 101 ARG  HG3 : A  97 LYS  O   :   -0.525:        0
+:  1608: A  17 MET  SD  : A  93 VAL HG13 :   -0.517:        0
+:  1608: A  20 TYR  OH  : A  97 LYS  HB3 :   -0.487:        0
+:  1608: A  20 TYR  CE1 : A  97 LYS  HD3 :   -0.458:        0
+:  1608: A  15 LEU HD12 : A  93 VAL HG21 :   -0.457:        0
+:  1608: A  93 VAL HG21 : A  15 LEU HD13 :   -0.427:        0
+:  1608: A  97 LYS  HE3 : A  93 VAL  CG1 :   -0.405:        0
+
+:  1608: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.580:        0
+:  1608: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.564:        0
+:  1608: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.560:        0
+
+:  1608: A 121 VAL  O   : A 124 TYR  HD2 :   -0.567:        0
+
+:  1608: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.495:        0
+
+:  1608: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.468:        0
+:  1608: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.409:        0
+
+:  1608: A 106 ILE  O   : A 106 ILE HG13 :   -0.467:        0
+:  1608: A 106 ILE HG12 : A 112 TRP  NE1 :   -0.450:        0
+:  1608: A 106 ILE HG12 : A 112 TRP  CD1 :   -0.425:        0
+
+:  1608: A  54 TYR  HD2 : A  85 LEU HD21 :   -0.461:        0
+:  1608: A  54 TYR  CE1 : A  52 THR  HB  :   -0.426:        0
+
+:  1608: A 103 PRO  HD2 : A 102 ASP  CB  :   -0.460:        0
+
+:  1608: A  75 ASN  ND2 : A  78 HIS  HA  :   -0.442:        0
+
+:  1608: A  74 VAL  CG2 : A  63 TYR  HA  :   -0.429:        0
+
+:  1608: A  35 GLU  HB3 : A  58 GLN  CG  :   -0.410:        0
+
+:  1608: A 130 VAL  OXT : A  13 LYS  HE2 :   -0.408:        0
+#sum2 ::31.09 clashscore : 31.09 clashscore B<40 
+#summary::1608 atoms:1608 atoms B<40:189077 potential dots:11820.0 A^2:50 bumps:50 bumps B<40:368.2 score

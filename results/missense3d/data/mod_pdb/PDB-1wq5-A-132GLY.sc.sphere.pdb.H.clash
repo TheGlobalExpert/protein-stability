@@ -1,0 +1,60 @@
+
+:  1313: A 101 MET  HE3 : A 105 LEU HD23 :   -0.992:        0
+:  1313: A  54 PHE  CZ  : A  54 PHE  CD1 :   -0.936:        0
+:  1313: A  54 PHE  CA  : A  54 PHE  O   :   -0.751:        0
+:  1313: A 101 MET  CE  : A 105 LEU HD23 :   -0.696:        0
+:  1313: A 114 PHE  CZ  : A 101 MET  SD  :   -0.635:        0
+:  1313: A 101 MET  SD  : A 114 PHE  HZ  :   -0.591:        0
+:  1313: A  54 PHE  CD1 : A 105 LEU HD13 :   -0.431:        0
+
+:  1313: A 203 TYR  CD2 : A 203 TYR  CZ  :   -0.981:        0
+:  1313: A 203 TYR  CB  : A 203 TYR  C   :   -0.918:        0
+
+:  1313: A 188 ARG  H   : A 188 ARG  HE  :   -0.946:        0
+
+:  1313: A 210 GLN  CA  : A 210 GLN  CG  :   -0.936:        0
+
+:  1313: A 199 LYS  CB  : A 199 LYS  C   :   -0.880:        0
+
+:  1313: A 145 ARG  CB  : A 145 ARG  N   :   -0.837:        0
+
+:  1313: A 180 ALA  N   : A 180 ALA  C   :   -0.708:        0
+
+:  1313: A 207 PRO  N   : A 207 PRO  C   :   -0.693:        0
+
+:  1313: A  50 LEU  N   : A  50 LEU  C   :   -0.670:        0
+
+:  1313: A  99 LEU HD13 : A  52 ILE  CD1 :   -0.597:        0
+:  1313: A  52 ILE HD11 : A  99 LEU HD13 :   -0.560:        0
+
+:  1313: A 152 PHE  HD1 : A 133 VAL HG22 :   -0.584:        0
+:  1313: A 152 PHE  CE2 : A 169 TYR  HB3 :   -0.471:        0
+:  1313: A 133 VAL HG22 : A 152 PHE  CD1 :   -0.457:        0
+:  1313: A 152 PHE  HZ  : A 140 ARG  HD3 :   -0.411:        0
+
+:  1313: A 196 LEU HD11 : A 156 PRO  HA  :   -0.572:        0
+:  1313: A 182 VAL HG11 : A 156 PRO  HG2 :   -0.491:        0
+:  1313: A 182 VAL HG22 : A 179 ARG  O   :   -0.482:        0
+:  1313: A 182 VAL  CG1 : A 156 PRO  HG2 :   -0.463:        0
+:  1313: A 182 VAL  O   : A 183 THR HG22 :   -0.460:        0
+:  1313: A 156 PRO  HA  : A 196 LEU  CD1 :   -0.449:        0
+:  1313: A 182 VAL  CG1 : A 156 PRO  CG  :   -0.431:        0
+:  1313: A 183 THR  HA  : A 186 GLU  OE1 :   -0.417:        0
+
+:  1313: A 177 LEU HD11 : A 181 GLY  HA3 :   -0.553:        0
+:  1313: A 211 GLY  O   : A 212 PHE  CB  :   -0.512:        0
+:  1313: A 181 GLY  HA2 : A 212 PHE  CE2 :   -0.437:        0
+
+:  1313: A 158 ALA  HB2 : A 155 PRO  HG2 :   -0.536:        0
+
+:  1313: A 131 VAL HG23 : A 128 VAL HG12 :   -0.530:        0
+
+:  1313: A 134 GLU  H   : A 134 GLU  CD  :   -0.465:        0
+
+:  1313: A 127 LEU HD11 : A 153 ILE HG13 :   -0.449:        0
+
+:  1313: A 125 SER  HB2 : A 151 ILE HD11 :   -0.431:        0
+
+:  1313: A 138 PRO  HB2 : A 111 ILE HD13 :   -0.416:        0
+#sum2 ::29.70 clashscore : 29.70 clashscore B<40 
+#summary::1313 atoms:1313 atoms B<40:161297 potential dots:10080.0 A^2:39 bumps:39 bumps B<40:230.1 score

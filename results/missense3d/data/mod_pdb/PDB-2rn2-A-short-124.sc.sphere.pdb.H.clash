@@ -1,0 +1,26 @@
+
+:   735: A  79 THR  OG1 : A  79 THR  CG2 :   -0.740:        0
+
+:   735: A 135 GLU  HA  : A 138 ARG  NH1 :   -0.701:        0
+:   735: A 135 GLU  HA  : A 138 ARG  CZ  :   -0.482:        0
+
+:   735: A  22 TYR  CD1 : A  22 TYR  C   :   -0.551:        0
+:   735: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.546:        0
+:   735: A  51 ALA  CB  : A   9 THR  HB  :   -0.448:        0
+
+:   735: A 128 PRO  HD2 : A 127 HIS  HB3 :   -0.525:        0
+
+:   735: A  27 ARG HH12 : A 129 GLU  CD  :   -0.494:        0
+:   735: A 129 GLU  OE1 : A  27 ARG  NH1 :   -0.401:        0
+
+:   735: A  68 SER  HB3 : A   8 PHE  CD1 :   -0.441:        0
+:   735: A  68 SER  HB2 : A 119 GLU  OE1 :   -0.400:        0
+
+:   735: A 117 LYS  C   : A 117 LYS  CG  :   -0.440:        0
+
+:   735: A 120 TRP  CZ2 : A 118 TRP  HB3 :   -0.439:        0
+:   735: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+
+:   735: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.428:        0
+#sum2 ::20.41 clashscore : 20.41 clashscore B<40 
+#summary::735 atoms:735 atoms B<40:92577 potential dots:5786.0 A^2:15 bumps:15 bumps B<40:176.3 score

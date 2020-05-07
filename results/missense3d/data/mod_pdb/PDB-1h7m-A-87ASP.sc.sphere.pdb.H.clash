@@ -1,0 +1,32 @@
+
+:  1081: A  18 MET  CE  : A  80 VAL HG21 :   -1.187:        0
+:  1081: A  80 VAL  CG2 : A  18 MET  CE  :   -1.090:        0
+:  1081: A  18 MET  HE1 : A  80 VAL HG21 :   -1.017:        0
+:  1081: A  18 MET  HE3 : A  80 VAL  CG2 :   -0.945:        0
+:  1081: A  83 LEU HD22 : A  74 LEU HD11 :   -0.693:        0
+:  1081: A  18 MET  HE1 : A  80 VAL  CG2 :   -0.686:        0
+:  1081: A  18 MET  CE  : A  80 VAL HG22 :   -0.634:        0
+:  1081: A  80 VAL  O   : A  70 LEU HD23 :   -0.615:        0
+:  1081: A  80 VAL HG22 : A  18 MET  HE3 :   -0.547:        0
+:  1081: A  74 LEU HD13 : A  18 MET  SD  :   -0.494:        0
+:  1081: A  18 MET  HE3 : A  80 VAL  CG1 :   -0.416:        0
+
+:  1081: A   5 PHE  HZ  : A   9 LYS  HZ1 :   -0.662:        0
+:  1081: A   9 LYS  HD2 : A  91 SER  HA  :   -0.566:        0
+:  1081: A   9 LYS  HE3 : A   5 PHE  CZ  :   -0.432:        0
+
+:  1081: A  85 VAL HG21 : A  93 ILE HD13 :   -0.651:        0
+:  1081: A  96 LEU HD12 : A  93 ILE HG12 :   -0.563:        0
+:  1081: A  36 ILE HD11 : A  93 ILE HD11 :   -0.560:        0
+:  1081: A  93 ILE HD11 : A  36 ILE  CD1 :   -0.518:        0
+:  1081: A  36 ILE  O   : A  82 ALA  HA  :   -0.407:        0
+
+:  1081: A   4 ALA  HA  : A  73 LEU HD21 :   -0.462:        0
+:  1081: A  73 LEU HD11 : A   4 ALA  HB1 :   -0.434:        0
+:  1081: A  73 LEU HD12 : A  73 LEU  HA  :   -0.431:        0
+:  1081: A   8 ARG  NH1 : A  73 LEU HD12 :   -0.409:        0
+
+:  1081: A  17 VAL HG21 : A  26 TYR  CE2 :   -0.453:        0
+:  1081: A  26 TYR  HE2 : A  17 VAL HG21 :   -0.435:        0
+#sum2 ::23.13 clashscore : 23.13 clashscore B<40 
+#summary::1081 atoms:1081 atoms B<40:124665 potential dots:7792.0 A^2:25 bumps:25 bumps B<40:305.2 score

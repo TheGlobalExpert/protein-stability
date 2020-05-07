@@ -1,0 +1,18 @@
+
+:   917: A  64 LYS  N   : A  63 LYS  H   :   -0.700:       81
+:   917: A  63 LYS  NZ  : A  63 LYS  HG3 :   -0.626:       55
+:   917: A  56 LEU  O   : A  59 LEU  HB3 :   -0.554:       31
+:   917: A  59 LEU HD13 : A  23 VAL HG22 :   -0.535:       22
+:   917: A  64 LYS  HD2 : A  62 GLN  HG3 :   -0.519:       56
+:   917: A  63 LYS  HG2 : A  64 LYS  N   :   -0.489:       81
+:   917: A  23 VAL  CG1 : A  62 GLN HE21 :   -0.456:       48
+:   917: A  64 LYS  N   : A  63 LYS  CA  :   -0.410:       81
+:   917: A  56 LEU HD23 : A  56 LEU  HA  :   -0.409:       20
+:   917: A  23 VAL HG13 : A  62 GLN  NE2 :   -0.403:       48
+
+:   917: A   9 LYS  HG3 : A   8 TYR  CD2 :   -0.541:       60
+
+:   917: A  61 LYS  HG3 : A  57 GLN  O   :   -0.500:       50
+:   917: A  61 LYS  HB3 : A  61 LYS  HE2 :   -0.465:       42
+#sum2 ::14.18 clashscore : 3.84 clashscore B<40 
+#summary::917 atoms:781 atoms B<40:108111 potential dots:6757.0 A^2:13 bumps:3 bumps B<40:272.2 score

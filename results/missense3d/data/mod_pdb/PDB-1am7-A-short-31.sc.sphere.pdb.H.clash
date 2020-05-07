@@ -1,0 +1,47 @@
+
+:  1211: A  88 PRO  N   : A  88 PRO  CD  :   -1.365:        0
+
+:  1211: A 123 ILE  CB  : A 123 ILE  C   :   -0.896:        0
+:  1211: A 123 ILE  C   : A 123 ILE  CG2 :   -0.507:        0
+
+:  1211: A  61 SER  C   : A  61 SER  CB  :   -0.892:        0
+
+:  1211: A  51 LYS  N   : A  50 ARG  CA  :   -0.852:        0
+:  1211: A  51 LYS  CA  : A  51 LYS  O   :   -0.753:        0
+
+:  1211: A  98 GLN  CB  : A  98 GLN  N   :   -0.832:        0
+
+:  1211: A  99 ILE  CB  : A  99 ILE  N   :   -0.814:        0
+
+:  1211: A   5 ASN  CB  : A   5 ASN  OD1 :   -0.750:        0
+
+:  1211: A 146 PHE  HB2 : A  14 MET  HE2 :   -0.727:        0
+:  1211: A  14 MET  CE  : A 146 PHE  HB2 :   -0.708:        0
+:  1211: A 142 LEU  O   : A  14 MET  HE2 :   -0.576:        0
+
+:  1211: A  34 ASP  HA  : A  42 PHE  CE2 :   -0.629:        0
+:  1211: A  34 ASP  HA  : A  42 PHE  CZ  :   -0.613:        0
+:  1211: A  36 ILE HD11 : A  42 PHE  HB3 :   -0.583:        0
+:  1211: A  36 ILE HG12 : A  49 PRO  HG3 :   -0.511:        0
+:  1211: A  42 PHE  HD2 : A  36 ILE HG13 :   -0.419:        0
+
+:  1211: A   4 ILE HG12 : A  96 LEU HD11 :   -0.579:        0
+
+:  1211: A  95 ALA  HB2 : A  67 TYR  CD2 :   -0.527:        0
+:  1211: A  12 LEU HD22 : A  67 TYR  CZ  :   -0.497:        0
+
+:  1211: A  48 HIS  NE2 : A  64 ALA  HB3 :   -0.524:        0
+:  1211: A  48 HIS  CE1 : A  62 THR  O   :   -0.425:        0
+:  1211: A  48 HIS  HE1 : A  62 THR  O   :   -0.413:        0
+
+:  1211: A  33 TYR  CZ  : A  66 ARG  HD2 :   -0.493:        0
+:  1211: A  33 TYR  CD1 : A  66 ARG  HB2 :   -0.451:        0
+
+:  1211: A  15 LEU HD12 : A  15 LEU  HA  :   -0.444:        0
+
+:  1211: A 145 LYS  HD3 : A 145 LYS  HA  :   -0.444:        0
+:  1211: A 148 GLU  HG2 : A 145 LYS  HA  :   -0.437:        0
+
+:  1211: A  25 ARG HH21 : A  25 ARG  HG2 :   -0.408:        0
+#sum2 ::23.95 clashscore : 23.95 clashscore B<40 
+#summary::1211 atoms:1211 atoms B<40:147906 potential dots:9244.0 A^2:29 bumps:29 bumps B<40:277.3 score

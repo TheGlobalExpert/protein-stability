@@ -1,0 +1,26 @@
+
+:   714: A  46 VAL HG22 : A  31 LEU HD22 :   -0.970:       33
+:   714: A  46 VAL HG22 : A  31 LEU  CD2 :   -0.729:       33
+:   714: A   9 VAL  O   : A  10 LEU  CA  :   -0.435:       22
+:   714: A   9 VAL  CG2 : A  31 LEU  HB2 :   -0.424:       22
+
+:   714: A  33 LEU  CA  : A  33 LEU  CG  :   -0.890:       23
+:   714: A  33 LEU  CA  : A  33 LEU  CD1 :   -0.433:       22
+
+:   714: A  30 ILE  C   : A  30 ILE  N   :   -0.820:       21
+
+:   714: A  47 ASN  HB3 : A  48 ASP  OD1 :   -0.816:       65
+:   714: A  48 ASP  OD1 : A  48 ASP  N   :   -0.764:       54
+
+:   714: A  32 THR  C   : A  32 THR  N   :   -0.763:       23
+
+:   714: A  51 GLY  HA3 : A  23 VAL HG13 :   -0.750:       25
+:   714: A  51 GLY  HA3 : A  23 VAL  CG1 :   -0.424:       25
+
+:   714: A  39 LYS  HE2 : A  40 ASP  OD1 :   -0.672:       69
+
+:   714: A  44 VAL  O   : A  50 GLN  HA  :   -0.442:       29
+
+:   714: A  45 GLU  HA  : A  49 ARG  O   :   -0.426:       34
+#sum2 ::21.01 clashscore : 20.34 clashscore B<40 
+#summary::714 atoms:590 atoms B<40:84030 potential dots:5252.0 A^2:15 bumps:12 bumps B<40:127.8 score

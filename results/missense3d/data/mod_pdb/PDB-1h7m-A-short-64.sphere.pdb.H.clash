@@ -1,0 +1,23 @@
+
+:  1025: A  24 ILE  CG1 : A  24 ILE  CA  :   -0.950:       17
+
+:  1025: A  80 VAL HG21 : A  18 MET  CE  :   -0.825:       31
+:  1025: A  80 VAL  CG2 : A  18 MET  CE  :   -0.761:       31
+:  1025: A  80 VAL HG21 : A  18 MET  HE1 :   -0.745:       31
+:  1025: A  80 VAL  CG2 : A  18 MET  HE3 :   -0.687:       31
+
+:  1025: A  54 ARG  CB  : A  54 ARG  N   :   -0.808:       14
+
+:  1025: A  93 ILE HD13 : A  85 VAL HG21 :   -0.643:       27
+
+:  1025: A  42 ARG HH11 : A  42 ARG  HD3 :   -0.436:       14
+
+:  1025: A  96 LEU HD22 : A  61 TYR  CE2 :   -0.435:       30
+
+:  1025: A  79 THR  H   : A  79 THR HG23 :   -0.430:       33
+
+:  1025: A   1 VAL  O   : A   1 VAL HG12 :   -0.425:       30
+
+:  1025: A  73 LEU HD12 : A  73 LEU  HA  :   -0.413:       30
+#sum2 ::11.71 clashscore : 12.11 clashscore B<40 
+#summary::1025 atoms:991 atoms B<40:121131 potential dots:7571.0 A^2:12 bumps:12 bumps B<40:332.6 score

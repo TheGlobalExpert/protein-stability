@@ -1,0 +1,8 @@
+
+:   678: A  41 LEU  CA  : A  42 GLU  N   :   -0.859:       15
+
+:   678: A   1 MET  SD  : A  50 GLU  HG3 :   -0.567:       21
+
+:   678: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.495:       28
+#sum2 ::4.42 clashscore : 4.46 clashscore B<40 
+#summary::678 atoms:673 atoms B<40:81179 potential dots:5074.0 A^2:3 bumps:3 bumps B<40:218.2 score

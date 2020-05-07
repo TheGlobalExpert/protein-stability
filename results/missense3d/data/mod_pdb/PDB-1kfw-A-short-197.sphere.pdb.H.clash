@@ -1,0 +1,22 @@
+
+:  1295: A 270 GLY  CA  : A 271 TYR  N   :   -0.894:       11
+:  1295: A 271 TYR  N   : A 270 GLY  N   :   -0.489:       11
+
+:  1295: A 279 PRO  CD  : A 278 ASN  C   :   -0.890:       19
+:  1295: A 279 PRO  CD  : A 278 ASN  CA  :   -0.601:       19
+:  1295: A 278 ASN  N   : A 276 ALA  C   :   -0.449:       18
+:  1295: A 276 ALA  C   : A 278 ASN  H   :   -0.413:       18
+
+:  1295: A 218 LEU  N   : A 218 LEU  CB  :   -0.843:       15
+
+:  1295: A 256 ASP  CB  : A 256 ASP  OD2 :   -0.759:       21
+
+:  1295: A 152 ARG  CD  : A 152 ARG  NH1 :   -0.462:       20
+
+:  1295: A 310 LYS  HD3 : A 249 ILE HD12 :   -0.452:       23
+
+:  1295: A 193 TRP  CD2 : A 192 GLU  HA  :   -0.437:       12
+
+:  1295: A 142 PHE  HB3 : A 191 TRP  CD2 :   -0.415:       14
+#sum2 ::9.27 clashscore : 9.32 clashscore B<40 
+#summary::1295 atoms:1287 atoms B<40:161457 potential dots:10090.0 A^2:12 bumps:12 bumps B<40:410.8 score

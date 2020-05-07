@@ -1,0 +1,56 @@
+
+:  1161: A  98 ARG  HD3 : A 101 ARG  NH1 :   -0.866:        0
+:  1161: A  98 ARG  CD  : A 101 ARG  NH1 :   -0.822:        0
+:  1161: A 101 ARG HH11 : A  98 ARG  CD  :   -0.648:        0
+:  1161: A 101 ARG HH11 : A  98 ARG  HD3 :   -0.639:        0
+:  1161: A  98 ARG  O   : A  98 ARG  NH2 :   -0.576:        0
+:  1161: A 101 ARG  NH1 : A  98 ARG  HD2 :   -0.490:        0
+:  1161: A  98 ARG  HA  : A 101 ARG  CZ  :   -0.411:        0
+
+:  1161: A   1 LYS  NZ  : A   7 GLU  OE2 :   -0.843:        0
+
+:  1161: A  35 GLU  N   : A  35 GLU  CB  :   -0.828:        0
+
+:  1161: A  64 TRP  CA  : A  64 TRP  O   :   -0.826:        0
+:  1161: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:  1161: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:  1161: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:  1161: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:  1161: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:  1161: A  85 LEU  N   : A  85 LEU  C   :   -0.786:        0
+:  1161: A  85 LEU  N   : A  86 GLN  N   :   -0.467:        0
+
+:  1161: A  78 HIS  CB  : A  78 HIS  ND1 :   -0.766:        0
+
+:  1161: A  15 LEU  O   : A  16 ALA  HB3 :   -0.705:        0
+:  1161: A  17 MET  SD  : A  93 VAL HG13 :   -0.569:        0
+:  1161: A  15 LEU  O   : A  16 ALA  CB  :   -0.521:        0
+:  1161: A  16 ALA  HB3 : A  97 LYS  NZ  :   -0.482:        0
+:  1161: A  11 THR  O   : A  15 LEU  HG  :   -0.426:        0
+:  1161: A  93 VAL  CG1 : A  97 LYS  HE3 :   -0.424:        0
+
+:  1161: A 123 GLN  C   : A 123 GLN  N   :   -0.683:        0
+
+:  1161: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:  1161: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1161: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+
+:  1161: A 122 ARG  CG  : A 122 ARG  NH2 :   -0.603:        0
+
+:  1161: A 126 GLN  HA  : A 126 GLN  OE1 :   -0.574:        0
+
+:  1161: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1161: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.499:        0
+:  1161: A  84 LEU HD22 : A  92 ALA  HA  :   -0.455:        0
+
+:  1161: A 112 TRP  CZ3 : A 107 ARG  NH2 :   -0.458:        0
+
+:  1161: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+
+:  1161: A  38 TYR  CE2 : A  33 LYS  CA  :   -0.431:        0
+
+:  1161: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::31.87 clashscore : 31.87 clashscore B<40 
+#summary::1161 atoms:1161 atoms B<40:140603 potential dots:8788.0 A^2:37 bumps:37 bumps B<40:247.4 score

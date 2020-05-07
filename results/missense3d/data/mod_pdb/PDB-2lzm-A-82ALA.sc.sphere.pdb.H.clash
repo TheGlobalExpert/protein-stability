@@ -1,0 +1,46 @@
+
+:   809: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:   809: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:   809: A 106 MET  CG  : A 111 VAL HG23 :   -0.934:        0
+:   809: A 111 VAL HG23 : A 106 MET  SD  :   -0.634:        0
+:   809: A 111 VAL HG23 : A 106 MET  HG2 :   -0.614:        0
+:   809: A 106 MET  CG  : A 111 VAL  CG2 :   -0.485:        0
+:   809: A 106 MET  HE3 : A 106 MET  HB3 :   -0.454:        0
+
+:   809: A 119 ARG  HB3 : A 119 ARG HH21 :   -1.038:        0
+:   809: A 119 ARG  NH2 : A 119 ARG  HB3 :   -0.727:        0
+
+:   809: A  71 VAL  CA  : A  71 VAL  CG1 :   -0.969:        0
+:   809: A  71 VAL  CG1 : A  71 VAL  C   :   -0.450:        0
+
+:   809: A 108 GLU  OE2 : A  77 GLY  O   :   -0.959:        0
+:   809: A  77 GLY  C   : A 108 GLU  OE2 :   -0.859:        0
+:   809: A  77 GLY  CA  : A 108 GLU  OE2 :   -0.730:        0
+
+:   809: A 124 LYS  CA  : A 125 ARG  N   :   -0.862:        0
+
+:   809: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.715:        0
+:   809: A  86 PRO  HD2 : A  85 LYS  N   :   -0.571:        0
+:   809: A  85 LYS  HB3 : A  86 PRO  CD  :   -0.463:        0
+:   809: A  85 LYS  N   : A  86 PRO  CD  :   -0.445:        0
+
+:   809: A  95 ARG  N   : A  94 VAL  O   :   -0.700:        0
+:   809: A  95 ARG  CA  : A  94 VAL  O   :   -0.418:        0
+
+:   809: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:   809: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:   809: A  81 ASN  CB  : A  84 LEU HD12 :   -0.566:        0
+:   809: A  84 LEU HD12 : A  81 ASN  HB3 :   -0.449:        0
+
+:   809: A  75 VAL  O   : A  79 LEU  HG  :   -0.559:        0
+
+:   809: A  87 VAL HG22 : A 122 GLN  HG3 :   -0.551:        0
+
+:   809: A 114 PHE  O   : A 118 LEU  HG  :   -0.475:        0
+
+:   809: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+
+:   809: A 132 ASN  OD1 : A 117 SER  OG  :   -0.402:        0
+#sum2 ::37.08 clashscore : 37.08 clashscore B<40 
+#summary::809 atoms:809 atoms B<40:97017 potential dots:6064.0 A^2:30 bumps:30 bumps B<40:111.4 score

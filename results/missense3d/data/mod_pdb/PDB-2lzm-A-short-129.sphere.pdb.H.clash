@@ -1,0 +1,15 @@
+
+:  1262: A  81 ASN  C   : A  82 ALA  CA  :   -0.899:       28
+:  1262: A  81 ASN  CB  : A  81 ASN  C   :   -0.847:       28
+
+:  1262: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1262: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1262: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1262: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1262: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1262: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::6.34 clashscore : 3.44 clashscore B<40 
+#summary::1262 atoms:1164 atoms B<40:146009 potential dots:9126.0 A^2:8 bumps:4 bumps B<40:489.7 score

@@ -1,0 +1,69 @@
+
+:  2049: A 195 GLU  HG3 : A 170 LYS  CD  :   -1.094:        0
+:  2049: A 195 GLU  CG  : A 170 LYS  HD2 :   -0.960:        0
+:  2049: A 195 GLU  HG3 : A 170 LYS  HD2 :   -0.947:        0
+:  2049: A 170 LYS  CE  : A 195 GLU  HG3 :   -0.652:        0
+:  2049: A 195 GLU  OE1 : A 170 LYS  O   :   -0.485:        0
+:  2049: A 170 LYS  CE  : A 195 GLU  CG  :   -0.418:        0
+:  2049: A 170 LYS  HD2 : A 195 GLU  CB  :   -0.401:        0
+
+:  2049: A  91 TYR  C   : A  92 ALA  CA  :   -0.961:        0
+
+:  2049: A 171 TYR  CD2 : A 136 LYS  HG3 :   -0.952:        0
+:  2049: A 136 LYS  HG3 : A 171 TYR  CE2 :   -0.835:        0
+:  2049: A 136 LYS  CG  : A 171 TYR  CE2 :   -0.751:        0
+:  2049: A 136 LYS  HD2 : A 171 TYR  HE2 :   -0.593:        0
+:  2049: A 136 LYS  HB2 : A 171 TYR  CZ  :   -0.551:        0
+:  2049: A 171 TYR  CE2 : A 136 LYS  CD  :   -0.519:        0
+:  2049: A 171 TYR  CE2 : A 136 LYS  HD2 :   -0.512:        0
+
+:  2049: A 258 GLY  N   : A 257 LEU  CA  :   -0.947:        0
+
+:  2049: A 173 SER  HB2 : A 143 VAL HG21 :   -0.871:        0
+
+:  2049: A  62 ASN  OD1 : A  64 HIS  CG  :   -0.835:        0
+:  2049: A  62 ASN  OD1 : A  64 HIS  CD2 :   -0.529:        0
+:  2049: A  62 ASN  OD1 : A  64 HIS  ND1 :   -0.440:        0
+
+:  2049: A  96 LEU  HG  : A  95 VAL HG23 :   -0.802:        0
+
+:  2049: A 193 GLY  HA2 : A 261 PHE  CE1 :   -0.759:        0
+
+:  2049: A 103 GLN  HB2 : A 106 TRP  CD2 :   -0.708:        0
+:  2049: A 103 GLN  HB2 : A 106 TRP  CG  :   -0.693:        0
+:  2049: A 103 GLN  HB2 : A 106 TRP  CD1 :   -0.512:        0
+:  2049: A 106 TRP  CD1 : A 106 TRP  N   :   -0.411:        0
+
+:  2049: A 100 GLY  N   : A  99 ASP  O   :   -0.703:        0
+
+:  2049: A 221 SER  CB  : A 125 SER  HB3 :   -0.586:        0
+:  2049: A 221 SER  OG  : A 125 SER  HB3 :   -0.456:        0
+
+:  2049: A 127 GLY  HA2 : A 167 TYR  O   :   -0.536:        0
+
+:  2049: A 196 LEU HD21 : A 199 MET  SD  :   -0.534:        0
+
+:  2049: A 262 TYR  O   : A 186 ARG  HD2 :   -0.492:        0
+
+:  2049: A 225 PRO  CD  : A 224 SER  HB3 :   -0.477:        0
+:  2049: A  68 VAL HG13 : A 225 PRO  HB3 :   -0.468:        0
+:  2049: A 224 SER  HB3 : A 225 PRO  HD3 :   -0.458:        0
+
+:  2049: A 220 THR  OG1 : A 152 ALA  HB1 :   -0.472:        0
+
+:  2049: A 189 PHE  CE2 : A 187 ALA  HB1 :   -0.467:        0
+
+:  2049: A 147 VAL HG11 : A 122 ILE HD12 :   -0.460:        0
+:  2049: A 147 VAL HG11 : A 122 ILE  CD1 :   -0.446:        0
+
+:  2049: A 108 ILE  HA  : A 111 ILE HD12 :   -0.438:        0
+
+:  2049: A 139 VAL HG23 : A 140 ASP  N   :   -0.419:        0
+
+:  2049: A  29 ALA  HB2 : A 119 MET  HG3 :   -0.408:        0
+
+:  2049: A 107 ILE HD12 : A 104 TYR  HA  :   -0.408:        0
+
+:  2049: A 227 VAL  HB  : A 150 VAL HG11 :   -0.402:        0
+#sum2 ::21.47 clashscore : 21.47 clashscore B<40 
+#summary::2049 atoms:2049 atoms B<40:246798 potential dots:15420.0 A^2:44 bumps:44 bumps B<40:706.8 score

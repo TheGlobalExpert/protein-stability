@@ -1,0 +1,32 @@
+
+:   960: A  15 ARG HH21 : A  15 ARG  CG  :   -1.164:        0
+:   960: A  15 ARG  HG2 : A  15 ARG  NH2 :   -0.914:        0
+:   960: A  15 ARG  HG3 : A  38 TYR  CD2 :   -0.871:        0
+:   960: A  15 ARG  HG3 : A  38 TYR  CE2 :   -0.505:        0
+:   960: A  15 ARG  CG  : A  38 TYR  CD2 :   -0.490:        0
+:   960: A  15 ARG HH21 : A  15 ARG  HG2 :   -0.461:        0
+:   960: A  15 ARG  NH2 : A  15 ARG  CG  :   -0.417:        0
+
+:   960: A  44 VAL  CG1 : A  44 VAL  CG2 :   -0.993:        0
+
+:   960: A   2 ASP  N   : A   2 ASP  C   :   -0.780:        0
+
+:   960: A  34 ASN  ND2 : A  36 PHE  CZ  :   -0.763:        0
+:   960: A  31 LYS  O   : A  77 TYR  OH  :   -0.753:        0
+:   960: A  69 ASN  OD1 : A  33 LYS  HG3 :   -0.684:        0
+:   960: A  22 ILE HG12 : A  28 PHE  CE2 :   -0.660:        0
+:   960: A  67 ASP  OD1 : A  33 LYS  HE3 :   -0.643:        0
+:   960: A  77 TYR  HD2 : A  69 ASN  C   :   -0.566:        0
+:   960: A  33 LYS  HG2 : A  34 ASN  N   :   -0.542:        0
+:   960: A  28 PHE  HE2 : A  22 ILE HG12 :   -0.533:        0
+:   960: A  67 ASP  OD1 : A  35 THR  OG1 :   -0.527:        0
+:   960: A  23 MET  N   : A  22 ILE HG23 :   -0.468:        0
+:   960: A  19 CYS  O   : A  23 MET  HG2 :   -0.433:        0
+:   960: A  28 PHE  CE1 : A  34 ASN  ND2 :   -0.424:        0
+:   960: A  68 CYS  O   : A  33 LYS  HA  :   -0.423:        0
+:   960: A  23 MET  N   : A  22 ILE  CG2 :   -0.419:        0
+
+:   960: A   7 GLN  HG2 : A  11 ILE HD12 :   -0.500:        0
+:   960: A   7 GLN  HA  : A  11 ILE HD12 :   -0.468:        0
+#sum2 ::26.04 clashscore : 26.04 clashscore B<40 
+#summary::960 atoms:960 atoms B<40:113543 potential dots:7096.0 A^2:25 bumps:25 bumps B<40:208.6 score

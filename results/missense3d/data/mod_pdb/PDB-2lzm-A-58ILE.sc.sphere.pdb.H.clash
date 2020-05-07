@@ -1,0 +1,44 @@
+
+:   961: A  62 GLU  OE1 : A  50 ILE HG21 :   -0.894:        0
+:   961: A  50 ILE  CG2 : A  62 GLU  OE1 :   -0.819:        0
+:   961: A  52 ARG HH21 : A  52 ARG  HG3 :   -0.672:        0
+:   961: A  62 GLU  CD  : A  52 ARG  HE  :   -0.611:        0
+:   961: A  52 ARG  HG3 : A  52 ARG  NH2 :   -0.596:        0
+:   961: A  54 CYS  HA  : A  52 ARG HH22 :   -0.519:        0
+:   961: A  50 ILE HD11 : A  66 LEU HD11 :   -0.506:        0
+:   961: A  52 ARG HH21 : A  52 ARG  CG  :   -0.483:        0
+:   961: A  54 CYS  HA  : A  52 ARG  NH2 :   -0.476:        0
+:   961: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.462:        0
+:   961: A  52 ARG  CZ  : A  54 CYS  SG  :   -0.454:        0
+:   961: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.408:        0
+
+:   961: A  72 ASP  CB  : A  72 ASP  N   :   -0.841:        0
+
+:   961: A  14 ARG HH21 : A  14 ARG  CG  :   -0.687:        0
+:   961: A  14 ARG  CG  : A  14 ARG  NH2 :   -0.556:        0
+:   961: A  14 ARG  HG3 : A  14 ARG  NH2 :   -0.518:        0
+
+:   961: A  58 ILE HG12 : A  27 ILE HD11 :   -0.591:        0
+:   961: A  26 THR HG22 : A  27 ILE  N   :   -0.570:        0
+:   961: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:   961: A  24 TYR  O   : A  19 LYS  HA  :   -0.547:        0
+:   961: A  18 TYR  CZ  : A  26 THR  HB  :   -0.516:        0
+:   961: A  20 ASP  HB2 : A  24 TYR  H   :   -0.516:        0
+:   961: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:   961: A  18 TYR  OH  : A  26 THR  CG2 :   -0.452:        0
+:   961: A  26 THR  HB  : A  18 TYR  CE1 :   -0.444:        0
+:   961: A  18 TYR  OH  : A  26 THR HG21 :   -0.433:        0
+:   961: A  27 ILE  N   : A  26 THR  CG2 :   -0.433:        0
+:   961: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+
+:   961: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.586:        0
+:   961: A  39 LEU HD22 : A  43 LYS  HD3 :   -0.432:        0
+:   961: A  39 LEU HD23 : A  39 LEU  HA  :   -0.420:        0
+:   961: A  39 LEU  O   : A  39 LEU HD22 :   -0.414:        0
+
+:   961: A  60 LYS  O   : A  64 GLU  HG3 :   -0.489:        0
+
+:   961: A  29 ILE HG22 : A  29 ILE  O   :   -0.433:        0
+:   961: A  29 ILE HD13 : A  67 PHE  CD1 :   -0.403:        0
+#sum2 ::36.42 clashscore : 36.42 clashscore B<40 
+#summary::961 atoms:961 atoms B<40:111480 potential dots:6968.0 A^2:35 bumps:35 bumps B<40:223.7 score

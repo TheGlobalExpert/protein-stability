@@ -1,0 +1,23 @@
+
+:  1473: A  29 ILE  C   : A  30 GLY  CA  :   -0.988:       17
+:  1473: A  29 ILE  C   : A  29 ILE  CB  :   -0.781:       22
+:  1473: A  30 GLY  CA  : A  29 ILE  O   :   -0.449:       16
+:  1473: A  29 ILE  CG2 : A  29 ILE  C   :   -0.428:       17
+
+:  1473: A 119 ARG  NE  : A 119 ARG  CG  :   -0.848:      100
+
+:  1473: A  21 THR  CG2 : A  21 THR  OG1 :   -0.768:       39
+
+:  1473: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1473: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1473: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1473: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1473: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1473: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1473: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::8.83 clashscore : 7.26 clashscore B<40 
+#summary::1473 atoms:1378 atoms B<40:172355 potential dots:10770.0 A^2:13 bumps:10 bumps B<40:569.3 score

@@ -1,0 +1,48 @@
+
+:   807: A 107 ARG  HG3 : A 107 ARG  NH2 :   -1.032:        0
+:   807: A 107 ARG HH21 : A 107 ARG  CG  :   -1.013:        0
+:   807: A 113 ARG  CZ  : A 107 ARG  O   :   -0.888:        0
+:   807: A 107 ARG HH21 : A 107 ARG  HG3 :   -0.868:        0
+:   807: A 107 ARG  HB3 : A 113 ARG HH11 :   -0.722:        0
+:   807: A 107 ARG  NH2 : A 107 ARG  CG  :   -0.630:        0
+:   807: A 107 ARG  HB3 : A 113 ARG  NH1 :   -0.538:        0
+:   807: A 107 ARG  O   : A 113 ARG  NH1 :   -0.507:        0
+:   807: A 112 TRP  CZ3 : A 107 ARG  NH2 :   -0.458:        0
+:   807: A 113 ARG  HE  : A 107 ARG  HB3 :   -0.442:        0
+
+:   807: A  30 CYS  C   : A  30 CYS  CB  :   -0.870:        0
+:   807: A  30 CYS  CB  : A  30 CYS  N   :   -0.832:        0
+:   807: A  30 CYS  C   : A  30 CYS  N   :   -0.772:        0
+:   807: A  30 CYS  CB  : A 116 CYS  SG  :   -0.583:        0
+
+:   807: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:   807: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:   807: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:   807: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:   807: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:   807: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:   807: A  18 ASP  CB  : A  18 ASP  OD1 :   -0.770:        0
+
+:   807: A  26 ALA  N   : A  26 ALA  C   :   -0.743:        0
+
+:   807: A 115 ARG  C   : A 115 ARG  N   :   -0.655:        0
+
+:   807: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:   807: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:   807: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+
+:   807: A 101 ARG  HG3 : A  97 LYS  O   :   -0.621:        0
+
+:   807: A  98 ARG  O   : A  98 ARG  NH2 :   -0.576:        0
+
+:   807: A 111 ALA  HB3 : A  35 GLU  OE2 :   -0.510:        0
+
+:   807: A  74 VAL HG12 : A  74 VAL  O   :   -0.505:        0
+:   807: A  74 VAL  O   : A  74 VAL  CG1 :   -0.496:        0
+
+:   807: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+
+:   807: A  16 GLY  CA  : A  15 LEU  O   :   -0.428:        0
+#sum2 ::40.89 clashscore : 40.89 clashscore B<40 
+#summary::807 atoms:807 atoms B<40:99367 potential dots:6210.0 A^2:33 bumps:33 bumps B<40:116.3 score

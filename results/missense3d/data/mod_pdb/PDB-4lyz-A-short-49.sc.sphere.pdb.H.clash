@@ -1,0 +1,72 @@
+
+:   691: A  98 ILE HG12 : A  63 TRP  CE2 :   -1.275:        0
+:   691: A  63 TRP  O   : A  76 CYS  CB  :   -1.253:        0
+:   691: A  63 TRP  O   : A  76 CYS  SG  :   -1.227:        0
+:   691: A  98 ILE HG12 : A  63 TRP  CZ2 :   -1.226:        0
+:   691: A  76 CYS  SG  : A  63 TRP  CA  :   -1.170:        0
+:   691: A  76 CYS  SG  : A  63 TRP  HB3 :   -1.128:        0
+:   691: A  63 TRP  CB  : A  76 CYS  SG  :   -1.080:        0
+:   691: A  76 CYS  HB2 : A  63 TRP  O   :   -1.074:        0
+:   691: A  94 CYS  SG  : A  76 CYS  SG  :   -1.053:        0
+:   691: A  76 CYS  HB3 : A  94 CYS  SG  :   -1.036:        0
+:   691: A  76 CYS  SG  : A  63 TRP  C   :   -1.004:        0
+:   691: A  94 CYS  SG  : A  76 CYS  CB  :   -0.962:        0
+:   691: A  58 ILE  CG2 : A  63 TRP  CD1 :   -0.872:        0
+:   691: A  98 ILE  CG1 : A  63 TRP  CE2 :   -0.843:        0
+:   691: A  63 TRP  HA  : A  76 CYS  SG  :   -0.792:        0
+:   691: A  63 TRP  CZ2 : A  98 ILE  CG1 :   -0.760:        0
+:   691: A  63 TRP  HH2 : A 101 ASP  OD2 :   -0.750:        0
+:   691: A  63 TRP  CD1 : A  58 ILE HG23 :   -0.709:        0
+:   691: A  66 ASP  HB3 : A  80 CYS  SG  :   -0.689:        0
+:   691: A  63 TRP  CD1 : A  58 ILE HG22 :   -0.680:        0
+:   691: A  78 ILE  CG1 : A  79 PRO  HD2 :   -0.624:        0
+:   691: A  58 ILE HD12 : A  83 LEU HD13 :   -0.610:        0
+:   691: A  80 CYS  SG  : A  64 CYS  SG  :   -0.603:        0
+:   691: A  65 ASN  O   : A  79 PRO  HA  :   -0.543:        0
+:   691: A  63 TRP  HD1 : A  58 ILE HG22 :   -0.538:        0
+:   691: A  63 TRP  HD1 : A  58 ILE  CG2 :   -0.531:        0
+:   691: A  58 ILE  CG2 : A  63 TRP  CG  :   -0.517:        0
+:   691: A 101 ASP  OD2 : A  63 TRP  CH2 :   -0.502:        0
+:   691: A  64 CYS  SG  : A  80 CYS  HA  :   -0.483:        0
+:   691: A  83 LEU  HB2 : A  80 CYS  O   :   -0.467:        0
+:   691: A  63 TRP  HB2 : A  58 ILE HG22 :   -0.462:        0
+:   691: A  58 ILE HD12 : A  83 LEU  CD1 :   -0.447:        0
+:   691: A  65 ASN  O   : A  80 CYS  N   :   -0.442:        0
+:   691: A  58 ILE  CG2 : A  63 TRP  CB  :   -0.438:        0
+:   691: A  63 TRP  HE3 : A  76 CYS  SG  :   -0.410:        0
+:   691: A  58 ILE HG22 : A  63 TRP  CB  :   -0.406:        0
+:   691: A  79 PRO  HD3 : A  78 ILE  HA  :   -0.406:        0
+:   691: A  98 ILE  CG1 : A  63 TRP  CD2 :   -0.400:        0
+
+:   691: A  68 ARG  NH2 : A  45 ARG  CZ  :   -0.898:        0
+:   691: A  68 ARG HH22 : A  45 ARG  NH2 :   -0.801:        0
+:   691: A  68 ARG  NH2 : A  45 ARG  NH2 :   -0.795:        0
+:   691: A  68 ARG  NH2 : A  45 ARG  NH1 :   -0.479:        0
+:   691: A  68 ARG HH21 : A  45 ARG  NH1 :   -0.423:        0
+
+:   691: A 110 ALA  CB  : A 110 ALA  N   :   -0.844:        0
+:   691: A 109 VAL HG13 : A 110 ALA  N   :   -0.612:        0
+:   691: A 110 ALA  N   : A 109 VAL  CG1 :   -0.493:        0
+
+:   691: A 107 ALA  N   : A 106 ASN  O   :   -0.656:        0
+
+:   691: A  61 ARG  HG2 : A  62 TRP  CE2 :   -0.651:        0
+:   691: A  75 LEU  HB2 : A  62 TRP  O   :   -0.592:        0
+
+:   691: A  40 THR  O   : A  54 GLY  HA2 :   -0.619:        0
+:   691: A  51 THR HG22 : A  53 TYR  CE2 :   -0.594:        0
+:   691: A  51 THR  CG2 : A  53 TYR  CZ  :   -0.573:        0
+:   691: A  52 ASP  HB3 : A  57 GLN  OE1 :   -0.541:        0
+:   691: A  52 ASP  N   : A  51 THR  CG2 :   -0.481:        0
+:   691: A  84 LEU HD21 : A  53 TYR  HB3 :   -0.480:        0
+:   691: A  40 THR  O   : A  84 LEU  HA  :   -0.467:        0
+:   691: A  43 THR HG23 : A  41 GLN  O   :   -0.451:        0
+:   691: A  53 TYR  CE2 : A  51 THR  CG2 :   -0.451:        0
+:   691: A  52 ASP  O   : A  43 THR  HA  :   -0.429:        0
+:   691: A  41 GLN  O   : A  42 ALA  C   :   -0.428:        0
+:   691: A  44 ASN  O   : A  52 ASP  N   :   -0.422:        0
+:   691: A  35 GLU  HG3 : A  57 GLN  HB2 :   -0.418:        0
+
+:   691: A  48 ASP  OD1 : A  50 SER  HB3 :   -0.489:        0
+#sum2 ::91.17 clashscore : 91.17 clashscore B<40 
+#summary::691 atoms:691 atoms B<40:83559 potential dots:5222.0 A^2:63 bumps:63 bumps B<40:-186.6 score

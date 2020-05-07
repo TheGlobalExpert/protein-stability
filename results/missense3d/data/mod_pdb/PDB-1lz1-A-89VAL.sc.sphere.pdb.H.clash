@@ -1,0 +1,51 @@
+
+:  1436: A  98 ARG  HD3 : A 101 ARG  NH1 :   -0.866:        0
+:  1436: A  98 ARG  CD  : A 101 ARG  NH1 :   -0.822:        0
+:  1436: A 101 ARG HH11 : A  98 ARG  CD  :   -0.648:        0
+:  1436: A 101 ARG HH11 : A  98 ARG  HD3 :   -0.639:        0
+:  1436: A  98 ARG  O   : A  98 ARG  NH2 :   -0.576:        0
+:  1436: A 101 ARG  NH1 : A  98 ARG  HD2 :   -0.490:        0
+:  1436: A  98 ARG  HA  : A 101 ARG  CZ  :   -0.411:        0
+
+:  1436: A   1 LYS  NZ  : A   7 GLU  OE2 :   -0.843:        0
+:  1436: A   1 LYS  HE2 : A   3 PHE  CD2 :   -0.649:        0
+:  1436: A   3 PHE  CD2 : A   1 LYS  CE  :   -0.467:        0
+
+:  1436: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:  1436: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:  1436: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:  1436: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:  1436: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:  1436: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:  1436: A  62 ARG  C   : A  62 ARG  N   :   -0.745:        0
+
+:  1436: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:  1436: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:  1436: A  33 LYS  HD3 : A  38 TYR  OH  :   -0.604:        0
+:  1436: A  38 TYR  CE2 : A  33 LYS  CA  :   -0.431:        0
+:  1436: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:  1436: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:  1436: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:  1436: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1436: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+
+:  1436: A  17 MET  SD  : A  93 VAL HG13 :   -0.594:        0
+
+:  1436: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.508:        0
+
+:  1436: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.499:        0
+:  1436: A  84 LEU HD22 : A  92 ALA  HA  :   -0.455:        0
+
+:  1436: A  52 THR  HB  : A  54 TYR  CE2 :   -0.476:        0
+
+:  1436: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+
+:  1436: A  11 THR  O   : A  15 LEU  HG  :   -0.426:        0
+
+:  1436: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+
+:  1436: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::24.37 clashscore : 24.37 clashscore B<40 
+#summary::1436 atoms:1436 atoms B<40:168150 potential dots:10510.0 A^2:35 bumps:35 bumps B<40:419 score

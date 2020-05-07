@@ -1,0 +1,63 @@
+
+:  1290: A  63 ASN  OD1 : A  74 TYR  OH  :   -1.155:        0
+:  1290: A  74 TYR  CA  : A  75 ILE  N   :   -0.838:        0
+:  1290: A  75 ILE  CB  : A  75 ILE  N   :   -0.778:        0
+:  1290: A  75 ILE  CG1 : A  75 ILE  N   :   -0.524:        0
+:  1290: A  74 TYR  N   : A  73 LYS  N   :   -0.415:        0
+
+:  1290: A  -3 PHE  HD2 : A  61 GLU  OE1 :   -1.038:        0
+:  1290: A  -3 PHE  CD2 : A  61 GLU  CD  :   -0.892:        0
+:  1290: A  -3 PHE  CD2 : A  61 GLU  OE1 :   -0.796:        0
+:  1290: A  -3 PHE  HD2 : A  61 GLU  CD  :   -0.791:        0
+:  1290: A  -3 PHE  HE2 : A  61 GLU  OE2 :   -0.677:        0
+:  1290: A  61 GLU  CD  : A  -3 PHE  CE2 :   -0.639:        0
+:  1290: A  61 GLU  OE2 : A  -3 PHE  CE2 :   -0.636:        0
+:  1290: A  61 GLU  HB2 : A  -3 PHE  CE2 :   -0.544:        0
+:  1290: A  -5 THR  OG1 : A  -3 PHE  O   :   -0.412:        0
+
+:  1290: A  15 LEU  O   : A  27 LYS  NZ  :   -0.973:        0
+
+:  1290: A  48 TYR  CE2 : A  48 TYR  CG  :   -0.954:        0
+
+:  1290: A  41 GLY  N   : A  40 SER  CA  :   -0.877:        0
+:  1290: A  52 ASN HD21 : A  41 GLY  N   :   -0.655:        0
+
+:  1290: A  38 ARG  N   : A  37 GLY  CA  :   -0.867:        0
+:  1290: A  36 PHE  CE2 : A  99 LYS  HA  :   -0.861:        0
+:  1290: A  35 ILE HD13 : A  32 LEU HD22 :   -0.612:        0
+:  1290: A  39 HIS  O   : A  38 ARG  HG2 :   -0.543:        0
+:  1290: A  36 PHE  CE2 : A  99 LYS  CA  :   -0.540:        0
+:  1290: A  99 LYS  HB3 : A  99 LYS  HE3 :   -0.445:        0
+:  1290: A  36 PHE  HE2 : A  98 LEU  C   :   -0.409:        0
+:  1290: A  36 PHE  N   : A  35 ILE HG23 :   -0.402:        0
+:  1290: A  38 ARG HH11 : A  35 ILE HD12 :   -0.402:        0
+
+:  1290: A  30 PRO  HD3 : A  46 TYR  CZ  :   -0.741:        0
+:  1290: A  18 HIS  HD2 : A  30 PRO  O   :   -0.704:        0
+:  1290: A  29 GLY  HA3 : A  18 HIS  NE2 :   -0.620:        0
+:  1290: A  18 HIS  NE2 : A  30 PRO  HD2 :   -0.433:        0
+:  1290: A  29 GLY  HA3 : A  18 HIS  CE1 :   -0.410:        0
+:  1290: A  46 TYR  OH  : A  29 GLY  HA2 :   -0.401:        0
+
+:  1290: A  10 TYR  CZ  : A  20 VAL HG13 :   -0.740:        0
+:  1290: A  20 VAL HG13 : A  10 TYR  OH  :   -0.616:        0
+
+:  1290: A   9 LEU HD23 : A  94 LEU  HB2 :   -0.675:        0
+:  1290: A  68 LEU HD13 : A  94 LEU HD23 :   -0.533:        0
+:  1290: A  64 MET  O   : A  68 LEU  HG  :   -0.429:        0
+
+:  1290: A  22 LYS  HB2 : A  33 HIS  CD2 :   -0.663:        0
+:  1290: A  22 LYS  HB2 : A  33 HIS  NE2 :   -0.464:        0
+
+:  1290: A  62 ASN  N   : A  60 ASP  OD1 :   -0.599:        0
+:  1290: A  62 ASN  HB2 : A  60 ASP  OD1 :   -0.539:        0
+:  1290: A  62 ASN  O   : A  66 GLU  OE1 :   -0.516:        0
+:  1290: A  60 ASP  OD1 : A  60 ASP  C   :   -0.472:        0
+
+:  1290: A   7 ALA  HA  : A  97 TYR  CE2 :   -0.474:        0
+
+:  1290: A  90 ASP  N   : A  89 LYS  HG3 :   -0.415:        0
+
+:  1290: A  86 LYS  N   : A  86 LYS  HD3 :   -0.414:        0
+#sum2 ::36.43 clashscore : 36.43 clashscore B<40 
+#summary::1290 atoms:1290 atoms B<40:151879 potential dots:9492.0 A^2:47 bumps:47 bumps B<40:186 score

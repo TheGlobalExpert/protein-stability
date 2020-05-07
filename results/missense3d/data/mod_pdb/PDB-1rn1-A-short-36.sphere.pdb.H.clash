@@ -1,0 +1,29 @@
+
+:   878: A  11 TYR  CD1 : A  11 TYR  CD2 :   -1.039:       15
+
+:   878: A 101 VAL  CG2 : A 101 VAL  CA  :   -0.969:       27
+
+:   878: A  96 SER  O   : A  99 ASN  HB2 :   -0.903:       39
+:   878: A  96 SER  O   : A  99 ASN  CB  :   -0.465:       39
+
+:   878: A  64 SER  CA  : A  65 GLY  N   :   -0.855:       27
+:   878: A  65 GLY  C   : A  65 GLY  N   :   -0.736:       27
+:   878: A  66 ASP  N   : A  65 GLY  N   :   -0.425:       27
+:   878: A  65 GLY  N   : A  64 SER  N   :   -0.418:       27
+
+:   878: A  88 GLY  C   : A  88 GLY  N   :   -0.751:       16
+
+:   878: A  92 HIS  CE1 : A 100 PHE  CZ  :   -0.534:       23
+:   878: A  92 HIS  CE1 : A 100 PHE  CE1 :   -0.464:       23
+
+:   878: A  22 ALA  O   : A  26 LEU HD13 :   -0.515:       31
+
+:   878: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:   878: A  79 VAL  CG1 : A  56 TYR  HB3 :   -0.434:       15
+
+:   878: A  44 ASN  HA  : A  42 TYR  CZ  :   -0.429:       29
+
+:   878: A  94 GLY  N   : A  95 ALA  N   :   -0.423:       32
+#sum2 ::18.22 clashscore : 18.78 clashscore B<40 
+#summary::878 atoms:852 atoms B<40:111436 potential dots:6965.0 A^2:16 bumps:16 bumps B<40:258.2 score

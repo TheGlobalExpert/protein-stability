@@ -1,0 +1,42 @@
+
+:  1526: A  47 SER  C   : A  47 SER  CB  :   -0.907:       30
+:  1526: A  47 SER  CB  : A  48 THR  N   :   -0.462:       30
+
+:  1526: A  44 ASN  CB  : A  44 ASN  N   :   -0.861:       35
+
+:  1526: A  82 ASP  CG  : A  82 ASP  CA  :   -0.824:       33
+
+:  1526: A 109 ALA  HA  : A 112 SER  OG  :   -0.776:       39
+
+:  1526: A  84 ASP  OD1 : A  84 ASP  CB  :   -0.763:       28
+:  1526: A  84 ASP  OD1 : A  84 ASP  CA  :   -0.403:       28
+
+:  1526: A  27 VAL  CG1 : A 118 TRP  HB3 :   -0.727:       17
+:  1526: A 118 TRP  HB3 : A  27 VAL HG13 :   -0.594:       17
+
+:  1526: A  24 PRO  HD2 : A  22 SER  HB2 :   -0.626:       15
+:  1526: A  23 LEU  HB3 : A  24 PRO  HD3 :   -0.555:       15
+
+:  1526: A  98 LYS  HD3 : A  94 LYS  O   :   -0.593:       36
+:  1526: A  98 LYS  HD2 : A  98 LYS  N   :   -0.415:       36
+:  1526: A  94 LYS  O   : A  98 LYS  CD  :   -0.402:       36
+
+:  1526: A  99 VAL  CG2 : A 103 TYR  HB2 :   -0.571:       30
+
+:  1526: A 117 GLN  HG2 : A 114 LYS  O   :   -0.528:       21
+:  1526: A 114 LYS  HE3 : A 114 LYS  HB3 :   -0.472:       44
+
+:  1526: A  41 ILE HD11 : A  81 LEU  CD1 :   -0.520:       27
+:  1526: A  39 GLN  HG2 : A  81 LEU  O   :   -0.488:       34
+
+:  1526: A  15 LEU  HG  : A  89 ILE HG23 :   -0.514:        9
+
+:  1526: A  73 CYS  HB2 : A  60 TRP  O   :   -0.479:       11
+
+:  1526: A 119 LEU  HG  : A 116 ASP  HA  :   -0.449:       21
+
+:  1526: A  50 TYR  CD1 : A  77 CYS  HB3 :   -0.438:        7
+
+:  1526: A  96 LEU HD23 : A  18 TYR  HD2 :   -0.414:        9
+#sum2 ::15.73 clashscore : 16.05 clashscore B<40 
+#summary::1526 atoms:1433 atoms B<40:177202 potential dots:11080.0 A^2:24 bumps:23 bumps B<40:445.6 score

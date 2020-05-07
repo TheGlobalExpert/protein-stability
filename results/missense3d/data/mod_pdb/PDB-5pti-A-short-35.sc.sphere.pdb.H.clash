@@ -1,0 +1,34 @@
+
+:   748: A   2 PRO  CB  : A   4 PHE  CE2 :   -1.023:        0
+:   748: A   4 PHE  O   : A   7 GLU  CG  :   -0.768:        0
+:   748: A   4 PHE  O   : A   7 GLU  HG2 :   -0.678:        0
+:   748: A   2 PRO  CB  : A   4 PHE  CD2 :   -0.615:        0
+:   748: A  54 THR  CG2 : A   4 PHE  HZ  :   -0.593:        0
+:   748: A   7 GLU  HG3 : A   4 PHE  O   :   -0.544:        0
+:   748: A   4 PHE  HB3 : A  42 ARG  CZ  :   -0.529:        0
+:   748: A   2 PRO  CB  : A   4 PHE  HE2 :   -0.514:        0
+
+:   748: A  26 LYS  CA  : A  27 ALA  N   :   -0.847:        0
+:   748: A  28 GLY  N   : A  27 ALA  CA  :   -0.821:        0
+:   748: A  28 GLY  N   : A  28 GLY  C   :   -0.701:        0
+
+:   748: A  10 TYR  CG  : A  41 LYS  HE2 :   -0.776:        0
+:   748: A  41 LYS  HE2 : A  10 TYR  CD2 :   -0.761:        0
+:   748: A  10 TYR  CZ  : A  12 GLY  HA2 :   -0.677:        0
+:   748: A  41 LYS  CE  : A  10 TYR  CG  :   -0.583:        0
+:   748: A  41 LYS  HD2 : A  10 TYR  HB2 :   -0.503:        0
+:   748: A  10 TYR  CE2 : A  12 GLY  HA2 :   -0.497:        0
+:   748: A  41 LYS  HD2 : A  10 TYR  CB  :   -0.483:        0
+
+:   748: A  49 GLU  CD  : A  49 GLU  H   :   -0.771:        0
+:   748: A  49 GLU  OE1 : A  49 GLU  N   :   -0.520:        0
+:   748: A  49 GLU  CD  : A  49 GLU  N   :   -0.452:        0
+
+:   748: A  20 ARG  HB2 : A  33 PHE  CE2 :   -0.437:        0
+:   748: A  20 ARG  O   : A  32 THR  HA  :   -0.411:        0
+
+:   748: A  34 VAL HG22 : A  19 ILE  CD1 :   -0.423:        0
+
+:   748: A  13 PRO  O   : A  15 LYS  HE2 :   -0.401:        0
+#sum2 ::33.42 clashscore : 33.42 clashscore B<40 
+#summary::748 atoms:748 atoms B<40:87705 potential dots:5482.0 A^2:25 bumps:25 bumps B<40:109.5 score

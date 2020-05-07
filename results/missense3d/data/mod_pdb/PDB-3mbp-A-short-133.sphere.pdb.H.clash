@@ -1,0 +1,47 @@
+
+:  1351: A 224 MET  CE  : A 115 LEU HD21 :   -1.106:       36
+:  1351: A 115 LEU HD21 : A 224 MET  HE1 :   -1.006:       36
+:  1351: A 224 MET  CE  : A 115 LEU  CD2 :   -0.654:       36
+:  1351: A 224 MET  CE  : A 126 PRO  HD2 :   -0.652:       36
+:  1351: A 224 MET  HE1 : A 115 LEU  CD2 :   -0.622:       36
+:  1351: A 126 PRO  HD2 : A 224 MET  HE3 :   -0.492:       36
+:  1351: A 122 LEU HD21 : A 126 PRO  HD3 :   -0.423:       30
+:  1351: A 224 MET  HE2 : A 115 LEU  CG  :   -0.418:       36
+
+:  1351: A 187 GLY  C   : A 188 ALA  CA  :   -0.919:       16
+
+:  1351: A 162 ALA  C   : A 162 ALA  N   :   -0.671:       17
+
+:  1351: A 144 LYS  HE2 : A 221 GLU  HA  :   -0.638:       34
+:  1351: A 144 LYS  O   : A 140 LYS  HA  :   -0.535:       33
+:  1351: A 140 LYS  HD3 : A 140 LYS  HA  :   -0.475:       38
+:  1351: A 136 ASP  OD2 : A 140 LYS  NZ  :   -0.444:       31
+:  1351: A 144 LYS  O   : A 140 LYS  HD3 :   -0.429:       38
+:  1351: A 136 ASP  O   : A 140 LYS  HG2 :   -0.421:       35
+:  1351: A 140 LYS  HZ2 : A 136 ASP  CG  :   -0.408:       31
+
+:  1351: A 121 LEU HD23 : A 223 ALA  HA  :   -0.606:       40
+
+:  1351: A 133 PRO  CD  : A 132 ILE  N   :   -0.559:       26
+
+:  1351: A 137 LYS  HG2 : A 134 ALA  HA  :   -0.533:       46
+
+:  1351: A 200 LYS  O   : A 202 LYS  HE3 :   -0.502:       55
+
+:  1351: A 351 ALA  HB1 : A 199 ILE HD13 :   -0.482:       30
+
+:  1351: A 138 GLU  H   : A 138 GLU  HG2 :   -0.453:       48
+
+:  1351: A 204 MET  HE3 : A 204 MET  HB3 :   -0.438:       33
+
+:  1351: A 139 LEU HD23 : A 142 LYS  HD3 :   -0.427:       50
+
+:  1351: A 127 LYS  N   : A 127 LYS  HD3 :   -0.414:       38
+
+:  1351: A 131 GLU  H   : A 131 GLU  HG2 :   -0.412:       29
+
+:  1351: A 198 LEU HD23 : A 198 LEU  HA  :   -0.407:       24
+
+:  1351: A 148 MET  HG3 : A 222 THR  CB  :   -0.400:       33
+#sum2 ::21.47 clashscore : 19.79 clashscore B<40 
+#summary::1351 atoms:1263 atoms B<40:160055 potential dots:10000.0 A^2:29 bumps:25 bumps B<40:353.3 score

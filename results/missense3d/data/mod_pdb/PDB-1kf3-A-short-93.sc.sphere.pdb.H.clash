@@ -1,0 +1,14 @@
+
+:   635: A  25 TYR  CD2 : A  25 TYR  CZ  :   -1.014:        0
+:   635: A  25 TYR  CZ  : A  29 MET  HG3 :   -0.487:        0
+
+:   635: A  43 VAL HG12 : A  85 ARG  HG3 :   -0.634:        0
+
+:   635: A   7 LYS  HE3 : A  11 GLN  NE2 :   -0.559:        0
+:   635: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.551:        0
+:   635: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.493:        0
+
+:   635: A  90 SER  CB  : A  86 GLU  CG  :   -0.464:        0
+:   635: A  86 GLU  HG2 : A  90 SER  HB3 :   -0.450:        0
+#sum2 ::12.60 clashscore : 12.60 clashscore B<40 
+#summary::635 atoms:635 atoms B<40:74368 potential dots:4648.0 A^2:8 bumps:8 bumps B<40:154.8 score

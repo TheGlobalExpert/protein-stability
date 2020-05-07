@@ -1,0 +1,13 @@
+
+:  1329: A   1 MET  CA  : A   1 MET  CG  :   -0.926:       30
+
+:  1329: A 111 VAL  CA  : A 112 ALA  N   :   -0.905:       24
+
+:  1329: A  96 ARG  NH1 : A  96 ARG  NE  :   -0.782:       29
+:  1329: A  96 ARG  NH1 : A  96 ARG  CD  :   -0.403:       29
+
+:  1329: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1329: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::4.51 clashscore : 4.08 clashscore B<40 
+#summary::1329 atoms:1226 atoms B<40:158063 potential dots:9879.0 A^2:6 bumps:5 bumps B<40:488.4 score

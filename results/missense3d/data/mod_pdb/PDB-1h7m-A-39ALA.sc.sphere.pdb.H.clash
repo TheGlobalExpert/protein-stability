@@ -1,0 +1,45 @@
+
+:  1069: A  18 MET  CE  : A  80 VAL HG21 :   -1.187:        0
+:  1069: A  80 VAL  CG2 : A  18 MET  CE  :   -1.090:        0
+:  1069: A  18 MET  HE1 : A  80 VAL HG21 :   -1.017:        0
+:  1069: A  18 MET  HE3 : A  80 VAL  CG2 :   -0.945:        0
+:  1069: A  83 LEU HD22 : A  74 LEU HD11 :   -0.693:        0
+:  1069: A  18 MET  HE1 : A  80 VAL  CG2 :   -0.686:        0
+:  1069: A  18 MET  CE  : A  80 VAL HG22 :   -0.634:        0
+:  1069: A  80 VAL  O   : A  70 LEU HD23 :   -0.615:        0
+:  1069: A  80 VAL HG22 : A  18 MET  HE3 :   -0.547:        0
+:  1069: A  74 LEU HD13 : A  18 MET  SD  :   -0.494:        0
+:  1069: A  18 MET  HE3 : A  80 VAL  CG1 :   -0.416:        0
+
+:  1069: A  94 LEU  CD2 : A  94 LEU  CB  :   -0.979:        0
+:  1069: A  94 LEU  CD2 : A  94 LEU  CA  :   -0.460:        0
+
+:  1069: A  10 ALA  CA  : A  11 GLN  N   :   -0.883:        0
+
+:  1069: A  40 ASN HD21 : A  66 THR  HB  :   -0.782:        0
+:  1069: A  66 THR  HB  : A  40 ASN  ND2 :   -0.581:        0
+
+:  1069: A  63 PHE  CE1 : A   3 PHE  CE2 :   -0.781:        0
+:  1069: A   3 PHE  CE2 : A  63 PHE  CD1 :   -0.688:        0
+:  1069: A  63 PHE  CE1 : A   3 PHE  CD2 :   -0.600:        0
+
+:  1069: A  68 VAL  CG2 : A  79 THR HG22 :   -0.680:        0
+:  1069: A  68 VAL HG22 : A  79 THR HG22 :   -0.551:        0
+:  1069: A  79 THR  HB  : A  67 SER  HB2 :   -0.538:        0
+:  1069: A  68 VAL  CG2 : A  79 THR  CG2 :   -0.463:        0
+:  1069: A  79 THR  CG2 : A  68 VAL HG22 :   -0.459:        0
+
+:  1069: A  85 VAL HG21 : A  93 ILE HD13 :   -0.651:        0
+:  1069: A  96 LEU HD12 : A  93 ILE HG12 :   -0.563:        0
+:  1069: A  36 ILE HD11 : A  93 ILE HD11 :   -0.560:        0
+:  1069: A  93 ILE HD11 : A  36 ILE  CD1 :   -0.518:        0
+:  1069: A  36 ILE  O   : A  82 ALA  HA  :   -0.407:        0
+
+:  1069: A  41 ALA  O   : A  46 LYS  NZ  :   -0.637:        0
+
+:  1069: A   4 ALA  HA  : A  73 LEU HD21 :   -0.462:        0
+:  1069: A  73 LEU HD11 : A   4 ALA  HB1 :   -0.434:        0
+:  1069: A  73 LEU HD12 : A  73 LEU  HA  :   -0.431:        0
+:  1069: A   8 ARG  NH1 : A  73 LEU HD12 :   -0.409:        0
+#sum2 ::31.81 clashscore : 31.81 clashscore B<40 
+#summary::1069 atoms:1069 atoms B<40:126256 potential dots:7891.0 A^2:34 bumps:34 bumps B<40:210.8 score

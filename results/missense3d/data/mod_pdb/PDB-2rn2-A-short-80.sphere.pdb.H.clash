@@ -1,0 +1,19 @@
+
+:  1048: A  46 ARG  CZ  : A  46 ARG  CD  :   -1.066:       11
+:  1048: A  46 ARG  CD  : A  46 ARG  NH1 :   -0.528:       13
+
+:  1048: A  66 ILE  CA  : A  66 ILE  CG1 :   -0.950:       20
+:  1048: A  66 ILE  CG1 : A  66 ILE  C   :   -0.416:       20
+
+:  1048: A  65 VAL  CB  : A  65 VAL  C   :   -0.842:       16
+
+:  1048: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:  1048: A  44 ASN  ND2 : A  48 GLU  OE2 :   -0.581:       28
+:  1048: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:  1048: A  94 ASP  OD2 : A  92 THR  OG1 :   -0.477:       28
+
+:  1048: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+#sum2 ::9.54 clashscore : 9.66 clashscore B<40 
+#summary::1048 atoms:1035 atoms B<40:124114 potential dots:7757.0 A^2:10 bumps:10 bumps B<40:268.3 score

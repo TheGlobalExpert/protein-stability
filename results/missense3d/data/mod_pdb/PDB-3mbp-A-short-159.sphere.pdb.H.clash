@@ -1,0 +1,62 @@
+
+:  2320: A 224 MET  CE  : A 115 LEU HD21 :   -1.106:       36
+:  2320: A 115 LEU HD21 : A 224 MET  HE1 :   -1.006:       36
+:  2320: A 224 MET  CE  : A 115 LEU  CD2 :   -0.654:       36
+:  2320: A 224 MET  CE  : A 126 PRO  HD2 :   -0.652:       36
+:  2320: A 224 MET  HE1 : A 115 LEU  CD2 :   -0.622:       36
+:  2320: A 126 PRO  HD2 : A 224 MET  HE3 :   -0.492:       36
+:  2320: A 224 MET  HE2 : A 115 LEU  CG  :   -0.418:       36
+
+:  2320: A 262 LEU  CD1 : A 262 LEU  CB  :   -1.037:       15
+:  2320: A 262 LEU  CA  : A 262 LEU  CD1 :   -0.499:       13
+
+:  2320: A  62 TRP  CG  : A  62 TRP  CA  :   -0.903:       15
+
+:  2320: A 136 ASP  CB  : A 136 ASP  N   :   -0.814:       25
+
+:  2320: A  96 ALA  CA  : A  96 ALA  O   :   -0.800:       20
+:  2320: A 329 ILE HG23 : A 329 ILE  O   :   -0.642:       36
+:  2320: A 329 ILE  O   : A 329 ILE  CG2 :   -0.556:       36
+:  2320: A  96 ALA  CB  : A 329 ILE HD11 :   -0.553:       34
+
+:  2320: A 222 THR  CB  : A 222 THR  C   :   -0.785:       24
+:  2320: A 222 THR  C   : A 222 THR  CG2 :   -0.457:       23
+:  2320: A 148 MET  HG3 : A 222 THR  CB  :   -0.400:       33
+
+:  2320: A 359 GLU  N   : A 359 GLU  C   :   -0.770:       19
+
+:  2320: A 363 ASP  C   : A 363 ASP  N   :   -0.698:       19
+
+:  2320: A 133 PRO  CD  : A 132 ILE  N   :   -0.559:       26
+
+:  2320: A 256 LYS  NZ  : A 163 ALA  O   :   -0.485:       21
+:  2320: A 322 GLU  HG2 : A 246 VAL HG22 :   -0.453:       35
+:  2320: A 256 LYS  HG3 : A 326 LYS  O   :   -0.445:       28
+:  2320: A 246 VAL  H   : A 246 VAL HG23 :   -0.414:       24
+:  2320: A 326 LYS  CG  : A 322 GLU  O   :   -0.402:       25
+
+:  2320: A 351 ALA  HB1 : A 199 ILE HD13 :   -0.482:       30
+
+:  2320: A 368 ILE HG12 : A 339 PHE  HA  :   -0.476:       17
+
+:  2320: A 232 TRP  CE2 : A 229 PRO  HA  :   -0.451:       15
+
+:  2320: A 204 MET  HE3 : A 204 MET  HB3 :   -0.438:       33
+
+:  2320: A 344 ARG HH11 : A 344 ARG  HD3 :   -0.437:       49
+
+:  2320: A 321 MET  HE3 : A 321 MET  HB3 :   -0.427:       36
+
+:  2320: A 181 VAL  HA  : A 168 ALA  O   :   -0.420:       17
+
+:  2320: A 127 LYS  N   : A 127 LYS  HD3 :   -0.414:       38
+
+:  2320: A 131 GLU  H   : A 131 GLU  HG2 :   -0.412:       29
+
+:  2320: A 299 LEU  CA  : A 298 PRO  O   :   -0.408:       20
+
+:  2320: A 198 LEU HD23 : A 198 LEU  HA  :   -0.407:       24
+
+:  2320: A 333 ILE HD13 : A 333 ILE HG21 :   -0.402:       17
+#sum2 ::16.38 clashscore : 16.21 clashscore B<40 
+#summary::2320 atoms:2282 atoms B<40:282130 potential dots:17630.0 A^2:38 bumps:37 bumps B<40:740.9 score

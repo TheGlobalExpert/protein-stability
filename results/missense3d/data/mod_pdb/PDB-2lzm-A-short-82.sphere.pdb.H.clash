@@ -1,0 +1,16 @@
+
+:   813: A  71 VAL  CA  : A  71 VAL  CG1 :   -0.979:       15
+:   813: A  71 VAL  CG1 : A  71 VAL  C   :   -0.434:        7
+
+:   813: A 125 ARG  N   : A 124 LYS  CA  :   -0.862:       22
+
+:   813: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:   813: A  94 VAL  O   : A  95 ARG  N   :   -0.700:       18
+:   813: A  94 VAL  O   : A  95 ARG  CA  :   -0.418:       18
+
+:   813: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:   813: A 106 MET  HE3 : A 106 MET  HB3 :   -0.427:       33
+#sum2 ::9.84 clashscore : 9.67 clashscore B<40 
+#summary::813 atoms:724 atoms B<40:98206 potential dots:6138.0 A^2:8 bumps:7 bumps B<40:247.9 score

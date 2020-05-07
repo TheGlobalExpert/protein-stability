@@ -1,0 +1,26 @@
+
+:  1202: A 161 TYR  CG  : A 161 TYR  CE2 :   -0.994:       19
+
+:  1202: A  48 LYS  CE  : A  48 LYS  CG  :   -0.970:       25
+:  1202: A  48 LYS  CE  : A  48 LYS  CB  :   -0.439:       25
+
+:  1202: A 106 MET  CA  : A 107 GLY  N   :   -0.897:       21
+
+:  1202: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1202: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1202: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1202: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1202: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1202: A  74 ALA  N   : A  74 ALA  CB  :   -0.767:       16
+
+:  1202: A  36 SER  OG  : A  36 SER  CA  :   -0.738:       76
+:  1202: A  36 SER  C   : A  36 SER  OG  :   -0.525:       76
+
+:  1202: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1202: A 100 ILE  C   : A 100 ILE  CG2 :   -0.515:       19
+
+:  1202: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::12.48 clashscore : 6.50 clashscore B<40 
+#summary::1202 atoms:1077 atoms B<40:144227 potential dots:9014.0 A^2:15 bumps:7 bumps B<40:379.8 score

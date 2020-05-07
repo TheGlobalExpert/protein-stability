@@ -1,0 +1,50 @@
+
+:  1247: A  45 ARG  CD  : A  45 ARG  CZ  :   -1.016:        0
+:  1247: A  45 ARG  CD  : A  45 ARG  NH2 :   -0.475:        0
+
+:  1247: A  89 LEU  CD1 : A  89 LEU  CD2 :   -0.993:        0
+
+:  1247: A  77 LYS  CB  : A  77 LYS  N   :   -0.844:        0
+
+:  1247: A  43 PHE  CG  : A  46 PHE  CZ  :   -0.772:        0
+:  1247: A  64 HIS  NE2 : A  43 PHE  CE1 :   -0.603:        0
+:  1247: A  43 PHE  HE1 : A  64 HIS  CE1 :   -0.564:        0
+:  1247: A  64 HIS  NE2 : A  43 PHE  HE1 :   -0.553:        0
+:  1247: A  64 HIS  CD2 : A  43 PHE  CE1 :   -0.541:        0
+:  1247: A  46 PHE  CZ  : A  43 PHE  CB  :   -0.520:        0
+:  1247: A  43 PHE  CD1 : A  46 PHE  CZ  :   -0.518:        0
+:  1247: A  46 PHE  CE2 : A  43 PHE  HB3 :   -0.504:        0
+
+:  1247: A  36 HIS  CD2 : A  36 HIS  CB  :   -0.762:        0
+
+:  1247: A  14 TRP  HH2 : A  72 LEU HD23 :   -0.756:        0
+:  1247: A  73 GLY  HA3 : A  14 TRP  HE1 :   -0.660:        0
+:  1247: A  14 TRP  NE1 : A  73 GLY  CA  :   -0.619:        0
+:  1247: A  72 LEU  CD2 : A  14 TRP  HH2 :   -0.603:        0
+:  1247: A  73 GLY  CA  : A  14 TRP  HE1 :   -0.560:        0
+:  1247: A  14 TRP  NE1 : A  73 GLY  HA2 :   -0.557:        0
+:  1247: A  14 TRP  CZ3 : A  76 LEU  CD1 :   -0.487:        0
+:  1247: A  14 TRP  CE3 : A  76 LEU  CD1 :   -0.477:        0
+:  1247: A  14 TRP  CH2 : A  72 LEU  HG  :   -0.447:        0
+:  1247: A  73 GLY  HA2 : A  14 TRP  CE2 :   -0.440:        0
+:  1247: A  76 LEU HD12 : A  14 TRP  CD2 :   -0.426:        0
+
+:  1247: A  20 ASP  CG  : A  23 ALA  HB3 :   -0.700:        0
+:  1247: A  20 ASP  OD2 : A  23 ALA  CB  :   -0.612:        0
+:  1247: A  23 ALA  CB  : A  20 ASP  CG  :   -0.576:        0
+:  1247: A  20 ASP  OD2 : A  23 ALA  HB3 :   -0.495:        0
+
+:  1247: A  27 ASP  OD2 : A 118 ARG  NH1 :   -0.522:        0
+:  1247: A 118 ARG HH11 : A  27 ASP  CG  :   -0.427:        0
+
+:  1247: A  22 ALA  HB1 : A  62 LYS  HE3 :   -0.508:        0
+:  1247: A  62 LYS  HE3 : A  22 ALA  CB  :   -0.422:        0
+
+:  1247: A 131 MET  CE  : A  10 VAL HG13 :   -0.500:        0
+
+:  1247: A  51 THR  OG1 : A  54 GLU  HG3 :   -0.430:        0
+:  1247: A  54 GLU  HB3 : A  49 LEU HD22 :   -0.425:        0
+
+:  1247: A  17 VAL  HA  : A  24 HIS  ND1 :   -0.400:        0
+#sum2 ::28.87 clashscore : 28.87 clashscore B<40 
+#summary::1247 atoms:1247 atoms B<40:148732 potential dots:9296.0 A^2:36 bumps:36 bumps B<40:294.6 score

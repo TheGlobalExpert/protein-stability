@@ -1,0 +1,14 @@
+
+:  1784: A 129 ALA  N   : A 128 GLU  O   :   -0.735:       20
+:  1784: A 128 GLU  O   : A 129 ALA  CA  :   -0.496:       20
+
+:  1784: A  42 ALA  N   : A  41 ALA  O   :   -0.672:       29
+
+:  1784: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1784: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1784: A  46 LEU  CA  : A  46 LEU  CD1 :   -0.438:       22
+
+:  1784: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::3.92 clashscore : 4.23 clashscore B<40 
+#summary::1784 atoms:1655 atoms B<40:212520 potential dots:13280.0 A^2:7 bumps:7 bumps B<40:709.1 score

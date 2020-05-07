@@ -1,0 +1,16 @@
+
+:  1110: A  43 VAL  CB  : A  43 VAL  C   :   -0.934:       17
+:  1110: A  43 VAL  CG2 : A  43 VAL  C   :   -0.634:       27
+
+:  1110: A 114 PRO  N   : A 113 ASN  CA  :   -0.813:       26
+:  1110: A 114 PRO  CA  : A 113 ASN  CA  :   -0.496:       26
+
+:  1110: A   6 ALA  C   : A   6 ALA  N   :   -0.745:       14
+
+:  1110: A  17 THR  CA  : A  17 THR  OG1 :   -0.675:       17
+
+:  1110: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.485:       16
+
+:  1110: A  85 ARG  NH2 : A  83 ASP  OD1 :   -0.457:      143
+#sum2 ::7.21 clashscore : 6.48 clashscore B<40 
+#summary::1110 atoms:1081 atoms B<40:132314 potential dots:8270.0 A^2:8 bumps:7 bumps B<40:394.2 score

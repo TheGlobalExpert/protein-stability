@@ -1,0 +1,39 @@
+
+:   650: A  52 PHE  CE1 : A  45 TYR  CD1 :   -1.112:        0
+:   650: A  52 PHE  CE1 : A  45 TYR  CE1 :   -1.052:        0
+:   650: A  52 PHE  CZ  : A  45 TYR  CD1 :   -1.030:        0
+:   650: A  52 PHE  CD1 : A  45 TYR  CD1 :   -0.640:        0
+:   650: A  45 TYR  HD1 : A  52 PHE  CD1 :   -0.639:        0
+:   650: A  45 TYR  CE1 : A  52 PHE  CZ  :   -0.603:        0
+:   650: A  45 TYR  HB2 : A  52 PHE  CE2 :   -0.577:        0
+:   650: A  45 TYR  CE1 : A  52 PHE  HE1 :   -0.551:        0
+:   650: A  52 PHE  CZ  : A  45 TYR  CG  :   -0.527:        0
+:   650: A  45 TYR  CD1 : A  52 PHE  CE2 :   -0.466:        0
+:   650: A  45 TYR  HB2 : A  52 PHE  CD2 :   -0.433:        0
+
+:   650: A  12 LEU  CD1 : A  12 LEU  CD2 :   -0.993:        0
+
+:   650: A  28 LYS  N   : A  28 LYS  HE3 :   -0.853:        0
+:   650: A  28 LYS  HE3 : A  28 LYS  CA  :   -0.480:        0
+:   650: A  28 LYS  HD2 : A  24 ALA  O   :   -0.412:        0
+
+:   650: A  15 GLU  CD  : A   4 LYS  HD2 :   -0.820:        0
+:   650: A   4 LYS  HD2 : A  15 GLU  OE2 :   -0.781:        0
+:   650: A  15 GLU  CG  : A   4 LYS  HD2 :   -0.555:        0
+:   650: A   4 LYS  CD  : A  15 GLU  CD  :   -0.545:        0
+:   650: A   3 TYR  O   : A  17 THR  HA  :   -0.446:        0
+:   650: A  15 GLU  OE2 : A   4 LYS  CD  :   -0.414:        0
+:   650: A   4 LYS  HA  : A  17 THR  HA  :   -0.403:        0
+
+:   650: A  36 ASP  CB  : A  36 ASP  OD2 :   -0.754:        0
+
+:   650: A  30 PHE  CZ  : A  18 THR HG22 :   -0.617:        0
+:   650: A  30 PHE  CZ  : A  18 THR  CG2 :   -0.427:        0
+
+:   650: A  43 TRP  CE2 : A  54 VAL  HB  :   -0.535:        0
+:   650: A  53 THR  O   : A  43 TRP  HA  :   -0.442:        0
+:   650: A   6 ILE  O   : A  53 THR  HA  :   -0.401:        0
+
+:   650: A  21 VAL HG22 : A  21 VAL  H   :   -0.429:        0
+#sum2 ::44.62 clashscore : 44.62 clashscore B<40 
+#summary::650 atoms:650 atoms B<40:76066 potential dots:4754.0 A^2:29 bumps:29 bumps B<40:59.64 score

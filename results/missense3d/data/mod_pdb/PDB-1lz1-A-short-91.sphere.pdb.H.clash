@@ -1,0 +1,29 @@
+
+:  1365: A  70 THR  N   : A  70 THR  CB  :   -0.807:       16
+
+:  1365: A  69 LYS  NZ  : A  69 LYS  CD  :   -0.798:       46
+
+:  1365: A 107 ARG  C   : A 107 ARG  N   :   -0.774:       59
+
+:  1365: A  22 GLY  C   : A  22 GLY  N   :   -0.654:       11
+
+:  1365: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+
+:  1365: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1365: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1365: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:  1365: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:  1365: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1365: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1365: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1365: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:  1365: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:  1365: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+#sum2 ::10.99 clashscore : 7.82 clashscore B<40 
+#summary::1365 atoms:1278 atoms B<40:162622 potential dots:10160.0 A^2:15 bumps:10 bumps B<40:525.7 score

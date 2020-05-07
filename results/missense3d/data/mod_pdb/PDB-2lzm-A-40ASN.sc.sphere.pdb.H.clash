@@ -1,0 +1,40 @@
+
+:   708: A  22 GLU  OE1 : A  24 TYR  HE1 :   -0.986:        0
+:   708: A  24 TYR  CE1 : A  22 GLU  OE1 :   -0.748:        0
+:   708: A  24 TYR  CE1 : A  22 GLU  HB3 :   -0.730:        0
+:   708: A  26 THR HG22 : A  27 ILE  N   :   -0.570:        0
+:   708: A  20 ASP  HB3 : A  22 GLU  H   :   -0.558:        0
+:   708: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:   708: A  24 TYR  O   : A  19 LYS  HA  :   -0.547:        0
+:   708: A  24 TYR  HE1 : A  22 GLU  CD  :   -0.520:        0
+:   708: A  18 TYR  CZ  : A  26 THR  HB  :   -0.516:        0
+:   708: A  20 ASP  HB2 : A  24 TYR  H   :   -0.516:        0
+:   708: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:   708: A  24 TYR  CE1 : A  22 GLU  CB  :   -0.495:        0
+:   708: A  18 TYR  OH  : A  26 THR  CG2 :   -0.452:        0
+:   708: A  26 THR  HB  : A  18 TYR  CE1 :   -0.444:        0
+:   708: A  22 GLU  HB3 : A  24 TYR  CD1 :   -0.435:        0
+:   708: A  18 TYR  OH  : A  26 THR HG21 :   -0.433:        0
+:   708: A  27 ILE  N   : A  26 THR  CG2 :   -0.433:        0
+:   708: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+
+:   708: A  62 GLU  OE2 : A  52 ARG  NE  :   -0.770:        0
+:   708: A  52 ARG HH21 : A  52 ARG  HG3 :   -0.672:        0
+:   708: A  52 ARG  HG3 : A  52 ARG  NH2 :   -0.596:        0
+:   708: A  54 CYS  HA  : A  52 ARG HH22 :   -0.519:        0
+:   708: A  52 ARG  HE  : A  62 GLU  CD  :   -0.507:        0
+:   708: A  52 ARG HH21 : A  52 ARG  CG  :   -0.483:        0
+:   708: A  54 CYS  HA  : A  52 ARG  NH2 :   -0.476:        0
+:   708: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.462:        0
+:   708: A  52 ARG  CZ  : A  54 CYS  SG  :   -0.454:        0
+:   708: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.408:        0
+
+:   708: A  29 ILE  N   : A  29 ILE  C   :   -0.757:        0
+
+:   708: A  59 THR  CA  : A  59 THR  O   :   -0.704:        0
+
+:   708: A  70 ASP  OD2 : A  70 ASP  OD1 :   -0.598:        0
+
+:   708: A  41 ALA  H   : A  38 SER  HB2 :   -0.493:        0
+#sum2 ::45.20 clashscore : 45.20 clashscore B<40 
+#summary::708 atoms:708 atoms B<40:81270 potential dots:5079.0 A^2:32 bumps:32 bumps B<40:151.1 score

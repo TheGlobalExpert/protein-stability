@@ -1,0 +1,65 @@
+
+:   927: A  34 THR HG22 : A  42 ILE  CD1 :   -1.603:        0
+:   927: A  34 THR  CG2 : A  42 ILE  CD1 :   -1.526:        0
+:   927: A  42 ILE HG13 : A  25 TYR  CG  :   -1.359:        0
+:   927: A  34 THR  CG2 : A  42 ILE HD13 :   -1.310:        0
+:   927: A  42 ILE  CD1 : A  25 TYR  HB2 :   -1.209:        0
+:   927: A  42 ILE HG13 : A  25 TYR  CD1 :   -1.101:        0
+:   927: A  42 ILE HD11 : A  34 THR  CG2 :   -1.020:        0
+:   927: A  42 ILE  CD1 : A  25 TYR  CB  :   -0.995:        0
+:   927: A  25 TYR  CD1 : A  42 ILE  CG1 :   -0.969:        0
+:   927: A  42 ILE HD12 : A  25 TYR  HB2 :   -0.948:        0
+:   927: A  42 ILE  CG1 : A  25 TYR  CG  :   -0.927:        0
+:   927: A  25 TYR  CB  : A  42 ILE HD12 :   -0.908:        0
+:   927: A  42 ILE HD13 : A  34 THR HG22 :   -0.816:        0
+:   927: A  42 ILE HD11 : A  25 TYR  HB2 :   -0.780:        0
+:   927: A  42 ILE HG13 : A  25 TYR  CB  :   -0.776:        0
+:   927: A  42 ILE  CG1 : A  25 TYR  CB  :   -0.771:        0
+:   927: A  34 THR HG23 : A  42 ILE HD11 :   -0.764:        0
+:   927: A  42 ILE HD13 : A  34 THR HG21 :   -0.741:        0
+:   927: A  42 ILE  CD1 : A  34 THR HG21 :   -0.599:        0
+:   927: A  33 LEU  CD1 : A  42 ILE HG23 :   -0.541:        0
+:   927: A  42 ILE HG22 : A  17 ILE HD13 :   -0.530:        0
+:   927: A  25 TYR  CD1 : A  42 ILE  CD1 :   -0.501:        0
+:   927: A  25 TYR  HB3 : A  42 ILE  CG2 :   -0.499:        0
+:   927: A  17 ILE HG21 : A  42 ILE HG21 :   -0.436:        0
+:   927: A  17 ILE HD13 : A  42 ILE  CG2 :   -0.425:        0
+:   927: A  42 ILE HG21 : A  25 TYR  HB3 :   -0.422:        0
+:   927: A  25 TYR  HD1 : A  42 ILE HD11 :   -0.408:        0
+
+:   927: A  16 LYS  HE3 : A  57 VAL HG23 :   -0.859:        0
+:   927: A  16 LYS  HE2 : A  56 GLY  O   :   -0.632:        0
+:   927: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.619:        0
+:   927: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.606:        0
+:   927: A  57 VAL  CG2 : A  16 LYS  HD2 :   -0.530:        0
+:   927: A  16 LYS  CE  : A  56 GLY  O   :   -0.486:        0
+
+:   927: A  14 ARG  NH2 : A  18 TYR  HB2 :   -0.777:        0
+:   927: A  14 ARG  NH2 : A  18 TYR  CB  :   -0.699:        0
+:   927: A  14 ARG  CZ  : A  18 TYR  HB3 :   -0.417:        0
+
+:   927: A  68 ASN  N   : A  68 ASN  C   :   -0.713:        0
+
+:   927: A  11 GLU  OE1 : A 145 ARG  NH2 :   -0.630:        0
+
+:   927: A  54 THR  HA  : A  52 ARG  NH2 :   -0.600:        0
+:   927: A  52 ARG  CZ  : A  54 THR HG22 :   -0.500:        0
+:   927: A  52 ARG HH22 : A  54 THR  HA  :   -0.448:        0
+
+:   927: A  26 THR HG22 : A  27 ILE  N   :   -0.563:        0
+:   927: A  26 THR HG23 : A  31 HIS  C   :   -0.491:        0
+:   927: A  31 HIS  O   : A  26 THR HG23 :   -0.455:        0
+:   927: A  27 ILE  N   : A  26 THR  CG2 :   -0.421:        0
+
+:   927: A  20 ASP  OD2 : A  20 ASP  C   :   -0.498:        0
+
+:   927: A  29 ILE HG22 : A  29 ILE  O   :   -0.465:        0
+:   927: A  67 PHE  HB2 : A  29 ILE HD12 :   -0.452:        0
+
+:   927: A  58 ILE  HB  : A  62 GLU  OE1 :   -0.423:        0
+
+:   927: A  48 LYS  HB3 : A  48 LYS  HE3 :   -0.410:        0
+
+:   927: A 103 VAL  O   : A 104 PHE  CA  :   -0.409:        0
+#sum2 ::55.02 clashscore : 55.02 clashscore B<40 
+#summary::927 atoms:927 atoms B<40:106608 potential dots:6663.0 A^2:51 bumps:51 bumps B<40:91.86 score

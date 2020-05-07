@@ -1,0 +1,44 @@
+
+:   723: A  22 GLU  OE1 : A  24 TYR  HE1 :   -0.986:        0
+:   723: A  24 TYR  CE1 : A  22 GLU  OE1 :   -0.748:        0
+:   723: A  24 TYR  CE1 : A  22 GLU  HB3 :   -0.730:        0
+:   723: A  26 THR HG22 : A  27 ILE  N   :   -0.570:        0
+:   723: A  20 ASP  HB3 : A  22 GLU  H   :   -0.558:        0
+:   723: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:   723: A  24 TYR  O   : A  19 LYS  HA  :   -0.547:        0
+:   723: A  24 TYR  HE1 : A  22 GLU  CD  :   -0.520:        0
+:   723: A  18 TYR  CZ  : A  26 THR  HB  :   -0.516:        0
+:   723: A  20 ASP  HB2 : A  24 TYR  H   :   -0.516:        0
+:   723: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:   723: A  24 TYR  CE1 : A  22 GLU  CB  :   -0.495:        0
+:   723: A  18 TYR  OH  : A  26 THR  CG2 :   -0.452:        0
+:   723: A  26 THR  HB  : A  18 TYR  CE1 :   -0.444:        0
+:   723: A  22 GLU  HB3 : A  24 TYR  CD1 :   -0.435:        0
+:   723: A  18 TYR  OH  : A  26 THR HG21 :   -0.433:        0
+:   723: A  27 ILE  N   : A  26 THR  CG2 :   -0.433:        0
+:   723: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+
+:   723: A  15 LEU  CD2 : A  15 LEU  CB  :   -0.977:        0
+:   723: A  15 LEU  CD2 : A  15 LEU  CA  :   -0.454:        0
+
+:   723: A  62 GLU  OE2 : A  52 ARG  NE  :   -0.770:        0
+:   723: A  52 ARG HH21 : A  52 ARG  HG3 :   -0.672:        0
+:   723: A  52 ARG  HG3 : A  52 ARG  NH2 :   -0.596:        0
+:   723: A  54 CYS  HA  : A  52 ARG HH22 :   -0.519:        0
+:   723: A  52 ARG  HE  : A  62 GLU  CD  :   -0.507:        0
+:   723: A  52 ARG HH21 : A  52 ARG  CG  :   -0.483:        0
+:   723: A  54 CYS  HA  : A  52 ARG  NH2 :   -0.476:        0
+:   723: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.462:        0
+:   723: A  52 ARG  CZ  : A  54 CYS  SG  :   -0.454:        0
+:   723: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.408:        0
+
+:   723: A  63 ALA  CA  : A  63 ALA  O   :   -0.715:        0
+
+:   723: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.586:        0
+:   723: A  39 LEU HD22 : A  43 LYS  HD3 :   -0.432:        0
+:   723: A  39 LEU HD23 : A  39 LEU  HA  :   -0.420:        0
+:   723: A  39 LEU  O   : A  39 LEU HD22 :   -0.414:        0
+
+:   723: A  38 SER  OG  : A  40 ASN  HB2 :   -0.423:        0
+#sum2 ::49.79 clashscore : 49.79 clashscore B<40 
+#summary::723 atoms:723 atoms B<40:85232 potential dots:5327.0 A^2:36 bumps:36 bumps B<40:138.7 score

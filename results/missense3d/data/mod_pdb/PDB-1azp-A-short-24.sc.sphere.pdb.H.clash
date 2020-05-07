@@ -1,0 +1,43 @@
+
+:   970: A  25 ARG HH12 : A  47 GLU  CD  :   -1.301:        0
+:   970: A  47 GLU  CD  : A  25 ARG  NH1 :   -1.002:        0
+:   970: A  47 GLU  OE1 : A  25 ARG  NH1 :   -0.916:        0
+:   970: A  25 ARG  NH2 : A  47 GLU  OE2 :   -0.897:        0
+:   970: A  47 GLU  CD  : A  25 ARG HH22 :   -0.719:        0
+:   970: A  47 GLU  OE2 : A  25 ARG  CZ  :   -0.712:        0
+:   970: A  47 GLU  CD  : A  25 ARG  CZ  :   -0.670:        0
+:   970: A  25 ARG HH21 : A  25 ARG  HG3 :   -0.619:        0
+:   970: A  47 GLU  CD  : A  25 ARG  NH2 :   -0.599:        0
+:   970: A  25 ARG  NH2 : A  25 ARG  HG3 :   -0.578:        0
+:   970: A  25 ARG HH22 : A  47 GLU  CG  :   -0.568:        0
+:   970: A  25 ARG HH22 : A  47 GLU  HG3 :   -0.441:        0
+:   970: A  47 GLU  OE2 : A  25 ARG  NH1 :   -0.441:        0
+:   970: A  25 ARG  CG  : A  25 ARG HH21 :   -0.400:        0
+
+:   970: A   6 PHE  HE1 : A  15 VAL HG12 :   -0.710:        0
+:   970: A  15 VAL HG12 : A   6 PHE  CE1 :   -0.467:        0
+
+:   970: A   7 LYS  HD3 : A   7 LYS  O   :   -0.695:        0
+:   970: A   7 LYS  HD3 : A   7 LYS  C   :   -0.512:        0
+
+:   970: A  35 ASP  HB3 : A  19 LYS  HD2 :   -0.679:        0
+
+:   970: A  14 GLU  CG  : A   5 LYS  HB3 :   -0.662:        0
+:   970: A   4 VAL  O   : A  14 GLU  HA  :   -0.527:        0
+
+:   970: A  31 SER  HB3 : A  24 TRP  CE2 :   -0.624:        0
+
+:   970: A  36 ASP  HB2 : A  34 TYR  CE2 :   -0.535:        0
+
+:   970: A  48 LYS  HG2 : A  46 SER  OG  :   -0.507:        0
+
+:   970: A  66 LYS  HB2 : A  65 LYS  O   :   -0.455:        0
+:   970: A  66 LYS  CB  : A  65 LYS  O   :   -0.431:        0
+
+:   970: A  16 ASP  OD2 : A  18 SER  OG  :   -0.447:        0
+
+:   970: A  13 LYS  HE3 : A  13 LYS  HB2 :   -0.426:        0
+
+:   970: A  29 MET  HB3 : A  26 VAL  O   :   -0.418:        0
+#sum2 ::29.90 clashscore : 29.90 clashscore B<40 
+#summary::970 atoms:970 atoms B<40:109651 potential dots:6853.0 A^2:29 bumps:29 bumps B<40:211.7 score

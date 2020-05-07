@@ -1,0 +1,30 @@
+
+:   897: A  21 ASP  C   : A  21 ASP  CB  :   -0.907:        0
+
+:   897: A  10 GLU  N   : A  10 GLU  CB  :   -0.854:        0
+:   897: A  10 GLU  OE1 : A  27 TYR  OH  :   -0.563:        0
+
+:   897: A 129 GLU  N   : A 129 GLU  CB  :   -0.843:        0
+
+:   897: A  74 VAL HG12 : A  92 ILE  CD1 :   -0.780:        0
+:   897: A  74 VAL HG12 : A  92 ILE HD12 :   -0.586:        0
+
+:   897: A  99 VAL  C   : A  99 VAL  N   :   -0.745:        0
+
+:   897: A  76 PHE  CG  : A  81 ARG  HD3 :   -0.705:        0
+:   897: A  81 ARG  HG2 : A  81 ARG HH21 :   -0.633:        0
+:   897: A  76 PHE  CB  : A  81 ARG  HD3 :   -0.593:        0
+:   897: A  81 ARG HH21 : A  81 ARG  CG  :   -0.556:        0
+:   897: A  81 ARG  NH2 : A  81 ARG  CG  :   -0.461:        0
+:   897: A  81 ARG  HD3 : A  76 PHE  HB3 :   -0.433:        0
+
+:   897: A  36 LEU  HB3 : A 100 ASN  ND2 :   -0.564:        0
+
+:   897: A  85 TYR  CE2 : A  84 LYS  NZ  :   -0.500:        0
+
+:   897: A   7 LEU HD21 : A  78 LYS  HG3 :   -0.429:        0
+
+:   897: A 122 GLU  CD  : A 114 VAL HG21 :   -0.420:        0
+:   897: A  38 LEU HD22 : A 114 VAL HG22 :   -0.402:        0
+#sum2 ::20.07 clashscore : 20.07 clashscore B<40 
+#summary::897 atoms:897 atoms B<40:107753 potential dots:6735.0 A^2:18 bumps:18 bumps B<40:179.8 score

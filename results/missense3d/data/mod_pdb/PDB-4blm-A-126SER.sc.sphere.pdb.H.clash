@@ -1,0 +1,118 @@
+
+:  2189: A 167 PRO  N   : A 167 PRO  CD  :   -1.282:        0
+:  2189: A 168 GLU  N   : A 168 GLU  OE1 :   -1.257:        0
+:  2189: A 168 GLU  H   : A 168 GLU  CD  :   -1.060:        0
+:  2189: A 168 GLU  CD  : A 168 GLU  N   :   -0.940:        0
+:  2189: A 167 PRO  N   : A 168 GLU  OE1 :   -0.782:        0
+:  2189: A  68 PHE  HD1 : A  69 ALA  N   :   -0.746:        0
+:  2189: A 169 LEU HD13 : A  68 PHE  HE1 :   -0.660:        0
+:  2189: A 169 LEU HD12 : A 169 LEU  C   :   -0.611:        0
+:  2189: A 168 GLU  HG2 : A 164 ARG  HB3 :   -0.586:        0
+:  2189: A  68 PHE  CD1 : A  69 ALA  N   :   -0.575:        0
+:  2189: A  68 PHE  CE2 : A 179 ASP  HA  :   -0.566:        0
+:  2189: A 167 PRO  CD  : A 166 GLU  C   :   -0.561:        0
+:  2189: A 166 GLU  CD  : A 169 LEU HD21 :   -0.498:        0
+:  2189: A 168 GLU  OE1 : A 166 GLU  C   :   -0.492:        0
+:  2189: A 169 LEU HD12 : A 170 ASN  N   :   -0.471:        0
+:  2189: A 167 PRO  CD  : A 168 GLU  OE1 :   -0.462:        0
+:  2189: A 168 GLU  OE1 : A 167 PRO  C   :   -0.450:        0
+:  2189: A  68 PHE  HD1 : A  68 PHE  C   :   -0.447:        0
+:  2189: A  68 PHE  CD1 : A  68 PHE  C   :   -0.429:        0
+:  2189: A 169 LEU  CD1 : A 169 LEU  C   :   -0.419:        0
+:  2189: A 164 ARG  CZ  : A 168 GLU  O   :   -0.415:        0
+
+:  2189: A 109 THR  CG2 : A 102 LEU HD11 :   -1.157:        0
+:  2189: A 102 LEU  CD1 : A 109 THR  CG2 :   -0.915:        0
+:  2189: A 102 LEU HD11 : A 109 THR HG23 :   -0.758:        0
+:  2189: A 102 LEU  CD1 : A 109 THR HG21 :   -0.635:        0
+:  2189: A 102 LEU HD11 : A 109 THR HG22 :   -0.569:        0
+:  2189: A 102 LEU HD12 : A 109 THR HG21 :   -0.505:        0
+:  2189: A 102 LEU HD12 : A 102 LEU  HA  :   -0.458:        0
+:  2189: A 109 THR HG21 : A 133 ALA  CB  :   -0.442:        0
+:  2189: A 109 THR  CG2 : A 106 ASN  HB3 :   -0.419:        0
+
+:  2189: A 155 ILE  CG2 : A 155 ILE  CG1 :   -0.972:        0
+
+:  2189: A 263 VAL  C   : A 264 LEU  CA  :   -0.966:        0
+:  2189: A 186 LEU HD12 : A 264 LEU HD11 :   -0.406:        0
+
+:  2189: A 202 GLU  CG  : A 202 GLU  CA  :   -0.938:        0
+:  2189: A  88 ILE HD12 : A 202 GLU  OE2 :   -0.861:        0
+:  2189: A  88 ILE  CD1 : A 202 GLU  OE2 :   -0.803:        0
+:  2189: A 202 GLU  OE2 : A 202 GLU  CG  :   -0.764:        0
+:  2189: A 202 GLU  C   : A 202 GLU  CG  :   -0.744:        0
+:  2189: A  88 ILE HD11 : A 202 GLU  CG  :   -0.644:        0
+:  2189: A  88 ILE  CG1 : A 202 GLU  OE2 :   -0.513:        0
+:  2189: A 202 GLU  CG  : A  88 ILE  CD1 :   -0.486:        0
+
+:  2189: A  73 LYS  HG2 : A 135 GLN  OE1 :   -0.858:        0
+:  2189: A  73 LYS  HB2 : A 234 LYS  HE3 :   -0.684:        0
+:  2189: A  73 LYS  HE3 : A 135 GLN  HB2 :   -0.575:        0
+:  2189: A 135 GLN HE21 : A  76 THR  CB  :   -0.548:        0
+:  2189: A  73 LYS  HG2 : A 135 GLN  CD  :   -0.474:        0
+:  2189: A  70 SER  O   : A 234 LYS  HE3 :   -0.443:        0
+
+:  2189: A 198 LYS  CB  : A 198 LYS  C   :   -0.851:        0
+
+:  2189: A 249 ILE  HB  : A 251 TRP  CH2 :   -0.813:        0
+:  2189: A 249 ILE  HB  : A 251 TRP  CZ3 :   -0.439:        0
+
+:  2189: A 199 LEU  C   : A 200 PRO  CD  :   -0.810:        0
+:  2189: A 199 LEU  CA  : A 200 PRO  CD  :   -0.594:        0
+:  2189: A 200 PRO  CD  : A 199 LEU  HA  :   -0.501:        0
+:  2189: A 199 LEU HD22 : A 203 LYS  HD2 :   -0.459:        0
+
+:  2189: A 205 GLU  CG  : A 205 GLU  OE1 :   -0.760:        0
+:  2189: A 205 GLU  OE1 : A 205 GLU  CB  :   -0.401:        0
+
+:  2189: A 214 ASN  HB3 : A 222 ARG  NH1 :   -0.718:        0
+:  2189: A 214 ASN  HB3 : A 222 ARG HH11 :   -0.667:        0
+:  2189: A 218 ASP  HA  : A 222 ARG  HD2 :   -0.448:        0
+
+:  2189: A 261 LEU  N   : A 261 LEU  C   :   -0.679:        0
+
+:  2189: A 132 ASN  HB3 : A 103 VAL HG21 :   -0.665:        0
+:  2189: A 104 ASN  OD1 : A 132 ASN  ND2 :   -0.517:        0
+:  2189: A 103 VAL HG21 : A 132 ASN  CB  :   -0.426:        0
+
+:  2189: A 213 ARG  NH1 : A 210 TRP  HD1 :   -0.635:        0
+:  2189: A 210 TRP  CD1 : A 213 ARG  NH1 :   -0.570:        0
+:  2189: A 209 ASP  O   : A 213 ARG  HG3 :   -0.442:        0
+:  2189: A 128 ARG  NE  : A 213 ARG HH22 :   -0.435:        0
+:  2189: A 213 ARG  HE  : A 209 ASP  CG  :   -0.430:        0
+
+:  2189: A 246 ASP  HB2 : A 220 LEU HD23 :   -0.629:        0
+:  2189: A 220 LEU  CD2 : A 246 ASP  HB2 :   -0.613:        0
+:  2189: A 235 THR HG22 : A 220 LEU HD22 :   -0.492:        0
+:  2189: A 220 LEU  N   : A 220 LEU HD12 :   -0.460:        0
+
+:  2189: A 139 LEU HD23 : A 142 ILE HD11 :   -0.610:        0
+:  2189: A 139 LEU  HA  : A 139 LEU HD23 :   -0.491:        0
+:  2189: A 139 LEU  HB3 : A 165 PHE  HE1 :   -0.406:        0
+
+:  2189: A 212 LYS  HE3 : A 208 ILE  CG2 :   -0.601:        0
+
+:  2189: A  86 LYS  HB3 : A  90 ASP  HB2 :   -0.598:        0
+
+:  2189: A  93 GLN  HG2 : A 119 LEU  CD1 :   -0.544:        0
+:  2189: A 141 GLN  HG3 : A 119 LEU HD21 :   -0.531:        0
+:  2189: A 141 GLN  HG2 : A 137 LEU  O   :   -0.518:        0
+:  2189: A  93 GLN  OE1 : A 119 LEU HD11 :   -0.508:        0
+:  2189: A  94 ARG  HA  : A 118 THR  HA  :   -0.484:        0
+:  2189: A 115 THR  N   : A 114 ASP  OD1 :   -0.464:        0
+:  2189: A 115 THR  O   : A  94 ARG  HD3 :   -0.453:        0
+:  2189: A 118 THR  HA  : A  93 GLN  O   :   -0.413:        0
+:  2189: A  93 GLN  HG2 : A 119 LEU HD12 :   -0.408:        0
+
+:  2189: A 232 ALA  O   : A 248 ALA  HB1 :   -0.488:        0
+:  2189: A 211 MET  HB3 : A 232 ALA  HB1 :   -0.475:        0
+:  2189: A 248 ALA  CB  : A 232 ALA  O   :   -0.458:        0
+:  2189: A 232 ALA  HB1 : A 211 MET  CB  :   -0.436:        0
+
+:  2189: A 243 THR  O   : A 237 ALA  HA  :   -0.443:        0
+
+:  2189: A 193 PHE  O   : A 204 ARG  HG2 :   -0.431:        0
+
+:  2189: A 157 ASP  OD2 : A 160 THR  OG1 :   -0.424:        0
+#sum2 ::42.49 clashscore : 42.49 clashscore B<40 
+#summary::2189 atoms:2189 atoms B<40:258699 potential dots:16170.0 A^2:93 bumps:93 bumps B<40:441.5 score

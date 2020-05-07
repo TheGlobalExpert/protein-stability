@@ -1,0 +1,48 @@
+
+:  1918: A  22 PHE  CZ  : A  22 PHE  CD1 :   -0.978:       25
+:  1918: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.555:       30
+:  1918: A  22 PHE  HA  : A  49 GLU  O   :   -0.531:       24
+:  1918: A  22 PHE  CD1 : A  22 PHE  C   :   -0.410:       20
+
+:  1918: A 139 PHE  C   : A 139 PHE  CB  :   -0.886:       22
+
+:  1918: A 136 SER  O   : A 136 SER  CA  :   -0.749:       29
+
+:  1918: A 146 HIS  O   : A 147 ASN  N   :   -0.691:       24
+
+:  1918: A   2 GLU  HA  : A   2 GLU  OE1 :   -0.650:       78
+:  1918: A   5 GLU  CB  : A   2 GLU  HG3 :   -0.500:       68
+:  1918: A   5 GLU  OE1 : A   2 GLU  HG2 :   -0.424:       68
+
+:  1918: A 199 LYS  HA  : A 199 LYS  HE2 :   -0.644:       49
+
+:  1918: A 158 ALA  HB2 : A 155 PRO  HG2 :   -0.612:       32
+
+:  1918: A  11 LEU  CD1 : A  18 ALA  HB2 :   -0.599:       30
+
+:  1918: A 226 ALA  HB3 : A 193 LEU HD23 :   -0.555:       38
+:  1918: A 226 ALA  CB  : A 193 LEU HD23 :   -0.497:       38
+:  1918: A 193 LEU  CD2 : A 226 ALA  HB3 :   -0.430:       38
+
+:  1918: A  20 VAL  HB  : A 232 ILE HG12 :   -0.552:       25
+:  1918: A  20 VAL  O   : A 232 ILE  HA  :   -0.532:       21
+:  1918: A  20 VAL  O   : A 232 ILE HG23 :   -0.430:       25
+
+:  1918: A 177 LEU HD11 : A 181 GLY  HA3 :   -0.546:       33
+
+:  1918: A  16 GLU  HG2 : A 267 ARG  HG2 :   -0.543:       41
+
+:  1918: A 125 SER  HB2 : A 151 ILE HD11 :   -0.535:       22
+
+:  1918: A 220 VAL  O   : A 224 ILE HD13 :   -0.456:       40
+
+:  1918: A 211 GLY  O   : A 212 PHE  CB  :   -0.454:       17
+
+:  1918: A 182 VAL  CG1 : A 156 PRO  HG2 :   -0.435:       41
+
+:  1918: A 124 ASP  OD2 : A   3 ARG  HD2 :   -0.424:       37
+:  1918: A   3 ARG  HD2 : A 124 ASP  CG  :   -0.411:       32
+
+:  1918: A 152 PHE  CD1 : A 133 VAL HG23 :   -0.418:       32
+#sum2 ::14.60 clashscore : 12.30 clashscore B<40 
+#summary::1918 atoms:1708 atoms B<40:224558 potential dots:14030.0 A^2:28 bumps:21 bumps B<40:606.9 score

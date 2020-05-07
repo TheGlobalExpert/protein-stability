@@ -1,0 +1,12 @@
+
+:   858: A 100 PHE  CZ  : A 100 PHE  CD2 :   -1.011:       19
+
+:   858: A  68 TYR  CE1 : A  68 TYR  CE2 :   -1.003:       18
+
+:   858: A  25 GLN  N   : A  25 GLN  CB  :   -0.850:       26
+
+:   858: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:   858: A  50 PHE  CA  : A  49 ASP  O   :   -0.428:       30
+#sum2 ::5.83 clashscore : 5.92 clashscore B<40 
+#summary::858 atoms:845 atoms B<40:104600 potential dots:6538.0 A^2:5 bumps:5 bumps B<40:298.1 score

@@ -1,0 +1,35 @@
+
+:   949: A  17 PHE  HD1 : A   8 TRP  CZ2 :   -1.223:        0
+:   949: A   8 TRP  CZ2 : A  17 PHE  CD1 :   -1.005:        0
+:   949: A  16 GLY  HA2 : A   8 TRP  CZ3 :   -0.980:        0
+:   949: A  17 PHE  CD1 : A   8 TRP  HZ2 :   -0.973:        0
+:   949: A   8 TRP  CH2 : A  16 GLY  HA2 :   -0.765:        0
+:   949: A   7 LYS  HG2 : A   8 TRP  HD1 :   -0.588:        0
+:   949: A   8 TRP  HZ2 : A  17 PHE  CE1 :   -0.569:        0
+:   949: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.509:        0
+:   949: A  43 GLU  HG3 : A   7 LYS  O   :   -0.469:        0
+:   949: A   8 TRP  CZ3 : A  16 GLY  CA  :   -0.408:        0
+
+:   949: A  55 ASN  CG  : A  55 ASN  CA  :   -0.861:        0
+:   949: A  55 ASN  OD1 : A  55 ASN  N   :   -0.430:        0
+
+:   949: A  66 GLU  HG3 : A  48 SER  OG  :   -0.745:        0
+
+:   949: A  51 ILE HD11 : A  26 VAL HG21 :   -0.619:        0
+
+:   949: A  44 GLY  O   : A   5 LYS  HE3 :   -0.615:        0
+:   949: A  44 GLY  O   : A   5 LYS  CE  :   -0.433:        0
+
+:   949: A   1 MET  SD  : A  50 GLU  HG3 :   -0.614:        0
+
+:   949: A  49 PHE  CE1 : A  18 ILE HG21 :   -0.553:        0
+
+:   949: A  65 LYS  HA  : A  47 VAL HG12 :   -0.497:        0
+
+:   949: A  30 PHE  CD1 : A  30 PHE  C   :   -0.470:        0
+
+:   949: A  10 ASN  ND2 : A  13 LYS  HD2 :   -0.417:        0
+
+:   949: A  41 LEU  HB3 : A   6 VAL HG21 :   -0.415:        0
+#sum2 ::23.18 clashscore : 23.18 clashscore B<40 
+#summary::949 atoms:949 atoms B<40:108283 potential dots:6768.0 A^2:22 bumps:22 bumps B<40:183.9 score

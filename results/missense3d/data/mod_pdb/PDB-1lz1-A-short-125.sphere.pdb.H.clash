@@ -1,0 +1,23 @@
+
+:  1082: A 122 ARG  HD2 : A 120 ASP  OD1 :   -1.187:      101
+:  1082: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.810:      101
+
+:  1082: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:  1082: A 112 TRP  CZ3 : A 107 ARG  NH1 :   -0.738:      106
+:  1082: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+
+:  1082: A 115 ARG  HG2 : A 111 ALA  O   :   -0.767:       46
+:  1082: A 111 ALA  N   : A 110 VAL  O   :   -0.726:       20
+:  1082: A 110 VAL  O   : A 111 ALA  CA  :   -0.422:       27
+
+:  1082: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1082: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1082: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1082: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1082: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1082: A 126 GLN  NE2 : A 126 GLN  HA  :   -0.423:       89
+#sum2 ::12.94 clashscore : 7.28 clashscore B<40 
+#summary::1082 atoms:961 atoms B<40:128110 potential dots:8007.0 A^2:14 bumps:7 bumps B<40:351.4 score

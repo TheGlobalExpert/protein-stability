@@ -1,0 +1,26 @@
+
+:   555: A  85 LEU  CD1 : A  85 LEU  CD2 :   -1.001:        0
+
+:   555: A  64 TRP  CE3 : A  64 TRP  CH2 :   -0.988:        0
+:   555: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:   555: A 107 ARG  O   : A 113 ARG  CZ  :   -0.888:        0
+:   555: A 113 ARG  NH1 : A 104 GLN  OE1 :   -0.844:        0
+:   555: A 107 ARG  O   : A 113 ARG  NH1 :   -0.507:        0
+
+:   555: A  49 ASP  O   : A  62 ARG  NH1 :   -0.704:        0
+:   555: A  62 ARG  O   : A  73 ALA  HA  :   -0.665:        0
+:   555: A  51 SER  HB3 : A  62 ARG  NH2 :   -0.517:        0
+
+:   555: A  42 ALA  N   : A  41 ARG  O   :   -0.674:        0
+
+:   555: A  35 GLU  OE2 : A 111 ALA  HB3 :   -0.510:        0
+
+:   555: A  74 VAL  O   : A  74 VAL HG12 :   -0.505:        0
+:   555: A  74 VAL  O   : A  74 VAL  CG1 :   -0.496:        0
+
+:   555: A  54 TYR  CE2 : A  52 THR  HB  :   -0.476:        0
+
+:   555: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+#sum2 ::27.03 clashscore : 27.03 clashscore B<40 
+#summary::555 atoms:555 atoms B<40:69409 potential dots:4338.0 A^2:15 bumps:15 bumps B<40:92.75 score

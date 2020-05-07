@@ -1,0 +1,26 @@
+
+:   705: A  36 ASP  CA  : A  37 ASN  N   :   -0.875:        0
+
+:   705: A  28 LYS  HE3 : A  28 LYS  N   :   -0.853:        0
+:   705: A  28 LYS  HE3 : A  28 LYS  CA  :   -0.480:        0
+:   705: A  28 LYS  HD2 : A  24 ALA  O   :   -0.412:        0
+
+:   705: A   4 LYS  HD2 : A  15 GLU  CD  :   -0.820:        0
+:   705: A   4 LYS  HD2 : A  15 GLU  OE2 :   -0.781:        0
+:   705: A   4 LYS  HD2 : A  15 GLU  CG  :   -0.555:        0
+:   705: A  15 GLU  CD  : A   4 LYS  CD  :   -0.545:        0
+:   705: A  17 THR  HA  : A   3 TYR  O   :   -0.446:        0
+:   705: A  15 GLU  OE2 : A   4 LYS  CD  :   -0.414:        0
+:   705: A  17 THR  HA  : A   4 LYS  HA  :   -0.403:        0
+
+:   705: A  54 VAL  HB  : A  43 TRP  CE2 :   -0.535:        0
+:   705: A  43 TRP  HA  : A  53 THR  O   :   -0.442:        0
+:   705: A  53 THR  HA  : A   6 ILE  O   :   -0.401:        0
+
+:   705: A  21 VAL HG22 : A  21 VAL  H   :   -0.429:        0
+
+:   705: A  40 ASP  OD1 : A  40 ASP  CA  :   -0.425:        0
+
+:   705: A  22 ASP  OD1 : A  22 ASP  C   :   -0.412:        0
+#sum2 ::24.11 clashscore : 24.11 clashscore B<40 
+#summary::705 atoms:705 atoms B<40:81977 potential dots:5124.0 A^2:17 bumps:17 bumps B<40:144.6 score

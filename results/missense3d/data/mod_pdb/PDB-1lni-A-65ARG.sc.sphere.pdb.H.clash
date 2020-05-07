@@ -1,0 +1,45 @@
+
+:   945: A  27 PRO  N   : A  27 PRO  CA  :   -1.305:        0
+:   945: A  27 PRO  CD  : A  27 PRO  N   :   -1.013:        0
+:   945: A  27 PRO  CA  : A  26 GLY  C   :   -0.551:        0
+:   945: A  26 GLY  CA  : A  27 PRO  CA  :   -0.530:        0
+:   945: A  27 PRO  C   : A  27 PRO  CG  :   -0.477:        0
+:   945: A  27 PRO  N   : A  27 PRO  CB  :   -0.438:        0
+:   945: A  27 PRO  N   : A  27 PRO  CG  :   -0.437:        0
+:   945: A  27 PRO  C   : A  27 PRO  HG2 :   -0.409:        0
+
+:   945: A  32 GLN  HB2 : A  65 ARG HH12 :   -1.030:        0
+:   945: A  69 ARG HH12 : A  65 ARG  CB  :   -0.957:        0
+:   945: A  65 ARG  HB3 : A  69 ARG  NH1 :   -0.837:        0
+:   945: A  69 ARG  NH1 : A  65 ARG  CB  :   -0.811:        0
+:   945: A  65 ARG  HB3 : A  69 ARG HH12 :   -0.743:        0
+:   945: A  32 GLN  HB2 : A  65 ARG  NH1 :   -0.668:        0
+:   945: A  69 ARG  HD3 : A  56 THR  HA  :   -0.659:        0
+:   945: A  69 ARG HH12 : A  65 ARG  HB2 :   -0.653:        0
+:   945: A  69 ARG  HG3 : A  86 TYR  CZ  :   -0.565:        0
+:   945: A  69 ARG  CZ  : A  65 ARG  HB3 :   -0.521:        0
+:   945: A  82 THR  HB  : A  89 PHE  CD2 :   -0.481:        0
+:   945: A  69 ARG  HG3 : A  86 TYR  OH  :   -0.443:        0
+:   945: A  86 TYR  HA  : A  89 PHE  CZ  :   -0.432:        0
+:   945: A  69 ARG  NH1 : A  65 ARG  HB2 :   -0.410:        0
+
+:   945: A  41 GLU  N   : A  41 GLU  CB  :   -0.851:        0
+:   945: A  41 GLU  N   : A  40 ARG  CA  :   -0.834:        0
+
+:   945: A  92 ILE HD11 : A  81 TYR  HB2 :   -0.771:        0
+
+:   945: A  39 ASN  OD1 : A  39 ASN  CB  :   -0.749:        0
+
+:   945: A  71 ILE HD12 : A  70 ILE  C   :   -0.583:        0
+:   945: A  71 ILE  CD1 : A  71 ILE  N   :   -0.525:        0
+:   945: A  70 ILE HD12 : A  18 THR  HB  :   -0.449:        0
+:   945: A  57 VAL  CG2 : A  70 ILE HG13 :   -0.418:        0
+
+:   945: A  72 THR  O   : A  52 TYR  HA  :   -0.491:        0
+:   945: A  72 THR HG22 : A  79 ASP  OD2 :   -0.422:        0
+
+:   945: A  55 TYR  CZ  : A  34 GLY  HA2 :   -0.466:        0
+
+:   945: A  84 ASP  CG  : A  87 ALA  HB3 :   -0.462:        0
+#sum2 ::35.98 clashscore : 35.98 clashscore B<40 
+#summary::945 atoms:945 atoms B<40:113712 potential dots:7107.0 A^2:34 bumps:34 bumps B<40:130 score

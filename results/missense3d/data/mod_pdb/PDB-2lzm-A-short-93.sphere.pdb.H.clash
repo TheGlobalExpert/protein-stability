@@ -1,0 +1,33 @@
+
+:  1288: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1288: A 164 LEU  N   : A 164 LEU  CB  :   -0.944:       64
+:  1288: A 164 LEU  CB  : A 164 LEU  C   :   -0.915:       59
+:  1288: A 164 LEU  N   : A 164 LEU  C   :   -0.741:       64
+:  1288: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1288: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1288: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1288: A 164 LEU  CB  : A 164 LEU  O   :   -0.453:       69
+:  1288: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+
+:  1288: A  11 GLU  CG  : A  11 GLU  OE1 :   -0.801:       22
+
+:  1288: A 107 GLY  N   : A 107 GLY  C   :   -0.742:       15
+
+:  1288: A 117 SER  N   : A 116 ASN  O   :   -0.708:       19
+:  1288: A 116 ASN  O   : A 117 SER  CA  :   -0.516:       19
+
+:  1288: A   5 GLU  OE1 : A   1 MET  HA  :   -0.635:       38
+:  1288: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1288: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1288: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1288: A 154 ARG  HD3 : A 127 ASP  OD2 :   -0.507:       53
+:  1288: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1288: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1288: A 159 ASP  O   : A 162 LYS  HB2 :   -0.428:       58
+
+:  1288: A 114 PHE  CB  : A 114 PHE  O   :   -0.417:       22
+#sum2 ::17.08 clashscore : 7.45 clashscore B<40 
+#summary::1288 atoms:1208 atoms B<40:155622 potential dots:9726.0 A^2:22 bumps:9 bumps B<40:439.9 score

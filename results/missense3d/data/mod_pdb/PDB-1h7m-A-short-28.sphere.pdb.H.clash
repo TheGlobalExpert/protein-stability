@@ -1,0 +1,12 @@
+
+:   819: A  93 ILE  CG2 : A  93 ILE  CG1 :   -0.805:       20
+:   819: A  94 LEU  CA  : A  94 LEU  O   :   -0.730:       26
+:   819: A  94 LEU  N   : A  93 ILE  O   :   -0.694:       19
+:   819: A  93 ILE  CD1 : A  93 ILE  CG2 :   -0.522:       27
+:   819: A  93 ILE  O   : A  94 LEU  CA  :   -0.445:       21
+
+:   819: A  52 TYR  CZ  : A  28 LYS  HE2 :   -0.634:       23
+
+:   819: A  42 ARG HH11 : A  42 ARG  HD3 :   -0.436:       14
+#sum2 ::8.55 clashscore : 8.72 clashscore B<40 
+#summary::819 atoms:803 atoms B<40:96745 potential dots:6047.0 A^2:7 bumps:7 bumps B<40:255.9 score

@@ -1,0 +1,59 @@
+
+:  1261: A 233 PRO  N   : A 233 PRO  CD  :   -1.432:        0
+:  1261: A 232 ASP  O   : A 228 LYS  HA  :   -0.475:        0
+:  1261: A 233 PRO  CD  : A 232 ASP  C   :   -0.426:        0
+:  1261: A 232 ASP  HA  : A 233 PRO  CD  :   -0.410:        0
+
+:  1261: A 143 TYR  CB  : A 143 TYR  CD1 :   -0.958:        0
+:  1261: A 143 TYR  CD1 : A 143 TYR  CA  :   -0.592:        0
+
+:  1261: A 141 PHE  CZ  : A  17 LEU  HB3 :   -0.809:        0
+:  1261: A 141 PHE  HZ  : A  17 LEU  HB3 :   -0.740:        0
+:  1261: A 225 LEU HD23 : A  17 LEU HD21 :   -0.639:        0
+:  1261: A 221 LEU  O   : A  10 LYS  NZ  :   -0.508:        0
+:  1261: A 221 LEU HD11 : A 225 LEU HD21 :   -0.498:        0
+:  1261: A 213 PHE  CE1 : A 225 LEU  HG  :   -0.488:        0
+:  1261: A 225 LEU  HG  : A 213 PHE  CZ  :   -0.480:        0
+:  1261: A 141 PHE  CZ  : A  17 LEU  CB  :   -0.447:        0
+:  1261: A  17 LEU HD13 : A  17 LEU  HA  :   -0.434:        0
+:  1261: A  17 LEU HD12 : A 209 GLU  CD  :   -0.423:        0
+
+:  1261: A 140 GLN  CG  : A 140 GLN  OE1 :   -0.755:        0
+
+:  1261: A   9 HIS  N   : A   8 PRO  O   :   -0.751:        0
+:  1261: A   9 HIS  CA  : A   8 PRO  O   :   -0.488:        0
+
+:  1261: A 180 THR  N   : A 179 GLU  O   :   -0.716:        0
+:  1261: A 180 THR HG22 : A 219 LEU HD11 :   -0.507:        0
+:  1261: A 180 THR  CA  : A 179 GLU  O   :   -0.488:        0
+
+:  1261: A 206 VAL HG13 : A 187 LEU  HG  :   -0.688:        0
+:  1261: A 187 LEU  HB3 : A 211 ARG  NH1 :   -0.487:        0
+:  1261: A 215 LYS  HE3 : A 211 ARG  HG3 :   -0.463:        0
+:  1261: A 211 ARG  CG  : A 215 LYS  HE3 :   -0.437:        0
+:  1261: A 187 LEU HD12 : A 187 LEU  HA  :   -0.423:        0
+:  1261: A 210 GLN  HB2 : A 206 VAL  HA  :   -0.420:        0
+
+:  1261: A 138 LEU HD22 : A 138 LEU  O   :   -0.681:        0
+
+:  1261: A  26 LEU  HG  : A  16 GLU  HB3 :   -0.601:        0
+
+:  1261: A 234 TYR  HB2 : A 227 TRP  CE2 :   -0.576:        0
+:  1261: A 236 ILE HG13 : A 227 TRP  HH2 :   -0.565:        0
+:  1261: A 227 TRP  CZ2 : A 234 TYR  CB  :   -0.439:        0
+:  1261: A 236 ILE HG13 : A 227 TRP  CH2 :   -0.413:        0
+
+:  1261: A 205 ARG HH11 : A 145 ASP  CG  :   -0.486:        0
+:  1261: A 205 ARG  HD3 : A 194 MET  CE  :   -0.408:        0
+
+:  1261: A 202 ASP  C   : A 202 ASP  OD1 :   -0.438:        0
+
+:  1261: A 207 ASP  HB2 : A 204 SER  HA  :   -0.421:        0
+
+:  1261: A 223 PRO  HB2 : A 238 SER  HA  :   -0.416:        0
+:  1261: A 223 PRO  HD3 : A 222 ASN  HA  :   -0.416:        0
+:  1261: A  13 ILE  CD1 : A 223 PRO  HG3 :   -0.410:        0
+
+:  1261: A 147 ILE  N   : A 148 VAL  N   :   -0.403:        0
+#sum2 ::33.31 clashscore : 33.31 clashscore B<40 
+#summary::1261 atoms:1261 atoms B<40:152594 potential dots:9537.0 A^2:42 bumps:42 bumps B<40:319.1 score

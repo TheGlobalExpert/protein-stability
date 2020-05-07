@@ -1,0 +1,10 @@
+
+:   905: A  14 GLY  N   : A  13 LYS  O   :   -0.703:       14
+
+:   905: A   1 MET  SD  : A  50 GLU  HG3 :   -0.567:       21
+
+:   905: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.512:       16
+
+:   905: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.495:       28
+#sum2 ::4.42 clashscore : 4.44 clashscore B<40 
+#summary::905 atoms:900 atoms B<40:103555 potential dots:6472.0 A^2:4 bumps:4 bumps B<40:320.6 score

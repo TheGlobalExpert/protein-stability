@@ -1,0 +1,63 @@
+
+:   990: A  64 LYS  HG3 : A  22 LYS  CE  :   -1.711:        0
+:   990: A  64 LYS  CG  : A  22 LYS  CE  :   -1.622:        0
+:   990: A  64 LYS  HG3 : A  22 LYS  NZ  :   -1.429:        0
+:   990: A  64 LYS  CG  : A  22 LYS  HE2 :   -1.124:        0
+:   990: A  22 LYS  HE3 : A  64 LYS  CG  :   -1.043:        0
+:   990: A  64 LYS  CG  : A  22 LYS  NZ  :   -1.033:        0
+:   990: A  64 LYS  HG3 : A  22 LYS  HE2 :   -0.928:        0
+:   990: A  22 LYS  HE3 : A  64 LYS  HG2 :   -0.905:        0
+:   990: A  64 LYS  NZ  : A  63 LYS  C   :   -0.894:        0
+:   990: A  64 LYS  HG3 : A  22 LYS  HZ1 :   -0.848:        0
+:   990: A  64 LYS  HG2 : A  22 LYS  CE  :   -0.834:        0
+:   990: A  22 LYS  NZ  : A  64 LYS  CD  :   -0.791:        0
+:   990: A  64 LYS  CG  : A  22 LYS  HZ1 :   -0.775:        0
+:   990: A  22 LYS  HZ2 : A  64 LYS  HD3 :   -0.720:        0
+:   990: A  63 LYS  O   : A  64 LYS  NZ  :   -0.705:        0
+:   990: A  64 LYS  N   : A  63 LYS  H   :   -0.700:        0
+:   990: A  64 LYS  HD3 : A  22 LYS  NZ  :   -0.677:        0
+:   990: A  22 LYS  CE  : A  64 LYS  CD  :   -0.661:        0
+:   990: A  22 LYS  HE3 : A  64 LYS  CD  :   -0.578:        0
+:   990: A  22 LYS  HE2 : A  64 LYS  CB  :   -0.471:        0
+:   990: A  22 LYS  HZ1 : A  64 LYS  CD  :   -0.431:        0
+:   990: A  64 LYS  N   : A  63 LYS  CA  :   -0.410:        0
+
+:   990: A  54 GLU  OE2 : A   1 MET  SD  :   -0.994:        0
+:   990: A   1 MET  N   : A   1 MET  SD  :   -0.605:        0
+:   990: A  17 ILE HG21 : A  54 GLU  HG2 :   -0.492:        0
+
+:   990: A   9 LYS  HG3 : A   8 TYR  CD2 :   -0.839:        0
+:   990: A   9 LYS  HD3 : A   8 TYR  O   :   -0.837:        0
+:   990: A   8 TYR  HD2 : A   9 LYS  HD2 :   -0.687:        0
+:   990: A   9 LYS  CD  : A   8 TYR  O   :   -0.636:        0
+:   990: A   8 TYR  HD2 : A   9 LYS  CD  :   -0.546:        0
+:   990: A   8 TYR  CD2 : A   9 LYS  CG  :   -0.517:        0
+:   990: A   9 LYS  CD  : A   8 TYR  C   :   -0.492:        0
+:   990: A   9 LYS  CG  : A   8 TYR  HD2 :   -0.455:        0
+
+:   990: A  23 VAL  CG1 : A  62 GLN HE21 :   -0.833:        0
+:   990: A  62 GLN  NE2 : A  23 VAL HG13 :   -0.672:        0
+:   990: A  59 LEU  HB3 : A  56 LEU  O   :   -0.483:        0
+:   990: A  23 VAL HG22 : A  59 LEU HD13 :   -0.416:        0
+:   990: A  62 GLN HE21 : A  23 VAL HG12 :   -0.400:        0
+
+:   990: A  31 SER  HB3 : A  24 TRP  CE2 :   -0.772:        0
+:   990: A  31 SER  HB3 : A  24 TRP  NE1 :   -0.553:        0
+
+:   990: A  20 ILE HD13 : A  34 TYR  HB3 :   -0.577:        0
+:   990: A  42 GLY  HA3 : A  34 TYR  CZ  :   -0.568:        0
+:   990: A  34 TYR  HE2 : A  36 GLU  HG2 :   -0.423:        0
+
+:   990: A  30 VAL  CG2 : A  48 GLU  HG2 :   -0.528:        0
+:   990: A  28 LYS  O   : A  48 GLU  HG3 :   -0.506:        0
+
+:   990: A  61 LYS  HG3 : A  57 GLN  O   :   -0.450:        0
+:   990: A  61 LYS  HB3 : A  61 LYS  HE2 :   -0.412:        0
+
+:   990: A  16 ASP  O   : A  15 VAL HG12 :   -0.443:        0
+
+:   990: A  10 GLY  O   : A  11 GLU  CB  :   -0.436:        0
+
+:   990: A  53 LYS  HE3 : A  53 LYS  HB3 :   -0.420:        0
+#sum2 ::50.51 clashscore : 50.51 clashscore B<40 
+#summary::990 atoms:990 atoms B<40:110538 potential dots:6909.0 A^2:50 bumps:50 bumps B<40:50.75 score

@@ -1,0 +1,19 @@
+
+:  1034: A   7 LEU  CD2 : A   7 LEU  CB  :   -1.013:       18
+:  1034: A   8 ARG  CA  : A   7 LEU  C   :   -0.998:       18
+:  1034: A   7 LEU  CB  : A   7 LEU  CD1 :   -0.987:       18
+:  1034: A   7 LEU  CD1 : A   7 LEU  CD2 :   -0.981:       18
+:  1034: A   7 LEU  C   : A   7 LEU  CB  :   -0.853:       17
+:  1034: A   8 ARG  CA  : A   7 LEU  O   :   -0.435:       18
+
+:  1034: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1034: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1034: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1034: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1034: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1034: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1034: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::12.57 clashscore : 7.87 clashscore B<40 
+#summary::1034 atoms:890 atoms B<40:120497 potential dots:7531.0 A^2:13 bumps:7 bumps B<40:269.1 score

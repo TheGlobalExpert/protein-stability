@@ -1,0 +1,15 @@
+
+:   962: A  22 GLY  O   : A  23 GLN  HG2 :   -0.661:       60
+:   962: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+
+:   962: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   962: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   962: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   962: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   962: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::7.28 clashscore : 5.38 clashscore B<40 
+#summary::962 atoms:743 atoms B<40:108624 potential dots:6789.0 A^2:7 bumps:4 bumps B<40:274.9 score

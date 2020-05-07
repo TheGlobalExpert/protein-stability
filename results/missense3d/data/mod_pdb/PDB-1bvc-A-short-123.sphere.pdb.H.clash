@@ -1,0 +1,12 @@
+
+:  1056: A  68 VAL  C   : A  68 VAL  CB  :   -0.898:        6
+:  1056: A  68 VAL  C   : A  68 VAL  CG1 :   -0.542:        5
+
+:  1056: A  29 LEU  CA  : A  30 ILE  N   :   -0.825:        6
+:  1056: A  30 ILE  C   : A  30 ILE  N   :   -0.752:        6
+
+:  1056: A  78 LYS  N   : A  78 LYS  C   :   -0.693:        8
+
+:  1056: A 104 LEU  O   : A 105 GLU  CA  :   -0.415:        6
+#sum2 ::5.68 clashscore : 5.68 clashscore B<40 
+#summary::1056 atoms:1056 atoms B<40:125870 potential dots:7867.0 A^2:6 bumps:6 bumps B<40:431.8 score

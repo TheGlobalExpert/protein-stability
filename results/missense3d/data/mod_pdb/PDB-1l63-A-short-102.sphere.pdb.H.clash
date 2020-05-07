@@ -1,0 +1,22 @@
+
+:  1997: A  64 GLU  CA  : A  64 GLU  CG  :   -0.996:       22
+
+:  1997: A 123 GLN  CG  : A 123 GLN  NE2 :   -0.866:       52
+
+:  1997: A  14 ARG  N   : A  14 ARG  CB  :   -0.858:       23
+:  1997: A  14 ARG  N   : A  14 ARG  CG  :   -0.424:       30
+
+:  1997: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1997: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1997: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1997: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1997: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1997: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1997: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1997: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::6.01 clashscore : 4.94 clashscore B<40 
+#summary::1997 atoms:1821 atoms B<40:228074 potential dots:14250.0 A^2:12 bumps:9 bumps B<40:761.2 score

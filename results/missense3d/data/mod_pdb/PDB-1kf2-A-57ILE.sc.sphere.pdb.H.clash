@@ -1,0 +1,24 @@
+
+:  1127: A  16 SER  CA  : A  17 THR  N   :   -0.852:        0
+:  1127: A  17 THR  CA  : A  17 THR  OG1 :   -0.715:        0
+
+:  1127: A  60 GLN  OE1 : A  57 ILE  HA  :   -0.804:        0
+:  1127: A  60 GLN  NE2 : A  76 TYR  H   :   -0.715:        0
+:  1127: A  60 GLN  OE1 : A  57 ILE HG12 :   -0.637:        0
+:  1127: A  79 MET  CE  : A  57 ILE HD11 :   -0.561:        0
+:  1127: A  57 ILE HD11 : A  79 MET  HE3 :   -0.504:        0
+:  1127: A  60 GLN  OE1 : A  75 SER  HA  :   -0.448:        0
+
+:  1127: A 110 CYS  HB2 : A 115 TYR  CE2 :   -0.631:        0
+:  1127: A 115 TYR  CZ  : A 110 CYS  HB2 :   -0.587:        0
+:  1127: A 110 CYS  CB  : A 115 TYR  CE2 :   -0.492:        0
+
+:  1127: A 120 PHE  CE2 : A 106 ILE HG23 :   -0.499:        0
+:  1127: A 106 ILE  CG2 : A 120 PHE  CE2 :   -0.455:        0
+:  1127: A 107 ILE  N   : A 106 ILE  CG2 :   -0.427:        0
+:  1127: A 106 ILE HG22 : A 108 VAL HG13 :   -0.415:        0
+
+:  1127: A 119 HIS  NE2 : A 121 ASP  HA  :   -0.470:        0
+:  1127: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.443:        0
+#sum2 ::15.08 clashscore : 15.08 clashscore B<40 
+#summary::1127 atoms:1127 atoms B<40:131980 potential dots:8249.0 A^2:17 bumps:17 bumps B<40:332.1 score

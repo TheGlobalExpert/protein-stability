@@ -1,0 +1,26 @@
+
+:  1198: A  12 ASP  CA  : A  12 ASP  CG  :   -0.864:        0
+:  1198: A  12 ASP  CA  : A  12 ASP  OD1 :   -0.417:        0
+
+:  1198: A  83 LEU HD22 : A  74 LEU HD11 :   -0.693:        0
+
+:  1198: A  79 THR HG22 : A  68 VAL  CG2 :   -0.680:        0
+:  1198: A  79 THR HG22 : A  68 VAL HG22 :   -0.551:        0
+:  1198: A  67 SER  HB2 : A  79 THR  HB  :   -0.538:        0
+:  1198: A  79 THR  CG2 : A  68 VAL  CG2 :   -0.463:        0
+:  1198: A  68 VAL HG22 : A  79 THR  CG2 :   -0.459:        0
+
+:  1198: A  93 ILE HD13 : A  85 VAL HG21 :   -0.651:        0
+:  1198: A  96 LEU HD12 : A  93 ILE HG12 :   -0.563:        0
+:  1198: A  93 ILE HD11 : A  36 ILE HD11 :   -0.560:        0
+:  1198: A  93 ILE HD11 : A  36 ILE  CD1 :   -0.518:        0
+:  1198: A  36 ILE  O   : A  82 ALA  HA  :   -0.407:        0
+
+:  1198: A  52 TYR  CZ  : A  28 LYS  HE2 :   -0.650:        0
+:  1198: A  28 LYS  HE3 : A  24 ILE  CG2 :   -0.466:        0
+
+:  1198: A  70 LEU HD23 : A  80 VAL  O   :   -0.615:        0
+
+:  1198: A  76 ARG  HA  : A  77 PRO  HD3 :   -0.436:        0
+#sum2 ::14.19 clashscore : 14.19 clashscore B<40 
+#summary::1198 atoms:1198 atoms B<40:137804 potential dots:8613.0 A^2:17 bumps:17 bumps B<40:378.4 score

@@ -1,0 +1,13 @@
+
+______________________________________________
+
+SECONDARY STRUCTURE INFORMATION
+-------------------------------
+NO OF HELICES and RESIDUE  =      0     0
+NO OF STRANDS and RESIDUE  =      0     0
+NO OF TURNS   and RESIDUE  =      0     0
+______________________________________________
+Setting cut-off distance to     5.000
+$SALTB    1 GLU A   6 .   ARG A  92        . OE2  NE       4.095  $INTRA $NO
+$SALTB    2 ASP A  44 .   ARG A  42        . OD1  NE       3.080  $INTRA $NO
+$SALTB    3 GLU A  64 .   ARG A  39        . OE1  NE       2.550  $INTRA $NO

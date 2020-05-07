@@ -1,0 +1,19 @@
+
+:  1084: A 155 THR  CG2 : A 155 THR  CA  :   -0.963:       23
+
+:  1084: A 142 THR  C   : A 143 PRO  CA  :   -0.962:       20
+:  1084: A 142 THR  N   : A 141 GLN  CA  :   -0.804:       19
+:  1084: A 142 THR  C   : A 142 THR  N   :   -0.802:       19
+:  1084: A 143 PRO  CA  : A 143 PRO  O   :   -0.719:       20
+
+:  1084: A  96 ARG  NH2 : A  96 ARG  NE  :   -0.806:       25
+:  1084: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+
+:  1084: A 145 ARG  C   : A 145 ARG  CG  :   -0.663:       24
+
+:  1084: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1084: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1084: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+#sum2 ::10.15 clashscore : 11.13 clashscore B<40 
+#summary::1084 atoms:988 atoms B<40:128993 potential dots:8062.0 A^2:11 bumps:11 bumps B<40:358.6 score

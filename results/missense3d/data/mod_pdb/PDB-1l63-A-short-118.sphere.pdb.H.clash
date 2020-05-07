@@ -1,0 +1,14 @@
+
+:  1317: A 141 GLN  CB  : A 141 GLN  N   :   -0.771:       15
+
+:  1317: A 137 ARG  NH1 : A 137 ARG  NE  :   -0.757:       37
+:  1317: A 137 ARG  NH1 : A 137 ARG  CD  :   -0.403:       32
+
+:  1317: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1317: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1317: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1317: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::5.32 clashscore : 5.83 clashscore B<40 
+#summary::1317 atoms:1201 atoms B<40:153974 potential dots:9623.0 A^2:7 bumps:7 bumps B<40:546.5 score

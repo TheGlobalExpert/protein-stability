@@ -1,0 +1,19 @@
+
+:  1073: A 112 TRP  CB  : A 112 TRP  CD1 :   -0.928:        0
+
+:  1073: A 115 ARG  HG2 : A 111 ALA  O   :   -0.725:        0
+
+:  1073: A  25 LEU  N   : A  24 SER  O   :   -0.702:        0
+:  1073: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1073: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.499:        0
+:  1073: A  92 ALA  HA  : A  84 LEU HD22 :   -0.455:        0
+
+:  1073: A   8 LEU  CD2 : A  38 TYR  CD2 :   -0.478:        0
+:  1073: A  33 LYS  HB2 : A  38 TYR  CZ  :   -0.402:        0
+
+:  1073: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+
+:  1073: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::9.32 clashscore : 9.32 clashscore B<40 
+#summary::1073 atoms:1073 atoms B<40:129853 potential dots:8116.0 A^2:10 bumps:10 bumps B<40:356.3 score

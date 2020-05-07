@@ -1,0 +1,22 @@
+
+:   670: A   8 TRP  CH2 : A  16 GLY  HA2 :   -1.071:        0
+:   670: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.805:        0
+:   670: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.619:        0
+:   670: A  16 GLY  HA2 : A   8 TRP  CZ2 :   -0.519:        0
+:   670: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.509:        0
+:   670: A  16 GLY  CA  : A   8 TRP  CZ3 :   -0.482:        0
+
+:   670: A  46 ALA  C   : A  46 ALA  N   :   -0.830:        0
+
+:   670: A  18 ILE HG21 : A  49 PHE  CE1 :   -0.553:        0
+
+:   670: A  13 GLU  HB3 : A  15 PHE  CE2 :   -0.534:        0
+:   670: A  15 PHE  HE2 : A  13 GLU  HB3 :   -0.428:        0
+
+:   670: A  30 PHE  CD1 : A  30 PHE  C   :   -0.470:        0
+
+:   670: A   7 LYS  O   : A  43 GLU  HG3 :   -0.469:        0
+
+:   670: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.415:        0
+#sum2 ::19.40 clashscore : 19.40 clashscore B<40 
+#summary::670 atoms:670 atoms B<40:79070 potential dots:4942.0 A^2:13 bumps:13 bumps B<40:168.2 score

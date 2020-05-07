@@ -1,0 +1,45 @@
+
+:  2080: A 135 SER  C   : A 135 SER  CB  :   -0.947:        0
+
+:  2080: A 175 GLU  CG  : A 175 GLU  CA  :   -0.930:        0
+
+:  2080: A 120 ILE HD12 : A 123 TRP  CZ2 :   -0.817:        0
+:  2080: A 123 TRP  HZ2 : A 120 ILE HD12 :   -0.561:        0
+:  2080: A 123 TRP  CZ2 : A 120 ILE  CD1 :   -0.535:        0
+:  2080: A  80 GLY  HA3 : A 123 TRP  CE3 :   -0.438:        0
+
+:  2080: A 187 ASN  N   : A 187 ASN  C   :   -0.723:        0
+
+:  2080: A 183 GLN  N   : A 183 GLN  C   :   -0.705:        0
+
+:  2080: A 266 TRP  N   : A 265 VAL  O   :   -0.693:        0
+:  2080: A 236 GLU  HG2 : A 266 TRP  CZ3 :   -0.455:        0
+
+:  2080: A 207 HIS  HD1 : A 238 ASP  CG  :   -0.649:        0
+:  2080: A 238 ASP  OD1 : A 207 HIS  HA  :   -0.470:        0
+
+:  2080: A  87 SER  HB2 : A  85 HIS  CE1 :   -0.594:        0
+:  2080: A 127 ASN  O   : A  85 HIS  HD2 :   -0.523:        0
+:  2080: A 128 GLU  HG3 : A 127 ASN  ND2 :   -0.510:        0
+:  2080: A  85 HIS  ND1 : A  87 SER  HB2 :   -0.491:        0
+:  2080: A 127 ASN  CG  : A 128 GLU  HG3 :   -0.450:        0
+:  2080: A  85 HIS  NE2 : A 128 GLU  HB2 :   -0.421:        0
+
+:  2080: A  41 VAL  C   : A  41 VAL  CG1 :   -0.589:        0
+
+:  2080: A 151 ILE  CG1 : A 150 TRP  CE2 :   -0.533:        0
+:  2080: A 150 TRP  CE2 : A 151 ILE HG13 :   -0.523:        0
+:  2080: A 151 ILE HG12 : A 150 TRP  CZ2 :   -0.514:        0
+:  2080: A 151 ILE HD12 : A 138 ARG  CZ  :   -0.499:        0
+:  2080: A 126 VAL HG13 : A 150 TRP  CH2 :   -0.498:        0
+:  2080: A 126 VAL  CG1 : A 150 TRP  CH2 :   -0.484:        0
+:  2080: A 126 VAL HG13 : A 150 TRP  HH2 :   -0.444:        0
+
+:  2080: A 225 PHE  CE2 : A 185 MET  HE3 :   -0.453:        0
+:  2080: A 185 MET  CE  : A 225 PHE  CZ  :   -0.432:        0
+
+:  2080: A  46 GLU  OE1 : A  46 GLU  N   :   -0.420:        0
+
+:  2080: A 205 GLN  OE1 : A 172 TYR  HB3 :   -0.401:        0
+#sum2 ::14.42 clashscore : 14.42 clashscore B<40 
+#summary::2080 atoms:2080 atoms B<40:253090 potential dots:15820.0 A^2:30 bumps:30 bumps B<40:616.6 score

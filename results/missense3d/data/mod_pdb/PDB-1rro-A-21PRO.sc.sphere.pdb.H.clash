@@ -1,0 +1,16 @@
+
+:   823: A  86 MET  HE2 : A  63 LEU HD11 :   -0.701:        0
+:   823: A  63 LEU HD22 : A  85 LEU HD23 :   -0.663:        0
+:   823: A  86 MET  CE  : A  63 LEU HD11 :   -0.491:        0
+:   823: A  85 LEU HD12 : A  85 LEU  HA  :   -0.407:        0
+
+:   823: A  82 THR HG23 : A  78 THR  O   :   -0.566:        0
+
+:   823: A  16 GLN  HG3 : A  19 GLN  OE1 :   -0.539:        0
+:   823: A  16 GLN  HA  : A  19 GLN  HG3 :   -0.407:        0
+
+:   823: A  76 GLU  OE2 : A  65 TYR  HE1 :   -0.427:        0
+
+:   823: A  50 ILE HD13 : A  66 PHE  CE1 :   -0.421:        0
+#sum2 ::10.94 clashscore : 10.94 clashscore B<40 
+#summary::823 atoms:823 atoms B<40:98070 potential dots:6129.0 A^2:9 bumps:9 bumps B<40:280.3 score

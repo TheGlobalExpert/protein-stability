@@ -1,0 +1,80 @@
+
+:  1312: A   6 MET  HE2 : A 161 TYR  OH  :   -1.283:        0
+:  1312: A 161 TYR  OH  : A   6 MET  CE  :   -0.956:        0
+:  1312: A   6 MET  HE2 : A 161 TYR  CZ  :   -0.947:        0
+:  1312: A 161 TYR  CZ  : A   6 MET  CE  :   -0.850:        0
+:  1312: A   6 MET  HE3 : A 161 TYR  CE2 :   -0.834:        0
+:  1312: A   6 MET  CE  : A 161 TYR  CE2 :   -0.832:        0
+:  1312: A   6 MET  CG  : A 161 TYR  CZ  :   -0.697:        0
+:  1312: A 161 TYR  CE1 : A   6 MET  CG  :   -0.540:        0
+:  1312: A   6 MET  HE3 : A 161 TYR  HE2 :   -0.532:        0
+:  1312: A   6 MET  CE  : A 161 TYR  HE2 :   -0.475:        0
+:  1312: A   6 MET  HE3 : A 158 TRP  HZ3 :   -0.465:        0
+
+:  1312: A 117 ILE  CD1 : A 133 LEU  HA  :   -1.211:        0
+:  1312: A 133 LEU  CA  : A 117 ILE  CD1 :   -0.997:        0
+:  1312: A 138 TRP  CZ2 : A 146 ALA  HA  :   -0.937:        0
+:  1312: A 133 LEU HD23 : A 150 ILE HG12 :   -0.923:        0
+:  1312: A 133 LEU  HA  : A 117 ILE HD11 :   -0.897:        0
+:  1312: A 133 LEU  CA  : A 117 ILE HD11 :   -0.847:        0
+:  1312: A 150 ILE  CG1 : A 133 LEU HD23 :   -0.827:        0
+:  1312: A 133 LEU  CA  : A 117 ILE HD13 :   -0.816:        0
+:  1312: A 138 TRP  HZ3 : A 133 LEU  HG  :   -0.708:        0
+:  1312: A 133 LEU  HA  : A 117 ILE HD13 :   -0.703:        0
+:  1312: A 133 LEU  CB  : A 117 ILE HD13 :   -0.692:        0
+:  1312: A 132 ASN  C   : A 117 ILE HD11 :   -0.655:        0
+:  1312: A 133 LEU  N   : A 117 ILE HD11 :   -0.644:        0
+:  1312: A 117 ILE  CD1 : A 133 LEU  N   :   -0.619:        0
+:  1312: A 133 LEU  HG  : A 138 TRP  CZ3 :   -0.562:        0
+:  1312: A 117 ILE HD13 : A 133 LEU  HB2 :   -0.561:        0
+:  1312: A 138 TRP  CH2 : A 146 ALA  HA  :   -0.552:        0
+:  1312: A 138 TRP  CZ2 : A 146 ALA  CA  :   -0.513:        0
+:  1312: A 132 ASN  O   : A 117 ILE HD11 :   -0.453:        0
+
+:  1312: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:  1312: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:  1312: A 106 MET  CG  : A 111 VAL HG23 :   -0.934:        0
+:  1312: A 111 VAL HG23 : A 106 MET  SD  :   -0.634:        0
+:  1312: A 106 MET  SD  : A 114 PHE  HE1 :   -0.627:        0
+:  1312: A 111 VAL HG23 : A 106 MET  HG2 :   -0.614:        0
+:  1312: A 114 PHE  HD1 : A 111 VAL  HA  :   -0.572:        0
+:  1312: A 111 VAL  HA  : A 114 PHE  CD1 :   -0.544:        0
+:  1312: A 106 MET  CG  : A 111 VAL  CG2 :   -0.485:        0
+:  1312: A 106 MET  HE3 : A 106 MET  HB3 :   -0.454:        0
+
+:  1312: A 119 ARG  HB3 : A 119 ARG HH21 :   -1.038:        0
+:  1312: A 119 ARG  NH2 : A 119 ARG  HB3 :   -0.727:        0
+:  1312: A 119 ARG  CD  : A 123 GLN  NE2 :   -0.466:        0
+:  1312: A 123 GLN  NE2 : A 119 ARG  HD2 :   -0.433:        0
+
+:  1312: A 108 GLU  OE2 : A  77 GLY  O   :   -0.959:        0
+:  1312: A  77 GLY  C   : A 108 GLU  OE2 :   -0.859:        0
+:  1312: A  77 GLY  CA  : A 108 GLU  OE2 :   -0.730:        0
+
+:  1312: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.715:        0
+:  1312: A  86 PRO  HD2 : A  85 LYS  N   :   -0.571:        0
+:  1312: A  85 LYS  HB3 : A  86 PRO  CD  :   -0.463:        0
+:  1312: A  85 LYS  N   : A  86 PRO  CD  :   -0.445:        0
+
+:  1312: A  92 ASP  OD2 : A  95 ARG  NH2 :   -0.652:        0
+:  1312: A  95 ARG  HD2 : A  92 ASP  OD2 :   -0.413:        0
+
+:  1312: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:  1312: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:  1312: A  81 ASN  CB  : A  84 LEU HD12 :   -0.566:        0
+:  1312: A  84 LEU HD12 : A  81 ASN  HB3 :   -0.440:        0
+
+:  1312: A  87 VAL HG22 : A 122 GLN  HG3 :   -0.551:        0
+
+:  1312: A 148 ARG  N   : A 147 LYS  HG2 :   -0.502:        0
+:  1312: A 144 ASN  CA  : A 147 LYS  HD2 :   -0.446:        0
+:  1312: A 147 LYS  HB3 : A 147 LYS  HE3 :   -0.402:        0
+
+:  1312: A 151 THR  HA  : A 154 ARG  CZ  :   -0.472:        0
+:  1312: A 154 ARG  NH1 : A 151 THR  HA  :   -0.454:        0
+:  1312: A 151 THR  OG1 : A 154 ARG  NH1 :   -0.406:        0
+
+:  1312: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+#sum2 ::49.54 clashscore : 49.54 clashscore B<40 
+#summary::1312 atoms:1312 atoms B<40:152006 potential dots:9500.0 A^2:65 bumps:65 bumps B<40:206.4 score

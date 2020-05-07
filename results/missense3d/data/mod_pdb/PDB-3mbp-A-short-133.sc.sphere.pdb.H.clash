@@ -1,0 +1,74 @@
+
+:  1344: A 123 PRO  N   : A 123 PRO  CD  :   -1.285:        0
+:  1344: A 224 MET  CE  : A 115 LEU HD21 :   -1.051:        0
+:  1344: A 115 LEU HD21 : A 224 MET  HE1 :   -1.022:        0
+:  1344: A 224 MET  CE  : A 126 PRO  HD2 :   -0.851:        0
+:  1344: A 224 MET  HE1 : A 126 PRO  HD2 :   -0.760:        0
+:  1344: A 122 LEU HD21 : A 126 PRO  HD3 :   -0.692:        0
+:  1344: A 127 LYS  N   : A 127 LYS  HD3 :   -0.684:        0
+:  1344: A 224 MET  CE  : A 115 LEU  CD2 :   -0.662:        0
+:  1344: A 224 MET  HE1 : A 115 LEU  CD2 :   -0.616:        0
+:  1344: A 127 LYS  HD3 : A 126 PRO  C   :   -0.525:        0
+:  1344: A 122 LEU  CD2 : A 125 PRO  HA  :   -0.482:        0
+:  1344: A 139 LEU  CD1 : A 146 ALA  HA  :   -0.481:        0
+:  1344: A 125 PRO  O   : A 127 LYS  NZ  :   -0.476:        0
+:  1344: A 117 TYR  CB  : A 224 MET  HG2 :   -0.469:        0
+:  1344: A 146 ALA  HB1 : A 135 LEU HD23 :   -0.424:        0
+:  1344: A 123 PRO  CD  : A 122 LEU  C   :   -0.420:        0
+:  1344: A 122 LEU  CA  : A 123 PRO  CD  :   -0.418:        0
+:  1344: A 135 LEU HD11 : A 122 LEU  CD1 :   -0.411:        0
+
+:  1344: A 187 GLY  C   : A 188 ALA  CA  :   -0.919:        0
+
+:  1344: A 142 LYS  O   : A 142 LYS  HG2 :   -0.804:        0
+:  1344: A 144 LYS  HG3 : A 142 LYS  HD3 :   -0.716:        0
+:  1344: A 142 LYS  HD3 : A 144 LYS  CG  :   -0.712:        0
+:  1344: A 144 LYS  HD2 : A 142 LYS  NZ  :   -0.710:        0
+:  1344: A 144 LYS  HD2 : A 142 LYS  HZ3 :   -0.595:        0
+:  1344: A 144 LYS  O   : A 140 LYS  HD3 :   -0.590:        0
+:  1344: A 144 LYS  O   : A 140 LYS  HA  :   -0.508:        0
+:  1344: A 142 LYS  O   : A 142 LYS  CG  :   -0.488:        0
+:  1344: A 140 LYS  HZ2 : A 136 ASP  CG  :   -0.482:        0
+:  1344: A 140 LYS  HD3 : A 140 LYS  HA  :   -0.461:        0
+:  1344: A 136 ASP  OD2 : A 140 LYS  NZ  :   -0.402:        0
+
+:  1344: A 137 LYS  HG2 : A 134 ALA  O   :   -0.750:        0
+
+:  1344: A 357 VAL HG13 : A 192 LEU HD23 :   -0.750:        0
+
+:  1344: A 134 ALA  O   : A 137 LYS  CG  :   -0.741:        0
+:  1344: A 137 LYS  HG2 : A 134 ALA  HA  :   -0.645:        0
+:  1344: A 137 LYS  HG2 : A 134 ALA  C   :   -0.569:        0
+:  1344: A 134 ALA  CA  : A 137 LYS  HG2 :   -0.567:        0
+:  1344: A 137 LYS  HG3 : A 138 GLU  N   :   -0.487:        0
+:  1344: A 138 GLU  HG2 : A 134 ALA  O   :   -0.483:        0
+:  1344: A 138 GLU  OE2 : A 137 LYS  NZ  :   -0.423:        0
+:  1344: A 134 ALA  O   : A 137 LYS  HG3 :   -0.420:        0
+:  1344: A 138 GLU  H   : A 138 GLU  HG2 :   -0.407:        0
+:  1344: A 137 LYS  HZ3 : A 137 LYS  HG3 :   -0.406:        0
+
+:  1344: A 162 ALA  C   : A 162 ALA  N   :   -0.671:        0
+
+:  1344: A 129 TRP  CE3 : A 132 ILE HD12 :   -0.586:        0
+:  1344: A 133 PRO  CD  : A 132 ILE  N   :   -0.531:        0
+
+:  1344: A 204 MET  SD  : A 198 LEU HD13 :   -0.563:        0
+:  1344: A 204 MET  HG2 : A 203 HIS  C   :   -0.550:        0
+:  1344: A 204 MET  CG  : A 198 LEU  HB3 :   -0.546:        0
+:  1344: A 204 MET  HE3 : A 204 MET  HB3 :   -0.484:        0
+:  1344: A 204 MET  HG3 : A 198 LEU  HB3 :   -0.466:        0
+:  1344: A 198 LEU HD23 : A 198 LEU  HA  :   -0.412:        0
+
+:  1344: A 196 VAL  O   : A 199 ILE  HB  :   -0.447:        0
+
+:  1344: A 222 THR  OG1 : A 148 MET  HG3 :   -0.425:        0
+:  1344: A 222 THR HG22 : A 217 PHE  HA  :   -0.403:        0
+
+:  1344: A 194 PHE  HD2 : A 160 LEU HD11 :   -0.418:        0
+:  1344: A 160 LEU HD23 : A 160 LEU  HA  :   -0.402:        0
+
+:  1344: A 151 LEU HD12 : A 151 LEU  HA  :   -0.401:        0
+
+:  1344: A 131 GLU  H   : A 131 GLU  HG2 :   -0.400:        0
+#sum2 ::43.15 clashscore : 43.15 clashscore B<40 
+#summary::1344 atoms:1344 atoms B<40:159466 potential dots:9967.0 A^2:58 bumps:58 bumps B<40:240.1 score

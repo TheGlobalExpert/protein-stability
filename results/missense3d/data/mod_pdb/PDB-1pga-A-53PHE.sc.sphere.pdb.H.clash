@@ -1,0 +1,50 @@
+
+:   856: A  52 PHE  CE1 : A  45 TYR  CE1 :   -1.189:        0
+:   856: A  52 PHE  CE1 : A  45 TYR  CD1 :   -1.118:        0
+:   856: A  52 PHE  CZ  : A  45 TYR  CD1 :   -1.001:        0
+:   856: A  45 TYR  CE1 : A  52 PHE  CZ  :   -0.901:        0
+:   856: A  45 TYR  HE1 : A  52 PHE  CE1 :   -0.792:        0
+:   856: A  52 PHE  HE1 : A  45 TYR  HE1 :   -0.708:        0
+:   856: A  45 TYR  HD1 : A  52 PHE  CD1 :   -0.704:        0
+:   856: A  52 PHE  CE1 : A  45 TYR  HD1 :   -0.628:        0
+:   856: A  45 TYR  CD1 : A  52 PHE  CD1 :   -0.583:        0
+:   856: A  45 TYR  CE1 : A  52 PHE  HE1 :   -0.466:        0
+:   856: A  45 TYR  CD1 : A  52 PHE  CE2 :   -0.460:        0
+
+:   856: A  53 PHE  CE2 : A  55 THR  OG1 :   -1.160:        0
+:   856: A  55 THR  OG1 : A  53 PHE  HE2 :   -1.096:        0
+:   856: A   6 ILE  HB  : A  53 PHE  HD1 :   -0.905:        0
+:   856: A  53 PHE  CE1 : A   6 ILE HG22 :   -0.854:        0
+:   856: A   6 ILE  CB  : A  53 PHE  HD1 :   -0.751:        0
+:   856: A   6 ILE HG22 : A  53 PHE  HE1 :   -0.751:        0
+:   856: A  53 PHE  CZ  : A   8 ASN  CB  :   -0.651:        0
+:   856: A   8 ASN  HB2 : A  53 PHE  CZ  :   -0.635:        0
+:   856: A   8 ASN  CB  : A  53 PHE  HZ  :   -0.621:        0
+:   856: A   6 ILE  CG2 : A  53 PHE  CD1 :   -0.593:        0
+:   856: A  53 PHE  CD1 : A   6 ILE HG22 :   -0.589:        0
+:   856: A  53 PHE  CE1 : A   6 ILE  CG2 :   -0.584:        0
+:   856: A  53 PHE  HZ  : A   8 ASN  HB2 :   -0.581:        0
+:   856: A  53 PHE  HD1 : A   6 ILE  CG2 :   -0.517:        0
+:   856: A  53 PHE  CZ  : A   8 ASN  HB3 :   -0.448:        0
+:   856: A  53 PHE  O   : A  43 TRP  HA  :   -0.442:        0
+:   856: A  43 TRP  CE2 : A  54 VAL  HB  :   -0.428:        0
+:   856: A  55 THR HG23 : A   8 ASN  OD1 :   -0.425:        0
+:   856: A  53 PHE  HA  : A   6 ILE  O   :   -0.413:        0
+
+:   856: A  28 LYS  N   : A  28 LYS  HE3 :   -0.853:        0
+:   856: A  28 LYS  HE3 : A  28 LYS  CA  :   -0.480:        0
+:   856: A  28 LYS  HD2 : A  24 ALA  O   :   -0.412:        0
+
+:   856: A  15 GLU  CD  : A   4 LYS  HD2 :   -0.820:        0
+:   856: A   4 LYS  HD2 : A  15 GLU  OE2 :   -0.781:        0
+:   856: A  15 GLU  CG  : A   4 LYS  HD2 :   -0.555:        0
+:   856: A   4 LYS  CD  : A  15 GLU  CD  :   -0.545:        0
+:   856: A   3 TYR  O   : A  17 THR  HA  :   -0.446:        0
+:   856: A  15 GLU  OE2 : A   4 LYS  CD  :   -0.414:        0
+:   856: A   4 LYS  HA  : A  17 THR  HA  :   -0.403:        0
+
+:   856: A  13 LYS  N   : A  12 LEU HD22 :   -0.433:        0
+
+:   856: A  21 VAL HG22 : A  21 VAL  H   :   -0.429:        0
+#sum2 ::49.07 clashscore : 49.07 clashscore B<40 
+#summary::856 atoms:856 atoms B<40:96505 potential dots:6032.0 A^2:42 bumps:42 bumps B<40:70.99 score

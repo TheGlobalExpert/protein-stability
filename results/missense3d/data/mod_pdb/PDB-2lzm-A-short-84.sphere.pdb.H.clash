@@ -1,0 +1,18 @@
+
+:  1235: A 158 TRP  CE2 : A 158 TRP  CE3 :   -0.990:       24
+
+:  1235: A  69 GLN  CA  : A  68 ASN  C   :   -0.943:       12
+
+:  1235: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1235: A 155 THR  C   : A 155 THR  N   :   -0.669:       28
+
+:  1235: A 145 ARG  C   : A 145 ARG  CG  :   -0.653:       22
+
+:  1235: A 128 GLU  CG  : A 128 GLU  OE1 :   -0.638:       40
+
+:  1235: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1235: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::6.48 clashscore : 5.29 clashscore B<40 
+#summary::1235 atoms:1135 atoms B<40:147449 potential dots:9216.0 A^2:8 bumps:6 bumps B<40:461.7 score

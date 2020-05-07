@@ -1,0 +1,37 @@
+
+:  1181: A  18 ILE  O   : A  18 ILE HD12 :   -1.284:        0
+:  1181: A  18 ILE HD12 : A  18 ILE  C   :   -1.220:        0
+:  1181: A  18 ILE  CD1 : A  18 ILE  C   :   -0.874:        0
+:  1181: A  18 ILE  O   : A  18 ILE  CD1 :   -0.864:        0
+:  1181: A  29 ASP  OD2 : A  28 LYS  NZ  :   -0.638:        0
+:  1181: A  18 ILE  CD1 : A  28 LYS  HB3 :   -0.562:        0
+:  1181: A  28 LYS  HG3 : A  29 ASP  N   :   -0.496:        0
+:  1181: A  19 ASP  O   : A  28 LYS  HE3 :   -0.431:        0
+
+:  1181: A  82 LYS  HE2 : A  32 ALA  HA  :   -0.972:        0
+:  1181: A  82 LYS  HE2 : A  32 ALA  CA  :   -0.814:        0
+:  1181: A  32 ALA  HA  : A  82 LYS  CE  :   -0.743:        0
+:  1181: A  31 ALA  CB  : A  82 LYS  HB2 :   -0.450:        0
+
+:  1181: A  56 TRP  CZ2 : A  33 LYS  HE2 :   -0.750:        0
+:  1181: A  33 LYS  CE  : A  56 TRP  CZ2 :   -0.496:        0
+:  1181: A  33 LYS  HE2 : A  56 TRP  CH2 :   -0.442:        0
+
+:  1181: A  22 MET  CE  : A  17 ALA  HB2 :   -0.722:        0
+:  1181: A  17 ALA  HB2 : A  22 MET  HE3 :   -0.529:        0
+:  1181: A  17 ALA  HB2 : A  22 MET  HE2 :   -0.471:        0
+
+:  1181: A  43 GLU  HG3 : A  39 GLY  O   :   -0.583:        0
+
+:  1181: A  34 PHE  HZ  : A  47 ARG HH22 :   -0.534:        0
+
+:  1181: A  25 PRO  HD2 : A  16 HIS  HE1 :   -0.517:        0
+:  1181: A  24 GLY  HA3 : A  16 HIS  CE1 :   -0.471:        0
+
+:  1181: A  69 ASP  OD1 : A  67 SER  OG  :   -0.461:        0
+
+:  1181: A  74 LEU HD21 : A   6 LEU  CB  :   -0.422:        0
+
+:  1181: A  44 LEU HD23 : A  44 LEU  HA  :   -0.408:        0
+#sum2 ::21.17 clashscore : 21.17 clashscore B<40 
+#summary::1181 atoms:1181 atoms B<40:133432 potential dots:8340.0 A^2:25 bumps:25 bumps B<40:293.7 score

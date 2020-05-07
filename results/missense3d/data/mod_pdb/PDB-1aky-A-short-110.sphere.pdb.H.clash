@@ -1,0 +1,27 @@
+
+:  1156: A  94 THR  C   : A  95 ILE  CA  :   -0.954:       22
+
+:  1156: A  27 ARG  NE  : A  27 ARG  CG  :   -0.831:       76
+
+:  1156: A 198 ALA  CA  : A 198 ALA  O   :   -0.748:       21
+:  1156: A 198 ALA  HB3 : A 116 ILE HD13 :   -0.506:       23
+
+:  1156: A  75 GLU  O   : A  79 ASN  HB3 :   -0.481:       58
+
+:  1156: A 217 LEU HD23 : A 114 LYS  HG2 :   -0.435:       40
+
+:  1156: A  76 LEU HD12 : A 104 MET  CE  :   -0.435:       34
+
+:  1156: A 114 LYS  HD3 : A 114 LYS  HA  :   -0.426:       37
+
+:  1156: A 194 THR  OG1 : A 191 TYR  HA  :   -0.433:       47
+
+:  1156: A  72 ILE HD13 : A  72 ILE  HA  :   -0.419:       20
+
+:  1156: A 112 LEU  HG  : A 105 LEU  CD1 :   -0.402:       25
+
+:  1156: A  73 LYS  HB2 : A  73 LYS  HE3 :   -0.401:       67
+
+:  1156: A  88 LEU HD23 : A  33 LEU  HB2 :   -0.400:       26
+#sum2 ::11.25 clashscore : 9.51 clashscore B<40 
+#summary::1156 atoms:841 atoms B<40:138624 potential dots:8664.0 A^2:13 bumps:8 bumps B<40:303.9 score

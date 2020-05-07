@@ -1,0 +1,14 @@
+
+:  1306: A  75 VAL  CG2 : A  75 VAL  CA  :   -0.981:       25
+
+:  1306: A  76 ARG  O   : A  77 GLY  N   :   -0.736:       34
+:  1306: A  77 GLY  CA  : A  76 ARG  O   :   -0.514:       34
+
+:  1306: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1306: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1306: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1306: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::5.36 clashscore : 5.85 clashscore B<40 
+#summary::1306 atoms:1196 atoms B<40:152506 potential dots:9532.0 A^2:7 bumps:7 bumps B<40:524.1 score

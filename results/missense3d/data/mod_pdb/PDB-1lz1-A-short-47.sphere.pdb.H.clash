@@ -1,0 +1,16 @@
+
+:   578: A  56 ILE  C   : A  56 ILE  N   :   -0.692:       10
+
+:   578: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   578: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   578: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   578: A  40 THR  O   : A  41 ARG  N   :   -0.623:       17
+
+:   578: A 114 ASN  ND2 : A 110 VAL HG12 :   -0.572:       39
+
+:   578: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:   578: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+#sum2 ::13.84 clashscore : 7.87 clashscore B<40 
+#summary::578 atoms:508 atoms B<40:72630 potential dots:4539.0 A^2:8 bumps:4 bumps B<40:171 score

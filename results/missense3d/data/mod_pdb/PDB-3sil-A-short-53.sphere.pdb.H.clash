@@ -1,0 +1,29 @@
+
+:  2707: A 297 HIS  CA  : A 297 HIS  CG  :   -0.967:        6
+:  2707: A 297 HIS  C   : A 297 HIS  CG  :   -0.508:        6
+
+:  2707: A  92 ASN  C   : A  93 SER  CA  :   -0.952:       12
+
+:  2707: A 333 LYS  CB  : A 333 LYS  CD  :   -0.948:       21
+:  2707: A 333 LYS  CD  : A 333 LYS  NZ  :   -0.788:       40
+
+:  2707: A 173 ALA  C   : A 173 ALA  CB  :   -0.909:        8
+
+:  2707: A 182 LEU  CB  : A 182 LEU  CD2 :   -0.902:       10
+
+:  2707: A 149 ASP  N   : A 148 THR  CA  :   -0.846:        7
+:  2707: A 149 ASP  N   : A 148 THR  N   :   -0.431:        7
+
+:  2707: A 371 LEU  N   : A 371 LEU  CB  :   -0.836:        8
+
+:  2707: A  75 ASP  CG  : A  75 ASP  CA  :   -0.822:       10
+
+:  2707: A 174 MET  CG  : A 174 MET  CE  :   -0.741:        9
+
+:  2707: A 311 ASP  C   : A 311 ASP  N   :   -0.735:        6
+
+:  2707: A 100 ASP  HA  : A  38 ILE HG21 :   -0.455:        6
+
+:  2707: A 313 SER  O   : A 298 SER  HA  :   -0.445:        7
+#sum2 ::5.54 clashscore : 5.55 clashscore B<40 
+#summary::2707 atoms:2704 atoms B<40:329442 potential dots:20590.0 A^2:15 bumps:15 bumps B<40:1099 score

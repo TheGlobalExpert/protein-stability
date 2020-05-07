@@ -1,0 +1,29 @@
+
+:   878: A  18 ILE  O   : A  18 ILE HD12 :   -1.284:        0
+:   878: A  18 ILE  C   : A  18 ILE HD12 :   -1.220:        0
+:   878: A  18 ILE  CD1 : A  18 ILE  C   :   -0.874:        0
+:   878: A  18 ILE  O   : A  18 ILE  CD1 :   -0.864:        0
+:   878: A  28 LYS  NZ  : A  29 ASP  OD2 :   -0.638:        0
+:   878: A  28 LYS  HB3 : A  18 ILE  CD1 :   -0.562:        0
+:   878: A  28 LYS  HG3 : A  29 ASP  N   :   -0.496:        0
+:   878: A  28 LYS  HE3 : A  19 ASP  O   :   -0.431:        0
+
+:   878: A  59 ILE  CG1 : A  59 ILE  CA  :   -0.977:        0
+:   878: A  59 ILE  C   : A  59 ILE  CG1 :   -0.509:        0
+
+:   878: A  32 ALA  HA  : A  82 LYS  HE2 :   -0.972:        0
+:   878: A  82 LYS  HE2 : A  32 ALA  CA  :   -0.814:        0
+:   878: A  32 ALA  HA  : A  82 LYS  CE  :   -0.743:        0
+:   878: A  82 LYS  HB2 : A  31 ALA  CB  :   -0.450:        0
+
+:   878: A   4 GLU  CA  : A   4 GLU  CG  :   -0.935:        0
+
+:   878: A  68 ASP  CA  : A  68 ASP  CG  :   -0.865:        0
+:   878: A  68 ASP  CA  : A  67 SER  O   :   -0.403:        0
+
+:   878: A  39 GLY  O   : A  43 GLU  HG3 :   -0.583:        0
+
+:   878: A  25 PRO  HD2 : A  16 HIS  HE1 :   -0.517:        0
+:   878: A  24 GLY  HA3 : A  16 HIS  CE1 :   -0.471:        0
+#sum2 ::22.78 clashscore : 22.78 clashscore B<40 
+#summary::878 atoms:878 atoms B<40:106412 potential dots:6651.0 A^2:20 bumps:20 bumps B<40:162.3 score

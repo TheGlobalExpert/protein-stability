@@ -1,0 +1,40 @@
+
+:  1674: A 206 VAL  CG2 : A 206 VAL  CA  :   -1.008:       18
+
+:  1674: A 202 ASP  C   : A 203 THR  CA  :   -0.982:       28
+:  1674: A 202 ASP  N   : A 202 ASP  C   :   -0.861:       40
+:  1674: A 203 THR  CA  : A 202 ASP  O   :   -0.419:       25
+
+:  1674: A  98 THR  CA  : A  98 THR  CG2 :   -0.907:       34
+
+:  1674: A 223 PRO  C   : A 224 PRO  CA  :   -0.905:       28
+:  1674: A 223 PRO  CA  : A 224 PRO  CA  :   -0.485:       28
+:  1674: A 223 PRO  HB2 : A 238 SER  HA  :   -0.407:       40
+
+:  1674: A 139 GLY  O   : A 140 GLN  N   :   -0.699:       14
+
+:  1674: A  62 VAL  CG1 : A  62 VAL  N   :   -0.610:       18
+
+:  1674: A  26 LEU  HG  : A  16 GLU  HB3 :   -0.561:       23
+:  1674: A  26 LEU HD13 : A 234 TYR  CD2 :   -0.411:       23
+
+:  1674: A 119 ASP  HA  : A 123 PHE  HB3 :   -0.546:       16
+
+:  1674: A  44 TYR  O   : A  52 CYS  HA  :   -0.528:       18
+
+:  1674: A 138 LEU  CD2 : A 138 LEU  CA  :   -0.498:       17
+
+:  1674: A 141 PHE  CZ  : A  17 LEU  HB3 :   -0.498:       15
+:  1674: A 227 TRP  CZ2 : A  17 LEU HD13 :   -0.402:       25
+
+:  1674: A 232 ASP  O   : A 228 LYS  HA  :   -0.450:       22
+
+:  1674: A  49 ILE HD13 : A 122 TYR  CE1 :   -0.443:       21
+
+:  1674: A 144 TYR  O   : A 147 ILE HG22 :   -0.430:       20
+
+:  1674: A  19 SER  HB2 : A  28 TRP  HB3 :   -0.416:       14
+
+:  1674: A 148 VAL HG11 : A  18 VAL  CG1 :   -0.409:       13
+#sum2 ::13.14 clashscore : 12.86 clashscore B<40 
+#summary::1674 atoms:1633 atoms B<40:206477 potential dots:12900.0 A^2:22 bumps:21 bumps B<40:627.8 score

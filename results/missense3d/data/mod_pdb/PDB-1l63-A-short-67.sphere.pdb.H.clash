@@ -1,0 +1,27 @@
+
+:  1467: A  93 ALA  C   : A  94 VAL  CA  :   -0.986:       19
+:  1467: A  94 VAL  CA  : A  93 ALA  O   :   -0.412:       19
+
+:  1467: A  23 GLY  N   : A  22 GLU  CA  :   -0.896:       29
+:  1467: A  22 GLU  N   : A  23 GLY  N   :   -0.468:       29
+
+:  1467: A 110 GLY  N   : A 109 THR  CA  :   -0.889:       26
+:  1467: A 109 THR  CA  : A 109 THR  OG1 :   -0.786:       45
+
+:  1467: A 148 ARG  CB  : A 148 ARG  C   :   -0.875:       18
+
+:  1467: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1467: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1467: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1467: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1467: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1467: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1467: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1467: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1467: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1467: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::11.59 clashscore : 6.73 clashscore B<40 
+#summary::1467 atoms:1338 atoms B<40:174563 potential dots:10910.0 A^2:17 bumps:9 bumps B<40:489.5 score

@@ -1,0 +1,15 @@
+
+:   810: A 112 GLY  N   : A 111 LEU  CA  :   -0.887:       21
+
+:   810: A 154 GLU  HB2 : A 152 GLN  HB3 :   -0.708:       51
+:   810: A 154 GLU  O   : A 155 VAL  OXT :   -0.454:       55
+:   810: A 153 VAL HG23 : A 154 GLU  OE2 :   -0.447:       56
+:   810: A 154 GLU  OE2 : A 153 VAL  HB  :   -0.443:       56
+
+:   810: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:   810: A 148 ASP  OD1 : A 148 ASP  OD2 :   -0.619:       16
+
+:   810: A  94 ASP  OD2 : A  92 THR  OG1 :   -0.477:       28
+#sum2 ::9.88 clashscore : 5.35 clashscore B<40 
+#summary::810 atoms:747 atoms B<40:93762 potential dots:5860.0 A^2:8 bumps:4 bumps B<40:222.4 score

@@ -1,0 +1,24 @@
+
+:   974: A  28 TRP  CH2 : A  28 TRP  CE2 :   -1.069:       13
+
+:   974: A 125 VAL  CA  : A 125 VAL  CG1 :   -1.023:       19
+
+:   974: A 109 TRP  CD2 : A 109 TRP  CZ3 :   -1.000:       19
+
+:   974: A 124 TYR  CZ  : A 124 TYR  CD2 :   -0.969:       21
+
+:   974: A 130 VAL  CG2 : A 130 VAL  CG1 :   -0.933:       24
+
+:   974: A  67 ASP  CB  : A  67 ASP  OD2 :   -0.849:       13
+
+:   974: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:   974: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:   974: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:   974: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:   974: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:   974: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+#sum2 ::12.32 clashscore : 13.00 clashscore B<40 
+#summary::974 atoms:923 atoms B<40:118526 potential dots:7408.0 A^2:12 bumps:12 bumps B<40:289.8 score

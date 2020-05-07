@@ -1,0 +1,18 @@
+
+:  1324: A 158 TRP  CE2 : A 158 TRP  CE3 :   -0.990:       24
+
+:  1324: A  24 TYR  C   : A  24 TYR  CB  :   -0.936:       25
+
+:  1324: A  14 ARG  N   : A  13 LEU  CA  :   -0.870:       16
+
+:  1324: A  44 SER  O   : A  45 GLU  N   :   -0.729:       26
+
+:  1324: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1324: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1324: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1324: A   1 MET  C   : A   1 MET  CG  :   -0.407:       30
+#sum2 ::6.04 clashscore : 6.49 clashscore B<40 
+#summary::1324 atoms:1232 atoms B<40:159893 potential dots:9993.0 A^2:8 bumps:8 bumps B<40:475.8 score

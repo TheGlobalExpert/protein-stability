@@ -1,0 +1,65 @@
+
+:  1584: A  16 LEU  N   : A  15 ALA  CA  :   -0.878:        0
+
+:  1584: A 270 VAL  N   : A 269 ASN  CA  :   -0.866:        0
+:  1584: A 232 ALA  CA  : A 233 LEU  N   :   -0.848:        0
+:  1584: A 233 LEU  CB  : A 233 LEU  N   :   -0.837:        0
+:  1584: A  13 ALA  HA  : A 270 VAL HG11 :   -0.609:        0
+:  1584: A 270 VAL HG12 : A  11 ILE  O   :   -0.460:        0
+:  1584: A 270 VAL HG21 : A 233 LEU HD12 :   -0.432:        0
+
+:  1584: A  62 ASN  OD1 : A  64 HIS  CG  :   -0.835:        0
+:  1584: A  62 ASN  OD1 : A  64 HIS  CD2 :   -0.529:        0
+:  1584: A  62 ASN  O   : A  63 SER  CB  :   -0.493:        0
+:  1584: A  62 ASN  OD1 : A  64 HIS  ND1 :   -0.440:        0
+:  1584: A  62 ASN  O   : A  63 SER  OG  :   -0.402:        0
+
+:  1584: A 150 VAL  C   : A 150 VAL  CB  :   -0.808:        0
+
+:  1584: A  90 LEU HD11 : A  73 ALA  HB3 :   -0.802:        0
+:  1584: A  90 LEU  CD1 : A  73 ALA  HB3 :   -0.625:        0
+:  1584: A  90 LEU HD23 : A  90 LEU  HA  :   -0.419:        0
+
+:  1584: A 218 ASN  OD1 : A 204 SER  N   :   -0.797:        0
+
+:  1584: A  91 TYR  N   : A  91 TYR  C   :   -0.712:        0
+
+:  1584: A 221 SER  CB  : A 125 SER  HB3 :   -0.586:        0
+:  1584: A 221 SER  OG  : A 125 SER  HB3 :   -0.456:        0
+
+:  1584: A  35 ILE HD12 : A  92 ALA  HB2 :   -0.570:        0
+:  1584: A  30 VAL  HB  : A  35 ILE HD11 :   -0.559:        0
+
+:  1584: A  74 ALA  CB  : A  81 VAL HG23 :   -0.563:        0
+
+:  1584: A 184 ASN  HB2 : A 183 SER  O   :   -0.550:        0
+
+:  1584: A  67 HIS  CD2 : A 207 SER  HB3 :   -0.506:        0
+
+:  1584: A  77 ASN  ND2 : A  79 ILE HG12 :   -0.481:        0
+
+:  1584: A 225 PRO  CD  : A 224 SER  HB3 :   -0.477:        0
+:  1584: A  68 VAL HG13 : A 225 PRO  HB3 :   -0.468:        0
+:  1584: A 224 SER  HB3 : A 225 PRO  HD3 :   -0.458:        0
+
+:  1584: A 220 THR  OG1 : A 152 ALA  HB1 :   -0.472:        0
+
+:  1584: A   6 TYR  CD1 : A   6 TYR  C   :   -0.467:        0
+
+:  1584: A 189 PHE  CE2 : A 187 ALA  HB1 :   -0.467:        0
+
+:  1584: A 201 PRO  HB3 : A   6 TYR  CE1 :   -0.427:        0
+:  1584: A 201 PRO  HG2 : A   7 GLY  HA2 :   -0.421:        0
+
+:  1584: A 208 THR HG22 : A 214 TYR  CE2 :   -0.465:        0
+:  1584: A 214 TYR  OH  : A  39 HIS  HE1 :   -0.456:        0
+:  1584: A  39 HIS  HD2 : A 209 LEU  O   :   -0.442:        0
+:  1584: A 209 LEU HD21 : A 217 TYR  CE2 :   -0.406:        0
+:  1584: A  39 HIS  HE1 : A 214 TYR  CZ  :   -0.404:        0
+
+:  1584: A 216 ALA  HA  : A 205 ILE  O   :   -0.456:        0
+:  1584: A 205 ILE HG13 : A 222 MET  HB3 :   -0.409:        0
+
+:  1584: A 181 ASP  C   : A 181 ASP  OD1 :   -0.446:        0
+#sum2 ::26.52 clashscore : 26.52 clashscore B<40 
+#summary::1584 atoms:1584 atoms B<40:192764 potential dots:12050.0 A^2:42 bumps:42 bumps B<40:494.5 score

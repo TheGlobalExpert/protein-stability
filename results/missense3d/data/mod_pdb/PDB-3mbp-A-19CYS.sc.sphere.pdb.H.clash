@@ -1,0 +1,102 @@
+
+:  1590: A 296 ASP  HB2 : A  19 CYS  SG  :   -1.570:        0
+:  1590: A  19 CYS  SG  : A 296 ASP  CB  :   -1.230:        0
+:  1590: A  19 CYS  SG  : A 292 ALA  O   :   -1.071:        0
+:  1590: A 293 VAL  HA  : A  19 CYS  CB  :   -0.898:        0
+:  1590: A 292 ALA  O   : A  19 CYS  CB  :   -0.888:        0
+:  1590: A 292 ALA  O   : A  19 CYS  HB3 :   -0.862:        0
+:  1590: A 292 ALA  C   : A  19 CYS  HB3 :   -0.836:        0
+:  1590: A  19 CYS  HB2 : A 293 VAL  HA  :   -0.700:        0
+:  1590: A  19 CYS  HB3 : A 293 VAL  HA  :   -0.686:        0
+:  1590: A 293 VAL  CA  : A  19 CYS  HB3 :   -0.686:        0
+:  1590: A 296 ASP  N   : A  19 CYS  SG  :   -0.647:        0
+:  1590: A  19 CYS  SG  : A 296 ASP  CA  :   -0.624:        0
+:  1590: A 293 VAL  CA  : A  19 CYS  CB  :   -0.604:        0
+:  1590: A 296 ASP  OD2 : A  16 GLY  HA2 :   -0.604:        0
+:  1590: A 296 ASP  OD2 : A  16 GLY  CA  :   -0.598:        0
+:  1590: A  19 CYS  HB3 : A 293 VAL  N   :   -0.532:        0
+:  1590: A  16 GLY  C   : A 296 ASP  OD2 :   -0.461:        0
+:  1590: A 296 ASP  HB2 : A  19 CYS  CB  :   -0.425:        0
+
+:  1590: A  43 LEU  CD1 : A  60 ILE HD11 :   -1.155:        0
+:  1590: A  60 ILE HD11 : A  43 LEU HD13 :   -0.937:        0
+:  1590: A  43 LEU HD13 : A  60 ILE  CD1 :   -0.878:        0
+:  1590: A  43 LEU  CD1 : A  60 ILE  CD1 :   -0.468:        0
+:  1590: A  43 LEU HD12 : A  43 LEU  C   :   -0.423:        0
+
+:  1590: A 317 ILE  CD1 : A 311 LEU  HB3 :   -1.112:        0
+:  1590: A 317 ILE HD13 : A 311 LEU  HB3 :   -1.006:        0
+:  1590: A 317 ILE HD13 : A 311 LEU  CB  :   -0.869:        0
+:  1590: A 311 LEU  O   : A 317 ILE  CD1 :   -0.521:        0
+:  1590: A 311 LEU  O   : A 317 ILE HD12 :   -0.512:        0
+:  1590: A 317 ILE  CD1 : A 311 LEU  CB  :   -0.453:        0
+
+:  1590: A  26 LYS  O   : A  26 LYS  HE3 :   -1.056:        0
+:  1590: A 283 TYR  CE2 : A  27 PHE  HA  :   -0.897:        0
+:  1590: A  26 LYS  HE3 : A  26 LYS  C   :   -0.893:        0
+:  1590: A  31 THR HG23 : A  30 ASP  OD1 :   -0.866:        0
+:  1590: A  30 ASP  OD1 : A  30 ASP  O   :   -0.833:        0
+:  1590: A  31 THR  CG2 : A  30 ASP  OD1 :   -0.775:        0
+:  1590: A  30 ASP  OD1 : A  30 ASP  C   :   -0.764:        0
+:  1590: A  26 LYS  O   : A  26 LYS  CE  :   -0.677:        0
+:  1590: A  27 PHE  O   : A  31 THR HG23 :   -0.652:        0
+:  1590: A  27 PHE  HA  : A 283 TYR  HE2 :   -0.582:        0
+:  1590: A  26 LYS  HE2 : A 283 TYR  CD2 :   -0.538:        0
+:  1590: A 283 TYR  HH  : A  30 ASP  CG  :   -0.527:        0
+:  1590: A  24 GLY  O   : A  27 PHE  HB3 :   -0.507:        0
+:  1590: A  30 ASP  OD1 : A 283 TYR  OH  :   -0.493:        0
+:  1590: A  26 LYS  C   : A  26 LYS  CE  :   -0.423:        0
+:  1590: A  26 LYS  H   : A  26 LYS  HG3 :   -0.411:        0
+
+:  1590: A 266 ILE  CG1 : A 266 ILE  CA  :   -0.973:        0
+
+:  1590: A  61 PHE  CE2 : A 264 ALA  HB2 :   -0.901:        0
+:  1590: A 264 ALA  HB2 : A  61 PHE  CZ  :   -0.558:        0
+:  1590: A 263 SER  O   : A  61 PHE  HA  :   -0.510:        0
+:  1590: A  61 PHE  CZ  : A 264 ALA  CB  :   -0.448:        0
+
+:  1590: A 105 ALA  CB  : A 105 ALA  C   :   -0.888:        0
+:  1590: A  67 PHE  CE2 : A 105 ALA  CB  :   -0.566:        0
+
+:  1590: A 316 ARG  CB  : A 316 ARG  C   :   -0.851:        0
+
+:  1590: A 227 ASN  C   : A 227 ASN  CB  :   -0.845:        0
+
+:  1590: A  57 PRO  HG3 : A  10 TRP  CD2 :   -0.845:        0
+:  1590: A  10 TRP  CG  : A  57 PRO  HG3 :   -0.590:        0
+:  1590: A  57 PRO  HG3 : A  10 TRP  CE3 :   -0.534:        0
+
+:  1590: A   7 LEU  HG  : A  33 ILE HD11 :   -0.822:        0
+:  1590: A  33 ILE  O   : A  28 GLU  HB2 :   -0.723:        0
+:  1590: A  28 GLU  OE1 : A  34 LYS  HA  :   -0.519:        0
+:  1590: A   6 LYS  CA  : A  33 ILE HD12 :   -0.468:        0
+
+:  1590: A 232 TRP  CE2 : A 229 PRO  HA  :   -0.813:        0
+:  1590: A 298 PRO  HG2 : A 232 TRP  HB2 :   -0.599:        0
+
+:  1590: A 305 LYS  N   : A 305 LYS  C   :   -0.743:        0
+
+:  1590: A 233 SER  O   : A 237 THR HG23 :   -0.725:        0
+
+:  1590: A 309 GLU  N   : A 309 GLU  C   :   -0.676:        0
+
+:  1590: A  89 LEU  CD2 : A 304 LEU  HA  :   -0.649:        0
+
+:  1590: A 306 SER  OG  : A 287 ASP  OD1 :   -0.610:        0
+
+:  1590: A 285 LEU HD13 : A  85 PHE  HZ  :   -0.595:        0
+:  1590: A 285 LEU  CD1 : A  85 PHE  HZ  :   -0.577:        0
+:  1590: A  85 PHE  CZ  : A 285 LEU HD13 :   -0.459:        0
+
+:  1590: A  36 THR HG23 : A   8 VAL HG22 :   -0.533:        0
+
+:  1590: A 308 GLU  HA  : A 308 GLU  OE1 :   -0.493:        0
+
+:  1590: A  11 ILE  O   : A  39 HIS  HA  :   -0.427:        0
+:  1590: A  39 HIS  N   : A  40 PRO  HD3 :   -0.409:        0
+
+:  1590: A 288 GLU  CD  : A 288 GLU  H   :   -0.425:        0
+
+:  1590: A  15 LYS  C   : A 297 LYS  HD2 :   -0.413:        0
+#sum2 ::48.43 clashscore : 48.43 clashscore B<40 
+#summary::1590 atoms:1590 atoms B<40:191202 potential dots:11950.0 A^2:77 bumps:77 bumps B<40:127 score

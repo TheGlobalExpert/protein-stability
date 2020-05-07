@@ -1,0 +1,93 @@
+
+:  1720: A 146 PRO  N   : A 146 PRO  CD  :   -1.388:        0
+:  1720: A 146 PRO  CD  : A 145 PRO  C   :   -0.507:        0
+
+:  1720: A  37 LEU HD23 : A  61 VAL  CG2 :   -1.129:        0
+:  1720: A 135 PHE  HZ  : A  36 PHE  CE1 :   -1.044:        0
+:  1720: A  61 VAL HG22 : A  37 LEU HD23 :   -0.993:        0
+:  1720: A  29 LYS  HD3 : A 135 PHE  CE1 :   -0.919:        0
+:  1720: A 135 PHE  CZ  : A  36 PHE  HE1 :   -0.877:        0
+:  1720: A 135 PHE  CZ  : A  36 PHE  CE1 :   -0.864:        0
+:  1720: A 135 PHE  HE1 : A  29 LYS  HD3 :   -0.771:        0
+:  1720: A 135 PHE  HZ  : A  36 PHE  CZ  :   -0.600:        0
+:  1720: A 169 VAL  O   : A  39 ASP  HB2 :   -0.596:        0
+:  1720: A  36 PHE  CZ  : A 135 PHE  CZ  :   -0.586:        0
+:  1720: A  61 VAL  CG2 : A  37 LEU  CD2 :   -0.554:        0
+:  1720: A 135 PHE  CE1 : A  29 LYS  CD  :   -0.549:        0
+:  1720: A  61 VAL HG13 : A  36 PHE  O   :   -0.544:        0
+:  1720: A  37 LEU  HA  : A  61 VAL HG22 :   -0.539:        0
+:  1720: A  31 ASP  OD1 : A  29 LYS  NZ  :   -0.500:        0
+:  1720: A 135 PHE  CE2 : A  36 PHE  HZ  :   -0.446:        0
+:  1720: A 168 ILE HD11 : A  29 LYS  HB2 :   -0.438:        0
+:  1720: A  36 PHE  CZ  : A 135 PHE  CE2 :   -0.433:        0
+:  1720: A  39 ASP  HA  : A 168 ILE HG23 :   -0.426:        0
+
+:  1720: A  51 GLY  O   : A  17 LYS  NZ  :   -0.986:        0
+
+:  1720: A  91 TRP  CA  : A  91 TRP  CG  :   -0.965:        0
+
+:  1720: A  13 GLU  CG  : A  13 GLU  CA  :   -0.921:        0
+:  1720: A  13 GLU  CD  : A  13 GLU  H   :   -0.866:        0
+:  1720: A  12 LYS  HD2 : A  13 GLU  OE2 :   -0.750:        0
+:  1720: A  13 GLU  N   : A  13 GLU  CD  :   -0.612:        0
+
+:  1720: A 174 CYS  HB3 : A  58 LYS  HE3 :   -0.862:        0
+:  1720: A  58 LYS  HE3 : A 174 CYS  CB  :   -0.815:        0
+:  1720: A 174 CYS  HB3 : A  58 LYS  CE  :   -0.494:        0
+
+:  1720: A 102 ASP  OD2 : A 121 ARG  NH2 :   -0.832:        0
+
+:  1720: A 164 GLN  O   : A  30 LYS  HG2 :   -0.726:        0
+:  1720: A 165 TYR  CE1 : A  30 LYS  HB2 :   -0.445:        0
+
+:  1720: A 154 GLN  N   : A 154 GLN  C   :   -0.721:        0
+
+:  1720: A  11 VAL  N   : A  10 ARG  O   :   -0.711:        0
+
+:  1720: A 119 SER  HB3 : A 133 TYR  CZ  :   -0.707:        0
+:  1720: A 133 TYR  CE2 : A 119 SER  HB3 :   -0.706:        0
+:  1720: A 133 TYR  CZ  : A 119 SER  CB  :   -0.609:        0
+:  1720: A 133 TYR  CE2 : A 119 SER  CB  :   -0.445:        0
+
+:  1720: A  19 ARG  NH1 : A 111 TYR  HB2 :   -0.705:        0
+:  1720: A 139 ARG  HD2 : A  24 TRP  CH2 :   -0.671:        0
+:  1720: A  24 TRP  CZ3 : A 139 ARG  HD2 :   -0.626:        0
+:  1720: A  19 ARG  HB3 : A 111 TYR  CD1 :   -0.587:        0
+:  1720: A 111 TYR  O   : A 139 ARG  NH2 :   -0.572:        0
+:  1720: A 139 ARG  CZ  : A  24 TRP  CE2 :   -0.560:        0
+:  1720: A 111 TYR  HB2 : A  19 ARG HH11 :   -0.483:        0
+:  1720: A 139 ARG  NH2 : A  24 TRP  CZ2 :   -0.460:        0
+:  1720: A  19 ARG HH11 : A 111 TYR  HD2 :   -0.424:        0
+:  1720: A 111 TYR  CD2 : A  19 ARG  NE  :   -0.423:        0
+:  1720: A  24 TRP  CH2 : A 139 ARG  CD  :   -0.411:        0
+:  1720: A  19 ARG  NH1 : A 111 TYR  CB  :   -0.405:        0
+
+:  1720: A 115 ALA  HB3 : A 137 PHE  HB2 :   -0.688:        0
+:  1720: A  45 PHE  CE2 : A  20 PHE  HE1 :   -0.670:        0
+:  1720: A  20 PHE  HE1 : A  45 PHE  CZ  :   -0.439:        0
+:  1720: A 115 ALA  HB2 : A  20 PHE  HE2 :   -0.408:        0
+
+:  1720: A 148 ALA  HB3 : A 144 LEU  HB3 :   -0.556:        0
+:  1720: A 144 LEU HD22 : A 114 TYR  HB3 :   -0.463:        0
+
+:  1720: A 118 TYR  N   : A 117 GLN  CD  :   -0.501:        0
+:  1720: A 117 GLN  NE2 : A 118 TYR  C   :   -0.455:        0
+:  1720: A 117 GLN  HG3 : A 104 HIS  CE1 :   -0.449:        0
+
+:  1720: A 136 VAL  HB  : A  28 ALA  HB3 :   -0.482:        0
+
+:  1720: A  60 ARG  HD3 : A 173 TYR  CD2 :   -0.472:        0
+
+:  1720: A  55 ALA  HA  : A  44 GLU  O   :   -0.453:        0
+
+:  1720: A 151 ILE  O   : A 155 ARG  HG2 :   -0.449:        0
+
+:  1720: A 159 LEU HD11 : A 107 VAL HG21 :   -0.448:        0
+
+:  1720: A  90 TYR  OH  : A  98 GLN  NE2 :   -0.437:        0
+
+:  1720: A 167 LEU HD12 : A 167 LEU  HA  :   -0.432:        0
+
+:  1720: A  52 GLN HE21 : A  76 THR  HB  :   -0.421:        0
+#sum2 ::39.53 clashscore : 39.53 clashscore B<40 
+#summary::1720 atoms:1720 atoms B<40:206525 potential dots:12910.0 A^2:68 bumps:68 bumps B<40:259.8 score

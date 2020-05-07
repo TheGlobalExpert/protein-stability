@@ -1,0 +1,17 @@
+
+:   737: A  27 TYR  CD2 : A  27 TYR  CZ  :   -1.027:       23
+
+:   737: A  21 THR  CB  : A  21 THR  C   :   -0.907:       12
+:   737: A  21 THR  CG2 : A  21 THR  C   :   -0.582:       15
+
+:   737: A  31 ASP  N   : A  31 ASP  C   :   -0.806:        8
+
+:   737: A  47 ARG  HG2 : A  43 GLU  O   :   -0.436:       29
+
+:   737: A  24 ILE  HB  : A  53 ASP  HA  :   -0.417:       10
+
+:   737: A  61 VAL HG22 : A  61 VAL  O   :   -0.417:       11
+
+:   737: A  28 LYS  HD3 : A  75 ILE  CD1 :   -0.401:       27
+#sum2 ::10.85 clashscore : 11.13 clashscore B<40 
+#summary::737 atoms:719 atoms B<40:88324 potential dots:5520.0 A^2:8 bumps:8 bumps B<40:211.6 score

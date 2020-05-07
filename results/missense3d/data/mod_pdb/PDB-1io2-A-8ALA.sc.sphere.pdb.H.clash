@@ -1,0 +1,84 @@
+
+:  2215: A  13 PRO  N   : A  13 PRO  CD  :   -1.463:        0
+:  2215: A  10 GLY  C   : A  13 PRO  HD2 :   -0.527:        0
+
+:  2215: A  17 PRO  N   : A  17 PRO  CD  :   -1.430:        0
+:  2215: A  17 PRO  CD  : A  16 GLY  C   :   -0.427:        0
+:  2215: A  17 PRO  CD  : A  16 GLY  CA  :   -0.401:        0
+
+:  2215: A  36 LEU  CB  : A  36 LEU  C   :   -0.893:        0
+
+:  2215: A  96 LYS  CA  : A  97 VAL  N   :   -0.873:        0
+:  2215: A  97 VAL  N   : A  97 VAL  C   :   -0.819:        0
+
+:  2215: A 196 LYS  CA  : A 197 GLY  N   :   -0.852:        0
+
+:  2215: A 147 LEU HD22 : A  53 PHE  CD1 :   -0.821:        0
+:  2215: A 147 LEU HD22 : A  53 PHE  CE1 :   -0.802:        0
+:  2215: A  53 PHE  CE2 : A  57 LEU HD11 :   -0.588:        0
+
+:  2215: A 199 LYS  N   : A 199 LYS  HD3 :   -0.802:        0
+:  2215: A 199 LYS  N   : A 199 LYS  CD  :   -0.617:        0
+:  2215: A 199 LYS  N   : A 199 LYS  CG  :   -0.573:        0
+
+:  2215: A 100 ASP  N   : A 100 ASP  C   :   -0.780:        0
+:  2215: A 100 ASP  N   : A 101 VAL  N   :   -0.435:        0
+
+:  2215: A  59 VAL  C   : A  59 VAL  N   :   -0.707:        0
+:  2215: A  59 VAL  CG2 : A  59 VAL  C   :   -0.505:        0
+
+:  2215: A 123 ASN  OD1 : A 123 ASN  ND2 :   -0.700:        0
+
+:  2215: A 146 ILE HD13 : A  52 LEU HD13 :   -0.695:        0
+
+:  2215: A  60 LEU HD23 : A  25 VAL HG22 :   -0.690:        0
+:  2215: A  25 VAL HG22 : A  60 LEU  CD2 :   -0.645:        0
+:  2215: A  60 LEU  CD2 : A  25 VAL  CG2 :   -0.623:        0
+:  2215: A  60 LEU HD23 : A  25 VAL  CG2 :   -0.480:        0
+
+:  2215: A  83 PHE  CZ  : A  68 LEU HD13 :   -0.681:        0
+
+:  2215: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.636:        0
+:  2215: A  99 PRO  CB  : A   4 ALA  HB2 :   -0.434:        0
+
+:  2215: A  49 ARG  HG2 : A 150 VAL  CG2 :   -0.619:        0
+
+:  2215: A 132 HIS  HE1 : A 108 ASP  O   :   -0.614:        0
+
+:  2215: A 153 ASP  OD2 : A 149 LYS  HE3 :   -0.577:        0
+
+:  2215: A  98 LYS  CD  : A  98 LYS  CA  :   -0.545:        0
+
+:  2215: A  14 VAL HG13 : A  15 ILE HG13 :   -0.518:        0
+
+:  2215: A 151 THR  HB  : A  19 VAL HG11 :   -0.475:        0
+
+:  2215: A 121 ARG  HD2 : A  85 VAL HG12 :   -0.471:        0
+
+:  2215: A 133 LYS  O   : A 133 LYS  HG3 :   -0.466:        0
+
+:  2215: A  44 LEU HD12 : A  41 SER  HB2 :   -0.465:        0
+
+:  2215: A  69 PRO  HG2 : A  72 VAL HG23 :   -0.454:        0
+
+:  2215: A  92 LEU HD13 : A 102 ILE HD13 :   -0.446:        0
+
+:  2215: A 152 ARG  CZ  : A 156 VAL HG21 :   -0.433:        0
+
+:  2215: A   6 ILE HD11 : A  88 PHE  HA  :   -0.426:        0
+
+:  2215: A  76 ARG  HD2 : A  78 GLY  O   :   -0.416:        0
+:  2215: A  76 ARG HH11 : A  73 ILE HG22 :   -0.414:        0
+
+:  2215: A 166 ILE  O   : A 167 GLY  CA  :   -0.415:        0
+
+:  2215: A  62 ASP  OD1 : A  63 TYR  N   :   -0.408:        0
+
+:  2215: A 130 ALA  HA  : A 104 ALA  O   :   -0.405:        0
+
+:  2215: A  87 ASN  HB3 : A  20 ILE HD12 :   -0.405:        0
+
+:  2215: A  95 LEU HD23 : A  64 VAL HG23 :   -0.402:        0
+:  2215: A  95 LEU HD13 : A  24 VAL  CG2 :   -0.401:        0
+#sum2 ::22.12 clashscore : 22.12 clashscore B<40 
+#summary::2215 atoms:2215 atoms B<40:261910 potential dots:16370.0 A^2:49 bumps:49 bumps B<40:602.8 score

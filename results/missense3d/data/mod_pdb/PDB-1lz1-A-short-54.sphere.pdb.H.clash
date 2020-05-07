@@ -1,0 +1,33 @@
+
+:  1490: A  17 MET  CA  : A  17 MET  O   :   -0.834:       15
+
+:  1490: A 101 ARG  CG  : A 101 ARG  NE  :   -0.826:       24
+
+:  1490: A 115 ARG  HG2 : A 111 ALA  O   :   -0.767:       46
+
+:  1490: A 116 CYS  N   : A 116 CYS  CB  :   -0.757:       19
+
+:  1490: A 102 ASP  O   : A 102 ASP  CA  :   -0.747:       25
+
+:  1490: A  27 ASN  N   : A  26 ALA  O   :   -0.654:       11
+
+:  1490: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:  1490: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:  1490: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:  1490: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:  1490: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:  1490: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1490: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1490: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+:  1490: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:  1490: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:  1490: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:  1490: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+#sum2 ::12.08 clashscore : 6.67 clashscore B<40 
+#summary::1490 atoms:1349 atoms B<40:176217 potential dots:11010.0 A^2:18 bumps:9 bumps B<40:532.9 score

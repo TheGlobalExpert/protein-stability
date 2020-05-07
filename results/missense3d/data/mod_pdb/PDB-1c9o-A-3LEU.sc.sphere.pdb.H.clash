@@ -1,0 +1,31 @@
+
+:   830: A  66 LEU HD11 : A   3 LEU HD22 :   -1.037:        0
+:   830: A   3 LEU  CD2 : A  66 LEU HD11 :   -0.895:        0
+:   830: A  66 LEU HD12 : A  46 GLU  HG2 :   -0.790:        0
+:   830: A  66 LEU  CD1 : A   3 LEU HD22 :   -0.747:        0
+:   830: A  48 SER  HA  : A   3 LEU HD23 :   -0.599:        0
+:   830: A  48 SER  HB3 : A   3 LEU  CD2 :   -0.506:        0
+:   830: A   3 LEU HD23 : A  48 SER  CA  :   -0.490:        0
+
+:   830: A  36 GLU  N   : A  36 GLU  C   :   -0.822:        0
+
+:   830: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.795:        0
+:   830: A  41 LEU  HB3 : A   6 VAL HG21 :   -0.503:        0
+:   830: A  65 LYS  HE2 : A  41 LEU  CD2 :   -0.432:        0
+
+:   830: A  17 PHE  HD1 : A   8 TRP  CZ2 :   -0.778:        0
+:   830: A   8 TRP  CZ2 : A  17 PHE  CD1 :   -0.688:        0
+:   830: A  16 GLY  HA2 : A   8 TRP  CZ3 :   -0.452:        0
+
+:   830: A   5 LYS  HE2 : A  19 GLU  CD  :   -0.761:        0
+:   830: A   5 LYS  HE2 : A  19 GLU  OE1 :   -0.695:        0
+:   830: A  19 GLU  CG  : A   5 LYS  HG3 :   -0.624:        0
+:   830: A  19 GLU  CD  : A   5 LYS  CE  :   -0.573:        0
+:   830: A   5 LYS  CE  : A  19 GLU  OE1 :   -0.542:        0
+:   830: A   5 LYS  HE2 : A  19 GLU  CG  :   -0.424:        0
+:   830: A   5 LYS  CG  : A  19 GLU  HG3 :   -0.420:        0
+:   830: A   5 LYS  CG  : A  19 GLU  CG  :   -0.419:        0
+
+:   830: A   1 MET  SD  : A  50 GLU  HG3 :   -0.673:        0
+#sum2 ::27.71 clashscore : 27.71 clashscore B<40 
+#summary::830 atoms:830 atoms B<40:95934 potential dots:5996.0 A^2:23 bumps:23 bumps B<40:167.9 score

@@ -1,0 +1,19 @@
+
+:   745: A  21 THR  CB  : A  21 THR  C   :   -0.892:        0
+:   745: A  21 THR  CG2 : A  21 THR  C   :   -0.563:        0
+
+:   745: A  31 ASP  N   : A  31 ASP  C   :   -0.806:        0
+
+:   745: A  74 PHE  CZ  : A  35 PHE  HB2 :   -0.636:        0
+:   745: A  35 PHE  HB2 : A  74 PHE  CE1 :   -0.412:        0
+
+:   745: A  26 HIS  CE1 : A  55 THR HG23 :   -0.508:        0
+
+:   745: A  61 TYR  HD1 : A  57 ASN  O   :   -0.451:        0
+
+:   745: A  23 LEU  C   : A  23 LEU HD12 :   -0.448:        0
+
+:   745: A  36 LEU HD13 : A  47 ARG  HD3 :   -0.445:        0
+:   745: A  47 ARG  HG2 : A  43 GLU  O   :   -0.436:        0
+#sum2 ::13.42 clashscore : 13.42 clashscore B<40 
+#summary::745 atoms:745 atoms B<40:88370 potential dots:5523.0 A^2:10 bumps:10 bumps B<40:186.4 score

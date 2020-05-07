@@ -1,0 +1,19 @@
+
+:  1341: A  64 HIS  C   : A  65 GLY  CA  :   -0.945:        9
+
+:  1341: A 216 ALA  CA  : A 217 TYR  N   :   -0.914:        9
+
+:  1341: A  34 GLY  O   : A  35 ILE  N   :   -0.716:       11
+:  1341: A  35 ILE HD11 : A  30 VAL  HB  :   -0.509:        9
+
+:  1341: A  10 GLN  OE1 : A  10 GLN  CG  :   -0.715:       14
+
+:  1341: A 222 MET  CE  : A 222 MET  CG  :   -0.697:       13
+
+:  1341: A  26 VAL HG11 : A 232 ALA  HA  :   -0.551:       10
+
+:  1341: A  81 VAL  HA  : A   3 SER  O   :   -0.421:       14
+
+:  1341: A  16 LEU HD11 : A 274 ALA  CB  :   -0.409:       18
+#sum2 ::6.71 clashscore : 6.71 clashscore B<40 
+#summary::1341 atoms:1341 atoms B<40:162340 potential dots:10150.0 A^2:9 bumps:9 bumps B<40:577.9 score

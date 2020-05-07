@@ -1,0 +1,12 @@
+
+:   913: A  47 GLN  CG  : A  47 GLN  NE2 :   -0.906:       10
+
+:   913: A  44 LEU  N   : A  43 VAL  O   :   -0.685:       10
+
+:   913: A  28 PHE  CA  : A  29 PRO  CD  :   -0.557:        7
+
+:   913: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:   913: A  69 ARG  NH2 : A  69 ARG  CD  :   -0.420:       14
+#sum2 ::5.48 clashscore : 5.48 clashscore B<40 
+#summary::913 atoms:913 atoms B<40:111785 potential dots:6987.0 A^2:5 bumps:5 bumps B<40:344.6 score

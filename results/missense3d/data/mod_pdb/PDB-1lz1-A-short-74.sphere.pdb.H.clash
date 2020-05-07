@@ -1,0 +1,24 @@
+
+:   868: A  31 LEU  CD2 : A  31 LEU  CD1 :   -1.021:       17
+
+:   868: A  56 ILE  C   : A  56 ILE  N   :   -0.692:       10
+
+:   868: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   868: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   868: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   868: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   868: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   868: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:   868: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:   868: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:   868: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:   868: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:   868: A 103 PRO  HD2 : A 102 ASP  HB3 :   -0.402:       88
+#sum2 ::14.98 clashscore : 7.84 clashscore B<40 
+#summary::868 atoms:765 atoms B<40:105267 potential dots:6579.0 A^2:13 bumps:6 bumps B<40:286.4 score

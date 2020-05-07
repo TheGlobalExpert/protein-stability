@@ -1,0 +1,27 @@
+
+:  1295: A 174 VAL  CG1 : A 174 VAL  CG2 :   -1.004:       11
+
+:  1295: A 129 PRO  CD  : A 128 GLY  C   :   -0.887:       17
+:  1295: A 128 GLY  CA  : A 129 PRO  CD  :   -0.653:       17
+
+:  1295: A 152 ALA  CB  : A 152 ALA  N   :   -0.850:        8
+
+:  1295: A 221 SER  CA  : A 221 SER  O   :   -0.779:        9
+:  1295: A 125 SER  HB3 : A 221 SER  CB  :   -0.495:       13
+
+:  1295: A 103 GLN  HG3 : A 106 TRP  CE2 :   -0.735:       35
+:  1295: A 103 GLN  HB2 : A 106 TRP  CG  :   -0.595:       33
+:  1295: A 106 TRP  CD1 : A 103 GLN  HB2 :   -0.440:       33
+
+:  1295: A  31 ILE HD12 : A 122 ILE  CG2 :   -0.552:       13
+:  1295: A  31 ILE HD12 : A 122 ILE HG23 :   -0.543:       13
+
+:  1295: A 167 TYR  O   : A 127 GLY  HA2 :   -0.536:       18
+
+:  1295: A  35 ILE HD11 : A  30 VAL  HB  :   -0.509:        9
+
+:  1295: A 102 GLY  HA3 : A  96 LEU HD23 :   -0.426:       35
+
+:  1295: A  58 PHE  HB3 : A  37 SER  OG  :   -0.425:       17
+#sum2 ::11.58 clashscore : 11.75 clashscore B<40 
+#summary::1295 atoms:1277 atoms B<40:159229 potential dots:9952.0 A^2:15 bumps:15 bumps B<40:473 score

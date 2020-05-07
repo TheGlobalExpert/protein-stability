@@ -1,0 +1,15 @@
+
+:   666: A   9 PHE  CG  : A   9 PHE  CE2 :   -0.992:       21
+
+:   666: A   8 TRP  N   : A   7 LYS  CA  :   -0.958:       32
+
+:   666: A  22 GLY  O   : A  23 GLN  HG2 :   -0.661:       60
+:   666: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+
+:   666: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   666: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   666: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::10.51 clashscore : 8.58 clashscore B<40 
+#summary::666 atoms:583 atoms B<40:78471 potential dots:4904.0 A^2:7 bumps:5 bumps B<40:157.1 score

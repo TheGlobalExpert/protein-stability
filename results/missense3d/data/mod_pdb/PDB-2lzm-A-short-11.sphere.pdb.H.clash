@@ -1,0 +1,38 @@
+
+:  1673: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1673: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1673: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1673: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1673: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+:  1673: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1673: A 141 GLN  HG2 : A 137 ARG  CZ  :   -0.450:       39
+
+:  1673: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1673: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1673: A 164 LEU  CD1 : A 164 LEU  N   :   -0.593:       64
+:  1673: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  1673: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1673: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1673: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+:  1673: A 163 ASN  O   : A 164 LEU  OXT :   -0.425:       65
+
+:  1673: A  78 ILE  N   : A  77 GLY  CA  :   -0.863:       19
+
+:  1673: A  45 GLU  CG  : A  45 GLU  OE1 :   -0.710:       29
+
+:  1673: A   5 GLU  OE1 : A   1 MET  HA  :   -0.635:       38
+:  1673: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1673: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1673: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1673: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1673: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1673: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:  1673: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+
+:  1673: A 159 ASP  O   : A 162 LYS  HB2 :   -0.428:       58
+#sum2 ::15.54 clashscore : 7.33 clashscore B<40 
+#summary::1673 atoms:1501 atoms B<40:195779 potential dots:12240.0 A^2:26 bumps:11 bumps B<40:551.3 score

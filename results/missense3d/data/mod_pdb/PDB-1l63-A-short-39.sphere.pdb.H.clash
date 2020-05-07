@@ -1,0 +1,14 @@
+
+:   752: A  13 LEU  CG  : A  13 LEU  CA  :   -0.879:       37
+:   752: A  12 GLY  O   : A  13 LEU  N   :   -0.706:       19
+:   752: A  13 LEU  C   : A  13 LEU  CG  :   -0.509:       37
+
+:   752: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:   752: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:   752: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:   752: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:   752: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:   752: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::11.97 clashscore : 6.20 clashscore B<40 
+#summary::752 atoms:645 atoms B<40:86983 potential dots:5436.0 A^2:9 bumps:4 bumps B<40:231.4 score

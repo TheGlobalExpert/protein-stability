@@ -1,0 +1,25 @@
+
+:  1760: A   1 MET  CA  : A   1 MET  CG  :   -1.037:       42
+:  1760: A   1 MET  CG  : A   1 MET  C   :   -0.408:       42
+
+:  1760: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:  1760: A 128 PRO  HD2 : A 127 HIS  HB3 :   -0.619:       29
+
+:  1760: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.502:       19
+
+:  1760: A   2 LEU HD23 : A   2 LEU  HA  :   -0.467:       28
+
+:  1760: A  44 ASN  OD1 : A  48 GLU  OE2 :   -0.432:       28
+:  1760: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:  1760: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+:  1760: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.413:       12
+
+:  1760: A  60 LYS  HA  : A  60 LYS  HD2 :   -0.428:       35
+
+:  1760: A  19 PRO  HB3 : A 144 PRO  HG3 :   -0.422:       21
+
+:  1760: A  47 MET  HA  : A  47 MET  CE  :   -0.412:       12
+#sum2 ::7.39 clashscore : 6.31 clashscore B<40 
+#summary::1760 atoms:1743 atoms B<40:206262 potential dots:12890.0 A^2:13 bumps:11 bumps B<40:637.2 score

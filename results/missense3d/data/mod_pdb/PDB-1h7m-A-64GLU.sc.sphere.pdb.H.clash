@@ -1,0 +1,40 @@
+
+:  1045: A  18 MET  CE  : A  80 VAL HG21 :   -1.187:        0
+:  1045: A  80 VAL  CG2 : A  18 MET  CE  :   -1.090:        0
+:  1045: A  18 MET  HE1 : A  80 VAL HG21 :   -1.017:        0
+:  1045: A  18 MET  HE3 : A  80 VAL  CG2 :   -0.945:        0
+:  1045: A  83 LEU HD22 : A  74 LEU HD11 :   -0.693:        0
+:  1045: A  18 MET  HE1 : A  80 VAL  CG2 :   -0.686:        0
+:  1045: A  18 MET  CE  : A  80 VAL HG22 :   -0.634:        0
+:  1045: A  80 VAL  O   : A  70 LEU HD23 :   -0.615:        0
+:  1045: A  80 VAL HG22 : A  18 MET  HE3 :   -0.547:        0
+:  1045: A  74 LEU HD13 : A  18 MET  SD  :   -0.494:        0
+:  1045: A  18 MET  HE3 : A  80 VAL  CG1 :   -0.416:        0
+
+:  1045: A  24 ILE  CA  : A  24 ILE  CG1 :   -0.979:        0
+
+:  1045: A  39 ARG  NH2 : A  62 GLU  OE1 :   -0.827:        0
+:  1045: A  62 GLU  OE1 : A  39 ARG  CZ  :   -0.509:        0
+
+:  1045: A  54 ARG  N   : A  54 ARG  CB  :   -0.821:        0
+
+:  1045: A  92 ARG  CG  : A  92 ARG  NE  :   -0.815:        0
+
+:  1045: A  68 VAL  CG2 : A  79 THR HG22 :   -0.680:        0
+:  1045: A  68 VAL HG22 : A  79 THR HG22 :   -0.551:        0
+:  1045: A  79 THR  HB  : A  67 SER  HB2 :   -0.538:        0
+:  1045: A  68 VAL  CG2 : A  79 THR  CG2 :   -0.463:        0
+:  1045: A  79 THR  CG2 : A  68 VAL HG22 :   -0.459:        0
+
+:  1045: A  85 VAL HG21 : A  93 ILE HD13 :   -0.651:        0
+:  1045: A  96 LEU HD12 : A  93 ILE HG12 :   -0.563:        0
+:  1045: A  36 ILE HD11 : A  93 ILE HD11 :   -0.560:        0
+:  1045: A  93 ILE HD11 : A  36 ILE  CD1 :   -0.518:        0
+:  1045: A  36 ILE  O   : A  82 ALA  HA  :   -0.407:        0
+
+:  1045: A   4 ALA  HA  : A  73 LEU HD21 :   -0.462:        0
+:  1045: A  73 LEU HD11 : A   4 ALA  HB1 :   -0.434:        0
+:  1045: A  73 LEU HD12 : A  73 LEU  HA  :   -0.431:        0
+:  1045: A   8 ARG  NH1 : A  73 LEU HD12 :   -0.409:        0
+#sum2 ::28.71 clashscore : 28.71 clashscore B<40 
+#summary::1045 atoms:1045 atoms B<40:123519 potential dots:7720.0 A^2:30 bumps:30 bumps B<40:236.4 score

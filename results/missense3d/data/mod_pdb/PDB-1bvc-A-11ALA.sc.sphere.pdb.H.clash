@@ -1,0 +1,20 @@
+
+:  1243: A 140 LYS  CD  : A 140 LYS  CB  :   -0.989:        0
+:  1243: A 140 LYS  CA  : A 141 ASP  N   :   -0.870:        0
+:  1243: A 142 ILE  N   : A 141 ASP  CA  :   -0.847:        0
+
+:  1243: A  17 VAL HG11 : A  14 TRP  CZ3 :   -0.872:        0
+:  1243: A  73 GLY  HA3 : A  14 TRP  CZ2 :   -0.564:        0
+:  1243: A  14 TRP  CZ2 : A  73 GLY  CA  :   -0.499:        0
+:  1243: A  14 TRP  HH2 : A  69 LEU  HB3 :   -0.492:        0
+:  1243: A  73 GLY  CA  : A  14 TRP  CE2 :   -0.447:        0
+:  1243: A  14 TRP  CZ3 : A  17 VAL  CG1 :   -0.442:        0
+:  1243: A  73 GLY  HA3 : A  14 TRP  CE2 :   -0.435:        0
+
+:  1243: A  64 HIS  O   : A  65 GLY  N   :   -0.697:        0
+
+:  1243: A  10 VAL HG13 : A 131 MET  CE  :   -0.533:        0
+
+:  1243: A 128 GLN  HA  : A 123 PHE  CZ  :   -0.485:        0
+#sum2 ::10.46 clashscore : 10.46 clashscore B<40 
+#summary::1243 atoms:1243 atoms B<40:144800 potential dots:9050.0 A^2:13 bumps:13 bumps B<40:412.1 score

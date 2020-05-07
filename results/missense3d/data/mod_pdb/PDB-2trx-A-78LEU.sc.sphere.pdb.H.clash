@@ -1,0 +1,42 @@
+
+:  1600: A  48 GLU  OE1 : A  96 LYS  NZ  :   -0.879:        0
+:  1600: A  48 GLU  OE1 : A  96 LYS  CE  :   -0.432:        0
+
+:  1600: A   2 ASP  CA  : A   2 ASP  CG  :   -0.863:        0
+
+:  1600: A  67 ALA  HB3 : A  68 PRO  HD3 :   -0.803:        0
+:  1600: A  68 PRO  CD  : A  67 ALA  N   :   -0.565:        0
+:  1600: A  68 PRO  HD2 : A  67 ALA  N   :   -0.525:        0
+:  1600: A  68 PRO  HD3 : A  67 ALA  CB  :   -0.487:        0
+:  1600: A  67 ALA  HA  : A  72 ILE HD12 :   -0.415:        0
+
+:  1600: A  82 LYS  NZ  : A 106 ASN  O   :   -0.695:        0
+
+:  1600: A  81 PHE  HZ  : A  70 TYR  CE2 :   -0.638:        0
+:  1600: A  70 TYR  CE2 : A  81 PHE  CZ  :   -0.516:        0
+:  1600: A  70 TYR  HH  : A  12 PHE  HE2 :   -0.480:        0
+
+:  1600: A  79 LEU HD12 : A  27 PHE  HE2 :   -0.568:        0
+:  1600: A  79 LEU HD12 : A  27 PHE  CE2 :   -0.518:        0
+:  1600: A  58 LEU HD22 : A  27 PHE  CE1 :   -0.488:        0
+
+:  1600: A  39 ALA  HB3 : A  40 PRO  HD3 :   -0.549:        0
+
+:  1600: A  75 ILE HD11 : A  31 TRP  CH2 :   -0.523:        0
+:  1600: A  61 ASP  CG  : A  31 TRP  HE1 :   -0.470:        0
+:  1600: A  61 ASP  OD2 : A  31 TRP  NE1 :   -0.450:        0
+:  1600: A  75 ILE  HA  : A  76 PRO  C   :   -0.400:        0
+
+:  1600: A  69 LYS  HE3 : A  65 GLY  O   :   -0.499:        0
+
+:  1600: A  13 ASP  HA  : A  17 LEU  HG  :   -0.477:        0
+
+:  1600: A  45 ILE HG13 : A  99 LEU  CD2 :   -0.465:        0
+:  1600: A  45 ILE HD13 : A  45 ILE  HA  :   -0.442:        0
+:  1600: A  45 ILE HG13 : A  99 LEU HD23 :   -0.430:        0
+
+:  1600: A 107 LEU  O   : A 108 ALA  CB  :   -0.461:        0
+
+:  1600: A  78 LEU  HB3 : A  24 LEU HD11 :   -0.437:        0
+#sum2 ::16.88 clashscore : 16.88 clashscore B<40 
+#summary::1600 atoms:1600 atoms B<40:180591 potential dots:11290.0 A^2:27 bumps:27 bumps B<40:427.8 score

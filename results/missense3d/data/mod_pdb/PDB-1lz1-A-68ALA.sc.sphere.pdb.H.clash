@@ -1,0 +1,30 @@
+
+:   707: A  94 ALA  CB  : A  94 ALA  C   :   -0.880:        0
+
+:   707: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:   707: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:   707: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:   707: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:   707: A  49 ASP  O   : A  62 ARG  NH1 :   -0.704:        0
+:   707: A  62 ARG HH22 : A  49 ASP  CG  :   -0.679:        0
+:   707: A  62 ARG  O   : A  73 ALA  HA  :   -0.665:        0
+:   707: A  62 ARG  NH2 : A  49 ASP  CG  :   -0.603:        0
+:   707: A  49 ASP  OD2 : A  62 ARG  NH2 :   -0.519:        0
+:   707: A  51 SER  HB3 : A  62 ARG  NH2 :   -0.517:        0
+:   707: A  49 ASP  OD1 : A  49 ASP  C   :   -0.417:        0
+
+:   707: A  68 ALA  HB3 : A  67 ASP  O   :   -0.661:        0
+:   707: A  67 ASP  O   : A  68 ALA  CB  :   -0.508:        0
+
+:   707: A  74 VAL  O   : A  74 VAL HG12 :   -0.505:        0
+:   707: A  74 VAL  O   : A  74 VAL  CG1 :   -0.496:        0
+
+:   707: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.499:        0
+:   707: A  92 ALA  HA  : A  84 LEU HD22 :   -0.455:        0
+
+:   707: A  54 TYR  CE2 : A  52 THR  HB  :   -0.476:        0
+
+:   707: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+#sum2 ::28.29 clashscore : 28.29 clashscore B<40 
+#summary::707 atoms:707 atoms B<40:84519 potential dots:5282.0 A^2:20 bumps:20 bumps B<40:166.7 score

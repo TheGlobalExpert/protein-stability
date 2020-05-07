@@ -1,0 +1,14 @@
+
+:   847: A  23 GLN  CB  : A  23 GLN  C   :   -0.984:       59
+
+:   847: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   847: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   847: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   847: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   847: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::7.08 clashscore : 6.23 clashscore B<40 
+#summary::847 atoms:642 atoms B<40:97210 potential dots:6076.0 A^2:6 bumps:4 bumps B<40:239.3 score

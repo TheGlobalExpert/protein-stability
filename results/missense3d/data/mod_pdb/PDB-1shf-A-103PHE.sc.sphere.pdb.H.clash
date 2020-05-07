@@ -1,0 +1,36 @@
+
+:   875: A 134 PRO  HB2 : A 137 TYR  CD1 :   -1.215:        0
+:   875: A 137 TYR  HD1 : A 134 PRO  HB2 :   -1.028:        0
+:   875: A 119 TRP  CZ3 : A 134 PRO  HG3 :   -0.828:        0
+:   875: A 134 PRO  HB2 : A 137 TYR  CE1 :   -0.761:        0
+:   875: A 119 TRP  CH2 : A 134 PRO  HG3 :   -0.727:        0
+:   875: A 103 PHE  CE2 : A  93 TYR  HB3 :   -0.724:        0
+:   875: A 137 TYR  HD1 : A 134 PRO  CB  :   -0.711:        0
+:   875: A 137 TYR  CD1 : A 134 PRO  CB  :   -0.702:        0
+:   875: A 134 PRO  CB  : A 137 TYR  CE1 :   -0.620:        0
+:   875: A 119 TRP  HH2 : A  93 TYR  HH  :   -0.522:        0
+:   875: A  89 ALA  HB1 : A 103 PHE  HE1 :   -0.519:        0
+:   875: A  89 ALA  HB1 : A 103 PHE  CE1 :   -0.458:        0
+:   875: A 134 PRO  CB  : A 137 TYR  HE1 :   -0.415:        0
+
+:   875: A  96 ARG HH21 : A  96 ARG  HG3 :   -0.970:        0
+:   875: A  96 ARG  HG3 : A  96 ARG  NH2 :   -0.836:        0
+:   875: A  96 ARG HH21 : A  96 ARG  CG  :   -0.767:        0
+:   875: A 100 ASP  OD2 : A  96 ARG  N   :   -0.616:        0
+:   875: A 100 ASP  OD1 : A 100 ASP  N   :   -0.565:        0
+
+:   875: A 128 GLY  O   : A 123 ARG  NH2 :   -0.930:        0
+:   875: A 123 ARG HH21 : A 128 GLY  HA2 :   -0.453:        0
+
+:   875: A 107 GLU  OE2 : A 124 SER  OG  :   -0.786:        0
+:   875: A 124 SER  HA  : A 109 PHE  CD1 :   -0.560:        0
+:   875: A 109 PHE  HE1 : A 124 SER  HB2 :   -0.459:        0
+:   875: A 109 PHE  CE1 : A 124 SER  HB2 :   -0.411:        0
+
+:   875: A  84 VAL  CG1 : A 110 GLN  HG3 :   -0.567:        0
+
+:   875: A 132 TYR  HA  : A 120 TRP  O   :   -0.465:        0
+
+:   875: A 111 ILE HG21 : A 114 SER  HB3 :   -0.407:        0
+#sum2 ::30.86 clashscore : 30.86 clashscore B<40 
+#summary::875 atoms:875 atoms B<40:99479 potential dots:6217.0 A^2:27 bumps:27 bumps B<40:145.2 score

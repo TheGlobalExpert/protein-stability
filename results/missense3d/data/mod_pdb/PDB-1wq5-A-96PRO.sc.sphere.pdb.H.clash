@@ -1,0 +1,92 @@
+
+:  2026: A  53 PRO  N   : A  53 PRO  CD  :   -1.600:        0
+:  2026: A  53 PRO  CG  : A  53 PRO  CA  :   -1.096:        0
+:  2026: A  53 PRO  CD  : A  53 PRO  CA  :   -0.918:        0
+:  2026: A  53 PRO  N   : A  53 PRO  CG  :   -0.873:        0
+:  2026: A  53 PRO  CD  : A  52 ILE  C   :   -0.630:        0
+:  2026: A  99 LEU HD13 : A  52 ILE  CD1 :   -0.597:        0
+:  2026: A  52 ILE HD11 : A  99 LEU HD13 :   -0.560:        0
+:  2026: A  52 ILE  HA  : A  53 PRO  CD  :   -0.507:        0
+:  2026: A  53 PRO  CD  : A  52 ILE  CA  :   -0.481:        0
+
+:  2026: A  21 PRO  N   : A  21 PRO  CD  :   -1.457:        0
+:  2026: A  20 VAL  HB  : A 232 ILE HG12 :   -0.575:        0
+:  2026: A  20 VAL  O   : A 232 ILE  HA  :   -0.521:        0
+:  2026: A  20 VAL  O   : A 232 ILE HG23 :   -0.479:        0
+:  2026: A  21 PRO  CD  : A  20 VAL  C   :   -0.443:        0
+
+:  2026: A 207 PRO  N   : A 207 PRO  CD  :   -1.416:        0
+:  2026: A 208 PRO  N   : A 208 PRO  CD  :   -1.410:        0
+:  2026: A 208 PRO  CD  : A 207 PRO  C   :   -0.614:        0
+:  2026: A 207 PRO  CD  : A 206 ALA  C   :   -0.578:        0
+:  2026: A 207 PRO  HA  : A 208 PRO  CD  :   -0.499:        0
+:  2026: A 208 PRO  CD  : A 207 PRO  CA  :   -0.407:        0
+:  2026: A 207 PRO  HB2 : A   8 PHE  CE1 :   -0.404:        0
+
+:  2026: A  79 ALA  C   : A  80 GLN  CA  :   -1.003:        0
+:  2026: A  80 GLN  CA  : A  79 ALA  O   :   -0.434:        0
+
+:  2026: A 258 PHE  CE1 : A 258 PHE  CG  :   -0.986:        0
+:  2026: A 258 PHE  C   : A 258 PHE  CG  :   -0.609:        0
+
+:  2026: A 139 PHE  CD2 : A 139 PHE  CB  :   -0.983:        0
+
+:  2026: A 167 ALA  CA  : A 166 ILE  C   :   -0.953:        0
+:  2026: A 166 ILE  CG2 : A 166 ILE  C   :   -0.543:        0
+
+:  2026: A 223 ALA  CB  : A 223 ALA  C   :   -0.873:        0
+
+:  2026: A 255 LEU  C   : A 255 LEU  CB  :   -0.869:        0
+:  2026: A  19 PHE  HE2 : A 259 VAL HG13 :   -0.519:        0
+:  2026: A  19 PHE  CE1 : A 262 MET  HB3 :   -0.508:        0
+:  2026: A 259 VAL HG13 : A  19 PHE  CE2 :   -0.402:        0
+:  2026: A 259 VAL HG23 : A 255 LEU  O   :   -0.400:        0
+
+:  2026: A 154 CYS  N   : A 154 CYS  CB  :   -0.838:        0
+
+:  2026: A 102 TYR  CA  : A 102 TYR  O   :   -0.757:        0
+
+:  2026: A 256 LYS  CA  : A 256 LYS  O   :   -0.745:        0
+
+:  2026: A 141 GLN  C   : A 141 GLN  N   :   -0.707:        0
+
+:  2026: A  11 LEU  CD1 : A  18 ALA  HB2 :   -0.687:        0
+
+:  2026: A   7 LEU HD22 : A  96 PRO  HG2 :   -0.646:        0
+:  2026: A  96 PRO  HG2 : A   7 LEU  CD2 :   -0.599:        0
+:  2026: A   7 LEU HD22 : A  96 PRO  CG  :   -0.460:        0
+
+:  2026: A   2 GLU  HA  : A   2 GLU  OE1 :   -0.644:        0
+:  2026: A   5 GLU  CB  : A   2 GLU  HG3 :   -0.416:        0
+
+:  2026: A 114 PHE  CZ  : A 101 MET  SD  :   -0.635:        0
+:  2026: A 101 MET  SD  : A 114 PHE  HZ  :   -0.591:        0
+:  2026: A 101 MET  HE3 : A 105 LEU  CD2 :   -0.523:        0
+
+:  2026: A   3 ARG  HD2 : A  94 THR  O   :   -0.570:        0
+:  2026: A   3 ARG  NE  : A  94 THR  HA  :   -0.411:        0
+
+:  2026: A  85 LEU HD21 : A  25 LEU HD11 :   -0.551:        0
+:  2026: A  85 LEU HD12 : A  82 PHE  HA  :   -0.454:        0
+
+:  2026: A  22 PHE  HA  : A  49 GLU  O   :   -0.540:        0
+:  2026: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.511:        0
+:  2026: A  22 PHE  CD1 : A  22 PHE  C   :   -0.409:        0
+
+:  2026: A  16 GLU  HG2 : A 267 ARG  HG2 :   -0.537:        0
+
+:  2026: A 220 VAL  O   : A 224 ILE HD13 :   -0.529:        0
+:  2026: A 224 ILE HD12 : A 224 ILE  N   :   -0.468:        0
+:  2026: A 224 ILE  N   : A 224 ILE  CD1 :   -0.416:        0
+
+:  2026: A  95 ILE HD12 : A  92 HIS  HB3 :   -0.494:        0
+:  2026: A  95 ILE  CD1 : A  41 ILE HD13 :   -0.457:        0
+
+:  2026: A  88 ILE  CD1 : A  37 ILE HD13 :   -0.480:        0
+:  2026: A  37 ILE HD13 : A  88 ILE HD13 :   -0.443:        0
+
+:  2026: A 127 LEU HD11 : A 153 ILE HG13 :   -0.449:        0
+
+:  2026: A 125 SER  HB2 : A 151 ILE HD11 :   -0.431:        0
+#sum2 ::31.59 clashscore : 31.59 clashscore B<40 
+#summary::2026 atoms:2026 atoms B<40:245074 potential dots:15320.0 A^2:64 bumps:64 bumps B<40:337.9 score

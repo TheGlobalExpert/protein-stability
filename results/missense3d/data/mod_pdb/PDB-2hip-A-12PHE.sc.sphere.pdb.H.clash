@@ -1,0 +1,65 @@
+
+:   986: A  61 GLU  OE1 : A  59 LYS  NZ  :   -1.282:        0
+:   986: A  59 LYS  HZ2 : A  61 GLU  CD  :   -0.940:        0
+:   986: A  67 TYR  CE2 : A  29 GLN  HG2 :   -0.929:        0
+:   986: A  30 LEU HD11 : A  16 ALA  HB2 :   -0.924:        0
+:   986: A  44 GLY  O   : A  59 LYS  HD2 :   -0.873:        0
+:   986: A  16 ALA  HB2 : A  30 LEU  CD1 :   -0.740:        0
+:   986: A  30 LEU HD13 : A  29 GLN  O   :   -0.730:        0
+:   986: A  67 TYR  CE1 : A  34 CYS  HB2 :   -0.714:        0
+:   986: A  59 LYS  NZ  : A  61 GLU  CD  :   -0.684:        0
+:   986: A  62 GLY  O   : A  30 LEU HD12 :   -0.622:        0
+:   986: A  67 TYR  CD1 : A  34 CYS  HB2 :   -0.566:        0
+:   986: A  61 GLU  HA  : A  30 LEU  HG  :   -0.560:        0
+:   986: A  26 GLN  O   : A  29 GLN  HB2 :   -0.547:        0
+:   986: A  59 LYS  HD3 : A  45 TRP  CE2 :   -0.521:        0
+:   986: A  59 LYS  HG3 : A  61 GLU  H   :   -0.509:        0
+:   986: A  34 CYS  HB2 : A  67 TYR  HE1 :   -0.504:        0
+
+:   986: A  36 PHE  O   : A  49 THR HG23 :   -0.959:        0
+
+:   986: A  46 GLY  HA3 : A  37 TRP  CH2 :   -0.955:        0
+:   986: A  37 TRP  NE1 : A  39 GLU  HA  :   -0.916:        0
+:   986: A  39 GLU  HA  : A  37 TRP  HE1 :   -0.675:        0
+:   986: A  46 GLY  CA  : A  37 TRP  CH2 :   -0.627:        0
+:   986: A  37 TRP  CE2 : A  39 GLU  HA  :   -0.580:        0
+:   986: A  37 TRP  HB2 : A  31 CYS  O   :   -0.535:        0
+:   986: A  37 TRP  NE1 : A  39 GLU  CA  :   -0.514:        0
+:   986: A  37 TRP  HZ3 : A  58 VAL HG23 :   -0.505:        0
+:   986: A  37 TRP  CE2 : A  39 GLU  CA  :   -0.462:        0
+:   986: A  38 GLY  O   : A  39 GLU  HB2 :   -0.446:        0
+:   986: A  39 GLU  C   : A  37 TRP  CZ2 :   -0.433:        0
+
+:   986: A  55 GLU  HG2 : A  54 ASP  OD1 :   -0.853:        0
+
+:   986: A  66 VAL HG22 : A  64 CYS  SG  :   -0.769:        0
+:   986: A  66 VAL  CG2 : A  64 CYS  SG  :   -0.615:        0
+
+:   986: A   2 PRO  HD2 : A   1 GLU  HB3 :   -0.658:        0
+:   986: A   1 GLU  CB  : A   2 PRO  HD2 :   -0.648:        0
+:   986: A   2 PRO  HD3 : A   1 GLU  HA  :   -0.443:        0
+:   986: A   1 GLU  CB  : A   2 PRO  CD  :   -0.435:        0
+
+:   986: A  23 PRO  HD2 : A  22 HIS  CG  :   -0.621:        0
+:   986: A  23 PRO  HD3 : A  22 HIS  HA  :   -0.419:        0
+
+:   986: A  52 ASP  HB2 : A  50 HIS  CE1 :   -0.532:        0
+:   986: A  10 HIS  NE2 : A  52 ASP  OD2 :   -0.531:        0
+:   986: A  63 TRP  CH2 : A  65 SER  HA  :   -0.526:        0
+:   986: A  51 PRO  HD3 : A  50 HIS  HA  :   -0.469:        0
+:   986: A  10 HIS  HB3 : A  65 SER  OG  :   -0.426:        0
+:   986: A  52 ASP  HB2 : A  50 HIS  ND1 :   -0.401:        0
+
+:   986: A   4 ALA  HB2 : A  56 VAL HG21 :   -0.531:        0
+:   986: A  56 VAL  CG2 : A   4 ALA  HB2 :   -0.509:        0
+
+:   986: A  70 ALA  HB2 : A  35 ALA  CA  :   -0.491:        0
+:   986: A  70 ALA  HB2 : A  35 ALA  HA  :   -0.437:        0
+
+:   986: A  41 VAL HG12 : A  42 GLN  CG  :   -0.468:        0
+
+:   986: A  12 PHE  CE2 : A  14 ASN  OD1 :   -0.446:        0
+
+:   986: A  19 ALA  O   : A  21 GLY  N   :   -0.419:        0
+#sum2 ::50.71 clashscore : 50.71 clashscore B<40 
+#summary::986 atoms:986 atoms B<40:113439 potential dots:7090.0 A^2:50 bumps:50 bumps B<40:42.82 score

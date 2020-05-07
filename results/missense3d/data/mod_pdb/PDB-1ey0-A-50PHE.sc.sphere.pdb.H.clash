@@ -1,0 +1,41 @@
+
+:   715: A  24 LYS  CD  : A  24 LYS  CB  :   -0.979:        0
+:   715: A  24 LYS  CB  : A  24 LYS  N   :   -0.844:        0
+:   715: A  24 LYS  CD  : A  24 LYS  NZ  :   -0.806:        0
+
+:   715: A  50 PHE  H   : A  46 HIS  HB3 :   -0.952:        0
+:   715: A  49 LYS  O   : A  50 PHE  CB  :   -0.871:        0
+:   715: A  50 PHE  CE2 : A  51 VAL HG23 :   -0.674:        0
+:   715: A  49 LYS  O   : A  50 PHE  HB2 :   -0.671:        0
+:   715: A  46 HIS  HE1 : A  48 LYS  HB2 :   -0.648:        0
+:   715: A  51 VAL HG23 : A  50 PHE  CD2 :   -0.609:        0
+:   715: A  48 LYS  HB2 : A  46 HIS  CE1 :   -0.549:        0
+:   715: A  51 VAL  CG2 : A  50 PHE  CE2 :   -0.533:        0
+:   715: A  49 LYS  O   : A  50 PHE  HB3 :   -0.498:        0
+:   715: A  50 PHE  CG  : A  51 VAL  N   :   -0.497:        0
+:   715: A  50 PHE  CZ  : A  51 VAL HG23 :   -0.482:        0
+:   715: A  52 GLU  HG2 : A  49 LYS  HG2 :   -0.446:        0
+
+:   715: A  16 LYS  CB  : A  16 LYS  C   :   -0.942:        0
+
+:   715: A 139 ILE HD13 : A  54 TYR  CD2 :   -0.888:        0
+:   715: A  53 LYS  O   : A  54 TYR  HB2 :   -0.615:        0
+:   715: A  54 TYR  CD2 : A 139 ILE  CD1 :   -0.570:        0
+:   715: A 139 ILE HD13 : A 139 ILE  HA  :   -0.475:        0
+
+:   715: A 112 ALA  CA  : A 113 TYR  N   :   -0.852:        0
+
+:   715: A  34 PHE  N   : A  33 THR  CA  :   -0.833:        0
+:   715: A  34 PHE  N   : A  34 PHE  C   :   -0.784:        0
+
+:   715: A 111 VAL  C   : A 111 VAL  N   :   -0.822:        0
+
+:   715: A 103 LEU  O   : A 103 LEU  CA  :   -0.741:        0
+
+:   715: A 109 ALA  HB2 : A  41 THR HG22 :   -0.710:        0
+
+:   715: A  84 LYS  NZ  : A  85 TYR  CE2 :   -0.612:        0
+:   715: A  84 LYS  NZ  : A  85 TYR  CZ  :   -0.601:        0
+:   715: A  84 LYS  NZ  : A  85 TYR  OH  :   -0.506:        0
+#sum2 ::40.56 clashscore : 40.56 clashscore B<40 
+#summary::715 atoms:715 atoms B<40:86997 potential dots:5437.0 A^2:29 bumps:29 bumps B<40:-25.89 score

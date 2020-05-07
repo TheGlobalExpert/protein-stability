@@ -1,0 +1,14 @@
+
+:  1055: A  27 PRO  CA  : A  27 PRO  N   :   -1.305:       12
+:  1055: A  27 PRO  CA  : A  26 GLY  C   :   -0.551:       11
+:  1055: A  26 GLY  CA  : A  27 PRO  CA  :   -0.530:       10
+
+:  1055: A   1 ASP  OD2 : A   1 ASP  CB  :   -0.784:       27
+
+:  1055: A  28 PHE  CA  : A  29 PRO  CD  :   -0.557:        7
+
+:  1055: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:  1055: A  35 VAL HG11 : A  32 GLN  OE1 :   -0.408:       11
+#sum2 ::6.64 clashscore : 6.64 clashscore B<40 
+#summary::1055 atoms:1055 atoms B<40:124723 potential dots:7795.0 A^2:7 bumps:7 bumps B<40:376.1 score

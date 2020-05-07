@@ -1,0 +1,74 @@
+
+:  1353: A  99 VAL HG22 : A  64 TRP  CE2 :   -1.022:        0
+:  1353: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.916:        0
+:  1353: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.879:        0
+:  1353: A  64 TRP  CZ2 : A  99 VAL HG22 :   -0.692:        0
+:  1353: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.687:        0
+:  1353: A  99 VAL  HA  : A  64 TRP  CZ3 :   -0.678:        0
+:  1353: A  99 VAL HG13 : A  64 TRP  CZ2 :   -0.672:        0
+:  1353: A 109 TRP  CH2 : A  99 VAL  CG1 :   -0.591:        0
+:  1353: A  59 ILE  CG2 : A  64 TRP  HB2 :   -0.549:        0
+:  1353: A  77 ALA  HB3 : A  64 TRP  O   :   -0.519:        0
+:  1353: A  64 TRP  CD1 : A  59 ILE HG23 :   -0.504:        0
+:  1353: A  99 VAL HG22 : A  64 TRP  CE3 :   -0.445:        0
+:  1353: A  99 VAL HG11 : A 109 TRP  CZ2 :   -0.432:        0
+:  1353: A  64 TRP  CD2 : A  99 VAL  CG2 :   -0.407:        0
+:  1353: A  95 ALA  HB1 : A  59 ILE HD13 :   -0.403:        0
+
+:  1353: A  42 ALA  C   : A  42 ALA  CB  :   -0.900:        0
+
+:  1353: A  44 ASN  ND2 : A  44 ASN  CB  :   -0.878:        0
+
+:  1353: A  49 ASP  OD2 : A  62 ARG  NH2 :   -0.791:        0
+:  1353: A  51 SER  HB3 : A  62 ARG  NH2 :   -0.693:        0
+:  1353: A  62 ARG HH22 : A  49 ASP  CG  :   -0.559:        0
+:  1353: A  62 ARG HH22 : A  51 SER  HB3 :   -0.522:        0
+:  1353: A  62 ARG  NH2 : A  49 ASP  CG  :   -0.493:        0
+
+:  1353: A  82 SER  N   : A  82 SER  C   :   -0.756:        0
+
+:  1353: A  70 THR  OG1 : A  70 THR  CG2 :   -0.737:        0
+
+:  1353: A  20 TYR  OH  : A  97 LYS  HB3 :   -0.712:        0
+:  1353: A  97 LYS  HB3 : A  20 TYR  CZ  :   -0.707:        0
+:  1353: A  93 VAL HG21 : A  15 LEU  CD1 :   -0.632:        0
+:  1353: A 101 ARG  HG3 : A  97 LYS  O   :   -0.558:        0
+:  1353: A  17 MET  SD  : A  93 VAL HG13 :   -0.517:        0
+:  1353: A  97 LYS  HA  : A  20 TYR  CE2 :   -0.501:        0
+:  1353: A  93 VAL  CG1 : A  97 LYS  HE3 :   -0.472:        0
+:  1353: A  15 LEU HD12 : A  93 VAL HG21 :   -0.457:        0
+:  1353: A  20 TYR  CZ  : A  97 LYS  CB  :   -0.452:        0
+:  1353: A 100 VAL  CG2 : A  20 TYR  HE2 :   -0.450:        0
+:  1353: A  93 VAL HG21 : A  15 LEU HD13 :   -0.427:        0
+:  1353: A  97 LYS  CB  : A  20 TYR  CE2 :   -0.401:        0
+
+:  1353: A  39 ASN  N   : A  39 ASN  C   :   -0.705:        0
+
+:  1353: A  10 ARG  N   : A  10 ARG  C   :   -0.685:        0
+
+:  1353: A 106 ILE  HB  : A  23 ILE  CD1 :   -0.679:        0
+:  1353: A  23 ILE HD13 : A 106 ILE  HB  :   -0.613:        0
+:  1353: A 106 ILE  O   : A 106 ILE HG13 :   -0.467:        0
+:  1353: A 106 ILE HG12 : A 112 TRP  NE1 :   -0.450:        0
+:  1353: A 106 ILE HG12 : A 112 TRP  CD1 :   -0.425:        0
+
+:  1353: A 107 ARG  O   : A 113 ARG  NH1 :   -0.602:        0
+
+:  1353: A 121 VAL  O   : A 124 TYR  HD2 :   -0.567:        0
+
+:  1353: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.495:        0
+
+:  1353: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.468:        0
+:  1353: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.409:        0
+
+:  1353: A 103 PRO  HD2 : A 102 ASP  CB  :   -0.460:        0
+
+:  1353: A 115 ARG  HB3 : A  34 TRP  NE1 :   -0.448:        0
+
+:  1353: A  75 ASN  ND2 : A  78 HIS  HA  :   -0.442:        0
+
+:  1353: A  74 VAL  CG2 : A  63 TYR  HA  :   -0.429:        0
+
+:  1353: A  35 GLU  HB3 : A  58 GLN  CG  :   -0.410:        0
+#sum2 ::39.17 clashscore : 39.17 clashscore B<40 
+#summary::1353 atoms:1353 atoms B<40:163970 potential dots:10250.0 A^2:53 bumps:53 bumps B<40:272.7 score

@@ -1,0 +1,45 @@
+
+:   829: A  46 LEU  CD2 : A  54 VAL HG21 :   -1.020:        0
+:   829: A  54 VAL HG22 : A  47 ASP  OD1 :   -0.928:        0
+:   829: A  46 LEU  CG  : A  54 VAL HG21 :   -0.871:        0
+:   829: A  46 LEU  HG  : A  54 VAL HG21 :   -0.815:        0
+:   829: A  56 GLY  H   : A  54 VAL HG23 :   -0.765:        0
+:   829: A  54 VAL  CG2 : A  46 LEU  CD2 :   -0.746:        0
+:   829: A  46 LEU HD23 : A  54 VAL  CG2 :   -0.700:        0
+:   829: A  58 ILE  HA  : A  52 ARG HH12 :   -0.683:        0
+:   829: A  50 ILE HG22 : A  52 ARG  HG2 :   -0.639:        0
+:   829: A  54 VAL HG12 : A  52 ARG  CZ  :   -0.624:        0
+:   829: A  54 VAL HG12 : A  52 ARG  NH2 :   -0.596:        0
+:   829: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.548:        0
+:   829: A  58 ILE  HA  : A  52 ARG  NH1 :   -0.468:        0
+:   829: A  54 VAL HG23 : A  56 GLY  N   :   -0.433:        0
+
+:   829: A  14 ARG HH21 : A  14 ARG  CG  :   -0.687:        0
+:   829: A  14 ARG  CG  : A  14 ARG  NH2 :   -0.556:        0
+:   829: A  14 ARG  HG3 : A  14 ARG  NH2 :   -0.518:        0
+
+:   829: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.586:        0
+:   829: A  39 LEU HD22 : A  43 LYS  HD3 :   -0.432:        0
+:   829: A  39 LEU HD23 : A  39 LEU  HA  :   -0.420:        0
+:   829: A  39 LEU  O   : A  39 LEU HD22 :   -0.414:        0
+
+:   829: A  26 THR HG22 : A  27 ILE  N   :   -0.570:        0
+:   829: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:   829: A  24 TYR  O   : A  19 LYS  HA  :   -0.547:        0
+:   829: A  18 TYR  CZ  : A  26 THR  HB  :   -0.516:        0
+:   829: A  20 ASP  HB2 : A  24 TYR  H   :   -0.516:        0
+:   829: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:   829: A  18 TYR  OH  : A  26 THR  CG2 :   -0.452:        0
+:   829: A  26 THR  HB  : A  18 TYR  CE1 :   -0.444:        0
+:   829: A  18 TYR  OH  : A  26 THR HG21 :   -0.433:        0
+:   829: A  27 ILE  N   : A  26 THR  CG2 :   -0.433:        0
+:   829: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+
+:   829: A  41 ALA  H   : A  38 SER  HB2 :   -0.493:        0
+
+:   829: A  60 LYS  O   : A  64 GLU  HG3 :   -0.489:        0
+
+:   829: A  29 ILE HG22 : A  29 ILE  O   :   -0.433:        0
+:   829: A  29 ILE HD13 : A  67 PHE  CD1 :   -0.403:        0
+#sum2 ::43.43 clashscore : 43.43 clashscore B<40 
+#summary::829 atoms:829 atoms B<40:94397 potential dots:5900.0 A^2:36 bumps:36 bumps B<40:158.8 score

@@ -1,0 +1,16 @@
+
+:   645: A  45 TYR  CZ  : A  45 TYR  CD2 :   -1.036:        8
+
+:   645: A   4 LYS  HD2 : A  15 GLU  CG  :   -0.532:       26
+:   645: A  17 THR  HA  : A   3 TYR  O   :   -0.427:       13
+:   645: A  17 THR  HA  : A   4 LYS  HA  :   -0.425:       13
+
+:   645: A  52 PHE  HE2 : A  27 GLU  HG3 :   -0.495:       21
+
+:   645: A  43 TRP  HA  : A  53 THR  O   :   -0.415:        8
+
+:   645: A  12 LEU HD13 : A   7 LEU HD22 :   -0.414:        9
+
+:   645: A   6 ILE HD13 : A   6 ILE HG21 :   -0.405:       11
+#sum2 ::12.40 clashscore : 12.40 clashscore B<40 
+#summary::645 atoms:645 atoms B<40:76594 potential dots:4787.0 A^2:8 bumps:8 bumps B<40:197.8 score

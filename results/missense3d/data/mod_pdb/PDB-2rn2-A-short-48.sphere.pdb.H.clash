@@ -1,0 +1,29 @@
+
+:  1943: A  83 HIS  CA  : A  84 ASN  N   :   -0.874:       27
+:  1943: A  85 TRP  N   : A  84 ASN  N   :   -0.407:       27
+
+:  1943: A  27 ARG  NE  : A  27 ARG  CG  :   -0.861:       32
+
+:  1943: A  28 TYR  N   : A  28 TYR  CB  :   -0.839:       24
+
+:  1943: A 113 GLN  N   : A 113 GLN  CB  :   -0.800:       23
+
+:  1943: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:  1943: A 128 PRO  HD2 : A 127 HIS  HB3 :   -0.619:       29
+
+:  1943: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.502:       19
+
+:  1943: A 154 GLU  O   : A 155 VAL  OXT :   -0.454:       55
+
+:  1943: A  44 ASN  OD1 : A  48 GLU  OE2 :   -0.432:       28
+:  1943: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:  1943: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+:  1943: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.413:       12
+
+:  1943: A  19 PRO  HB3 : A 144 PRO  HG3 :   -0.422:       21
+
+:  1943: A  47 MET  HA  : A  47 MET  CE  :   -0.412:       12
+#sum2 ::7.72 clashscore : 7.35 clashscore B<40 
+#summary::1943 atoms:1904 atoms B<40:226449 potential dots:14150.0 A^2:15 bumps:14 bumps B<40:678.8 score

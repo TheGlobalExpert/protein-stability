@@ -1,0 +1,32 @@
+
+:  1823: A 148 ARG  HD3 : A 164 LEU  CD2 :   -0.991:       50
+:  1823: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1823: A 164 LEU  N   : A 164 LEU  CD1 :   -0.593:       64
+:  1823: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  1823: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1823: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1823: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+
+:  1823: A  21 THR  CB  : A  21 THR  N   :   -0.855:       30
+
+:  1823: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1823: A   1 MET  HA  : A   5 GLU  OE1 :   -0.635:       38
+:  1823: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1823: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1823: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1823: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1823: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1823: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1823: A  66 LEU  CA  : A  65 LYS  O   :   -0.469:       14
+
+:  1823: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+
+:  1823: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1823: A 159 ASP  O   : A 162 LYS  HB2 :   -0.428:       58
+#sum2 ::10.97 clashscore : 4.29 clashscore B<40 
+#summary::1823 atoms:1633 atoms B<40:210103 potential dots:13130.0 A^2:20 bumps:7 bumps B<40:673.9 score

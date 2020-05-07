@@ -1,0 +1,16 @@
+
+:  1482: A  78 GLU  C   : A  78 GLU  N   :   -0.734:       14
+
+:  1482: A  44 GLU  OE1 : A  44 GLU  CG  :   -0.714:       29
+
+:  1482: A 113 ALA  C   : A 113 ALA  N   :   -0.706:       19
+
+:  1482: A 122 LEU HD22 : A  56 GLY  HA3 :   -0.579:       14
+
+:  1482: A  28 PRO  HG3 : A  61 LYS  HD2 :   -0.486:       29
+
+:  1482: A 116 LEU  HG  : A 114 LYS  HB3 :   -0.420:       26
+
+:  1482: A   3 ASP  O   : A   4 GLY  CA  :   -0.403:       15
+#sum2 ::4.72 clashscore : 4.75 clashscore B<40 
+#summary::1482 atoms:1475 atoms B<40:172310 potential dots:10770.0 A^2:7 bumps:7 bumps B<40:658.2 score

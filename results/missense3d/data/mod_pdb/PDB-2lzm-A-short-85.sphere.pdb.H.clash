@@ -1,0 +1,14 @@
+
+:  1081: A  69 GLN  CA  : A  68 ASN  C   :   -0.943:       12
+
+:  1081: A 150 ILE  CG1 : A 150 ILE  CA  :   -0.909:       19
+
+:  1081: A 132 ASN  C   : A 132 ASN  CB  :   -0.869:       24
+
+:  1081: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1081: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1081: A 106 MET  HE3 : A 106 MET  HB3 :   -0.430:       33
+#sum2 ::5.55 clashscore : 5.05 clashscore B<40 
+#summary::1081 atoms:991 atoms B<40:128914 potential dots:8057.0 A^2:6 bumps:5 bumps B<40:378.2 score

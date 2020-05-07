@@ -1,0 +1,39 @@
+
+:   892: A  89 LEU  CG  : A  89 LEU  CA  :   -1.026:       14
+:   892: A  89 LEU  CA  : A  90 TYR  N   :   -0.901:       10
+
+:   892: A  13 TYR  CE2 : A  13 TYR  CG  :   -0.986:       20
+:   892: A  13 TYR  HD1 : A  19 LYS  O   :   -0.598:       24
+:   892: A  19 LYS  O   : A  13 TYR  CD1 :   -0.487:       24
+
+:   892: A  39 LYS  HG3 : A  36 VAL  HB  :   -0.770:       21
+:   892: A  39 LYS  CG  : A  36 VAL  HB  :   -0.528:       21
+
+:   892: A  86 ASP  N   : A  86 ASP  C   :   -0.717:       12
+
+:   892: A  29 GLU  HG3 : A  26 THR  OG1 :   -0.696:       21
+:   892: A  33 LEU  HG  : A  29 GLU  O   :   -0.434:       13
+
+:   892: A  70 THR  CB  : A  70 THR  C   :   -0.642:       20
+
+:   892: A  55 ILE HD13 : A  72 ARG  HG3 :   -0.641:       23
+:   892: A  71 TRP  O   : A  72 ARG  HG3 :   -0.549:       22
+
+:   892: A  25 ILE HG23 : A  49 LYS  HD2 :   -0.619:       22
+:   892: A  21 PRO  HB3 : A   4 ILE HD12 :   -0.609:       24
+:   892: A  49 LYS  HD3 : A  23 ASN  O   :   -0.568:       22
+:   892: A  24 TYR  HA  : A  50 SER  O   :   -0.514:       15
+:   892: A  51 ILE  HA  : A  25 ILE  O   :   -0.445:       14
+:   892: A  46 ALA  HB1 : A  49 LYS  HG3 :   -0.439:       19
+:   892: A  21 PRO  HD3 : A  20 LEU  HA  :   -0.438:       22
+:   892: A  24 TYR  CD2 : A  21 PRO  HD2 :   -0.429:       20
+:   892: A  23 ASN  OD1 : A  21 PRO  HB2 :   -0.426:       21
+:   892: A  49 LYS  HD2 : A  25 ILE  CG2 :   -0.423:       22
+:   892: A  46 ALA  N   : A  47 PRO  HD3 :   -0.404:       13
+
+:   892: A  88 ILE  CG2 : A  74 ALA  HB3 :   -0.503:        8
+:   892: A  52 GLY  HA2 : A  74 ALA  HA  :   -0.438:       11
+
+:   892: A  78 TYR  CE2 : A  42 LEU HD23 :   -0.437:        9
+#sum2 ::30.27 clashscore : 30.27 clashscore B<40 
+#summary::892 atoms:892 atoms B<40:108039 potential dots:6752.0 A^2:27 bumps:27 bumps B<40:140.9 score

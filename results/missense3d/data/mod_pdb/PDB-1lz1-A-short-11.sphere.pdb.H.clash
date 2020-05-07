@@ -1,0 +1,15 @@
+
+:  1209: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1209: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1209: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1209: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1209: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1209: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1209: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1209: A 126 GLN  NE2 : A 126 GLN  HA  :   -0.423:       89
+#sum2 ::6.62 clashscore : 6.25 clashscore B<40 
+#summary::1209 atoms:1120 atoms B<40:141820 potential dots:8864.0 A^2:8 bumps:7 bumps B<40:494.5 score

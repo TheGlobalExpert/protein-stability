@@ -1,0 +1,32 @@
+
+:  1602: A 109 ALA  HA  : A 112 SER  OG  :   -0.776:       39
+
+:  1602: A  27 VAL  CG1 : A 118 TRP  HB3 :   -0.727:       17
+:  1602: A 118 TRP  HB3 : A  27 VAL HG13 :   -0.594:       17
+
+:  1602: A  24 PRO  HD2 : A  22 SER  HB2 :   -0.626:       15
+:  1602: A  24 PRO  HD3 : A  23 LEU  HB3 :   -0.555:       15
+
+:  1602: A  99 VAL  CG2 : A 103 TYR  HB2 :   -0.571:       30
+
+:  1602: A 117 GLN  HG2 : A 114 LYS  O   :   -0.528:       21
+:  1602: A 114 LYS  HE3 : A 114 LYS  HB3 :   -0.472:       44
+
+:  1602: A  81 LEU  CD1 : A  41 ILE HD11 :   -0.520:       27
+:  1602: A  39 GLN  HG2 : A  81 LEU  O   :   -0.488:       34
+
+:  1602: A  15 LEU  HG  : A  89 ILE HG23 :   -0.514:        9
+
+:  1602: A  60 TRP  O   : A  73 CYS  HB2 :   -0.479:       11
+
+:  1602: A 119 LEU  HG  : A 116 ASP  HA  :   -0.449:       21
+
+:  1602: A  59 ILE  N   : A  58 LYS  N   :   -0.449:       19
+
+:  1602: A  77 CYS  HB3 : A  50 TYR  CD1 :   -0.438:        7
+
+:  1602: A  18 TYR  HD2 : A  96 LEU HD23 :   -0.414:        9
+
+:  1602: A  94 LYS  O   : A  98 LYS  CD  :   -0.402:       36
+#sum2 ::10.61 clashscore : 10.62 clashscore B<40 
+#summary::1602 atoms:1506 atoms B<40:183915 potential dots:11490.0 A^2:17 bumps:16 bumps B<40:540 score

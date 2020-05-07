@@ -1,0 +1,15 @@
+
+:   906: A 120 LYS  NZ  : A 117 VAL  HA  :   -0.552:        0
+
+:   906: A 131 ARG  HA  : A 115 TRP  CH2 :   -0.477:        0
+:   906: A 115 TRP  CE2 : A 131 ARG  HG3 :   -0.428:        0
+
+:   906: A 118 ILE HG23 : A 106 LEU HD13 :   -0.450:        0
+
+:   906: A 122 LEU HD12 : A 130 CYS  SG  :   -0.439:        0
+
+:   906: A 102 ARG  HG3 : A  98 GLU  O   :   -0.429:        0
+
+:   906: A  90 LEU  O   : A  91 ILE HD13 :   -0.425:        0
+#sum2 ::7.73 clashscore : 7.73 clashscore B<40 
+#summary::906 atoms:906 atoms B<40:99824 potential dots:6239.0 A^2:7 bumps:7 bumps B<40:282.7 score

@@ -1,0 +1,17 @@
+
+:  1104: A  97 ILE  CB  : A  97 ILE  C   :   -0.905:       21
+:  1104: A  97 ILE  CG2 : A  97 ILE  C   :   -0.526:       21
+
+:  1104: A  52 ILE  CD1 : A  99 LEU HD13 :   -0.576:       43
+
+:  1104: A  25 LEU HD11 : A  85 LEU HD21 :   -0.500:       34
+:  1104: A  85 LEU HD12 : A  82 PHE  HA  :   -0.405:       23
+
+:  1104: A 105 LEU HD23 : A 101 MET  HE3 :   -0.497:       41
+:  1104: A 105 LEU HD13 : A  54 PHE  CD1 :   -0.444:       50
+
+:  1104: A  55 SER  O   : A  56 ASP  HB2 :   -0.411:       76
+
+:  1104: A  23 VAL  O   : A  24 THR  CA  :   -0.408:       23
+#sum2 ::8.15 clashscore : 5.42 clashscore B<40 
+#summary::1104 atoms:922 atoms B<40:131945 potential dots:8247.0 A^2:9 bumps:5 bumps B<40:355.6 score

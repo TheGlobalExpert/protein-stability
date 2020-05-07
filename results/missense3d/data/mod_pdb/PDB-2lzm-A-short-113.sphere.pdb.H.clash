@@ -1,0 +1,19 @@
+
+:  1209: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1209: A  73 ALA  N   : A  72 ASP  O   :   -0.724:       18
+:  1209: A  73 ALA  CA  : A  72 ASP  O   :   -0.453:       18
+
+:  1209: A 148 ARG  C   : A 148 ARG  N   :   -0.704:       17
+
+:  1209: A  94 VAL  O   : A  95 ARG  N   :   -0.700:       18
+:  1209: A  94 VAL  O   : A  95 ARG  CA  :   -0.418:       18
+
+:  1209: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1209: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1209: A 137 ARG  CZ  : A 141 GLN  HG2 :   -0.450:       39
+
+:  1209: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::8.27 clashscore : 7.38 clashscore B<40 
+#summary::1209 atoms:1084 atoms B<40:146112 potential dots:9132.0 A^2:10 bumps:8 bumps B<40:409.2 score

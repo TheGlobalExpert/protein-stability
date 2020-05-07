@@ -1,0 +1,47 @@
+
+:  2174: A  36 LEU  CB  : A  36 LEU  CD1 :   -0.994:       24
+
+:  2174: A 196 LYS  CA  : A 197 GLY  N   :   -0.852:       26
+
+:  2174: A 146 ILE HD13 : A  52 LEU HD13 :   -0.794:       17
+
+:  2174: A 120 GLU  CG  : A 120 GLU  OE1 :   -0.754:       21
+
+:  2174: A  40 ASP  N   : A  40 ASP  C   :   -0.739:       25
+
+:  2174: A  84 GLU  OE1 : A  11 ARG  HD3 :   -0.728:       17
+:  2174: A  12 GLY  N   : A  13 PRO  CD  :   -0.467:       14
+:  2174: A  11 ARG  C   : A  13 PRO  HD2 :   -0.416:       14
+
+:  2174: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.658:       13
+:  2174: A   4 ALA  HB2 : A  99 PRO  CB  :   -0.435:       13
+
+:  2174: A  49 ARG  HG2 : A 150 VAL  CG2 :   -0.605:       20
+:  2174: A  50 GLU  O   : A  53 PHE  HB3 :   -0.490:       19
+:  2174: A  53 PHE  HB2 : A 150 VAL HG21 :   -0.402:       17
+
+:  2174: A 153 ASP  OD2 : A 149 LYS  HE3 :   -0.546:       17
+
+:  2174: A  83 PHE  CZ  : A  68 LEU HD13 :   -0.501:       15
+
+:  2174: A  60 LEU HD23 : A  25 VAL HG22 :   -0.483:       15
+
+:  2174: A  14 VAL HG13 : A  15 ILE HG13 :   -0.482:       14
+
+:  2174: A 151 THR  HB  : A  19 VAL HG11 :   -0.480:       13
+
+:  2174: A  76 ARG  HD2 : A  78 GLY  O   :   -0.475:       21
+
+:  2174: A 133 LYS  O   : A 133 LYS  HG3 :   -0.474:       24
+
+:  2174: A  69 PRO  HG2 : A  72 VAL HG23 :   -0.457:       18
+
+:  2174: A  63 TYR  CE2 : A  57 LEU HD22 :   -0.455:       17
+
+:  2174: A   6 ILE HD11 : A  88 PHE  HA  :   -0.452:       11
+
+:  2174: A  64 VAL HG23 : A  95 LEU HD23 :   -0.422:       12
+
+:  2174: A 130 ALA  HA  : A 104 ALA  O   :   -0.409:       19
+#sum2 ::11.50 clashscore : 11.50 clashscore B<40 
+#summary::2174 atoms:2174 atoms B<40:253174 potential dots:15820.0 A^2:25 bumps:25 bumps B<40:754.4 score

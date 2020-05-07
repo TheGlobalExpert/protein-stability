@@ -1,0 +1,10 @@
+
+:   458: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.778:        0
+:   458: A  17 PHE  CD1 : A   8 TRP  CZ2 :   -0.688:        0
+:   458: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.452:        0
+
+:   458: A  13 LYS  HB3 : A  15 TYR  CE2 :   -0.505:        0
+
+:   458: A  30 PHE  CE2 : A  29 HIS  CE1 :   -0.452:        0
+#sum2 ::10.92 clashscore : 10.92 clashscore B<40 
+#summary::458 atoms:458 atoms B<40:55416 potential dots:3464.0 A^2:5 bumps:5 bumps B<40:121.3 score

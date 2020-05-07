@@ -1,0 +1,23 @@
+
+:  1321: A  54 VAL  CA  : A  54 VAL  CG2 :   -0.966:       14
+:  1321: A  54 VAL  CG2 : A  54 VAL  N   :   -0.446:       13
+
+:  1321: A 155 VAL  CA  : A 155 VAL  CG1 :   -0.915:       54
+:  1321: A 154 GLU  O   : A 155 VAL  OXT :   -0.454:       55
+
+:  1321: A 133 CYS  CB  : A 133 CYS  C   :   -0.900:       14
+
+:  1321: A  94 ASP  CA  : A  95 LYS  N   :   -0.868:       22
+:  1321: A  94 ASP  OD2 : A  92 THR  OG1 :   -0.477:       28
+
+:  1321: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:  1321: A  44 ASN  OD1 : A  48 GLU  OE2 :   -0.432:       28
+:  1321: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:  1321: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+:  1321: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.413:       12
+
+:  1321: A  47 MET  HA  : A  47 MET  CE  :   -0.412:       12
+#sum2 ::9.84 clashscore : 8.42 clashscore B<40 
+#summary::1321 atoms:1306 atoms B<40:160121 potential dots:10010.0 A^2:13 bumps:11 bumps B<40:388.7 score

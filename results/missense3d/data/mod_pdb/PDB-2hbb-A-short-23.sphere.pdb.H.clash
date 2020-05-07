@@ -1,0 +1,9 @@
+
+:   655: A  44 LEU  CD2 : A   4 ILE  CD1 :   -0.723:       26
+:   655: A   4 ILE HD11 : A  44 LEU  CD2 :   -0.713:       26
+:   655: A   4 ILE  CD1 : A  44 LEU HD23 :   -0.593:       26
+:   655: A   4 ILE  CD1 : A  44 LEU HD21 :   -0.569:       26
+:   655: A  44 LEU HD23 : A   4 ILE HD13 :   -0.526:       26
+:   655: A   4 ILE HD11 : A  44 LEU HD21 :   -0.518:       26
+#sum2 ::9.16 clashscore : 9.16 clashscore B<40 
+#summary::655 atoms:655 atoms B<40:74459 potential dots:4654.0 A^2:6 bumps:6 bumps B<40:219.3 score

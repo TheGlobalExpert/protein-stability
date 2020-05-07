@@ -1,0 +1,19 @@
+
+:  1124: A  64 ALA  CA  : A  63 VAL  C   :   -0.959:       14
+:  1124: A  64 ALA  CA  : A  63 VAL  O   :   -0.430:       17
+
+:  1124: A  37 LYS  CA  : A  38 ASP  N   :   -0.858:       22
+:  1124: A  38 ASP  N   : A  38 ASP  CB  :   -0.805:       21
+
+:  1124: A  66 LYS  CA  : A  67 ASN  N   :   -0.827:       15
+:  1124: A  66 LYS  CD  : A  66 LYS  NZ  :   -0.767:       74
+
+:  1124: A  80 SER  C   : A  80 SER  N   :   -0.774:       12
+
+:  1124: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.443:       23
+
+:  1124: A  29 MET  HG3 : A  25 TYR  CZ  :   -0.410:       17
+
+:  1124: A 109 ALA  HB3 : A 119 HIS  HB3 :   -0.407:       16
+#sum2 ::8.90 clashscore : 8.34 clashscore B<40 
+#summary::1124 atoms:1079 atoms B<40:137177 potential dots:8574.0 A^2:10 bumps:9 bumps B<40:320.1 score

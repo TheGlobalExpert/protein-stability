@@ -1,0 +1,18 @@
+
+:  1067: A   8 ARG  CD  : A   8 ARG  CB  :   -0.958:       43
+
+:  1067: A   7 LEU  C   : A   7 LEU  CB  :   -0.853:       17
+
+:  1067: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1067: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1067: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1067: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1067: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1067: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1067: A 103 VAL  C   : A 103 VAL  CG1 :   -0.514:       19
+
+:  1067: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::9.37 clashscore : 3.29 clashscore B<40 
+#summary::1067 atoms:913 atoms B<40:123708 potential dots:7732.0 A^2:10 bumps:3 bumps B<40:329.4 score

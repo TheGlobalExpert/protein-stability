@@ -1,0 +1,16 @@
+
+:   678: A 116 VAL  CG2 : A 116 VAL  CA  :   -0.961:       17
+
+:   678: A 104 LYS  CB  : A 104 LYS  C   :   -0.926:       17
+
+:   678: A 115 TYR  CB  : A 115 TYR  C   :   -0.906:       18
+
+:   678: A   7 LYS  C   : A   7 LYS  CB  :   -0.888:       14
+
+:   678: A  11 GLN  CB  : A  11 GLN  C   :   -0.844:       10
+
+:   678: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.485:       16
+
+:   678: A  85 ARG  NH2 : A  83 ASP  OD1 :   -0.457:      143
+#sum2 ::10.32 clashscore : 9.45 clashscore B<40 
+#summary::678 atoms:635 atoms B<40:85231 potential dots:5327.0 A^2:7 bumps:6 bumps B<40:148.1 score

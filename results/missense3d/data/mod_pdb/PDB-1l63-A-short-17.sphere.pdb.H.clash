@@ -1,0 +1,19 @@
+
+:  1060: A  71 VAL  CA  : A  71 VAL  CG2 :   -0.922:       15
+
+:  1060: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:  1060: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:  1060: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:  1060: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:  1060: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:  1060: A 104 PHE  N   : A 103 VAL  O   :   -0.745:       25
+:  1060: A 103 VAL  O   : A 104 PHE  CA  :   -0.409:       25
+
+:  1060: A   7 LEU  N   : A   6 MET  O   :   -0.696:       15
+
+:  1060: A  60 LYS  HE3 : A  64 GLU  OE2 :   -0.524:       87
+
+:  1060: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::10.38 clashscore : 5.47 clashscore B<40 
+#summary::1060 atoms:914 atoms B<40:121022 potential dots:7564.0 A^2:11 bumps:5 bumps B<40:328.5 score

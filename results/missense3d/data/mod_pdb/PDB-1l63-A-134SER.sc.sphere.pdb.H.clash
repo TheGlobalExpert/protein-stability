@@ -1,0 +1,69 @@
+
+:  1166: A 106 MET  CE  : A 102 MET  HB3 :   -1.303:        0
+:  1166: A 111 VAL HG22 : A 106 MET  CE  :   -1.215:        0
+:  1166: A 106 MET  HE3 : A 111 VAL HG22 :   -0.941:        0
+:  1166: A 102 MET  CB  : A 106 MET  CE  :   -0.847:        0
+:  1166: A 102 MET  HB3 : A 106 MET  HE3 :   -0.842:        0
+:  1166: A 106 MET  CE  : A 111 VAL  CG2 :   -0.758:        0
+:  1166: A 111 VAL HG22 : A 106 MET  SD  :   -0.740:        0
+:  1166: A 102 MET  HB3 : A 106 MET  HE2 :   -0.730:        0
+:  1166: A 106 MET  HE2 : A 102 MET  C   :   -0.639:        0
+:  1166: A 102 MET  O   : A 106 MET  HE2 :   -0.608:        0
+:  1166: A 106 MET  CG  : A 111 VAL HG23 :   -0.587:        0
+:  1166: A 106 MET  SD  : A 111 VAL  CG2 :   -0.534:        0
+:  1166: A 106 MET  CG  : A 111 VAL  CG2 :   -0.510:        0
+:  1166: A 106 MET  HE1 : A 102 MET  HE3 :   -0.487:        0
+:  1166: A 102 MET  CB  : A 106 MET  HE2 :   -0.472:        0
+:  1166: A 102 MET  O   : A 106 MET  HG2 :   -0.468:        0
+:  1166: A 106 MET  CE  : A 102 MET  CE  :   -0.461:        0
+:  1166: A 106 MET  HE3 : A 102 MET  HE2 :   -0.456:        0
+
+:  1166: A 158 TRP  CZ2 : A 158 TRP  CD2 :   -0.952:        0
+:  1166: A 158 TRP  CD2 : A 158 TRP  CB  :   -0.865:        0
+:  1166: A 158 TRP  HH2 : A  97 ALA  CB  :   -0.582:        0
+:  1166: A 158 TRP  HH2 : A  97 ALA  HB1 :   -0.427:        0
+
+:  1166: A  11 GLU  CG  : A  11 GLU  CA  :   -0.938:        0
+:  1166: A 145 ARG HH22 : A  11 GLU  CD  :   -0.593:        0
+:  1166: A  11 GLU  OE1 : A 145 ARG  NH2 :   -0.592:        0
+
+:  1166: A  83 LYS  C   : A  83 LYS  CB  :   -0.903:        0
+
+:  1166: A   7 LEU  CA  : A   7 LEU  CG  :   -0.889:        0
+
+:  1166: A   6 MET  HE3 : A 161 TYR  CE2 :   -0.880:        0
+:  1166: A   6 MET  CE  : A 161 TYR  CE2 :   -0.602:        0
+
+:  1166: A 138 TRP  CZ2 : A 146 ALA  HA  :   -0.841:        0
+:  1166: A 146 ALA  HA  : A 138 TRP  CH2 :   -0.460:        0
+
+:  1166: A  92 ASP  OD2 : A  95 ARG  NH2 :   -0.685:        0
+:  1166: A  95 ARG  HD2 : A  92 ASP  OD2 :   -0.462:        0
+
+:  1166: A   9 ILE  CG2 : A   9 ILE  C   :   -0.667:        0
+
+:  1166: A 132 ASN  OD1 : A 117 SER  OG  :   -0.659:        0
+:  1166: A 129 ALA  O   : A 133 LEU  HG  :   -0.493:        0
+:  1166: A 133 LEU  CD2 : A 117 SER  HB3 :   -0.492:        0
+:  1166: A 133 LEU  CD2 : A 117 SER  CB  :   -0.422:        0
+:  1166: A 117 SER  HB3 : A 133 LEU HD21 :   -0.408:        0
+
+:  1166: A 139 TYR  OH  : A 147 LYS  HE3 :   -0.634:        0
+:  1166: A 139 TYR  HE1 : A 147 LYS  HG3 :   -0.631:        0
+:  1166: A 147 LYS  CE  : A 139 TYR  OH  :   -0.567:        0
+:  1166: A 139 TYR  CE1 : A 147 LYS  HG3 :   -0.534:        0
+:  1166: A 147 LYS  HE3 : A 139 TYR  CZ  :   -0.406:        0
+
+:  1166: A 137 ARG  O   : A 141 GLN  HG2 :   -0.607:        0
+
+:  1166: A 119 ARG  HG2 : A 123 GLN  OE1 :   -0.588:        0
+:  1166: A 123 GLN  HG3 : A 119 ARG  O   :   -0.472:        0
+
+:  1166: A 103 VAL HG21 : A  78 ILE  CG1 :   -0.551:        0
+:  1166: A 103 VAL HG21 : A  78 ILE  CD1 :   -0.420:        0
+
+:  1166: A 151 THR  O   : A 155 THR HG23 :   -0.511:        0
+
+:  1166: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.410:        0
+#sum2 ::43.74 clashscore : 43.74 clashscore B<40 
+#summary::1166 atoms:1166 atoms B<40:140313 potential dots:8770.0 A^2:51 bumps:51 bumps B<40:149.1 score

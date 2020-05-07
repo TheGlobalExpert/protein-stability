@@ -1,0 +1,20 @@
+
+:  1475: A  13 CYS  O   : A  13 CYS  CA  :   -0.751:       18
+
+:  1475: A 130 ASN  CA  : A 130 ASN  O   :   -0.750:       15
+
+:  1475: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:  1475: A  94 ASP  OD2 : A  92 THR  OG1 :   -0.477:       28
+
+:  1475: A 154 GLU  O   : A 155 VAL  OXT :   -0.454:       55
+
+:  1475: A  44 ASN  OD1 : A  48 GLU  OE2 :   -0.432:       28
+:  1475: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:  1475: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+:  1475: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.413:       12
+
+:  1475: A  47 MET  HA  : A  47 MET  CE  :   -0.412:       12
+#sum2 ::6.78 clashscore : 6.28 clashscore B<40 
+#summary::1475 atoms:1433 atoms B<40:173385 potential dots:10840.0 A^2:10 bumps:9 bumps B<40:483.1 score

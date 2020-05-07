@@ -1,0 +1,9 @@
+
+:   581: A   6 VAL  CA  : A   6 VAL  CG1 :   -0.975:       13
+:   581: A   7 LYS  N   : A   6 VAL  CA  :   -0.872:       11
+:   581: A   6 VAL  CA  : A   5 LYS  O   :   -0.464:       12
+
+:   581: A  49 PHE  N   : A  48 SER  O   :   -0.695:       11
+:   581: A  48 SER  O   : A  49 PHE  CA  :   -0.410:       11
+#sum2 ::8.61 clashscore : 8.61 clashscore B<40 
+#summary::581 atoms:581 atoms B<40:70331 potential dots:4396.0 A^2:5 bumps:5 bumps B<40:158.8 score

@@ -1,0 +1,19 @@
+
+:  1257: A  94 VAL  CA  : A  94 VAL  CG1 :   -0.917:       14
+
+:  1257: A  81 ASN  N   : A  81 ASN  CB  :   -0.895:       25
+
+:  1257: A 148 ARG  NE  : A 148 ARG  NH1 :   -0.786:       14
+
+:  1257: A   1 MET  HA  : A   5 GLU  OE1 :   -0.635:       38
+:  1257: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1257: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1257: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.571:       48
+:  1257: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:  1257: A  50 ILE  CG2 : A  52 ARG  HG2 :   -0.496:       48
+:  1257: A  52 ARG  HG3 : A  52 ARG  NH1 :   -0.473:       48
+
+:  1257: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+#sum2 ::8.75 clashscore : 6.05 clashscore B<40 
+#summary::1257 atoms:1157 atoms B<40:152137 potential dots:9509.0 A^2:11 bumps:7 bumps B<40:455.5 score

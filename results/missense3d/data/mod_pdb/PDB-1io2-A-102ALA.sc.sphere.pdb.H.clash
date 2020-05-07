@@ -1,0 +1,55 @@
+
+:  1643: A   3 ILE HD12 : A  30 LEU HD11 :   -1.042:        0
+:  1643: A  30 LEU HD11 : A   3 ILE  CD1 :   -0.774:        0
+:  1643: A   3 ILE HD12 : A  30 LEU  CD1 :   -0.404:        0
+
+:  1643: A  83 PHE  CB  : A  83 PHE  CD2 :   -0.974:        0
+
+:  1643: A 147 LEU HD22 : A  53 PHE  CD1 :   -0.821:        0
+:  1643: A 147 LEU HD22 : A  53 PHE  CE1 :   -0.802:        0
+
+:  1643: A  84 GLU  OE1 : A  11 ARG  HD3 :   -0.790:        0
+:  1643: A  84 GLU  OE2 : A 107 ALA  HB1 :   -0.526:        0
+:  1643: A  84 GLU  OE1 : A  11 ARG  CD  :   -0.493:        0
+
+:  1643: A 120 GLU  HG3 : A 116 ARG  O   :   -0.775:        0
+
+:  1643: A  37 LYS  C   : A  37 LYS  N   :   -0.718:        0
+
+:  1643: A  60 LEU HD23 : A  25 VAL HG22 :   -0.690:        0
+:  1643: A  25 VAL HG22 : A  60 LEU  CD2 :   -0.645:        0
+:  1643: A  60 LEU  CD2 : A  25 VAL  CG2 :   -0.623:        0
+:  1643: A  60 LEU HD23 : A  25 VAL  CG2 :   -0.480:        0
+:  1643: A  25 VAL HG12 : A  26 ASP  O   :   -0.406:        0
+
+:  1643: A   1 MET  HB2 : A  27 GLU  OE1 :   -0.661:        0
+:  1643: A   1 MET  HB2 : A  27 GLU  CD  :   -0.444:        0
+
+:  1643: A 132 HIS  HE1 : A 108 ASP  O   :   -0.614:        0
+
+:  1643: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.603:        0
+:  1643: A  99 PRO  CB  : A   4 ALA  HB2 :   -0.434:        0
+
+:  1643: A  34 GLU  OE2 : A  39 ARG  NH1 :   -0.545:        0
+:  1643: A  34 GLU  CD  : A  39 ARG HH11 :   -0.520:        0
+
+:  1643: A 121 ARG  HD2 : A  85 VAL HG12 :   -0.471:        0
+
+:  1643: A 133 LYS  O   : A 133 LYS  HG3 :   -0.466:        0
+
+:  1643: A  96 LYS  NZ  : A  96 LYS  CB  :   -0.458:        0
+
+:  1643: A   6 ILE HD11 : A  88 PHE  HA  :   -0.426:        0
+
+:  1643: A  62 ASP  OD1 : A  63 TYR  N   :   -0.408:        0
+
+:  1643: A 130 ALA  HA  : A 104 ALA  O   :   -0.405:        0
+
+:  1643: A  87 ASN  HB3 : A  20 ILE HD12 :   -0.405:        0
+
+:  1643: A  95 LEU HD23 : A  64 VAL HG23 :   -0.402:        0
+:  1643: A  95 LEU HD13 : A  24 VAL  CG2 :   -0.401:        0
+
+:  1643: A  29 SER  O   : A  32 LYS  HB2 :   -0.400:        0
+#sum2 ::20.09 clashscore : 20.09 clashscore B<40 
+#summary::1643 atoms:1643 atoms B<40:192117 potential dots:12010.0 A^2:33 bumps:33 bumps B<40:495.3 score

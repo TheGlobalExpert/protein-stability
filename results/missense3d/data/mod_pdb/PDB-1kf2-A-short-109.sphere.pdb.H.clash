@@ -1,0 +1,10 @@
+
+:  1202: A 103 ASN  CA  : A 102 ALA  C   :   -0.934:       16
+
+:  1202: A   1 LYS  C   : A   1 LYS  CB  :   -0.917:       46
+:  1202: A   1 LYS  CB  : A   1 LYS  CE  :   -0.531:      103
+
+:  1202: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.502:       29
+:  1202: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.426:       29
+#sum2 ::4.16 clashscore : 2.61 clashscore B<40 
+#summary::1202 atoms:1150 atoms B<40:141593 potential dots:8850.0 A^2:5 bumps:3 bumps B<40:418.5 score

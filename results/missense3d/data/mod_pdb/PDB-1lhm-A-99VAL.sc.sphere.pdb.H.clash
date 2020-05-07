@@ -1,0 +1,81 @@
+
+:  1485: A  99 VAL HG22 : A  64 TRP  CE2 :   -1.380:        0
+:  1485: A  99 VAL HG22 : A  64 TRP  NE1 :   -1.315:        0
+:  1485: A  64 TRP  CZ2 : A  99 VAL  HA  :   -1.202:        0
+:  1485: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.932:        0
+:  1485: A  64 TRP  NE1 : A  99 VAL  CG2 :   -0.930:        0
+:  1485: A  64 TRP  CE2 : A  99 VAL  CG2 :   -0.909:        0
+:  1485: A  98 ARG  HG3 : A  64 TRP  CZ3 :   -0.806:        0
+:  1485: A 109 TRP  CH2 : A  99 VAL  CG1 :   -0.786:        0
+:  1485: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.784:        0
+:  1485: A  99 VAL HG22 : A  64 TRP  CD1 :   -0.715:        0
+:  1485: A  98 ARG  HD3 : A 101 ARG  NH1 :   -0.696:        0
+:  1485: A  99 VAL HG11 : A 109 TRP  CZ2 :   -0.696:        0
+:  1485: A 101 ARG HH11 : A  98 ARG  HD3 :   -0.691:        0
+:  1485: A  64 TRP  CZ2 : A  99 VAL  CA  :   -0.646:        0
+:  1485: A  93 VAL HG21 : A  15 LEU  CD1 :   -0.632:        0
+:  1485: A  76 ALA  HB3 : A  64 TRP  CZ3 :   -0.625:        0
+:  1485: A  97 LYS  HB3 : A  20 TYR  CZ  :   -0.590:        0
+:  1485: A  76 ALA  CB  : A  64 TRP  CZ3 :   -0.584:        0
+:  1485: A  64 TRP  CD1 : A  99 VAL  CG2 :   -0.582:        0
+:  1485: A  99 VAL  HA  : A  64 TRP  CH2 :   -0.582:        0
+:  1485: A  98 ARG  CD  : A 101 ARG  NH1 :   -0.577:        0
+:  1485: A 101 ARG  CZ  : A  98 ARG  HA  :   -0.541:        0
+:  1485: A  99 VAL  HA  : A  64 TRP  HZ2 :   -0.536:        0
+:  1485: A 101 ARG  HG3 : A  97 LYS  O   :   -0.525:        0
+:  1485: A  77 ALA  HB3 : A  64 TRP  O   :   -0.519:        0
+:  1485: A 101 ARG HH11 : A  98 ARG  CD  :   -0.518:        0
+:  1485: A  17 MET  SD  : A  93 VAL HG13 :   -0.517:        0
+:  1485: A  20 TYR  OH  : A  97 LYS  HB3 :   -0.487:        0
+:  1485: A  64 TRP  CZ3 : A  98 ARG  CG  :   -0.481:        0
+:  1485: A  59 ILE  CG2 : A  64 TRP  HB2 :   -0.474:        0
+:  1485: A  20 TYR  CE1 : A  97 LYS  HD3 :   -0.458:        0
+:  1485: A  15 LEU HD12 : A  93 VAL HG21 :   -0.457:        0
+:  1485: A  93 VAL HG21 : A  15 LEU HD13 :   -0.427:        0
+:  1485: A  99 VAL  HB  : A 109 TRP  HH2 :   -0.420:        0
+:  1485: A  95 ALA  HB1 : A  59 ILE HD13 :   -0.413:        0
+:  1485: A  95 ALA  CB  : A  59 ILE HD13 :   -0.409:        0
+:  1485: A  99 VAL HG22 : A  64 TRP  CZ2 :   -0.408:        0
+:  1485: A  97 LYS  HE3 : A  93 VAL  CG1 :   -0.405:        0
+
+:  1485: A  49 ASP  OD2 : A  62 ARG  NH2 :   -0.791:        0
+:  1485: A  51 SER  HB3 : A  62 ARG  NH2 :   -0.693:        0
+:  1485: A  62 ARG HH22 : A  49 ASP  CG  :   -0.559:        0
+:  1485: A  62 ARG HH22 : A  51 SER  HB3 :   -0.522:        0
+:  1485: A  62 ARG  NH2 : A  49 ASP  CG  :   -0.493:        0
+:  1485: A  49 ASP  O   : A  62 ARG  NH1 :   -0.427:        0
+
+:  1485: A  87 ASP  N   : A  87 ASP  C   :   -0.749:        0
+:  1485: A  87 ASP  N   : A  88 ASN  N   :   -0.402:        0
+
+:  1485: A  69 LYS  N   : A  69 LYS  C   :   -0.699:        0
+
+:  1485: A 107 ARG  O   : A 113 ARG  NH1 :   -0.602:        0
+
+:  1485: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.553:        0
+:  1485: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.527:        0
+:  1485: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.520:        0
+
+:  1485: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.495:        0
+
+:  1485: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.468:        0
+:  1485: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.409:        0
+
+:  1485: A 106 ILE  O   : A 106 ILE HG13 :   -0.467:        0
+:  1485: A 106 ILE HG12 : A 112 TRP  NE1 :   -0.450:        0
+:  1485: A 106 ILE HG12 : A 112 TRP  CD1 :   -0.425:        0
+
+:  1485: A  54 TYR  HD2 : A  85 LEU HD21 :   -0.461:        0
+:  1485: A  54 TYR  CE1 : A  52 THR  HB  :   -0.426:        0
+
+:  1485: A 103 PRO  HD2 : A 102 ASP  CB  :   -0.460:        0
+
+:  1485: A 115 ARG  HB3 : A  34 TRP  NE1 :   -0.448:        0
+
+:  1485: A  75 ASN  ND2 : A  78 HIS  HA  :   -0.442:        0
+
+:  1485: A  74 VAL  CG2 : A  63 TYR  HA  :   -0.429:        0
+
+:  1485: A  35 GLU  HB3 : A  58 GLN  CG  :   -0.410:        0
+#sum2 ::43.10 clashscore : 43.10 clashscore B<40 
+#summary::1485 atoms:1485 atoms B<40:174725 potential dots:10920.0 A^2:64 bumps:64 bumps B<40:306.6 score

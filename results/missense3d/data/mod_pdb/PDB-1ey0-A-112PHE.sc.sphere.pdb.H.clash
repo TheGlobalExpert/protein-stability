@@ -1,0 +1,56 @@
+
+:  1573: A  81 ARG  CD  : A  81 ARG  CZ  :   -1.027:        0
+:  1573: A  81 ARG  CZ  : A  81 ARG  CG  :   -0.488:        0
+:  1573: A  81 ARG  CD  : A  81 ARG  NH2 :   -0.478:        0
+:  1573: A  81 ARG  CG  : A  81 ARG  NH2 :   -0.465:        0
+
+:  1573: A  50 GLY  H   : A  46 HIS  HB3 :   -0.953:        0
+:  1573: A  46 HIS  HE1 : A  48 LYS  HB2 :   -0.490:        0
+:  1573: A  46 HIS  ND1 : A  49 LYS  N   :   -0.470:        0
+:  1573: A  48 LYS  HB2 : A  46 HIS  CE1 :   -0.468:        0
+
+:  1573: A 139 ILE HD13 : A  54 TYR  CD2 :   -0.888:        0
+:  1573: A  53 LYS  O   : A  54 TYR  HB2 :   -0.615:        0
+:  1573: A  54 TYR  CD2 : A 139 ILE  CD1 :   -0.570:        0
+:  1573: A 139 ILE HD13 : A 139 ILE  HA  :   -0.475:        0
+
+:  1573: A  17 ALA  C   : A  17 ALA  CB  :   -0.887:        0
+
+:  1573: A  74 VAL HG12 : A  92 ILE  CD1 :   -0.780:        0
+:  1573: A  74 VAL HG12 : A  92 ILE HD12 :   -0.586:        0
+:  1573: A  74 VAL  CA  : A  73 GLU  O   :   -0.420:        0
+
+:  1573: A  91 TYR  HE1 : A  38 LEU HD12 :   -0.740:        0
+:  1573: A  91 TYR  OH  : A  38 LEU HD11 :   -0.506:        0
+:  1573: A  38 LEU  HG  : A  37 LEU  HB3 :   -0.491:        0
+
+:  1573: A 109 ALA  HB2 : A  41 THR HG22 :   -0.710:        0
+
+:  1573: A 129 GLU  O   : A 133 LYS  HG3 :   -0.689:        0
+:  1573: A 133 LYS  HG2 : A 140 TRP  CE2 :   -0.636:        0
+:  1573: A 140 TRP  CD2 : A 133 LYS  HG2 :   -0.519:        0
+
+:  1573: A 113 TYR  O   : A 112 PHE  HD2 :   -0.628:        0
+:  1573: A 112 PHE  CD2 : A 113 TYR  O   :   -0.620:        0
+:  1573: A 115 TYR  HE2 : A 112 PHE  HE2 :   -0.589:        0
+:  1573: A 112 PHE  CG  : A 113 TYR  N   :   -0.502:        0
+:  1573: A 112 PHE  HE2 : A 115 TYR  CE2 :   -0.454:        0
+:  1573: A 113 TYR  N   : A 112 PHE  CD2 :   -0.449:        0
+
+:  1573: A  84 LYS  NZ  : A  85 TYR  CE2 :   -0.612:        0
+:  1573: A  84 LYS  NZ  : A  85 TYR  CZ  :   -0.601:        0
+:  1573: A  84 LYS  NZ  : A  85 TYR  OH  :   -0.506:        0
+
+:  1573: A  36 LEU  HB3 : A 100 ASN  ND2 :   -0.564:        0
+
+:  1573: A 106 GLN  O   : A 138 ASN  ND2 :   -0.451:        0
+
+:  1573: A  78 LYS  HG3 : A   7 LEU HD21 :   -0.429:        0
+
+:  1573: A 122 GLU  CD  : A 114 VAL HG21 :   -0.420:        0
+
+:  1573: A 117 PRO  HA  : A 116 LYS  CG  :   -0.411:        0
+
+:  1573: A 118 ASN  OD1 : A  77 ASP  HB3 :   -0.408:        0
+#sum2 ::24.16 clashscore : 24.16 clashscore B<40 
+#summary::1573 atoms:1573 atoms B<40:182496 potential dots:11410.0 A^2:38 bumps:38 bumps B<40:376.6 score

@@ -1,0 +1,31 @@
+
+:  1318: A  35 PHE  CE1 : A  35 PHE  CG  :   -1.038:       17
+
+:  1318: A  33 LYS  CB  : A  33 LYS  CD  :   -0.989:       27
+
+:  1318: A  85 TRP  CB  : A  85 TRP  CD2 :   -0.910:       24
+:  1318: A  84 ASN  CA  : A  85 TRP  N   :   -0.884:       28
+:  1318: A  84 ASN  CA  : A  84 ASN  CG  :   -0.869:       35
+:  1318: A  85 TRP  CB  : A  85 TRP  N   :   -0.793:       25
+:  1318: A  84 ASN  CG  : A  84 ASN  N   :   -0.411:       35
+:  1318: A  85 TRP  N   : A  84 ASN  N   :   -0.406:       27
+
+:  1318: A  30 GLY  CA  : A  31 ARG  N   :   -0.850:       34
+:  1318: A  31 ARG  C   : A  31 ARG  N   :   -0.737:       32
+:  1318: A  31 ARG  N   : A  30 GLY  N   :   -0.449:       35
+
+:  1318: A  86 LYS  N   : A  86 LYS  CB  :   -0.828:       26
+
+:  1318: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:  1318: A 128 PRO  HD2 : A 127 HIS  HB3 :   -0.619:       29
+
+:  1318: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.502:       19
+
+:  1318: A   2 LEU HD23 : A   2 LEU  HA  :   -0.467:       28
+
+:  1318: A 124 HIS  N   : A 125 ALA  N   :   -0.455:       28
+
+:  1318: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+#sum2 ::13.66 clashscore : 13.75 clashscore B<40 
+#summary::1318 atoms:1309 atoms B<40:158321 potential dots:9895.0 A^2:18 bumps:18 bumps B<40:304.2 score

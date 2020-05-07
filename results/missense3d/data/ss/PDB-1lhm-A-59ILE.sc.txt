@@ -1,0 +1,8 @@
+SGFILE missense3d/data/mod_pdb/PDB-1lhm-A-59ILE.sc.pdb             
+NUMCYS      6
+NUMSGA      6
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap
+INTRA    6  CYS A  SG   . -  128  CYS A  SG   .     2.625   123
+INTRA   30  CYS A  SG   . -  116  CYS A  SG   .     1.862    87
+INTRA   65  CYS A  SG   . -   81  CYS A  SG   .     1.948    17

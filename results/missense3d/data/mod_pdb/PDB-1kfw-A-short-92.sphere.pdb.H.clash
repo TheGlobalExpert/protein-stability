@@ -1,0 +1,19 @@
+
+:  1206: A 163 TYR  CA  : A 163 TYR  CG  :   -0.959:       14
+:  1206: A 162 LEU  C   : A 163 TYR  CA  :   -0.955:       15
+:  1206: A 163 TYR  O   : A 163 TYR  CA  :   -0.755:       15
+
+:  1206: A 123 LYS  N   : A 123 LYS  CB  :   -0.838:       21
+
+:  1206: A  53 TYR  N   : A  52 ASN  O   :   -0.696:       13
+:  1206: A  52 ASN  O   : A  53 TYR  CA  :   -0.411:       13
+
+:  1206: A  36 ALA  HB3 : A 116 GLN  HB3 :   -0.560:       16
+
+:  1206: A  99 VAL HG22 : A  37 LYS  HA  :   -0.462:       18
+
+:  1206: A 119 GLN  HG3 : A 115 ASN  O   :   -0.461:       16
+
+:  1206: A  27 TRP  CE2 : A  25 ALA  HB1 :   -0.445:       20
+#sum2 ::8.29 clashscore : 8.32 clashscore B<40 
+#summary::1206 atoms:1202 atoms B<40:146853 potential dots:9178.0 A^2:10 bumps:10 bumps B<40:385.6 score

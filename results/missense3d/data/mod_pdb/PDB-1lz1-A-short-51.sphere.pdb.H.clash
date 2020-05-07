@@ -1,0 +1,29 @@
+
+:   922: A 100 VAL  CA  : A 100 VAL  CG1 :   -1.021:       14
+:   922: A 100 VAL  CG1 : A 100 VAL  N   :   -0.409:       14
+
+:   922: A 105 GLY  C   : A 106 ILE  CA  :   -0.946:       19
+
+:   922: A  86 GLN  CG  : A  86 GLN  NE2 :   -0.885:       27
+
+:   922: A 113 ARG  N   : A 112 TRP  CA  :   -0.822:       18
+:   922: A 114 ASN  ND2 : A 110 VAL HG12 :   -0.572:       39
+:   922: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+
+:   922: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   922: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   922: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   922: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   922: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   922: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:   922: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:   922: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:   922: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:   922: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+#sum2 ::18.44 clashscore : 12.17 clashscore B<40 
+#summary::922 atoms:822 atoms B<40:112687 potential dots:7043.0 A^2:17 bumps:10 bumps B<40:249.4 score

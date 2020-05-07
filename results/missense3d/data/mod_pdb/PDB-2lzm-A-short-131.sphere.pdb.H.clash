@@ -1,0 +1,20 @@
+
+:  1066: A 148 ARG  HD3 : A 164 LEU  CD2 :   -0.991:       50
+:  1066: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+
+:  1066: A  84 LEU  CA  : A  83 LYS  C   :   -0.942:       21
+:  1066: A  84 LEU  O   : A  84 LEU  CA  :   -0.786:       17
+
+:  1066: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1066: A  92 ASP  O   : A  92 ASP  CA  :   -0.702:       15
+
+:  1066: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1066: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1066: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1066: A 137 ARG  CZ  : A 141 GLN  HG2 :   -0.450:       39
+
+:  1066: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::10.32 clashscore : 5.11 clashscore B<40 
+#summary::1066 atoms:978 atoms B<40:126655 potential dots:7916.0 A^2:11 bumps:5 bumps B<40:363.4 score

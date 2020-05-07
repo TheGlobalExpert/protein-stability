@@ -1,0 +1,56 @@
+
+:  2169: A 123 TRP  CH2 : A 123 TRP  CE2 :   -1.061:        0
+:  2169: A  80 GLY  HA3 : A 123 TRP  CE3 :   -0.438:        0
+
+:  2169: A 166 LYS  CD  : A 166 LYS  CB  :   -0.978:        0
+
+:  2169: A  16 PHE  CG  : A  16 PHE  CA  :   -0.944:        0
+
+:  2169: A  40 MET  CB  : A  40 MET  C   :   -0.871:        0
+
+:  2169: A 191 ASP  CB  : A 191 ASP  N   :   -0.837:        0
+
+:  2169: A 257 VAL  CA  : A 257 VAL  O   :   -0.725:        0
+
+:  2169: A  88 GLN  OE1 : A  48 LYS  NZ  :   -0.718:        0
+:  2169: A  48 LYS  HD3 : A  88 GLN  CD  :   -0.675:        0
+:  2169: A  88 GLN  NE2 : A  48 LYS  HD3 :   -0.525:        0
+:  2169: A  88 GLN  NE2 : A  48 LYS  CD  :   -0.500:        0
+:  2169: A  88 GLN  OE1 : A  48 LYS  CE  :   -0.467:        0
+:  2169: A  48 LYS  HD3 : A  88 GLN  OE1 :   -0.408:        0
+
+:  2169: A 142 ASN  N   : A 142 ASN  C   :   -0.710:        0
+
+:  2169: A 229 GLY  N   : A 229 GLY  C   :   -0.696:        0
+
+:  2169: A 207 HIS  HD1 : A 238 ASP  CG  :   -0.649:        0
+:  2169: A 238 ASP  OD1 : A 207 HIS  HA  :   -0.470:        0
+
+:  2169: A 151 ILE  CG1 : A 150 TRP  CE2 :   -0.533:        0
+:  2169: A 150 TRP  CE2 : A 151 ILE HG13 :   -0.523:        0
+:  2169: A 151 ILE HG12 : A 150 TRP  CZ2 :   -0.514:        0
+:  2169: A 151 ILE HD12 : A 138 ARG  CZ  :   -0.499:        0
+:  2169: A 126 VAL HG13 : A 150 TRP  CH2 :   -0.498:        0
+:  2169: A 126 VAL  CG1 : A 150 TRP  CH2 :   -0.484:        0
+:  2169: A 126 VAL HG13 : A 150 TRP  HH2 :   -0.444:        0
+
+:  2169: A 217 ASN  OD1 : A 217 ASN  C   :   -0.513:        0
+
+:  2169: A 186 TYR  CE1 : A 228 LEU HD11 :   -0.510:        0
+
+:  2169: A  86 HIS  CE1 : A  85 TRP  HE1 :   -0.473:        0
+:  2169: A  87 SER  HB3 : A  85 TRP  CZ2 :   -0.458:        0
+:  2169: A  87 SER  HB3 : A  85 TRP  CH2 :   -0.449:        0
+
+:  2169: A 236 GLU  HG2 : A 266 TRP  CZ3 :   -0.455:        0
+
+:  2169: A 225 PHE  CE2 : A 185 MET  HE3 :   -0.453:        0
+:  2169: A 185 MET  CE  : A 225 PHE  CZ  :   -0.432:        0
+
+:  2169: A 260 CYS  HA  : A 232 VAL HG23 :   -0.438:        0
+
+:  2169: A  46 GLU  OE1 : A  46 GLU  N   :   -0.437:        0
+
+:  2169: A 205 GLN  OE1 : A 172 TYR  HB3 :   -0.401:        0
+#sum2 ::16.14 clashscore : 16.14 clashscore B<40 
+#summary::2169 atoms:2169 atoms B<40:264188 potential dots:16510.0 A^2:35 bumps:35 bumps B<40:614.6 score

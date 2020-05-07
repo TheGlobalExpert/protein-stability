@@ -1,0 +1,16 @@
+
+:   911: A  96 LEU  CB  : A  96 LEU  CD1 :   -0.992:       31
+:   911: A  96 LEU  C   : A  96 LEU  CB  :   -0.910:       35
+
+:   911: A  80 VAL HG21 : A  18 MET  CE  :   -0.825:       31
+:   911: A  80 VAL  CG2 : A  18 MET  CE  :   -0.761:       31
+:   911: A  80 VAL HG21 : A  18 MET  HE1 :   -0.745:       31
+:   911: A  80 VAL  CG2 : A  18 MET  HE3 :   -0.687:       31
+
+:   911: A  52 TYR  CZ  : A  28 LYS  HE2 :   -0.634:       23
+
+:   911: A  78 HIS  CD2 : A  79 THR  O   :   -0.475:       50
+
+:   911: A  42 ARG HH11 : A  42 ARG  HD3 :   -0.436:       14
+#sum2 ::9.88 clashscore : 8.88 clashscore B<40 
+#summary::911 atoms:901 atoms B<40:108559 potential dots:6785.0 A^2:9 bumps:8 bumps B<40:269.3 score

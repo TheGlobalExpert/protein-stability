@@ -1,0 +1,32 @@
+
+:  1529: A 154 ARG  CG  : A 154 ARG  NE  :   -1.050:       39
+:  1529: A 154 ARG  NE  : A 154 ARG  CB  :   -0.680:       39
+:  1529: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.462:       50
+
+:  1529: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1529: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1529: A 164 LEU  CD1 : A 164 LEU  N   :   -0.593:       64
+:  1529: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  1529: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1529: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1529: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+:  1529: A 163 ASN  O   : A 164 LEU  OXT :   -0.425:       65
+
+:  1529: A  14 ARG  CZ  : A  14 ARG  CD  :   -0.920:       56
+
+:  1529: A  80 ARG  NE  : A  80 ARG  CG  :   -0.783:       54
+
+:  1529: A  81 ASN  CA  : A  81 ASN  O   :   -0.783:       19
+
+:  1529: A  59 THR  O   : A  60 LYS  N   :   -0.702:       21
+:  1529: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1529: A   5 GLU  OE1 : A   1 MET  HA  :   -0.635:       38
+:  1529: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1529: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1529: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1529: A 159 ASP  O   : A 162 LYS  HB2 :   -0.428:       58
+#sum2 ::13.73 clashscore : 6.54 clashscore B<40 
+#summary::1529 atoms:1377 atoms B<40:183310 potential dots:11460.0 A^2:21 bumps:9 bumps B<40:508.6 score

@@ -1,0 +1,73 @@
+
+:  1794: A  43 LEU  CD1 : A  60 ILE HD11 :   -1.064:       32
+:  1794: A  43 LEU HD13 : A  60 ILE  CD1 :   -0.726:       32
+:  1794: A  43 LEU  CD1 : A  60 ILE  CD1 :   -0.705:       32
+:  1794: A  60 ILE HD11 : A  43 LEU HD13 :   -0.700:       32
+:  1794: A  60 ILE HD11 : A  43 LEU HD12 :   -0.459:       32
+:  1794: A  43 LEU HD12 : A  43 LEU  C   :   -0.454:       23
+
+:  1794: A  55 ASP  HA  : A   2 ILE  CD1 :   -1.059:       72
+:  1794: A   2 ILE HD11 : A  55 ASP  C   :   -0.905:       72
+:  1794: A  55 ASP  HA  : A   2 ILE HD12 :   -0.808:       72
+:  1794: A  55 ASP  CA  : A   2 ILE HD11 :   -0.805:       72
+:  1794: A  55 ASP  CA  : A   2 ILE  CD1 :   -0.768:       72
+:  1794: A  55 ASP  HA  : A   2 ILE HD11 :   -0.747:       72
+:  1794: A   2 ILE HD11 : A  56 GLY  N   :   -0.464:       72
+:  1794: A  55 ASP  C   : A   2 ILE  CD1 :   -0.417:       72
+
+:  1794: A  26 LYS  HE3 : A  26 LYS  C   :   -0.945:       51
+:  1794: A  26 LYS  O   : A  26 LYS  HE3 :   -0.901:       52
+:  1794: A  26 LYS  CE  : A  26 LYS  O   :   -0.691:       52
+:  1794: A  26 LYS  C   : A  26 LYS  CE  :   -0.460:       51
+
+:  1794: A 275 LEU HD13 : A  33 ILE HD13 :   -0.932:       58
+:  1794: A 275 LEU HD13 : A  33 ILE  CD1 :   -0.809:       58
+:  1794: A  33 ILE  O   : A  28 GLU  HB2 :   -0.609:       54
+:  1794: A   5 GLY  C   : A  33 ILE HD12 :   -0.493:       58
+:  1794: A  33 ILE HD13 : A 275 LEU  CD1 :   -0.474:       58
+:  1794: A  34 LYS  HA  : A  28 GLU  OE1 :   -0.402:       64
+:  1794: A   7 LEU  HG  : A  33 ILE HD11 :   -0.400:       58
+
+:  1794: A  99 TYR  O   : A  99 TYR  CA  :   -0.772:       24
+:  1794: A 104 ILE HD13 : A  99 TYR  CB  :   -0.493:       27
+:  1794: A 104 ILE  H   : A 104 ILE HG12 :   -0.462:       24
+
+:  1794: A 287 ASP  CB  : A 287 ASP  OD1 :   -0.718:       33
+
+:  1794: A  81 PRO  O   : A  82 ASP  HB3 :   -0.708:       66
+:  1794: A  82 ASP  OD1 : A  82 ASP  C   :   -0.519:       76
+
+:  1794: A  40 PRO  CA  : A  40 PRO  O   :   -0.680:       26
+
+:  1794: A  18 ASN  OD1 : A  18 ASN  CB  :   -0.671:       31
+
+:  1794: A  53 THR  OG1 : A  53 THR  CA  :   -0.664:       54
+
+:  1794: A   4 GLU  HG2 : A 271 PRO  HB2 :   -0.658:       79
+:  1794: A   3 GLU  O   : A   4 GLU  C   :   -0.495:       67
+:  1794: A 271 PRO  HD3 : A 270 SER  HA  :   -0.484:       39
+
+:  1794: A  57 PRO  HG3 : A  10 TRP  CD2 :   -0.610:       27
+:  1794: A  10 TRP  CG  : A  57 PRO  HG3 :   -0.467:       27
+
+:  1794: A 273 LYS  HE3 : A  77 ALA  HB2 :   -0.599:       47
+:  1794: A  77 ALA  HB2 : A 273 LYS  CE  :   -0.418:       47
+
+:  1794: A 288 GLU  CD  : A 288 GLU  H   :   -0.548:       51
+
+:  1794: A  75 LEU HD13 : A  48 PRO  HA  :   -0.530:       31
+:  1794: A  47 PHE  N   : A  48 PRO  HD2 :   -0.422:       30
+
+:  1794: A  80 THR HG22 : A  80 THR  O   :   -0.503:       58
+:  1794: A  80 THR  O   : A  80 THR  CG2 :   -0.405:       58
+
+:  1794: A  79 ILE HD11 : A 103 LEU  HB3 :   -0.482:       38
+:  1794: A  79 ILE  H   : A  79 ILE HG13 :   -0.416:       35
+
+:  1794: A 263 SER  O   : A  61 PHE  HA  :   -0.478:       15
+
+:  1794: A  98 ARG  CG  : A  98 ARG  NH1 :   -0.404:       33
+
+:  1794: A  39 HIS  HA  : A  11 ILE  O   :   -0.402:       26
+#sum2 ::28.43 clashscore : 16.25 clashscore B<40 
+#summary::1794 atoms:1354 atoms B<40:212965 potential dots:13310.0 A^2:51 bumps:22 bumps B<40:457 score

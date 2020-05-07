@@ -1,0 +1,68 @@
+
+:  1303: A 120 ASP  OD1 : A 122 ARG  HD2 :   -1.043:        0
+:  1303: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.807:        0
+:  1303: A 122 ARG HH21 : A 122 ARG  CG  :   -0.739:        0
+:  1303: A 122 ARG  HG3 : A 122 ARG HH21 :   -0.583:        0
+:  1303: A 122 ARG  CG  : A 122 ARG  NH2 :   -0.577:        0
+
+:  1303: A 107 ARG  HG3 : A 107 ARG  NH2 :   -1.032:        0
+:  1303: A 107 ARG HH21 : A 107 ARG  CG  :   -1.013:        0
+:  1303: A 113 ARG  CZ  : A 107 ARG  O   :   -0.888:        0
+:  1303: A 107 ARG HH21 : A 107 ARG  HG3 :   -0.868:        0
+:  1303: A 113 ARG  NH1 : A 104 GLN  OE1 :   -0.844:        0
+:  1303: A 107 ARG  HB3 : A 113 ARG HH11 :   -0.722:        0
+:  1303: A 107 ARG  NH2 : A 107 ARG  CG  :   -0.630:        0
+:  1303: A 107 ARG  HB3 : A 113 ARG  NH1 :   -0.538:        0
+:  1303: A 107 ARG  O   : A 113 ARG  NH1 :   -0.507:        0
+:  1303: A 112 TRP  CZ3 : A 107 ARG  NH2 :   -0.458:        0
+:  1303: A 113 ARG  HE  : A 107 ARG  HB3 :   -0.442:        0
+
+:  1303: A  76 ALA  C   : A  76 ALA  CB  :   -0.891:        0
+
+:  1303: A  98 ARG  HD3 : A 101 ARG  NH1 :   -0.866:        0
+:  1303: A  98 ARG  CD  : A 101 ARG  NH1 :   -0.822:        0
+:  1303: A 101 ARG HH11 : A  98 ARG  CD  :   -0.648:        0
+:  1303: A 101 ARG HH11 : A  98 ARG  HD3 :   -0.639:        0
+:  1303: A  98 ARG  O   : A  98 ARG  NH2 :   -0.576:        0
+:  1303: A 101 ARG  NH1 : A  98 ARG  HD2 :   -0.490:        0
+:  1303: A  98 ARG  HA  : A 101 ARG  CZ  :   -0.411:        0
+
+:  1303: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:  1303: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:  1303: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:  1303: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:  1303: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:  1303: A  10 ARG  NE  : A  10 ARG  NH2 :   -0.783:        0
+:  1303: A  10 ARG  NH2 : A  10 ARG  CD  :   -0.478:        0
+
+:  1303: A 111 ALA  O   : A 115 ARG  HG2 :   -0.725:        0
+:  1303: A 111 ALA  HB3 : A  35 GLU  OE2 :   -0.510:        0
+:  1303: A 115 ARG  O   : A 119 ARG  HD2 :   -0.441:        0
+:  1303: A 119 ARG  HG3 : A 117 GLN  O   :   -0.434:        0
+:  1303: A 115 ARG  HB2 : A  34 TRP  CD1 :   -0.413:        0
+
+:  1303: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:  1303: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:  1303: A  33 LYS  HD3 : A  38 TYR  OH  :   -0.604:        0
+:  1303: A  38 TYR  CE2 : A  33 LYS  CA  :   -0.431:        0
+:  1303: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:  1303: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:  1303: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:  1303: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1303: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+
+:  1303: A 126 GLN  HA  : A 126 GLN  OE1 :   -0.574:        0
+
+:  1303: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.560:        0
+
+:  1303: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1303: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.499:        0
+
+:  1303: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+
+:  1303: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::39.14 clashscore : 39.14 clashscore B<40 
+#summary::1303 atoms:1303 atoms B<40:150724 potential dots:9420.0 A^2:51 bumps:51 bumps B<40:248.9 score

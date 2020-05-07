@@ -1,0 +1,22 @@
+
+:  1791: A  32 LEU  CB  : A  32 LEU  CD2 :   -1.011:       31
+
+:  1791: A 125 ARG  NH1 : A 125 ARG  NE  :   -0.761:      100
+:  1791: A 125 ARG  NH1 : A 125 ARG  CD  :   -0.441:      100
+
+:  1791: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1791: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1791: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1791: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1791: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1791: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1791: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1791: A 137 ARG  CD  : A 137 ARG  NH1 :   -0.413:       32
+
+:  1791: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::6.70 clashscore : 4.91 clashscore B<40 
+#summary::1791 atoms:1628 atoms B<40:206215 potential dots:12890.0 A^2:12 bumps:8 bumps B<40:697.4 score

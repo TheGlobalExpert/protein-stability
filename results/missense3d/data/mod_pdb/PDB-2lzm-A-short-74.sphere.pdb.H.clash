@@ -1,0 +1,28 @@
+
+:  1555: A  18 TYR  CD2 : A  18 TYR  CD1 :   -0.991:       20
+
+:  1555: A  21 THR  CB  : A  21 THR  N   :   -0.855:       30
+:  1555: A  22 GLU  CB  : A  22 GLU  N   :   -0.823:       42
+:  1555: A  22 GLU  N   : A  20 ASP  HB3 :   -0.797:       42
+:  1555: A  20 ASP  HB2 : A  24 TYR  N   :   -0.695:       32
+:  1555: A  21 THR  N   : A  22 GLU  N   :   -0.541:       42
+
+:  1555: A 142 THR  CA  : A 142 THR  O   :   -0.773:       13
+:  1555: A 142 THR  O   : A 142 THR  CB  :   -0.541:       14
+
+:  1555: A 133 LEU  O   : A 133 LEU  CA  :   -0.741:       19
+
+:  1555: A  46 LEU  CA  : A  46 LEU  O   :   -0.721:       17
+:  1555: A  46 LEU  CA  : A  46 LEU  CD1 :   -0.572:       23
+
+:  1555: A   1 MET  HA  : A   5 GLU  OE1 :   -0.635:       38
+:  1555: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1555: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1555: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1555: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1555: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::10.93 clashscore : 9.72 clashscore B<40 
+#summary::1555 atoms:1440 atoms B<40:188181 potential dots:11760.0 A^2:17 bumps:14 bumps B<40:498.2 score

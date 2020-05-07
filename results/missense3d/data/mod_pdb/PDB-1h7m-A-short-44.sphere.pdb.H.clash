@@ -1,0 +1,17 @@
+
+:   868: A  31 GLY  N   : A  30 GLY  CA  :   -0.894:       18
+
+:   868: A  80 VAL HG21 : A  18 MET  CE  :   -0.825:       31
+:   868: A  80 VAL  CG2 : A  18 MET  CE  :   -0.761:       31
+:   868: A  80 VAL HG21 : A  18 MET  HE1 :   -0.745:       31
+:   868: A  80 VAL  CG2 : A  18 MET  HE3 :   -0.687:       31
+
+:   868: A  32 ALA  O   : A  32 ALA  CA  :   -0.779:       17
+
+:   868: A  52 TYR  CZ  : A  28 LYS  HE2 :   -0.634:       23
+
+:   868: A  42 ARG HH11 : A  42 ARG  HD3 :   -0.436:       14
+
+:   868: A  79 THR  H   : A  79 THR HG23 :   -0.430:       33
+#sum2 ::10.37 clashscore : 10.59 clashscore B<40 
+#summary::868 atoms:850 atoms B<40:101716 potential dots:6357.0 A^2:9 bumps:9 bumps B<40:276.4 score

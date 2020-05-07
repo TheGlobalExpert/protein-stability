@@ -1,0 +1,16 @@
+KVFinder Input = missense3d/data/mod_pdb/PDB-1pga-A-53ARG.sc.pdb
+KVFinder Output = PDB-1pga-A-53ARG.sc.KVFinder.output.pdb
+
+#KVFinder Results:
+Binary file KVFinder.output.tmp matches
+
+#Interface Residues for Each Cavity: 
+Cavity KAA 56 A
+Cavity KAA 40 A
+Cavity KAA 39 A
+Cavity KAA 38 A
+Cavity KAA 37 A
+Cavity KAA 12 A
+Cavity KAA 11 A
+Cavity KAA 10 A
+Cavity KAA 9 A

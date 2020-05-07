@@ -1,0 +1,36 @@
+
+:  1047: A  70 TYR  OH  : A  12 PHE  CZ  :   -1.235:        0
+:  1047: A  70 TYR  OH  : A  12 PHE  CE2 :   -1.120:        0
+:  1047: A  70 TYR  OH  : A  12 PHE  HZ  :   -0.683:        0
+:  1047: A  17 LEU HD21 : A  12 PHE  CE2 :   -0.583:        0
+:  1047: A  12 PHE  CZ  : A  70 TYR  CZ  :   -0.528:        0
+:  1047: A  13 ASP  HA  : A  17 LEU  HG  :   -0.477:        0
+:  1047: A  81 PHE  CE2 : A  79 LEU  HB3 :   -0.458:        0
+:  1047: A  17 LEU HD21 : A  12 PHE  HE2 :   -0.445:        0
+:  1047: A  70 TYR  OH  : A  12 PHE  HE2 :   -0.436:        0
+:  1047: A  81 PHE  HZ  : A  70 TYR  CE2 :   -0.415:        0
+
+:  1047: A  34 PRO  C   : A  34 PRO  CB  :   -0.872:        0
+
+:  1047: A  67 ALA  HB3 : A  68 PRO  HD3 :   -0.803:        0
+:  1047: A  68 PRO  CD  : A  67 ALA  N   :   -0.565:        0
+:  1047: A  68 PRO  HD2 : A  67 ALA  N   :   -0.525:        0
+:  1047: A  68 PRO  HD3 : A  67 ALA  CB  :   -0.487:        0
+:  1047: A  67 ALA  HA  : A  72 ILE HD12 :   -0.415:        0
+
+:  1047: A   9 ASP  OD1 : A  63 ASN  HB3 :   -0.758:        0
+:  1047: A  58 LEU  C   : A  58 LEU HD13 :   -0.502:        0
+:  1047: A  58 LEU  HG  : A  66 LEU HD12 :   -0.474:        0
+:  1047: A  63 ASN  HB3 : A   9 ASP  CG  :   -0.450:        0
+:  1047: A  66 LEU  HG  : A   9 ASP  OD1 :   -0.439:        0
+
+:  1047: A   3 LYS  O   : A   4 ILE  N   :   -0.665:        0
+
+:  1047: A  75 ILE HD11 : A  31 TRP  CH2 :   -0.523:        0
+:  1047: A  61 ASP  CG  : A  31 TRP  HE1 :   -0.470:        0
+:  1047: A  61 ASP  OD2 : A  31 TRP  NE1 :   -0.450:        0
+:  1047: A  75 ILE  HA  : A  76 PRO  C   :   -0.400:        0
+
+:  1047: A  69 LYS  HE3 : A  65 GLY  O   :   -0.499:        0
+#sum2 ::25.79 clashscore : 25.79 clashscore B<40 
+#summary::1047 atoms:1047 atoms B<40:122412 potential dots:7651.0 A^2:27 bumps:27 bumps B<40:210.8 score

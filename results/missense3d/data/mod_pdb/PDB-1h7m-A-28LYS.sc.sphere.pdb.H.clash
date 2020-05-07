@@ -1,0 +1,16 @@
+
+:   832: A  93 ILE  CG2 : A  93 ILE  CG1 :   -0.960:        0
+:   832: A  94 LEU  CA  : A  94 LEU  O   :   -0.730:        0
+:   832: A  94 LEU  N   : A  93 ILE  O   :   -0.694:        0
+:   832: A  93 ILE  CD1 : A  93 ILE  CG2 :   -0.558:        0
+:   832: A  93 ILE  O   : A  94 LEU  CA  :   -0.445:        0
+
+:   832: A  17 VAL HG21 : A  26 TYR  CE2 :   -0.453:        0
+:   832: A  17 VAL HG21 : A  26 TYR  HE2 :   -0.435:        0
+
+:   832: A  21 ARG  NH2 : A  25 GLN  HB2 :   -0.445:        0
+:   832: A  25 GLN  HB2 : A  21 ARG HH22 :   -0.415:        0
+
+:   832: A  36 ILE  O   : A  82 ALA  HA  :   -0.407:        0
+#sum2 ::12.02 clashscore : 12.02 clashscore B<40 
+#summary::832 atoms:832 atoms B<40:97198 potential dots:6075.0 A^2:10 bumps:10 bumps B<40:250.7 score

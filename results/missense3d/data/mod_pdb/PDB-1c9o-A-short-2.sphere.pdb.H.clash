@@ -1,0 +1,10 @@
+
+:   778: A   1 MET  SD  : A  50 GLU  HG3 :   -0.567:       21
+
+:   778: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.512:       16
+
+:   778: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.495:       28
+
+:   778: A  14 GLY  O   : A  15 TYR  CA  :   -0.422:       10
+#sum2 ::5.14 clashscore : 5.17 clashscore B<40 
+#summary::778 atoms:773 atoms B<40:91016 potential dots:5688.0 A^2:4 bumps:4 bumps B<40:274.9 score

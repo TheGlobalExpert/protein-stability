@@ -1,0 +1,34 @@
+
+:   811: A  14 CYS  CA  : A  13 ARG  C   :   -0.976:        7
+:   811: A  13 ARG  C   : A  13 ARG  CB  :   -0.965:       14
+:   811: A  14 CYS  CA  : A  14 CYS  O   :   -0.772:        5
+
+:   811: A  38 ARG  CG  : A  38 ARG  NE  :   -0.847:       28
+:   811: A  38 ARG  CA  : A  38 ARG  CG  :   -0.843:       28
+:   811: A  38 ARG  NH1 : A  38 ARG  NE  :   -0.778:       27
+
+:   811: A  18 HIS  CB  : A  18 HIS  N   :   -0.824:        5
+
+:   811: A  57 VAL  CG2 : A  55 LYS  HG3 :   -0.748:       28
+:   811: A  55 LYS  HG3 : A  57 VAL HG23 :   -0.724:       28
+:   811: A  57 VAL  O   : A  39 HIS  HA  :   -0.576:       25
+:   811: A  55 LYS  CG  : A  57 VAL  CG2 :   -0.555:       28
+:   811: A  55 LYS  CE  : A  57 VAL HG22 :   -0.483:       28
+:   811: A  57 VAL  CG1 : A  63 ASN  OD1 :   -0.446:       30
+:   811: A  57 VAL HG23 : A  55 LYS  CG  :   -0.426:       28
+
+:   811: A  28 VAL  N   : A  27 LYS  O   :   -0.624:        6
+
+:   811: A  43 ALA  CA  : A  43 ALA  O   :   -0.595:       16
+
+:   811: A  86 LYS  HD3 : A  86 LYS  N   :   -0.511:       30
+:   811: A  69 THR  O   : A  86 LYS  NZ  :   -0.426:       34
+
+:   811: A  78 THR HG22 : A  75 ILE  O   :   -0.508:       16
+
+:   811: A  62 ASN  N   : A  60 ASP  OD1 :   -0.500:       31
+:   811: A  60 ASP  OD1 : A  60 ASP  C   :   -0.475:       31
+
+:   811: A  64 MET  O   : A  64 MET  HG3 :   -0.437:       20
+#sum2 ::27.13 clashscore : 27.33 clashscore B<40 
+#summary::811 atoms:805 atoms B<40:100958 potential dots:6310.0 A^2:22 bumps:22 bumps B<40:109.2 score

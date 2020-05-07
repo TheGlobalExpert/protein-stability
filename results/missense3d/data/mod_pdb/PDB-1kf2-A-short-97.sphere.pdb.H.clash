@@ -1,0 +1,17 @@
+
+:   998: A   9 GLU  CA  : A   8 PHE  C   :   -0.983:       10
+:   998: A   7 LYS  C   : A   8 PHE  CA  :   -0.957:       10
+:   998: A   9 GLU  CA  : A   8 PHE  O   :   -0.412:       10
+
+:   998: A  16 SER  CB  : A  16 SER  C   :   -0.903:       19
+:   998: A  16 SER  N   : A  16 SER  CB  :   -0.834:       19
+:   998: A  16 SER  N   : A  16 SER  C   :   -0.703:       14
+
+:   998: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.502:       29
+:   998: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.426:       29
+
+:   998: A  85 ARG  NH2 : A  83 ASP  OD1 :   -0.447:      158
+
+:   998: A  29 MET  HG3 : A  25 TYR  CZ  :   -0.402:       15
+#sum2 ::10.02 clashscore : 9.84 clashscore B<40 
+#summary::998 atoms:915 atoms B<40:118620 potential dots:7414.0 A^2:10 bumps:9 bumps B<40:243.5 score

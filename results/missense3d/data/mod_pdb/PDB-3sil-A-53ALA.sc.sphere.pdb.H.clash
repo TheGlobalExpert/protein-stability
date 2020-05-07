@@ -1,0 +1,105 @@
+
+:  2707: A  37 ARG  HD3 : A  56 ARG  CZ  :   -1.123:        0
+:  2707: A  56 ARG  NH2 : A  37 ARG HH21 :   -0.972:        0
+:  2707: A  37 ARG  NH2 : A  56 ARG HH22 :   -0.961:        0
+:  2707: A  56 ARG  NH2 : A  37 ARG  NH2 :   -0.820:        0
+:  2707: A  37 ARG  HD3 : A  56 ARG  NH2 :   -0.784:        0
+:  2707: A  60 ALA  O   : A  56 ARG  NH2 :   -0.603:        0
+:  2707: A  56 ARG  CZ  : A  37 ARG  CD  :   -0.538:        0
+:  2707: A  37 ARG  HD3 : A  56 ARG  NE  :   -0.500:        0
+:  2707: A  56 ARG  NH2 : A  37 ARG  CD  :   -0.428:        0
+
+:  2707: A 364 GLY  HA2 : A  35 TYR  CZ  :   -0.990:        0
+:  2707: A 364 GLY  HA2 : A  35 TYR  CE1 :   -0.854:        0
+:  2707: A  35 TYR  CZ  : A 364 GLY  CA  :   -0.825:        0
+:  2707: A  35 TYR  CE2 : A 364 GLY  CA  :   -0.751:        0
+:  2707: A  35 TYR  CE2 : A 364 GLY  HA3 :   -0.556:        0
+:  2707: A 364 GLY  HA2 : A  35 TYR  CE2 :   -0.488:        0
+
+:  2707: A 182 LEU  CD2 : A 182 LEU  CB  :   -0.987:        0
+
+:  2707: A 333 LYS  CD  : A 333 LYS  CB  :   -0.978:        0
+:  2707: A 333 LYS  CD  : A 333 LYS  NZ  :   -0.798:        0
+
+:  2707: A 161 ILE  CG2 : A 161 ILE  CG1 :   -0.957:        0
+
+:  2707: A  93 SER  CA  : A  92 ASN  C   :   -0.952:        0
+
+:  2707: A 297 HIS  CA  : A 297 HIS  CG  :   -0.946:        0
+:  2707: A 297 HIS  CG  : A 297 HIS  C   :   -0.483:        0
+
+:  2707: A 356 LEU  CA  : A 356 LEU  CG  :   -0.898:        0
+
+:  2707: A 100 ASP  HA  : A  38 ILE HG21 :   -0.894:        0
+:  2707: A 101 PRO  HD2 : A  38 ILE  CG2 :   -0.510:        0
+:  2707: A  38 ILE HG22 : A  38 ILE  O   :   -0.466:        0
+:  2707: A  99 MET  HA  : A  54 ASP  OD1 :   -0.425:        0
+:  2707: A 101 PRO  HD2 : A  38 ILE HG22 :   -0.421:        0
+:  2707: A 100 ASP  OD2 : A  99 MET  HG3 :   -0.409:        0
+:  2707: A  38 ILE  CD1 : A 342 TYR  CD2 :   -0.409:        0
+:  2707: A 342 TYR  HE1 : A 309 ARG  NH2 :   -0.406:        0
+
+:  2707: A 173 ALA  C   : A 173 ALA  CB  :   -0.872:        0
+
+:  2707: A  52 PHE  HZ  : A 154 PHE  CZ  :   -0.850:        0
+:  2707: A  52 PHE  HZ  : A 154 PHE  CE2 :   -0.748:        0
+:  2707: A 154 PHE  CZ  : A  52 PHE  CZ  :   -0.553:        0
+
+:  2707: A 149 ASP  N   : A 148 THR  CA  :   -0.846:        0
+:  2707: A 149 ASP  N   : A 148 THR  N   :   -0.431:        0
+
+:  2707: A 371 LEU  N   : A 371 LEU  CB  :   -0.827:        0
+
+:  2707: A 311 ASP  N   : A 311 ASP  C   :   -0.735:        0
+
+:  2707: A 174 MET  CG  : A 174 MET  CE  :   -0.729:        0
+
+:  2707: A  43 THR  O   : A 348 ARG  HD2 :   -0.709:        0
+:  2707: A 348 ARG  NH2 : A 105 VAL HG11 :   -0.417:        0
+
+:  2707: A 312 ILE HG22 : A 330 PHE  CZ  :   -0.687:        0
+:  2707: A 330 PHE  HZ  : A 312 ILE HG22 :   -0.480:        0
+
+:  2707: A  33 THR HG23 : A  57 HIS  HA  :   -0.664:        0
+
+:  2707: A 357 TYR  HB3 : A 368 PHE  CE2 :   -0.634:        0
+:  2707: A 357 TYR  HB3 : A 368 PHE  HE2 :   -0.435:        0
+:  2707: A 370 ASP  HA  : A 357 TYR  HD1 :   -0.434:        0
+:  2707: A 357 TYR  HE1 : A 370 ASP  CG  :   -0.418:        0
+
+:  2707: A   9 PHE  CZ  : A  71 ALA  HB2 :   -0.590:        0
+
+:  2707: A  87 TYR  CZ  : A  84 ILE  HB  :   -0.536:        0
+:  2707: A  87 TYR  CD1 : A  84 ILE HG21 :   -0.461:        0
+:  2707: A  87 TYR  HB3 : A  90 ARG  NH2 :   -0.401:        0
+
+:  2707: A 175 LEU HD21 : A 119 GLY  HA3 :   -0.525:        0
+
+:  2707: A 191 PHE  CE1 : A 104 ILE HG13 :   -0.505:        0
+:  2707: A 191 PHE  CZ  : A 104 ILE HD12 :   -0.467:        0
+:  2707: A 191 PHE  CD2 : A 218 TRP  CH2 :   -0.454:        0
+:  2707: A 104 ILE HD12 : A 191 PHE  CE2 :   -0.449:        0
+:  2707: A 191 PHE  HD2 : A 218 TRP  CH2 :   -0.432:        0
+:  2707: A 218 TRP  CZ3 : A 191 PHE  HD2 :   -0.405:        0
+
+:  2707: A  14 GLU  OE1 : A  82 LYS  NZ  :   -0.491:        0
+
+:  2707: A  73 SER  HB2 : A  80 TRP  CE3 :   -0.473:        0
+
+:  2707: A 121 TRP  HB2 : A  97 ARG  CZ  :   -0.472:        0
+
+:  2707: A 360 TYR  HE2 : A 331 TYR  CD1 :   -0.468:        0
+
+:  2707: A  15 HIS  NE2 : A  32 THR HG22 :   -0.467:        0
+
+:  2707: A  41 MET  HE2 : A 359 VAL HG22 :   -0.463:        0
+
+:  2707: A  18 ASP  OD1 : A  18 ASP  C   :   -0.463:        0
+
+:  2707: A 313 SER  O   : A 298 SER  HA  :   -0.449:        0
+
+:  2707: A 152 VAL  O   : A  83 LYS  HE3 :   -0.438:        0
+
+:  2707: A 140 TRP  CZ2 : A 142 LEU  HB2 :   -0.431:        0
+#sum2 ::25.86 clashscore : 25.86 clashscore B<40 
+#summary::2707 atoms:2707 atoms B<40:328578 potential dots:20540.0 A^2:70 bumps:70 bumps B<40:698.6 score

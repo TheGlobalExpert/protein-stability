@@ -1,0 +1,26 @@
+
+:  1108: A 161 TYR  CD2 : A 161 TYR  CB  :   -0.961:       36
+
+:  1108: A 107 ARG  NH1 : A 111 ASP  HB2 :   -0.718:       35
+:  1108: A 110 THR  O   : A 107 ARG  HA  :   -0.500:       30
+:  1108: A 107 ARG HH12 : A 111 ASP  HB2 :   -0.437:       35
+
+:  1108: A  74 VAL  N   : A  73 ILE  O   :   -0.700:       23
+
+:  1108: A 144 ASP  HB2 : A 112 LYS  HG2 :   -0.621:       45
+
+:  1108: A 165 VAL  CG2 : A 162 SER  HB3 :   -0.553:       33
+:  1108: A 162 SER  HB3 : A 165 VAL HG23 :   -0.483:       33
+:  1108: A 162 SER  CB  : A 165 VAL HG23 :   -0.401:       33
+
+:  1108: A 105 ALA  O   : A 108 LEU  HB2 :   -0.539:       26
+
+:  1108: A  44 LYS  O   : A  12 ILE HG23 :   -0.472:       45
+
+:  1108: A  48 ASN  OD1 : A  82 ASN  HA  :   -0.441:       36
+
+:  1108: A 103 GLY  O   : A  77 SER  HA  :   -0.436:       28
+
+:  1108: A 106 ASN  H   : A 104 GLY  C   :   -0.429:       24
+#sum2 ::12.64 clashscore : 11.73 clashscore B<40 
+#summary::1108 atoms:1023 atoms B<40:133834 potential dots:8365.0 A^2:14 bumps:12 bumps B<40:386.5 score

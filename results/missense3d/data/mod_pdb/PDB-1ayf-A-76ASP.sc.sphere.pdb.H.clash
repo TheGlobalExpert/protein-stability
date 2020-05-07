@@ -1,0 +1,20 @@
+
+:   761: A  29 LEU  CD1 : A  59 PHE  HZ  :   -0.619:        0
+:   761: A  29 LEU HD13 : A  57 LEU  CD1 :   -0.539:        0
+:   761: A  59 PHE  CZ  : A  29 LEU  CD1 :   -0.506:        0
+:   761: A  29 LEU HD13 : A  57 LEU HD13 :   -0.417:        0
+
+:   761: A  52 CYS  O   : A  77 MET  HG3 :   -0.608:        0
+:   761: A  77 MET  CE  : A  80 LEU HD12 :   -0.608:        0
+:   761: A  77 MET  HB3 : A  90 LEU HD11 :   -0.586:        0
+:   761: A  77 MET  CE  : A  77 MET  HA  :   -0.527:        0
+:   761: A  80 LEU HD12 : A  77 MET  HE3 :   -0.501:        0
+:   761: A  90 LEU HD12 : A  74 GLU  HG3 :   -0.447:        0
+
+:   761: A  55 CYS  HA  : A  43 PHE  CE2 :   -0.558:        0
+
+:   761: A  56 HIS  ND1 : A 108 PRO  HG3 :   -0.521:        0
+:   761: A 108 PRO  HG3 : A  56 HIS  CE1 :   -0.503:        0
+:   761: A  56 HIS  NE2 : A  88 SER  CB  :   -0.427:        0
+#sum2 ::18.40 clashscore : 18.40 clashscore B<40 
+#summary::761 atoms:761 atoms B<40:90402 potential dots:5650.0 A^2:14 bumps:14 bumps B<40:230.2 score

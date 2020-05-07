@@ -1,0 +1,45 @@
+
+:  1703: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1703: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1703: A  24 TYR  CD2 : A  24 TYR  CZ  :   -0.955:       48
+:  1703: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1703: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1703: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+
+:  1703: A 154 ARG  CG  : A 154 ARG  NE  :   -1.050:       39
+:  1703: A 154 ARG  NE  : A 154 ARG  CB  :   -0.680:       39
+:  1703: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.462:       50
+
+:  1703: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1703: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1703: A 164 LEU  CD1 : A 164 LEU  N   :   -0.593:       64
+:  1703: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  1703: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1703: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1703: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+:  1703: A 163 ASN  O   : A 164 LEU  OXT :   -0.425:       65
+
+:  1703: A  35 LYS  CG  : A  35 LYS  CE  :   -0.978:       30
+
+:  1703: A  87 VAL  CB  : A  87 VAL  C   :   -0.839:       26
+
+:  1703: A 130 ALA  CA  : A 130 ALA  O   :   -0.759:       22
+
+:  1703: A  62 GLU  OE1 : A  62 GLU  CG  :   -0.758:       29
+:  1703: A  62 GLU  OE1 : A  62 GLU  CB  :   -0.408:       29
+
+:  1703: A   5 GLU  OE1 : A   1 MET  HA  :   -0.635:       38
+:  1703: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1703: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1703: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1703: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1703: A 141 GLN  HG2 : A 137 ARG  CZ  :   -0.450:       39
+
+:  1703: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1703: A 159 ASP  O   : A 162 LYS  HB2 :   -0.428:       58
+#sum2 ::17.62 clashscore : 10.41 clashscore B<40 
+#summary::1703 atoms:1537 atoms B<40:203910 potential dots:12740.0 A^2:30 bumps:16 bumps B<40:517.5 score

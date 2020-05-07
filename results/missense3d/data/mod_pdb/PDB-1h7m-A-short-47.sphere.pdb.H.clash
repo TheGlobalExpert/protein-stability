@@ -1,0 +1,17 @@
+
+:   895: A   7 LEU  CD1 : A   7 LEU  CD2 :   -0.959:       21
+
+:   895: A  80 VAL HG21 : A  18 MET  CE  :   -0.825:       31
+:   895: A  18 MET  CE  : A  18 MET  CG  :   -0.824:       31
+:   895: A  80 VAL  CG2 : A  18 MET  CE  :   -0.761:       31
+:   895: A  18 MET  CB  : A  18 MET  CE  :   -0.515:       31
+
+:   895: A  68 VAL  CA  : A  69 GLU  N   :   -0.800:       20
+
+:   895: A  52 TYR  CZ  : A  28 LYS  HE2 :   -0.634:       23
+
+:   895: A  42 ARG HH11 : A  42 ARG  HD3 :   -0.436:       14
+
+:   895: A  96 LEU HD22 : A  61 TYR  CE2 :   -0.435:       30
+#sum2 ::10.06 clashscore : 10.12 clashscore B<40 
+#summary::895 atoms:889 atoms B<40:106873 potential dots:6680.0 A^2:9 bumps:9 bumps B<40:253.7 score

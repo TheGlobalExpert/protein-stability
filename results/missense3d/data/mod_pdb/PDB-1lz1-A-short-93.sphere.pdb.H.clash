@@ -1,0 +1,40 @@
+
+:  1629: A 115 ARG  CB  : A 115 ARG  C   :   -1.013:       21
+
+:  1629: A 113 ARG  CG  : A 113 ARG  CA  :   -0.925:       27
+:  1629: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+
+:  1629: A  51 SER  CB  : A  51 SER  C   :   -0.907:       17
+
+:  1629: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:  1629: A 112 TRP  HH2 : A 107 ARG HH12 :   -0.762:      106
+:  1629: A 107 ARG  NH1 : A 112 TRP  CZ3 :   -0.738:      106
+:  1629: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+:  1629: A 112 TRP  HZ3 : A 107 ARG HH11 :   -0.478:      106
+
+:  1629: A   5 ARG  NH2 : A   5 ARG  NE  :   -0.812:       24
+:  1629: A   5 ARG  NH2 : A   5 ARG  CD  :   -0.431:       19
+
+:  1629: A 129 GLY  C   : A 129 GLY  N   :   -0.739:       52
+
+:  1629: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1629: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1629: A  74 VAL HG12 : A  74 VAL  O   :   -0.573:       68
+:  1629: A  74 VAL  CG1 : A  74 VAL  O   :   -0.509:       68
+
+:  1629: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.495:       22
+:  1629: A  84 LEU HD22 : A  92 ALA  HA  :   -0.465:       22
+
+:  1629: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1629: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1629: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1629: A  52 THR  HB  : A  54 TYR  CE2 :   -0.421:       15
+
+:  1629: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:  1629: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.402:       88
+#sum2 ::14.73 clashscore : 9.43 clashscore B<40 
+#summary::1629 atoms:1485 atoms B<40:190578 potential dots:11910.0 A^2:24 bumps:14 bumps B<40:560.5 score

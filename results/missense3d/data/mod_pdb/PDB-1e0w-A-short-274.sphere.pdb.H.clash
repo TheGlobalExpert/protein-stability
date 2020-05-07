@@ -1,0 +1,14 @@
+
+:  1525: A  37 GLU  CB  : A  37 GLU  C   :   -0.911:       10
+
+:  1525: A  66 ARG  CB  : A  66 ARG  C   :   -0.870:       17
+
+:  1525: A 175 GLU  N   : A 175 GLU  CB  :   -0.839:        9
+
+:  1525: A  85 TRP  N   : A  84 ALA  O   :   -0.688:       11
+
+:  1525: A  28 SER  N   : A  28 SER  C   :   -0.681:       10
+
+:  1525: A 288 SER  OG  : A 288 SER  CA  :   -0.669:       17
+#sum2 ::3.93 clashscore : 3.94 clashscore B<40 
+#summary::1525 atoms:1521 atoms B<40:191784 potential dots:11990.0 A^2:6 bumps:6 bumps B<40:555.6 score

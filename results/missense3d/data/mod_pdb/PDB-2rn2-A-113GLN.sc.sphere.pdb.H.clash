@@ -1,0 +1,43 @@
+
+:  1070: A  61 GLU  OE1 : A  28 TYR  OH  :   -1.082:        0
+:  1070: A  61 GLU  CD  : A  28 TYR  OH  :   -0.917:        0
+:  1070: A  28 TYR  HH  : A  61 GLU  CD  :   -0.840:        0
+:  1070: A  28 TYR  OH  : A  61 GLU  OE2 :   -0.564:        0
+:  1070: A  61 GLU  O   : A 114 HIS  HE1 :   -0.495:        0
+:  1070: A  28 TYR  O   : A  29 ARG  HB2 :   -0.410:        0
+
+:  1070: A   2 LEU  CD1 : A   2 LEU  CB  :   -0.987:        0
+
+:  1070: A  87 LYS  CG  : A  87 LYS  CE  :   -0.984:        0
+
+:  1070: A 113 GLN  O   : A  62 HIS  ND1 :   -0.825:        0
+:  1070: A 113 GLN  OE1 : A  62 HIS  HE1 :   -0.487:        0
+:  1070: A  62 HIS  CE1 : A 113 GLN  OE1 :   -0.476:        0
+
+:  1070: A  74 VAL  N   : A  73 TYR  O   :   -0.612:        0
+:  1070: A  77 GLY  HA3 : A 104 TRP  CH2 :   -0.504:        0
+:  1070: A  49 LEU HD11 : A 104 TRP  CE2 :   -0.464:        0
+:  1070: A  74 VAL HG22 : A  49 LEU HD23 :   -0.445:        0
+:  1070: A  74 VAL  CA  : A  73 TYR  O   :   -0.407:        0
+
+:  1070: A  53 ILE  O   : A  57 GLU  HG3 :   -0.557:        0
+:  1070: A  53 ILE HD12 : A  50 MET  HA  :   -0.460:        0
+
+:  1070: A  82 ILE  CG2 : A  83 HIS  N   :   -0.546:        0
+:  1070: A  83 HIS  N   : A  82 ILE HG23 :   -0.471:        0
+
+:  1070: A  51 ALA  CB  : A   9 THR  HB  :   -0.448:        0
+
+:  1070: A  66 ILE  N   : A  65 VAL  CG1 :   -0.447:        0
+:  1070: A   6 GLU  HG2 : A  66 ILE  CG2 :   -0.428:        0
+:  1070: A  66 ILE  N   : A  65 VAL HG12 :   -0.400:        0
+
+:  1070: A 120 TRP  CZ2 : A 118 TRP  HB3 :   -0.439:        0
+:  1070: A 120 TRP  N   : A 120 TRP  CG  :   -0.437:        0
+:  1070: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+
+:  1070: A  78 ILE HD13 : A  78 ILE  HA  :   -0.406:        0
+
+:  1070: A  85 TRP  O   : A  90 TRP  N   :   -0.404:        0
+#sum2 ::27.10 clashscore : 27.10 clashscore B<40 
+#summary::1070 atoms:1070 atoms B<40:129121 potential dots:8070.0 A^2:29 bumps:29 bumps B<40:216.5 score

@@ -1,0 +1,35 @@
+
+:  1104: A 161 TYR  CD2 : A 161 TYR  CB  :   -0.977:        0
+
+:  1104: A 137 PRO  HD2 : A 140 LEU HD12 :   -0.803:        0
+:  1104: A 110 THR  O   : A 107 ARG  HA  :   -0.505:        0
+:  1104: A 140 LEU  HA  : A 107 ARG  HD2 :   -0.435:        0
+
+:  1104: A  74 VAL  N   : A  73 ILE  O   :   -0.700:        0
+
+:  1104: A 143 LEU HD11 : A  84 LEU HD11 :   -0.563:        0
+:  1104: A 143 LEU HD23 : A 143 LEU  HA  :   -0.424:        0
+
+:  1104: A 105 ALA  O   : A 108 LEU  HB2 :   -0.550:        0
+
+:  1104: A 165 VAL  CG2 : A 162 SER  HB3 :   -0.538:        0
+:  1104: A 165 VAL HG23 : A 162 SER  HB3 :   -0.491:        0
+
+:  1104: A 128 ILE HD13 : A 168 LEU  HB2 :   -0.493:        0
+:  1104: A 168 LEU  CB  : A 128 ILE  CD1 :   -0.414:        0
+
+:  1104: A 144 ASP  HB2 : A 112 LYS  HG2 :   -0.492:        0
+
+:  1104: A  48 ASN  OD1 : A  82 ASN  HA  :   -0.464:        0
+
+:  1104: A 103 GLY  O   : A  77 SER  HA  :   -0.459:        0
+
+:  1104: A  44 LYS  O   : A  12 ILE HG23 :   -0.449:        0
+
+:  1104: A 106 ASN  H   : A 104 GLY  C   :   -0.429:        0
+
+:  1104: A 181 ASN  ND2 : A 145 GLY  HA3 :   -0.417:        0
+
+:  1104: A  75 ALA  O   : A 101 THR  HA  :   -0.406:        0
+#sum2 ::17.21 clashscore : 17.21 clashscore B<40 
+#summary::1104 atoms:1104 atoms B<40:132886 potential dots:8305.0 A^2:19 bumps:19 bumps B<40:355.3 score

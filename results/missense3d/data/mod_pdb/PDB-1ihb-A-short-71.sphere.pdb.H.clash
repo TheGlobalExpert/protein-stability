@@ -1,0 +1,37 @@
+
+:  1479: A 121 PHE  C   : A 121 PHE  CB  :   -0.929:       20
+:  1479: A  90 LEU HD21 : A  96 VAL HG13 :   -0.527:       19
+:  1479: A  90 LEU  CD2 : A  96 VAL HG13 :   -0.521:       19
+:  1479: A 121 PHE  C   : A 121 PHE  CG  :   -0.509:       22
+:  1479: A  96 VAL HG11 : A 126 THR  HB  :   -0.499:       19
+:  1479: A  90 LEU HD12 : A 121 PHE  HE2 :   -0.450:       21
+
+:  1479: A  91 GLU  CA  : A  91 GLU  CG  :   -0.905:       42
+:  1479: A  84 ASP  O   : A  88 THR HG23 :   -0.671:       13
+:  1479: A  91 GLU  CG  : A  88 THR  HA  :   -0.547:       42
+
+:  1479: A  39 ARG HH11 : A  37 PHE  HE2 :   -0.886:       41
+:  1479: A  39 ARG  HD3 : A  37 PHE  CE2 :   -0.564:       41
+:  1479: A  39 ARG  CZ  : A  44 VAL HG12 :   -0.441:       32
+
+:  1479: A  15 ARG  CA  : A  16 GLY  N   :   -0.879:       20
+
+:  1479: A  31 VAL  N   : A  30 ASN  O   :   -0.703:       20
+:  1479: A  30 ASN  OD1 : A  30 ASN  ND2 :   -0.699:       26
+:  1479: A  31 VAL  CA  : A  30 ASN  O   :   -0.406:       19
+
+:  1479: A 131 GLY  C   : A 131 GLY  N   :   -0.676:       13
+
+:  1479: A  69 THR HG22 : A  69 THR  O   :   -0.667:       53
+:  1479: A  69 THR  CG2 : A  69 THR  O   :   -0.563:       53
+
+:  1479: A  46 LYS  HB2 : A  14 ALA  O   :   -0.522:       20
+
+:  1479: A  43 GLN  HA  : A  73 VAL HG22 :   -0.512:       20
+:  1479: A  42 LEU  HG  : A  73 VAL HG21 :   -0.435:       20
+
+:  1479: A 100 ASP  HA  : A  70 GLY  O   :   -0.489:       23
+
+:  1479: A 107 LEU  HG  : A 140 ALA  CB  :   -0.430:       11
+#sum2 ::16.23 clashscore : 12.74 clashscore B<40 
+#summary::1479 atoms:1413 atoms B<40:179885 potential dots:11240.0 A^2:24 bumps:18 bumps B<40:473.3 score

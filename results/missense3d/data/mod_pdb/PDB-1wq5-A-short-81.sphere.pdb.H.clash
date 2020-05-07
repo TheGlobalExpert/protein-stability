@@ -1,0 +1,31 @@
+
+:  1589: A 107 PHE  CE2 : A 107 PHE  CE1 :   -1.039:       27
+
+:  1589: A 130 ASP  CB  : A 130 ASP  N   :   -0.835:       32
+
+:  1589: A 151 ILE  CA  : A 151 ILE  O   :   -0.728:       20
+:  1589: A 125 SER  HB2 : A 151 ILE HD11 :   -0.535:       22
+
+:  1589: A 251 MET  CE  : A 241 ILE HG23 :   -0.611:       34
+:  1589: A 241 ILE HG23 : A 251 MET  HE1 :   -0.525:       34
+
+:  1589: A  52 ILE  CD1 : A  99 LEU HD13 :   -0.576:       43
+
+:  1589: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.555:       30
+:  1589: A  22 PHE  HA  : A  49 GLU  O   :   -0.531:       24
+:  1589: A  22 PHE  CD1 : A  22 PHE  C   :   -0.410:       20
+
+:  1589: A  25 LEU HD11 : A  85 LEU HD21 :   -0.500:       34
+:  1589: A  85 LEU HD12 : A  82 PHE  HA  :   -0.405:       23
+
+:  1589: A 105 LEU HD23 : A 101 MET  HE3 :   -0.497:       41
+:  1589: A 105 LEU HD13 : A  54 PHE  CD1 :   -0.444:       50
+
+:  1589: A   3 ARG  HD2 : A 124 ASP  OD2 :   -0.424:       37
+:  1589: A 124 ASP  CG  : A   3 ARG  HD2 :   -0.411:       32
+
+:  1589: A 255 LEU  CD2 : A 237 ILE HG23 :   -0.418:       32
+
+:  1589: A  55 SER  O   : A  56 ASP  HB2 :   -0.411:       76
+#sum2 ::11.33 clashscore : 10.10 clashscore B<40 
+#summary::1589 atoms:1386 atoms B<40:191541 potential dots:11970.0 A^2:18 bumps:14 bumps B<40:540.5 score

@@ -1,0 +1,8 @@
+
+:   991: A   1 MET  SD  : A  50 GLU  HG3 :   -0.567:       21
+
+:   991: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.512:       16
+
+:   991: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.495:       28
+#sum2 ::3.03 clashscore : 3.05 clashscore B<40 
+#summary::991 atoms:983 atoms B<40:111835 potential dots:6990.0 A^2:3 bumps:3 bumps B<40:350.9 score

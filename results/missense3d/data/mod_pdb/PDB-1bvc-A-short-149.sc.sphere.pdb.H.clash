@@ -1,0 +1,16 @@
+
+:   703: A 146 TYR  OH  : A  93 HIS  HB3 :   -1.124:        0
+:   703: A  93 HIS  CB  : A 146 TYR  OH  :   -0.955:        0
+:   703: A  94 ALA  HB2 : A 146 TYR  CD1 :   -0.728:        0
+:   703: A 146 TYR  HH  : A  93 HIS  HB3 :   -0.725:        0
+:   703: A 146 TYR  OH  : A  93 HIS  HB2 :   -0.418:        0
+
+:   703: A 136 GLU  CA  : A 135 LEU  C   :   -0.957:        0
+
+:   703: A 145 LYS  HZ2 : A  87 LYS  N   :   -0.600:        0
+:   703: A 145 LYS  NZ  : A  87 LYS  N   :   -0.556:        0
+:   703: A  86 LEU  C   : A 145 LYS  HZ2 :   -0.466:        0
+:   703: A  87 LYS  CA  : A 145 LYS  HZ2 :   -0.440:        0
+:   703: A 145 LYS  NZ  : A  87 LYS  CA  :   -0.436:        0
+#sum2 ::15.65 clashscore : 15.65 clashscore B<40 
+#summary::703 atoms:703 atoms B<40:80818 potential dots:5051.0 A^2:11 bumps:11 bumps B<40:189.5 score

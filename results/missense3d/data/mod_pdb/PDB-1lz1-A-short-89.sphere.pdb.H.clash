@@ -1,0 +1,22 @@
+
+:  1437: A  63 TYR  CB  : A  63 TYR  CD1 :   -0.960:       32
+
+:  1437: A  62 ARG  C   : A  62 ARG  N   :   -0.745:       24
+
+:  1437: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1437: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1437: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1437: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1437: A  61 SER  HG  : A  52 THR  N   :   -0.489:       14
+:  1437: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:  1437: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1437: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1437: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1437: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+#sum2 ::8.35 clashscore : 8.82 clashscore B<40 
+#summary::1437 atoms:1361 atoms B<40:168804 potential dots:10550.0 A^2:12 bumps:12 bumps B<40:564.3 score

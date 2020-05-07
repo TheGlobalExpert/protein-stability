@@ -1,0 +1,29 @@
+
+:  1066: A 155 THR  CG2 : A 155 THR  CA  :   -1.024:       23
+:  1066: A 155 THR  CG2 : A 155 THR  N   :   -0.470:       23
+
+:  1066: A 142 THR  C   : A 143 PRO  CA  :   -0.909:       15
+:  1066: A 142 THR  N   : A 141 GLN  CA  :   -0.792:       20
+:  1066: A 142 THR  C   : A 142 THR  N   :   -0.761:       20
+:  1066: A 143 PRO  CA  : A 143 PRO  O   :   -0.752:       15
+
+:  1066: A  96 ARG  NH2 : A  96 ARG  NE  :   -0.798:       24
+
+:  1066: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1066: A  80 ARG  C   : A  80 ARG  N   :   -0.716:       40
+:  1066: A  80 ARG  N   : A  81 ASN  N   :   -0.466:       25
+
+:  1066: A 145 ARG  C   : A 145 ARG  CG  :   -0.653:       22
+
+:  1066: A  79 LEU  CA  : A  79 LEU  CD2 :   -0.538:       27
+
+:  1066: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1066: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1066: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1066: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1066: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::15.95 clashscore : 12.35 clashscore B<40 
+#summary::1066 atoms:972 atoms B<40:128031 potential dots:8002.0 A^2:17 bumps:12 bumps B<40:300.3 score

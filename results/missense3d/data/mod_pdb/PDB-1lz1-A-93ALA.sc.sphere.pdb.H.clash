@@ -1,0 +1,76 @@
+
+:  1633: A 107 ARG  HG3 : A 107 ARG  NH2 :   -1.032:        0
+:  1633: A 107 ARG HH21 : A 107 ARG  CG  :   -1.013:        0
+:  1633: A 113 ARG  CG  : A 113 ARG  CA  :   -0.923:        0
+:  1633: A 113 ARG  CZ  : A 107 ARG  O   :   -0.888:        0
+:  1633: A 107 ARG HH21 : A 107 ARG  HG3 :   -0.868:        0
+:  1633: A 113 ARG  NH1 : A 104 GLN  OE1 :   -0.844:        0
+:  1633: A 107 ARG  HB3 : A 113 ARG HH11 :   -0.722:        0
+:  1633: A 107 ARG  NH2 : A 107 ARG  CG  :   -0.630:        0
+:  1633: A 107 ARG  HB3 : A 113 ARG  NH1 :   -0.538:        0
+:  1633: A 107 ARG  O   : A 113 ARG  NH1 :   -0.507:        0
+:  1633: A 112 TRP  CZ3 : A 107 ARG  NH2 :   -0.458:        0
+:  1633: A 113 ARG  HE  : A 107 ARG  HB3 :   -0.442:        0
+
+:  1633: A 115 ARG  CB  : A 115 ARG  C   :   -0.920:        0
+
+:  1633: A  98 ARG  HD3 : A 101 ARG  NH1 :   -0.866:        0
+:  1633: A  98 ARG  CD  : A 101 ARG  NH1 :   -0.822:        0
+:  1633: A 101 ARG HH11 : A  98 ARG  CD  :   -0.648:        0
+:  1633: A 101 ARG HH11 : A  98 ARG  HD3 :   -0.639:        0
+:  1633: A  98 ARG  O   : A  98 ARG  NH2 :   -0.576:        0
+:  1633: A 101 ARG  NH1 : A  98 ARG  HD2 :   -0.490:        0
+:  1633: A  98 ARG  HA  : A 101 ARG  CZ  :   -0.411:        0
+
+:  1633: A  51 SER  CB  : A  51 SER  C   :   -0.851:        0
+
+:  1633: A   1 LYS  NZ  : A   7 GLU  OE2 :   -0.843:        0
+
+:  1633: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:  1633: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:  1633: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:  1633: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:  1633: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:  1633: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:  1633: A 129 GLY  C   : A 129 GLY  N   :   -0.739:        0
+
+:  1633: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:  1633: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:  1633: A  33 LYS  HD3 : A  38 TYR  OH  :   -0.604:        0
+:  1633: A  38 TYR  CE2 : A  33 LYS  CA  :   -0.431:        0
+:  1633: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:  1633: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:  1633: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:  1633: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1633: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+
+:  1633: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.560:        0
+
+:  1633: A 111 ALA  HB3 : A  35 GLU  OE2 :   -0.510:        0
+
+:  1633: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.508:        0
+
+:  1633: A  74 VAL HG12 : A  74 VAL  O   :   -0.505:        0
+:  1633: A  74 VAL  O   : A  74 VAL  CG1 :   -0.496:        0
+
+:  1633: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.499:        0
+
+:  1633: A  17 MET  SD  : A  97 LYS  HE3 :   -0.499:        0
+
+:  1633: A  84 LEU HD22 : A  92 ALA  HA  :   -0.455:        0
+
+:  1633: A  52 THR  HB  : A  54 TYR  CE2 :   -0.476:        0
+
+:  1633: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+
+:  1633: A  57 PHE  CD1 : A  56 ILE HG23 :   -0.430:        0
+
+:  1633: A  11 THR  O   : A  15 LEU  HG  :   -0.426:        0
+
+:  1633: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+
+:  1633: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::31.84 clashscore : 31.84 clashscore B<40 
+#summary::1633 atoms:1633 atoms B<40:190386 potential dots:11900.0 A^2:52 bumps:52 bumps B<40:383.8 score

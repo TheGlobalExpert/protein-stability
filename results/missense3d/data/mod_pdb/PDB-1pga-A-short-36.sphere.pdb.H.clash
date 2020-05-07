@@ -1,0 +1,20 @@
+
+:   670: A  51 THR  CG2 : A  51 THR  CA  :   -0.907:       11
+:   670: A  51 THR  C   : A  51 THR  CG2 :   -0.453:       11
+
+:   670: A  28 LYS  HE3 : A  28 LYS  N   :   -0.595:       19
+:   670: A  24 ALA  O   : A  28 LYS  NZ  :   -0.426:       17
+
+:   670: A   4 LYS  HD2 : A  15 GLU  CG  :   -0.532:       26
+:   670: A  17 THR  HA  : A   3 TYR  O   :   -0.427:       13
+:   670: A  17 THR  HA  : A   4 LYS  HA  :   -0.425:       13
+
+:   670: A  52 PHE  HE2 : A  27 GLU  HG3 :   -0.495:       21
+
+:   670: A  43 TRP  HA  : A  53 THR  O   :   -0.415:        8
+
+:   670: A  12 LEU HD13 : A   7 LEU HD22 :   -0.414:        9
+
+:   670: A   6 ILE HD13 : A   6 ILE HG21 :   -0.405:       11
+#sum2 ::16.42 clashscore : 16.42 clashscore B<40 
+#summary::670 atoms:670 atoms B<40:78533 potential dots:4908.0 A^2:11 bumps:11 bumps B<40:184.9 score

@@ -1,0 +1,16 @@
+
+:  1118: A  16 SER  CA  : A  17 THR  N   :   -0.852:        0
+:  1118: A  17 THR  CA  : A  17 THR  OG1 :   -0.715:        0
+
+:  1118: A  60 GLN  OE1 : A  57 ALA  HA  :   -0.805:        0
+:  1118: A  60 GLN  NE2 : A  76 TYR  H   :   -0.715:        0
+:  1118: A  60 GLN  OE1 : A  75 SER  HA  :   -0.448:        0
+
+:  1118: A 110 CYS  HB2 : A 115 TYR  CE2 :   -0.631:        0
+:  1118: A 115 TYR  CZ  : A 110 CYS  HB2 :   -0.587:        0
+:  1118: A 110 CYS  CB  : A 115 TYR  CE2 :   -0.492:        0
+
+:  1118: A 119 HIS  NE2 : A 121 ASP  HA  :   -0.470:        0
+:  1118: A 119 HIS  HB3 : A 109 ALA  HB3 :   -0.443:        0
+#sum2 ::8.94 clashscore : 8.94 clashscore B<40 
+#summary::1118 atoms:1118 atoms B<40:131116 potential dots:8195.0 A^2:10 bumps:10 bumps B<40:351.5 score

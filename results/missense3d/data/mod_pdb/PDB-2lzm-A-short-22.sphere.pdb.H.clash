@@ -1,0 +1,31 @@
+
+:  1098: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1098: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1098: A  22 GLU  N   : A  20 ASP  HB3 :   -0.797:       42
+:  1098: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1098: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+:  1098: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1098: A 137 ARG  CZ  : A 141 GLN  HG2 :   -0.450:       39
+
+:  1098: A 133 LEU  CD2 : A 133 LEU  CB  :   -0.972:       17
+
+:  1098: A   8 ARG  NH2 : A   8 ARG  NE  :   -0.862:       46
+:  1098: A   8 ARG  NE  : A   8 ARG  CB  :   -0.453:       45
+
+:  1098: A  66 LEU  CB  : A  66 LEU  C   :   -0.847:       19
+
+:  1098: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.650:       48
+:  1098: A  43 LYS  HD3 : A  39 LEU  O   :   -0.441:       42
+
+:  1098: A  41 ALA  H   : A  38 SER  HB2 :   -0.643:       26
+
+:  1098: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1098: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1098: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:  1098: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+
+:  1098: A 113 GLY  N   : A 112 ALA  N   :   -0.409:       25
+#sum2 ::17.30 clashscore : 9.10 clashscore B<40 
+#summary::1098 atoms:989 atoms B<40:132896 potential dots:8306.0 A^2:19 bumps:9 bumps B<40:266.3 score

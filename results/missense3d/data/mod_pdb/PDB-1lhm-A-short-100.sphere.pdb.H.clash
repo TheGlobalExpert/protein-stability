@@ -1,0 +1,26 @@
+
+:  1353: A  42 ALA  C   : A  42 ALA  CB  :   -0.880:       17
+
+:  1353: A  44 ASN  CB  : A  44 ASN  ND2 :   -0.798:       28
+
+:  1353: A  82 SER  C   : A  82 SER  N   :   -0.756:       11
+
+:  1353: A  39 ASN  C   : A  39 ASN  N   :   -0.705:       11
+
+:  1353: A  10 ARG  C   : A  10 ARG  N   :   -0.685:       11
+
+:  1353: A 117 GLN  HB2 : A 112 TRP  CZ3 :   -0.564:       18
+:  1353: A 112 TRP  CD1 : A 116 CYS  HB2 :   -0.411:       12
+
+:  1353: A  64 TRP  O   : A  77 ALA  HB3 :   -0.498:       24
+:  1353: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.479:       24
+:  1353: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.429:       15
+:  1353: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.400:       17
+
+:  1353: A  62 ARG  HD2 : A  62 ARG HH11 :   -0.477:       29
+
+:  1353: A  53 ASP  HB3 : A  58 GLN  HB3 :   -0.461:       12
+
+:  1353: A  97 LYS  O   : A 101 ARG  HG3 :   -0.416:       16
+#sum2 ::10.35 clashscore : 10.35 clashscore B<40 
+#summary::1353 atoms:1353 atoms B<40:164792 potential dots:10300.0 A^2:14 bumps:14 bumps B<40:518.9 score

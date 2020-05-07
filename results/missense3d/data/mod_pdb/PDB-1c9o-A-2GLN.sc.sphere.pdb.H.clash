@@ -1,0 +1,26 @@
+
+:   775: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.795:        0
+:   775: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.503:        0
+:   775: A  65 LYS  HE2 : A  41 LEU  CD2 :   -0.432:        0
+
+:   775: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.778:        0
+:   775: A  17 PHE  CD1 : A   8 TRP  CZ2 :   -0.688:        0
+
+:   775: A   5 LYS  HE2 : A  19 GLU  CD  :   -0.761:        0
+:   775: A  19 GLU  OE1 : A   5 LYS  HE2 :   -0.695:        0
+:   775: A  19 GLU  CG  : A   5 LYS  HG3 :   -0.624:        0
+:   775: A   5 LYS  CE  : A  19 GLU  CD  :   -0.573:        0
+:   775: A  19 GLU  OE1 : A   5 LYS  CE  :   -0.542:        0
+:   775: A   5 LYS  HE2 : A  19 GLU  CG  :   -0.424:        0
+:   775: A  19 GLU  HG3 : A   5 LYS  CG  :   -0.420:        0
+:   775: A  19 GLU  CG  : A   5 LYS  CG  :   -0.419:        0
+
+:   775: A   1 MET  SD  : A  50 GLU  HG3 :   -0.673:        0
+
+:   775: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.635:        0
+
+:   775: A  18 ILE HG21 : A  49 PHE  CE2 :   -0.434:        0
+
+:   775: A  14 GLY  O   : A  15 TYR  CA  :   -0.422:        0
+#sum2 ::21.94 clashscore : 21.94 clashscore B<40 
+#summary::775 atoms:775 atoms B<40:90792 potential dots:5674.0 A^2:17 bumps:17 bumps B<40:208.2 score

@@ -1,0 +1,17 @@
+
+:  1065: A  50 GLU  CA  : A  50 GLU  CG  :   -0.997:       22
+
+:  1065: A  80 VAL HG21 : A  18 MET  CE  :   -0.825:       31
+:  1065: A  80 VAL  CG2 : A  18 MET  CE  :   -0.761:       31
+:  1065: A  80 VAL HG21 : A  18 MET  HE1 :   -0.745:       31
+:  1065: A  80 VAL  CG2 : A  18 MET  HE3 :   -0.687:       31
+
+:  1065: A  93 ILE HD13 : A  85 VAL HG21 :   -0.643:       27
+
+:  1065: A  96 LEU HD22 : A  61 TYR  CE2 :   -0.435:       30
+
+:  1065: A   1 VAL  O   : A   1 VAL HG12 :   -0.425:       30
+
+:  1065: A  73 LEU HD12 : A  73 LEU  HA  :   -0.413:       30
+#sum2 ::8.45 clashscore : 8.66 clashscore B<40 
+#summary::1065 atoms:1039 atoms B<40:123889 potential dots:7743.0 A^2:9 bumps:9 bumps B<40:356.8 score

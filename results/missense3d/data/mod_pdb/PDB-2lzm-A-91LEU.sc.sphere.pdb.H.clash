@@ -1,0 +1,82 @@
+
+:  1328: A   6 MET  HE2 : A 161 TYR  OH  :   -1.283:        0
+:  1328: A 161 TYR  OH  : A   6 MET  CE  :   -0.956:        0
+:  1328: A   6 MET  HE2 : A 161 TYR  CZ  :   -0.947:        0
+:  1328: A 161 TYR  CZ  : A   6 MET  HG3 :   -0.894:        0
+:  1328: A 161 TYR  CZ  : A   6 MET  CE  :   -0.850:        0
+:  1328: A   6 MET  HE3 : A 161 TYR  CE2 :   -0.834:        0
+:  1328: A   6 MET  CE  : A 161 TYR  CE2 :   -0.832:        0
+:  1328: A   6 MET  HG3 : A 161 TYR  CE1 :   -0.748:        0
+:  1328: A   6 MET  CG  : A 161 TYR  CZ  :   -0.697:        0
+:  1328: A 161 TYR  CE1 : A   6 MET  CG  :   -0.540:        0
+:  1328: A   6 MET  HE3 : A 161 TYR  HE2 :   -0.532:        0
+:  1328: A   6 MET  CE  : A 161 TYR  HE2 :   -0.475:        0
+:  1328: A   6 MET  HE3 : A 158 TRP  HZ3 :   -0.465:        0
+
+:  1328: A 111 VAL HG22 : A 106 MET  SD  :   -1.125:        0
+:  1328: A 106 MET  SD  : A 111 VAL  CG2 :   -1.086:        0
+:  1328: A 106 MET  CG  : A 111 VAL HG23 :   -0.934:        0
+:  1328: A 111 VAL HG23 : A 106 MET  SD  :   -0.634:        0
+:  1328: A 111 VAL HG23 : A 106 MET  HG2 :   -0.614:        0
+:  1328: A 106 MET  CG  : A 111 VAL  CG2 :   -0.485:        0
+:  1328: A 106 MET  HE3 : A 106 MET  HB3 :   -0.454:        0
+
+:  1328: A 119 ARG  HB3 : A 119 ARG HH21 :   -1.038:        0
+:  1328: A 119 ARG  NH2 : A 119 ARG  HB3 :   -0.727:        0
+:  1328: A 119 ARG  CD  : A 123 GLN  NE2 :   -0.466:        0
+:  1328: A 123 GLN  NE2 : A 119 ARG  HD2 :   -0.433:        0
+
+:  1328: A 108 GLU  OE2 : A  77 GLY  O   :   -0.959:        0
+:  1328: A  77 GLY  C   : A 108 GLU  OE2 :   -0.859:        0
+:  1328: A  77 GLY  CA  : A 108 GLU  OE2 :   -0.730:        0
+
+:  1328: A 138 TRP  CZ2 : A 146 ALA  HA  :   -0.937:        0
+:  1328: A 138 TRP  CH2 : A 146 ALA  HA  :   -0.552:        0
+:  1328: A 138 TRP  CZ2 : A 146 ALA  CA  :   -0.513:        0
+
+:  1328: A 126 TRP  HE1 : A  95 ARG  NH2 :   -0.868:        0
+:  1328: A  95 ARG HH21 : A 126 TRP  HE1 :   -0.861:        0
+:  1328: A  95 ARG HH22 : A 124 LYS  HD2 :   -0.701:        0
+:  1328: A 124 LYS  CD  : A  95 ARG HH22 :   -0.581:        0
+:  1328: A  95 ARG  NH2 : A 126 TRP  NE1 :   -0.537:        0
+:  1328: A  92 ASP  OD1 : A  92 ASP  C   :   -0.457:        0
+:  1328: A  92 ASP  CG  : A  95 ARG  HE  :   -0.454:        0
+
+:  1328: A 105 GLN  CD  : A 105 GLN  CB  :   -0.859:        0
+
+:  1328: A 145 ARG  CG  : A 145 ARG  NE  :   -0.827:        0
+:  1328: A 145 ARG  NH1 : A 145 ARG  NE  :   -0.776:        0
+:  1328: A 145 ARG  C   : A 145 ARG  CG  :   -0.456:        0
+
+:  1328: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.715:        0
+:  1328: A  86 PRO  HD2 : A  85 LYS  N   :   -0.571:        0
+:  1328: A  85 LYS  HB3 : A  86 PRO  CD  :   -0.463:        0
+:  1328: A  85 LYS  N   : A  86 PRO  CD  :   -0.445:        0
+
+:  1328: A  87 VAL HG22 : A 122 GLN  HG3 :   -0.680:        0
+:  1328: A  87 VAL  O   : A  91 LEU  HG  :   -0.447:        0
+
+:  1328: A   5 GLU  OE1 : A   1 MET  HA  :   -0.600:        0
+:  1328: A   5 GLU  CB  : A   5 GLU  OE1 :   -0.422:        0
+
+:  1328: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.579:        0
+:  1328: A 153 PHE  CZ  : A  98 ALA  HB3 :   -0.454:        0
+
+:  1328: A  81 ASN  CB  : A  84 LEU HD12 :   -0.566:        0
+:  1328: A  84 LEU HD12 : A  81 ASN  HB3 :   -0.440:        0
+
+:  1328: A  75 VAL  O   : A  79 LEU  HG  :   -0.559:        0
+
+:  1328: A 114 PHE  O   : A 118 LEU  HG  :   -0.475:        0
+
+:  1328: A 151 THR  HA  : A 154 ARG  CZ  :   -0.472:        0
+:  1328: A 154 ARG  NH1 : A 151 THR  HA  :   -0.454:        0
+:  1328: A 151 THR  OG1 : A 154 ARG  NH1 :   -0.406:        0
+
+:  1328: A  88 TYR  CD2 : A  78 ILE HG21 :   -0.433:        0
+
+:  1328: A   3 ILE HG23 : A   4 PHE  N   :   -0.408:        0
+
+:  1328: A 132 ASN  OD1 : A 117 SER  OG  :   -0.402:        0
+#sum2 ::45.93 clashscore : 45.93 clashscore B<40 
+#summary::1328 atoms:1328 atoms B<40:154788 potential dots:9674.0 A^2:61 bumps:61 bumps B<40:187.5 score

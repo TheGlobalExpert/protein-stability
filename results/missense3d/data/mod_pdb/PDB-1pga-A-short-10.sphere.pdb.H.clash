@@ -1,0 +1,10 @@
+
+:   520: A   4 LYS  HD2 : A  15 GLU  CG  :   -0.532:       26
+
+:   520: A  43 TRP  HA  : A  53 THR  O   :   -0.415:        8
+
+:   520: A  12 LEU HD13 : A   7 LEU HD22 :   -0.414:        9
+
+:   520: A   6 ILE HD13 : A   6 ILE HG21 :   -0.405:       11
+#sum2 ::7.69 clashscore : 7.69 clashscore B<40 
+#summary::520 atoms:520 atoms B<40:60765 potential dots:3798.0 A^2:4 bumps:4 bumps B<40:165.8 score

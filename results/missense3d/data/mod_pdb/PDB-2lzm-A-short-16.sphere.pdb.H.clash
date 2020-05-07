@@ -1,0 +1,32 @@
+
+:  1019: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1019: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1019: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1019: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1019: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+
+:  1019: A 105 GLN  CA  : A 105 GLN  CG  :   -0.945:       30
+
+:  1019: A 104 PHE  CB  : A 104 PHE  C   :   -0.804:       10
+
+:  1019: A   6 MET  O   : A   7 LEU  N   :   -0.723:       13
+:  1019: A   7 LEU  CA  : A   6 MET  O   :   -0.414:       13
+
+:  1019: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.650:       48
+:  1019: A  43 LYS  HD3 : A  39 LEU  O   :   -0.441:       42
+
+:  1019: A  41 ALA  H   : A  38 SER  HB2 :   -0.643:       26
+
+:  1019: A  50 ILE HG22 : A  52 ARG  HG2 :   -0.571:       48
+:  1019: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:  1019: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.496:       48
+:  1019: A  52 ARG  NH1 : A  52 ARG  HG3 :   -0.473:       48
+
+:  1019: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1019: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1019: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:  1019: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+#sum2 ::19.63 clashscore : 10.38 clashscore B<40 
+#summary::1019 atoms:867 atoms B<40:118235 potential dots:7390.0 A^2:20 bumps:9 bumps B<40:279.8 score

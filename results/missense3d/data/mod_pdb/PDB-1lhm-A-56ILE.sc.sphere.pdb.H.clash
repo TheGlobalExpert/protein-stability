@@ -1,0 +1,89 @@
+
+:  1721: A  62 ARG  CD  : A  62 ARG  CZ  :   -1.033:        0
+:  1721: A  49 ASP  OD2 : A  62 ARG  NH2 :   -0.791:        0
+:  1721: A  51 SER  HB3 : A  62 ARG  NH2 :   -0.693:        0
+:  1721: A  62 ARG  NH2 : A  49 ASP  CG  :   -0.493:        0
+:  1721: A  62 ARG  CD  : A  62 ARG  NH2 :   -0.445:        0
+
+:  1721: A  99 VAL HG22 : A  64 TRP  CE2 :   -1.005:        0
+:  1721: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.916:        0
+:  1721: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.876:        0
+:  1721: A  99 VAL HG13 : A  64 TRP  CZ2 :   -0.698:        0
+:  1721: A  99 VAL  HA  : A  64 TRP  CZ3 :   -0.678:        0
+:  1721: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.673:        0
+:  1721: A  64 TRP  CZ2 : A  99 VAL HG22 :   -0.664:        0
+:  1721: A 109 TRP  CH2 : A  99 VAL  CG1 :   -0.581:        0
+:  1721: A  59 ILE  CG2 : A  64 TRP  HB2 :   -0.549:        0
+:  1721: A  77 ALA  HB3 : A  64 TRP  O   :   -0.519:        0
+:  1721: A  64 TRP  CD1 : A  59 ILE HG23 :   -0.504:        0
+:  1721: A  99 VAL HG22 : A  64 TRP  CE3 :   -0.450:        0
+:  1721: A  99 VAL HG11 : A 109 TRP  CZ2 :   -0.425:        0
+:  1721: A  95 ALA  HB1 : A  59 ILE HD13 :   -0.403:        0
+:  1721: A  99 VAL  HB  : A 109 TRP  HH2 :   -0.403:        0
+
+:  1721: A 119 ARG  CD  : A 119 ARG  CB  :   -0.973:        0
+
+:  1721: A  38 TYR  HD2 : A   8 LEU HD22 :   -0.945:        0
+:  1721: A  38 TYR  HD2 : A   8 LEU  CD2 :   -0.891:        0
+:  1721: A   8 LEU  CD2 : A  38 TYR  CD2 :   -0.812:        0
+:  1721: A  38 TYR  CE2 : A   8 LEU HD23 :   -0.737:        0
+:  1721: A   8 LEU HD23 : A  38 TYR  CD2 :   -0.580:        0
+:  1721: A   8 LEU HD22 : A  38 TYR  CD2 :   -0.573:        0
+:  1721: A  38 TYR  HE2 : A   8 LEU HD23 :   -0.549:        0
+
+:  1721: A   3 PHE  HE2 : A   1 LYS  HZ3 :   -0.841:        0
+:  1721: A   1 LYS  HE2 : A   3 PHE  CD2 :   -0.556:        0
+:  1721: A   3 PHE  CE2 : A   1 LYS  NZ  :   -0.550:        0
+:  1721: A   1 LYS  CE  : A   3 PHE  CE2 :   -0.475:        0
+
+:  1721: A  74 VAL  N   : A  74 VAL  C   :   -0.826:        0
+:  1721: A  74 VAL  CG2 : A  63 TYR  HA  :   -0.429:        0
+
+:  1721: A 102 ASP  CA  : A 102 ASP  O   :   -0.778:        0
+:  1721: A 102 ASP  O   : A 102 ASP  N   :   -0.400:        0
+
+:  1721: A 128 CYS  SG  : A   6 CYS  SG  :   -0.769:        0
+
+:  1721: A 121 VAL  N   : A 120 ASP  O   :   -0.683:        0
+:  1721: A 121 VAL  O   : A 124 TYR  HD2 :   -0.567:        0
+
+:  1721: A  22 GLY  C   : A  22 GLY  N   :   -0.668:        0
+
+:  1721: A  93 VAL HG21 : A  15 LEU  CD1 :   -0.632:        0
+:  1721: A  97 LYS  HB3 : A  20 TYR  CZ  :   -0.590:        0
+:  1721: A 101 ARG  CZ  : A  98 ARG  HA  :   -0.541:        0
+:  1721: A 101 ARG  HG3 : A  97 LYS  O   :   -0.525:        0
+:  1721: A  17 MET  SD  : A  93 VAL HG13 :   -0.517:        0
+:  1721: A  20 TYR  OH  : A  97 LYS  HB3 :   -0.487:        0
+:  1721: A  20 TYR  CE1 : A  97 LYS  HD3 :   -0.458:        0
+:  1721: A  15 LEU HD12 : A  93 VAL HG21 :   -0.457:        0
+:  1721: A  93 VAL HG21 : A  15 LEU HD13 :   -0.427:        0
+:  1721: A  97 LYS  HE3 : A  93 VAL  CG1 :   -0.405:        0
+
+:  1721: A 107 ARG  O   : A 113 ARG  NH1 :   -0.602:        0
+
+:  1721: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.580:        0
+:  1721: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.564:        0
+:  1721: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.560:        0
+
+:  1721: A  34 TRP  CE2 : A 115 ARG  HD2 :   -0.555:        0
+:  1721: A  34 TRP  CZ2 : A 115 ARG  HD2 :   -0.462:        0
+:  1721: A 115 ARG  HB3 : A  34 TRP  NE1 :   -0.448:        0
+:  1721: A 115 ARG  HD2 : A  34 TRP  CD2 :   -0.448:        0
+
+:  1721: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.495:        0
+
+:  1721: A  39 ASN  OD1 : A  41 ARG  HG2 :   -0.479:        0
+
+:  1721: A 106 ILE  O   : A 106 ILE HG13 :   -0.467:        0
+:  1721: A 106 ILE HG12 : A 112 TRP  NE1 :   -0.450:        0
+:  1721: A 106 ILE HG12 : A 112 TRP  CD1 :   -0.425:        0
+
+:  1721: A  54 TYR  HD2 : A  85 LEU HD21 :   -0.461:        0
+:  1721: A  54 TYR  CE1 : A  52 THR  HB  :   -0.426:        0
+
+:  1721: A  75 ASN  ND2 : A  78 HIS  HA  :   -0.442:        0
+
+:  1721: A  35 GLU  HB3 : A  58 GLN  CG  :   -0.410:        0
+#sum2 ::38.93 clashscore : 38.93 clashscore B<40 
+#summary::1721 atoms:1721 atoms B<40:203287 potential dots:12710.0 A^2:67 bumps:67 bumps B<40:325.6 score

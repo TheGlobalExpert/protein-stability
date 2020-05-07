@@ -1,0 +1,26 @@
+
+:   972: A 124 TYR  CZ  : A 124 TYR  CD2 :   -1.018:        0
+
+:   972: A  28 TRP  CH2 : A  28 TRP  CE2 :   -1.016:        0
+
+:   972: A 109 TRP  CD2 : A 109 TRP  CZ3 :   -1.011:        0
+
+:   972: A   7 GLU  OE2 : A   1 LYS  NZ  :   -0.843:        0
+
+:   972: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:   972: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:   972: A  38 TYR  OH  : A  33 LYS  HD3 :   -0.604:        0
+:   972: A  33 LYS  CA  : A  38 TYR  CE2 :   -0.431:        0
+:   972: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:   972: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:   972: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:   972: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.499:        0
+:   972: A  92 ALA  HA  : A  84 LEU HD22 :   -0.455:        0
+
+:   972: A  54 TYR  CE2 : A  52 THR  HB  :   -0.476:        0
+
+:   972: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+#sum2 ::15.43 clashscore : 15.43 clashscore B<40 
+#summary::972 atoms:972 atoms B<40:117954 potential dots:7372.0 A^2:15 bumps:15 bumps B<40:279.6 score

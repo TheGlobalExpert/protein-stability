@@ -1,0 +1,24 @@
+
+:  1591: A  16 LEU  N   : A  15 ALA  CA  :   -0.878:       11
+:  1591: A  16 LEU  N   : A  16 LEU  CB  :   -0.859:       12
+
+:  1591: A 270 VAL  N   : A 269 ASN  CA  :   -0.866:        8
+
+:  1591: A 233 LEU  N   : A 232 ALA  CA  :   -0.848:        8
+:  1591: A 233 LEU  N   : A 233 LEU  CB  :   -0.821:        8
+
+:  1591: A 150 VAL  CB  : A 150 VAL  C   :   -0.822:        7
+
+:  1591: A  91 TYR  C   : A  91 TYR  N   :   -0.712:        8
+
+:  1591: A  35 ILE HD11 : A  30 VAL  HB  :   -0.509:        9
+
+:  1591: A 125 SER  HB3 : A 221 SER  CB  :   -0.495:       13
+
+:  1591: A 205 ILE  O   : A 216 ALA  HA  :   -0.463:        8
+
+:  1591: A 267 LEU HD22 : A 184 ASN  OD1 :   -0.432:       18
+
+:  1591: A  81 VAL  HA  : A   3 SER  O   :   -0.421:       14
+#sum2 ::7.54 clashscore : 7.55 clashscore B<40 
+#summary::1591 atoms:1590 atoms B<40:194902 potential dots:12180.0 A^2:12 bumps:12 bumps B<40:684.4 score

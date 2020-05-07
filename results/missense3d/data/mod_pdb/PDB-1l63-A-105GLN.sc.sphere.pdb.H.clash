@@ -1,0 +1,100 @@
+
+:  1898: A 106 MET  CE  : A 102 MET  HB3 :   -1.303:        0
+:  1898: A 111 VAL HG22 : A 106 MET  CE  :   -1.215:        0
+:  1898: A 102 MET  CB  : A 106 MET  CE  :   -0.847:        0
+:  1898: A 106 MET  HE3 : A 111 VAL HG22 :   -0.844:        0
+:  1898: A 102 MET  HB3 : A 106 MET  HE3 :   -0.816:        0
+:  1898: A 102 MET  HB3 : A 106 MET  HE2 :   -0.791:        0
+:  1898: A 106 MET  CE  : A 111 VAL  CG2 :   -0.758:        0
+:  1898: A 111 VAL HG22 : A 106 MET  SD  :   -0.740:        0
+:  1898: A 106 MET  HE2 : A 102 MET  C   :   -0.624:        0
+:  1898: A 106 MET  HE3 : A 102 MET  HE2 :   -0.592:        0
+:  1898: A 106 MET  CG  : A 111 VAL HG23 :   -0.587:        0
+:  1898: A 102 MET  O   : A 106 MET  HE2 :   -0.536:        0
+:  1898: A 106 MET  SD  : A 111 VAL  CG2 :   -0.534:        0
+:  1898: A 111 VAL HG22 : A 106 MET  HE2 :   -0.534:        0
+:  1898: A 106 MET  CG  : A 111 VAL  CG2 :   -0.510:        0
+:  1898: A 102 MET  CE  : A 106 MET  HE3 :   -0.501:        0
+:  1898: A 106 MET  HE2 : A 102 MET  CB  :   -0.478:        0
+:  1898: A 106 MET  HE2 : A 111 VAL  CG2 :   -0.475:        0
+:  1898: A 102 MET  O   : A 106 MET  HG2 :   -0.468:        0
+:  1898: A 106 MET  CE  : A 102 MET  CE  :   -0.461:        0
+
+:  1898: A  76 ARG  NH1 : A  73 ALA  HA  :   -1.138:        0
+:  1898: A  73 ALA  CA  : A  76 ARG  NH1 :   -0.809:        0
+:  1898: A  76 ARG  CZ  : A  73 ALA  HA  :   -0.713:        0
+:  1898: A  76 ARG  HB2 : A  76 ARG  CZ  :   -0.663:        0
+:  1898: A  76 ARG  CB  : A  76 ARG  NH2 :   -0.606:        0
+:  1898: A  76 ARG  CZ  : A  76 ARG  CB  :   -0.555:        0
+:  1898: A  76 ARG HH21 : A  76 ARG  HB3 :   -0.526:        0
+:  1898: A  76 ARG  HB3 : A  76 ARG  NH2 :   -0.450:        0
+:  1898: A  76 ARG HH21 : A  76 ARG  CB  :   -0.443:        0
+
+:  1898: A 108 GLU  OE1 : A  81 ASN  ND2 :   -1.135:        0
+:  1898: A  81 ASN HD22 : A 108 GLU  CD  :   -0.933:        0
+:  1898: A  84 LEU  CD1 : A 108 GLU  HG3 :   -0.517:        0
+:  1898: A  84 LEU HD12 : A 108 GLU  HG3 :   -0.497:        0
+:  1898: A  81 ASN  HB3 : A  84 LEU  HB2 :   -0.435:        0
+
+:  1898: A 154 ARG  CA  : A 155 THR  N   :   -0.885:        0
+
+:  1898: A   6 MET  HE3 : A 161 TYR  CE2 :   -0.880:        0
+:  1898: A   6 MET  CE  : A 161 TYR  CE2 :   -0.602:        0
+
+:  1898: A 156 GLY  CA  : A 157 THR  N   :   -0.823:        0
+:  1898: A 157 THR  N   : A 157 THR  C   :   -0.783:        0
+
+:  1898: A  14 ARG  NH2 : A  18 TYR  HB2 :   -0.777:        0
+:  1898: A  14 ARG  NH2 : A  18 TYR  CB  :   -0.699:        0
+:  1898: A  14 ARG  CZ  : A  18 TYR  HB3 :   -0.417:        0
+
+:  1898: A 159 ASP  N   : A 159 ASP  C   :   -0.660:        0
+
+:  1898: A 132 ASN  OD1 : A 117 SER  OG  :   -0.659:        0
+
+:  1898: A  11 GLU  OE1 : A 145 ARG  NH2 :   -0.643:        0
+
+:  1898: A 137 ARG  O   : A 141 GLN  HG2 :   -0.607:        0
+
+:  1898: A 139 TYR  HE1 : A 147 LYS  HG3 :   -0.604:        0
+:  1898: A 139 TYR  OH  : A 147 LYS  HE3 :   -0.549:        0
+:  1898: A 147 LYS  CE  : A 139 TYR  OH  :   -0.481:        0
+:  1898: A 139 TYR  CE1 : A 147 LYS  HG3 :   -0.433:        0
+
+:  1898: A 158 TRP  HH2 : A  97 ALA  CB  :   -0.582:        0
+:  1898: A 158 TRP  HH2 : A  97 ALA  HB1 :   -0.427:        0
+
+:  1898: A  86 PRO  CD  : A  85 LYS  HB3 :   -0.568:        0
+:  1898: A  85 LYS  N   : A  86 PRO  CD  :   -0.539:        0
+:  1898: A  85 LYS  CB  : A  86 PRO  CD  :   -0.495:        0
+
+:  1898: A   8 ARG HH21 : A   8 ARG  HG3 :   -0.564:        0
+:  1898: A   8 ARG  HG3 : A   8 ARG  NH2 :   -0.469:        0
+
+:  1898: A  26 THR HG22 : A  27 ILE  N   :   -0.563:        0
+:  1898: A  26 THR HG23 : A  31 HIS  C   :   -0.491:        0
+:  1898: A  31 HIS  O   : A  26 THR HG23 :   -0.455:        0
+:  1898: A  27 ILE  N   : A  26 THR  CG2 :   -0.421:        0
+
+:  1898: A 103 VAL HG21 : A  78 ILE  CG1 :   -0.551:        0
+:  1898: A 103 VAL HG21 : A  78 ILE HD11 :   -0.490:        0
+:  1898: A 103 VAL HG21 : A  78 ILE  CD1 :   -0.420:        0
+
+:  1898: A  67 PHE  CD1 : A  29 ILE HD13 :   -0.526:        0
+:  1898: A  29 ILE HG22 : A  29 ILE  O   :   -0.465:        0
+:  1898: A  67 PHE  HB2 : A  29 ILE HD12 :   -0.452:        0
+
+:  1898: A  75 VAL  O   : A  79 LEU  HG  :   -0.521:        0
+
+:  1898: A  96 ARG  HG3 : A  92 ASP  O   :   -0.519:        0
+
+:  1898: A 138 TRP  CH2 : A 146 ALA  HA  :   -0.512:        0
+:  1898: A 149 VAL  HB  : A 138 TRP  HH2 :   -0.405:        0
+
+:  1898: A  20 ASP  OD2 : A  20 ASP  C   :   -0.498:        0
+
+:  1898: A   3 ILE HG23 : A   4 PHE  N   :   -0.435:        0
+
+:  1898: A 153 PHE  CE2 : A  98 ALA  HB3 :   -0.410:        0
+#sum2 ::38.99 clashscore : 38.99 clashscore B<40 
+#summary::1898 atoms:1898 atoms B<40:223189 potential dots:13950.0 A^2:74 bumps:74 bumps B<40:391.6 score

@@ -1,0 +1,31 @@
+
+:  1288: A  53 ILE  CG1 : A  53 ILE  CA  :   -0.955:       24
+
+:  1288: A  70 ASN  N   : A  69 THR  CA  :   -0.912:       16
+
+:  1288: A  83 GLY  N   : A  83 GLY  C   :   -0.733:       20
+
+:  1288: A  62 ASN  CB  : A  62 ASN  OD1 :   -0.669:       30
+:  1288: A  62 ASN  N   : A  60 ASP  OD1 :   -0.500:       31
+:  1288: A  60 ASP  OD1 : A  60 ASP  C   :   -0.475:       31
+
+:  1288: A  39 HIS  HA  : A  57 VAL  O   :   -0.576:       25
+:  1288: A  57 VAL  N   : A  40 SER  HG  :   -0.507:       26
+:  1288: A  63 ASN  OD1 : A  57 VAL  CG1 :   -0.446:       30
+
+:  1288: A 100 LYS  HD3 : A  99 LYS  HZ2 :   -0.546:       32
+
+:  1288: A  90 ASP  HB3 : A  85 LEU HD22 :   -0.535:       22
+
+:  1288: A  94 LEU HD13 : A   9 LEU  HB3 :   -0.491:       13
+:  1288: A  68 LEU HD13 : A  94 LEU HD23 :   -0.450:       13
+
+:  1288: A  10 PHE  CZ  : A  20 VAL HG13 :   -0.451:       12
+
+:  1288: A   5 LYS  HG2 : A  93 ASP  OD2 :   -0.443:       24
+
+:  1288: A  64 MET  O   : A  64 MET  HG3 :   -0.437:       20
+
+:  1288: A  21 GLU  HG2 : A  24 GLY  HA3 :   -0.422:       28
+#sum2 ::13.20 clashscore : 13.26 clashscore B<40 
+#summary::1288 atoms:1282 atoms B<40:151107 potential dots:9444.0 A^2:17 bumps:17 bumps B<40:377.4 score

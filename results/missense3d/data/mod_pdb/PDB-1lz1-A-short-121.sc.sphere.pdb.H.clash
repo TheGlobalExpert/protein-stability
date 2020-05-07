@@ -1,0 +1,60 @@
+
+:  1050: A 104 GLN  NE2 : A 113 ARG HH12 :   -1.066:        0
+:  1050: A 107 ARG  HG3 : A 107 ARG  NH2 :   -1.032:        0
+:  1050: A 107 ARG HH21 : A 107 ARG  CG  :   -1.013:        0
+:  1050: A 104 GLN  NE2 : A 113 ARG  NH1 :   -0.996:        0
+:  1050: A 113 ARG  CZ  : A 107 ARG  O   :   -0.888:        0
+:  1050: A 107 ARG HH21 : A 107 ARG  HG3 :   -0.868:        0
+:  1050: A 107 ARG  HB3 : A 113 ARG HH11 :   -0.722:        0
+:  1050: A 107 ARG  NH2 : A 107 ARG  CG  :   -0.630:        0
+:  1050: A 107 ARG  HB3 : A 113 ARG  NH1 :   -0.538:        0
+:  1050: A 107 ARG  O   : A 113 ARG  NH1 :   -0.507:        0
+:  1050: A 112 TRP  CZ3 : A 107 ARG  NH2 :   -0.458:        0
+:  1050: A 113 ARG  HE  : A 107 ARG  HB3 :   -0.442:        0
+
+:  1050: A 120 ASP  OD1 : A 122 ARG  HD2 :   -1.043:        0
+:  1050: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.807:        0
+:  1050: A 122 ARG HH21 : A 122 ARG  CG  :   -0.739:        0
+:  1050: A 122 ARG  HG3 : A 122 ARG HH21 :   -0.583:        0
+:  1050: A 122 ARG  CG  : A 122 ARG  NH2 :   -0.577:        0
+
+:  1050: A   3 PHE  CE2 : A   3 PHE  CE1 :   -1.003:        0
+
+:  1050: A  97 LYS  CG  : A  97 LYS  CE  :   -0.988:        0
+:  1050: A  97 LYS  CA  : A  97 LYS  CG  :   -0.932:        0
+
+:  1050: A  15 LEU  CB  : A  15 LEU  CD1 :   -0.987:        0
+:  1050: A  15 LEU  CB  : A  15 LEU  C   :   -0.858:        0
+:  1050: A  14 ARG  CA  : A  15 LEU  N   :   -0.848:        0
+:  1050: A  15 LEU  N   : A  15 LEU  CB  :   -0.809:        0
+:  1050: A  15 LEU  N   : A  15 LEU  C   :   -0.735:        0
+:  1050: A  15 LEU  N   : A  16 GLY  N   :   -0.413:        0
+
+:  1050: A   7 GLU  CG  : A   7 GLU  OE1 :   -0.770:        0
+
+:  1050: A 111 ALA  O   : A 115 ARG  HG2 :   -0.725:        0
+:  1050: A 111 ALA  HB3 : A  35 GLU  OE2 :   -0.510:        0
+:  1050: A 115 ARG  O   : A 119 ARG  HD2 :   -0.441:        0
+:  1050: A 119 ARG  HG3 : A 117 GLN  O   :   -0.434:        0
+:  1050: A 115 ARG  HB2 : A  34 TRP  CD1 :   -0.413:        0
+
+:  1050: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:  1050: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:  1050: A  33 LYS  HD3 : A  38 TYR  OH  :   -0.604:        0
+:  1050: A  38 TYR  CE2 : A  33 LYS  CA  :   -0.431:        0
+:  1050: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:  1050: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:  1050: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:  1050: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1050: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+
+:  1050: A 126 GLN  HA  : A 126 GLN  OE1 :   -0.574:        0
+
+:  1050: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1050: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+
+:  1050: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::42.86 clashscore : 42.86 clashscore B<40 
+#summary::1050 atoms:1050 atoms B<40:127365 potential dots:7960.0 A^2:45 bumps:45 bumps B<40:78.82 score

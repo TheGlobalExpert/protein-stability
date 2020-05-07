@@ -1,0 +1,29 @@
+
+:   898: A  30 PHE  CE2 : A  30 PHE  CE1 :   -1.027:        0
+:   898: A  30 PHE  CE2 : A  29 HIS  CE1 :   -0.452:        0
+
+:   898: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.890:        0
+:   898: A  66 LEU HD12 : A  46 GLU  CG  :   -0.526:        0
+
+:   898: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.795:        0
+:   898: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.503:        0
+:   898: A  65 LYS  HE2 : A  41 LEU  CD2 :   -0.432:        0
+
+:   898: A   8 TRP  CZ2 : A  17 PHE  HD1 :   -0.778:        0
+:   898: A  17 PHE  CD1 : A   8 TRP  CZ2 :   -0.688:        0
+:   898: A   8 TRP  CZ3 : A  16 GLY  HA2 :   -0.452:        0
+
+:   898: A   5 LYS  HE2 : A  19 GLU  CD  :   -0.761:        0
+:   898: A  19 GLU  OE1 : A   5 LYS  HE2 :   -0.695:        0
+:   898: A  19 GLU  CG  : A   5 LYS  HG3 :   -0.624:        0
+:   898: A   5 LYS  CE  : A  19 GLU  CD  :   -0.573:        0
+:   898: A  19 GLU  OE1 : A   5 LYS  CE  :   -0.542:        0
+:   898: A   5 LYS  HE2 : A  19 GLU  CG  :   -0.424:        0
+:   898: A  19 GLU  HG3 : A   5 LYS  CG  :   -0.420:        0
+:   898: A  19 GLU  CG  : A   5 LYS  CG  :   -0.419:        0
+
+:   898: A   1 MET  SD  : A  50 GLU  HG3 :   -0.673:        0
+
+:   898: A  36 GLU  CG  : A  37 GLY  N   :   -0.448:        0
+#sum2 ::22.27 clashscore : 22.27 clashscore B<40 
+#summary::898 atoms:898 atoms B<40:102697 potential dots:6419.0 A^2:20 bumps:20 bumps B<40:210 score

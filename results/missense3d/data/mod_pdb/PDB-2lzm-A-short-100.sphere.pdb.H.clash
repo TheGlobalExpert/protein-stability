@@ -1,0 +1,35 @@
+
+:  1851: A 137 ARG  CD  : A 137 ARG  CZ  :   -1.024:       38
+
+:  1851: A  24 TYR  CB  : A  24 TYR  CD1 :   -1.014:       19
+
+:  1851: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1851: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1851: A 164 LEU  CD1 : A 164 LEU  N   :   -0.593:       64
+:  1851: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  1851: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1851: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1851: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+
+:  1851: A  27 ILE  CG2 : A  27 ILE  CA  :   -0.930:       22
+:  1851: A  27 ILE  C   : A  27 ILE  CG2 :   -0.472:       22
+
+:  1851: A  21 THR  CA  : A  22 GLU  N   :   -0.897:       42
+:  1851: A  22 GLU  CB  : A  22 GLU  N   :   -0.823:       42
+:  1851: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1851: A  22 GLU  N   : A  21 THR  N   :   -0.540:       42
+
+:  1851: A   5 GLU  OE1 : A   1 MET  HA  :   -0.635:       38
+:  1851: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1851: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1851: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1851: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1851: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1851: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1851: A 159 ASP  O   : A 162 LYS  HB2 :   -0.428:       58
+#sum2 ::12.43 clashscore : 5.35 clashscore B<40 
+#summary::1851 atoms:1683 atoms B<40:217377 potential dots:13590.0 A^2:23 bumps:9 bumps B<40:624.2 score

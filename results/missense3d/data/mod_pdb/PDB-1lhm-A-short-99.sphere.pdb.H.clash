@@ -1,0 +1,21 @@
+
+:  1477: A  87 ASP  C   : A  87 ASP  N   :   -0.749:       13
+:  1477: A  87 ASP  N   : A  88 ASN  N   :   -0.402:       13
+
+:  1477: A  69 LYS  C   : A  69 LYS  N   :   -0.699:       16
+
+:  1477: A 117 GLN  HB2 : A 112 TRP  CZ3 :   -0.564:       18
+:  1477: A 112 TRP  CD1 : A 116 CYS  HB2 :   -0.411:       12
+
+:  1477: A  64 TRP  O   : A  77 ALA  HB3 :   -0.498:       24
+:  1477: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.479:       24
+:  1477: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.429:       15
+:  1477: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.400:       17
+
+:  1477: A  62 ARG  HD2 : A  62 ARG HH11 :   -0.477:       29
+
+:  1477: A  53 ASP  HB3 : A  58 GLN  HB3 :   -0.461:       12
+
+:  1477: A  97 LYS  O   : A 101 ARG  HG3 :   -0.416:       16
+#sum2 ::8.12 clashscore : 8.12 clashscore B<40 
+#summary::1477 atoms:1477 atoms B<40:174055 potential dots:10880.0 A^2:12 bumps:12 bumps B<40:608.7 score

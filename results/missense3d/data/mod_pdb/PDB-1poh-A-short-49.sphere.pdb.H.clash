@@ -1,0 +1,38 @@
+
+:   964: A  29 PHE  CZ  : A  29 PHE  CD1 :   -1.071:       16
+
+:   964: A   3 GLN  CA  : A   2 PHE  C   :   -0.972:       17
+:   964: A   3 GLN  CA  : A   2 PHE  O   :   -0.429:       17
+
+:   964: A  84 LEU  CD2 : A  80 LEU  HG  :   -0.855:       46
+:   964: A  80 LEU  O   : A  84 LEU HD22 :   -0.726:       46
+:   964: A  80 LEU  HG  : A  84 LEU HD21 :   -0.712:       46
+:   964: A  84 LEU HD22 : A  80 LEU  HG  :   -0.576:       46
+:   964: A  84 LEU HD11 : A  80 LEU HD11 :   -0.537:       48
+:   964: A  84 LEU HD22 : A  80 LEU  C   :   -0.461:       46
+:   964: A  84 LEU HD21 : A  80 LEU  CG  :   -0.424:       46
+
+:   964: A  47 LEU  CD1 : A  51 GLN  OE1 :   -0.774:       88
+:   964: A  47 LEU  O   : A  47 LEU HD13 :   -0.659:       39
+:   964: A  51 GLN  OE1 : A  47 LEU HD11 :   -0.442:       88
+
+:   964: A  11 PRO  O   : A  12 ASN  N   :   -0.751:       29
+:   964: A  12 ASN  CA  : A  11 PRO  O   :   -0.641:       29
+:   964: A  11 PRO  O   : A  12 ASN  HA  :   -0.470:       29
+
+:   964: A  49 LYS  HE2 : A  43 SER  H   :   -0.666:       59
+:   964: A  43 SER  H   : A  49 LYS  CE  :   -0.470:       59
+
+:   964: A  27 LYS  HG3 : A  23 VAL  O   :   -0.587:       16
+
+:   964: A  61 VAL HG12 : A  37 SER  HB2 :   -0.536:       29
+
+:   964: A  19 ALA  HB2 : A  14 LEU  HG  :   -0.505:       23
+
+:   964: A  35 VAL HG23 : A  44 ALA  HB2 :   -0.458:       18
+
+:   964: A  17 ARG  N   : A  18 PRO  HD2 :   -0.442:       16
+
+:   964: A  63 ILE HD12 : A  78 VAL HG23 :   -0.401:       21
+#sum2 ::24.90 clashscore : 14.64 clashscore B<40 
+#summary::964 atoms:888 atoms B<40:114684 potential dots:7168.0 A^2:24 bumps:13 bumps B<40:226.9 score

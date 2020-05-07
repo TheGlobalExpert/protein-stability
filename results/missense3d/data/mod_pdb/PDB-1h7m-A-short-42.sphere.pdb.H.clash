@@ -1,0 +1,19 @@
+
+:   896: A  85 VAL  CA  : A  85 VAL  CG2 :   -0.949:       15
+
+:   896: A  16 ILE  CB  : A  16 ILE  C   :   -0.879:       20
+:   896: A  16 ILE  C   : A  16 ILE  CG1 :   -0.568:       23
+:   896: A  16 ILE  C   : A  16 ILE HG13 :   -0.517:       23
+
+:   896: A  80 VAL HG21 : A  18 MET  CE  :   -0.825:       31
+:   896: A  80 VAL  CG2 : A  18 MET  CE  :   -0.761:       31
+:   896: A  80 VAL HG21 : A  18 MET  HE1 :   -0.745:       31
+:   896: A  80 VAL  CG2 : A  18 MET  HE3 :   -0.687:       31
+
+:   896: A  52 TYR  CZ  : A  28 LYS  HE2 :   -0.634:       23
+
+:   896: A  42 ARG HH11 : A  42 ARG  HD3 :   -0.436:       14
+
+:   896: A  79 THR  H   : A  79 THR HG23 :   -0.430:       33
+#sum2 ::12.28 clashscore : 12.70 clashscore B<40 
+#summary::896 atoms:866 atoms B<40:106759 potential dots:6672.0 A^2:11 bumps:11 bumps B<40:278.2 score

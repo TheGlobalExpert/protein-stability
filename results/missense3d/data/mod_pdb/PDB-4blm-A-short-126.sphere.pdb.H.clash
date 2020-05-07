@@ -1,0 +1,51 @@
+
+:  2192: A 109 THR HG21 : A 133 ALA  HB3 :   -1.090:        7
+:  2192: A 106 ASN  HB3 : A 109 THR HG22 :   -0.988:       16
+:  2192: A 109 THR  CG2 : A 106 ASN  HB3 :   -0.937:       16
+:  2192: A 109 THR HG21 : A 133 ALA  CB  :   -0.851:        7
+:  2192: A 106 ASN  CB  : A 109 THR HG22 :   -0.753:       16
+:  2192: A 109 THR HG23 : A 102 LEU  CD1 :   -0.597:       18
+:  2192: A  99 ARG  HA  : A 102 LEU HD22 :   -0.573:       21
+:  2192: A 133 ALA  HB3 : A 109 THR  CG2 :   -0.563:        7
+:  2192: A 102 LEU HD11 : A 109 THR HG23 :   -0.530:       18
+:  2192: A 131 ASP  OD2 : A 109 THR  HB  :   -0.407:       11
+
+:  2192: A 251 TRP  CE3 : A 251 TRP  CE2 :   -0.980:        7
+
+:  2192: A 263 VAL  C   : A 264 LEU  CA  :   -0.966:        5
+
+:  2192: A 155 ILE  CG2 : A 155 ILE  CG1 :   -0.960:       14
+
+:  2192: A 199 LEU  C   : A 200 PRO  CD  :   -0.885:        6
+:  2192: A 199 LEU  CA  : A 200 PRO  CD  :   -0.665:        8
+:  2192: A 200 PRO  CD  : A 199 LEU  HA  :   -0.646:        8
+
+:  2192: A 198 LYS  CB  : A 198 LYS  C   :   -0.872:       10
+
+:  2192: A 202 GLU  CG  : A 202 GLU  CA  :   -0.808:       35
+
+:  2192: A  87 SER  CA  : A  87 SER  OG  :   -0.777:       14
+
+:  2192: A 261 LEU  N   : A 261 LEU  C   :   -0.679:        8
+
+:  2192: A 141 GLN  HG3 : A 119 LEU HD21 :   -0.582:       27
+
+:  2192: A 220 LEU  N   : A 220 LEU HD12 :   -0.577:       16
+:  2192: A 220 LEU  N   : A 220 LEU  CD1 :   -0.409:       16
+
+:  2192: A  86 LYS  HB3 : A  90 ASP  HB2 :   -0.529:       21
+
+:  2192: A  94 ARG  HA  : A 118 THR  HA  :   -0.465:       17
+:  2192: A 118 THR  HA  : A  93 GLN  O   :   -0.451:       17
+
+:  2192: A 211 MET  HB3 : A 232 ALA  HB1 :   -0.441:        6
+
+:  2192: A 248 ALA  C   : A 249 ILE HG13 :   -0.436:       17
+
+:  2192: A 111 LYS  HZ2 : A 111 LYS  HG3 :   -0.420:       32
+
+:  2192: A 243 THR  O   : A 237 ALA  HA  :   -0.413:        9
+
+:  2192: A  72 ILE  HB  : A  68 PHE  CD1 :   -0.410:        3
+#sum2 ::14.14 clashscore : 14.17 clashscore B<40 
+#summary::2192 atoms:2188 atoms B<40:260359 potential dots:16270.0 A^2:31 bumps:31 bumps B<40:754.9 score

@@ -1,0 +1,17 @@
+
+:   577: A   5 LYS  CA  : A   4 GLY  C   :   -0.964:        0
+:   577: A   4 GLY  C   : A   4 GLY  N   :   -0.772:        0
+
+:   577: A   3 ARG  NE  : A   3 ARG  NH1 :   -0.800:        0
+
+:   577: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.795:        0
+:   577: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.503:        0
+:   577: A  65 LYS  HE2 : A  41 LEU  CD2 :   -0.432:        0
+
+:   577: A   1 MET  SD  : A  50 GLU  HG3 :   -0.673:        0
+
+:   577: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.635:        0
+
+:   577: A  30 PHE  CE2 : A  29 HIS  CE1 :   -0.452:        0
+#sum2 ::15.60 clashscore : 15.60 clashscore B<40 
+#summary::577 atoms:577 atoms B<40:71078 potential dots:4442.0 A^2:9 bumps:9 bumps B<40:120.5 score

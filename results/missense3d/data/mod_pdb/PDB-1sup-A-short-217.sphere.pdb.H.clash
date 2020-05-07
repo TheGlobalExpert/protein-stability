@@ -1,0 +1,33 @@
+
+:  1561: A  94 LYS  CG  : A  94 LYS  CE  :   -0.982:       15
+:  1561: A  94 LYS  CA  : A  94 LYS  CG  :   -0.953:       11
+:  1561: A  94 LYS  CA  : A  93 VAL  C   :   -0.945:        9
+:  1561: A  92 ALA  CA  : A  93 VAL  N   :   -0.913:        7
+:  1561: A  94 LYS  CA  : A  95 VAL  N   :   -0.911:       11
+:  1561: A  93 VAL  C   : A  93 VAL  N   :   -0.806:        9
+:  1561: A  95 VAL  C   : A  95 VAL  N   :   -0.702:       14
+:  1561: A  95 VAL  N   : A  96 LEU  N   :   -0.403:       18
+
+:  1561: A 164 THR  C   : A 165 VAL  CA  :   -0.928:        8
+:  1561: A 165 VAL  CG1 : A 165 VAL  CA  :   -0.897:        9
+:  1561: A 166 GLY  N   : A 165 VAL  CA  :   -0.894:        9
+
+:  1561: A 192 VAL  CG1 : A 192 VAL  CA  :   -0.927:       10
+
+:  1561: A 268 ILE  CA  : A 268 ILE  O   :   -0.708:        9
+
+:  1561: A 127 GLY  HA2 : A 167 TYR  O   :   -0.536:       18
+
+:  1561: A  30 VAL  HB  : A  35 ILE HD11 :   -0.509:        9
+
+:  1561: A 221 SER  CB  : A 125 SER  HB3 :   -0.495:       13
+
+:  1561: A 216 ALA  HA  : A 205 ILE  O   :   -0.463:        8
+
+:  1561: A  13 ALA  CA  : A  14 PRO  CD  :   -0.452:       11
+
+:  1561: A 267 LEU HD22 : A 184 ASN  OD1 :   -0.432:       18
+
+:  1561: A   3 SER  O   : A  81 VAL  HA  :   -0.421:       14
+#sum2 ::12.81 clashscore : 12.96 clashscore B<40 
+#summary::1561 atoms:1543 atoms B<40:198331 potential dots:12400.0 A^2:20 bumps:20 bumps B<40:553.1 score

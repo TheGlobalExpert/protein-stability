@@ -1,0 +1,12 @@
+
+:   870: A  97 GLY  C   : A  98 ASN  CA  :   -0.970:       40
+:   870: A  97 GLY  N   : A  97 GLY  C   :   -0.739:       40
+
+:   870: A  92 HIS  CE1 : A 100 PHE  CZ  :   -0.534:       23
+:   870: A  92 HIS  CE1 : A 100 PHE  CE1 :   -0.464:       23
+
+:   870: A  99 ASN  CB  : A  96 SER  O   :   -0.523:       39
+
+:   870: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+#sum2 ::6.90 clashscore : 7.05 clashscore B<40 
+#summary::870 atoms:851 atoms B<40:104513 potential dots:6532.0 A^2:6 bumps:6 bumps B<40:321.9 score

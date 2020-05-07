@@ -1,0 +1,9 @@
+
+:  1216: A 148 ARG  C   : A 148 ARG  N   :   -0.735:       18
+
+:  1216: A  94 VAL  O   : A  95 ARG  N   :   -0.704:       16
+
+:  1216: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1216: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+#sum2 ::3.29 clashscore : 3.65 clashscore B<40 
+#summary::1216 atoms:1096 atoms B<40:146298 potential dots:9144.0 A^2:4 bumps:4 bumps B<40:461.9 score

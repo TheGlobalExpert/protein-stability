@@ -1,0 +1,19 @@
+
+:  1104: A  68 VAL  C   : A  69 LEU  CA  :   -0.993:        6
+:  1104: A  68 VAL  C   : A  68 VAL  CG1 :   -0.548:        5
+
+:  1104: A  32 LEU  CD1 : A  32 LEU  CB  :   -0.984:        6
+:  1104: A  32 LEU  CB  : A  32 LEU  N   :   -0.853:        5
+
+:  1104: A 101 ILE  C   : A 102 LYS  CA  :   -0.961:        6
+:  1104: A 101 ILE  CB  : A 101 ILE  C   :   -0.841:        7
+:  1104: A 101 ILE  CG2 : A 101 ILE  C   :   -0.448:        6
+
+:  1104: A  27 ASP  C   : A  27 ASP  CB  :   -0.888:        6
+
+:  1104: A 143 ALA  N   : A 143 ALA  CB  :   -0.867:        8
+:  1104: A 143 ALA  N   : A 142 ILE  CA  :   -0.824:        8
+
+:  1104: A  18 GLU  CG  : A  18 GLU  OE2 :   -0.780:       11
+#sum2 ::9.96 clashscore : 9.96 clashscore B<40 
+#summary::1104 atoms:1104 atoms B<40:134912 potential dots:8432.0 A^2:11 bumps:11 bumps B<40:355.1 score

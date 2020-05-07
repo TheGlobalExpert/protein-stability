@@ -1,0 +1,16 @@
+
+:   995: A  76 LEU HD12 : A 104 MET  CE  :   -0.600:        0
+
+:   995: A  68 MET  CE  : A  35 THR  HB  :   -0.578:        0
+
+:   995: A  64 SER  C   : A  64 SER  OG  :   -0.531:        0
+
+:   995: A  75 GLU  O   : A  79 ASN  HB3 :   -0.478:        0
+
+:   995: A 112 LEU  HG  : A 105 LEU  CD1 :   -0.448:        0
+
+:   995: A  96 PRO  CA  : A  95 ILE  O   :   -0.429:        0
+
+:   995: A  69 VAL HG21 : A 100 LYS  CD  :   -0.404:        0
+#sum2 ::7.04 clashscore : 7.04 clashscore B<40 
+#summary::995 atoms:995 atoms B<40:119328 potential dots:7458.0 A^2:7 bumps:7 bumps B<40:308 score

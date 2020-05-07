@@ -1,0 +1,22 @@
+
+:   921: A  20 ASP  CA  : A  20 ASP  CG  :   -0.908:       28
+
+:   921: A  74 ALA  N   : A  73 ALA  CA  :   -0.847:       16
+
+:   921: A  45 GLU  CG  : A  45 GLU  OE1 :   -0.710:       29
+
+:   921: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.571:       48
+:   921: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:   921: A  50 ILE  CG2 : A  52 ARG  HG2 :   -0.496:       48
+:   921: A  52 ARG  HG3 : A  52 ARG  NH1 :   -0.473:       48
+
+:   921: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:   921: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+
+:   921: A  43 LYS  HD3 : A  39 LEU  O   :   -0.441:       42
+
+:   921: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:   921: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+#sum2 ::13.03 clashscore : 6.16 clashscore B<40 
+#summary::921 atoms:812 atoms B<40:109011 potential dots:6813.0 A^2:12 bumps:5 bumps B<40:305 score

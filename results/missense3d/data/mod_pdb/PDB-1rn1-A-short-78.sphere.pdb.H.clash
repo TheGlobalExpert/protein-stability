@@ -1,0 +1,18 @@
+
+:  1393: A  96 SER  O   : A  99 ASN  HB2 :   -0.903:       39
+:  1393: A  96 SER  O   : A  99 ASN  CB  :   -0.465:       39
+
+:  1393: A  92 HIS  CE1 : A 100 PHE  CZ  :   -0.534:       23
+:  1393: A  92 HIS  CE1 : A 100 PHE  CE1 :   -0.464:       23
+
+:  1393: A  22 ALA  O   : A  26 LEU HD13 :   -0.515:       31
+
+:  1393: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:  1393: A  56 TYR  CE2 : A  54 SER  HB3 :   -0.471:       23
+:  1393: A  55 PRO  HA  : A  54 SER  HB2 :   -0.435:       23
+:  1393: A  79 VAL  CG1 : A  56 TYR  HB3 :   -0.434:       15
+
+:  1393: A  44 ASN  HA  : A  42 TYR  CZ  :   -0.429:       29
+#sum2 ::7.18 clashscore : 7.42 clashscore B<40 
+#summary::1393 atoms:1348 atoms B<40:160606 potential dots:10040.0 A^2:10 bumps:10 bumps B<40:522.8 score

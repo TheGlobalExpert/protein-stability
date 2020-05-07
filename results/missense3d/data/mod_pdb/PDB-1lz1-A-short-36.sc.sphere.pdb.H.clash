@@ -1,0 +1,69 @@
+
+:  1535: A 104 GLN  NE2 : A 113 ARG HH12 :   -1.066:        0
+:  1535: A 104 GLN  NE2 : A 113 ARG  NH1 :   -0.996:        0
+:  1535: A 113 ARG  CZ  : A 107 ARG  O   :   -0.888:        0
+:  1535: A 107 ARG  NH2 : A 107 ARG  CG  :   -0.803:        0
+:  1535: A 107 ARG  HB3 : A 113 ARG HH11 :   -0.722:        0
+:  1535: A 104 GLN  OE1 : A 104 GLN  NE2 :   -0.697:        0
+:  1535: A 107 ARG  HB3 : A 113 ARG  NH1 :   -0.538:        0
+:  1535: A 107 ARG  O   : A 113 ARG  NH1 :   -0.507:        0
+:  1535: A 112 TRP  CZ3 : A 107 ARG  NH2 :   -0.458:        0
+:  1535: A 113 ARG  HE  : A 107 ARG  HB3 :   -0.442:        0
+
+:  1535: A 130 VAL  CG1 : A 130 VAL  CG2 :   -0.983:        0
+
+:  1535: A  20 TYR  CD2 : A  20 TYR  CB  :   -0.964:        0
+
+:  1535: A  49 ASP  CB  : A  49 ASP  C   :   -0.892:        0
+:  1535: A  48 GLY  CA  : A  49 ASP  N   :   -0.847:        0
+:  1535: A  49 ASP  N   : A  49 ASP  CB  :   -0.811:        0
+:  1535: A  49 ASP  N   : A  49 ASP  C   :   -0.713:        0
+:  1535: A  62 ARG  NH2 : A  49 ASP  CG  :   -0.603:        0
+:  1535: A  49 ASP  OD2 : A  62 ARG  NH2 :   -0.519:        0
+:  1535: A  51 SER  HB3 : A  62 ARG  NH2 :   -0.517:        0
+:  1535: A  49 ASP  OD1 : A  49 ASP  C   :   -0.417:        0
+:  1535: A  49 ASP  C   : A  49 ASP  CG  :   -0.413:        0
+
+:  1535: A   1 LYS  NZ  : A   7 GLU  OE2 :   -0.843:        0
+
+:  1535: A  10 ARG  CG  : A  10 ARG  NE  :   -0.818:        0
+
+:  1535: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:  1535: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:  1535: A  64 TRP  CH2 : A  99 VAL  HA  :   -0.472:        0
+:  1535: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:  1535: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:  1535: A 111 ALA  O   : A 115 ARG  HG2 :   -0.725:        0
+:  1535: A 111 ALA  HB3 : A  35 GLU  OE2 :   -0.510:        0
+:  1535: A 115 ARG  O   : A 119 ARG  HD2 :   -0.441:        0
+:  1535: A 119 ARG  HG3 : A 117 GLN  O   :   -0.434:        0
+:  1535: A 115 ARG  HB2 : A  34 TRP  CD1 :   -0.413:        0
+
+:  1535: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:  1535: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:  1535: A  33 LYS  HD3 : A  38 TYR  OH  :   -0.604:        0
+:  1535: A  38 TYR  CE2 : A  33 LYS  CA  :   -0.431:        0
+:  1535: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:  1535: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:  1535: A  16 GLY  N   : A  16 GLY  C   :   -0.701:        0
+
+:  1535: A  28 TRP  HH2 : A 100 VAL HG11 :   -0.645:        0
+:  1535: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1535: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.541:        0
+
+:  1535: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1535: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.499:        0
+:  1535: A  84 LEU HD22 : A  92 ALA  HA  :   -0.455:        0
+
+:  1535: A  52 THR  HB  : A  54 TYR  CE2 :   -0.476:        0
+
+:  1535: A  23 ILE HD13 : A 106 ILE  HB  :   -0.435:        0
+
+:  1535: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+
+:  1535: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::32.57 clashscore : 32.57 clashscore B<40 
+#summary::1535 atoms:1535 atoms B<40:185740 potential dots:11610.0 A^2:50 bumps:50 bumps B<40:291.3 score

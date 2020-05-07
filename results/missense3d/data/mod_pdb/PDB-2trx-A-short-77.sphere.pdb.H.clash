@@ -1,0 +1,14 @@
+
+:  1463: A  67 ALA  HB3 : A  68 PRO  HD3 :   -0.731:       24
+:  1463: A  68 PRO  CD  : A  67 ALA  N   :   -0.475:       24
+:  1463: A  67 ALA  HA  : A  72 ILE HD12 :   -0.450:       24
+
+:  1463: A  14 THR  C   : A  14 THR  N   :   -0.704:       16
+
+:  1463: A  81 PHE  HB2 : A  23 ILE HG23 :   -0.465:       12
+
+:  1463: A  76 PRO  C   : A  75 ILE  HA  :   -0.440:       16
+
+:  1463: A  44 GLU  HG3 : A  40 PRO  O   :   -0.436:       20
+#sum2 ::4.78 clashscore : 4.83 clashscore B<40 
+#summary::1463 atoms:1448 atoms B<40:167576 potential dots:10470.0 A^2:7 bumps:7 bumps B<40:527.7 score

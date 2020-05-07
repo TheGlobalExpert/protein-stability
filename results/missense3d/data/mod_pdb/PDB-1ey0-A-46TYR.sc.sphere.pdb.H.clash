@@ -1,0 +1,44 @@
+
+:   934: A  48 LYS  HB2 : A  46 TYR  CE2 :   -1.152:        0
+:   934: A  46 TYR  HE2 : A  48 LYS  CB  :   -1.050:        0
+:   934: A  50 GLY  H   : A  46 TYR  HB3 :   -0.924:        0
+:   934: A  49 LYS  N   : A  46 TYR  CD2 :   -0.898:        0
+:   934: A  46 TYR  HD2 : A  49 LYS  N   :   -0.808:        0
+:   934: A  46 TYR  HE2 : A  48 LYS  HB2 :   -0.787:        0
+:   934: A  46 TYR  CD2 : A  48 LYS  N   :   -0.675:        0
+:   934: A  48 LYS  CB  : A  46 TYR  CE2 :   -0.588:        0
+:   934: A  52 GLU  HG2 : A  49 LYS  HG2 :   -0.446:        0
+:   934: A  48 LYS  N   : A  46 TYR  HD2 :   -0.444:        0
+:   934: A  46 TYR  HB3 : A  50 GLY  N   :   -0.441:        0
+:   934: A  46 TYR  HD2 : A  48 LYS  C   :   -0.422:        0
+:   934: A  46 TYR  CE2 : A  48 LYS  CA  :   -0.401:        0
+
+:   934: A  66 VAL  CG2 : A  66 VAL  CG1 :   -0.993:        0
+
+:   934: A 115 TYR  CE1 : A 115 TYR  CG  :   -0.952:        0
+
+:   934: A  99 VAL  C   : A  99 VAL  CB  :   -0.910:        0
+:   934: A  99 VAL  CG1 : A  99 VAL  C   :   -0.491:        0
+
+:   934: A 139 ILE HD13 : A  54 TYR  CD2 :   -0.888:        0
+:   934: A  53 LYS  O   : A  54 TYR  HB2 :   -0.615:        0
+:   934: A  54 TYR  CD2 : A 139 ILE  CD1 :   -0.570:        0
+:   934: A 139 ILE HD13 : A 139 ILE  HA  :   -0.475:        0
+
+:   934: A 110 LYS  HE2 : A 140 TRP  CH2 :   -0.722:        0
+
+:   934: A 109 ALA  HB2 : A  41 THR HG22 :   -0.710:        0
+
+:   934: A 106 GLN  O   : A 107 GLY  N   :   -0.693:        0
+:   934: A 106 GLN  O   : A 138 ASN  ND2 :   -0.451:        0
+
+:   934: A  84 LYS  NZ  : A  85 TYR  CE2 :   -0.612:        0
+:   934: A  84 LYS  NZ  : A  85 TYR  CZ  :   -0.601:        0
+:   934: A  84 LYS  NZ  : A  85 TYR  OH  :   -0.506:        0
+
+:   934: A  36 LEU  HB3 : A 100 ASN  ND2 :   -0.564:        0
+
+:   934: A  45 LYS  HE2 : A  18 ILE HG23 :   -0.446:        0
+:   934: A  45 LYS  HE2 : A  18 ILE  CG2 :   -0.433:        0
+#sum2 ::33.19 clashscore : 33.19 clashscore B<40 
+#summary::934 atoms:934 atoms B<40:111620 potential dots:6976.0 A^2:31 bumps:31 bumps B<40:99.4 score

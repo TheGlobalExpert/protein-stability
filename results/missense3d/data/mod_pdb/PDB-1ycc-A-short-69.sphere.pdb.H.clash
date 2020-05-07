@@ -1,0 +1,43 @@
+
+:  1246: A  39 HIS  CD2 : A  39 HIS  CB  :   -0.875:       23
+:  1246: A  57 VAL  CG2 : A  55 LYS  HG3 :   -0.748:       28
+:  1246: A  55 LYS  HG3 : A  57 VAL HG23 :   -0.724:       28
+:  1246: A  57 VAL  O   : A  39 HIS  HA  :   -0.576:       25
+:  1246: A  55 LYS  CG  : A  57 VAL  CG2 :   -0.555:       28
+:  1246: A  55 LYS  CE  : A  57 VAL HG22 :   -0.483:       28
+:  1246: A  57 VAL  CG1 : A  63 ASN  OD1 :   -0.446:       30
+:  1246: A  57 VAL HG23 : A  55 LYS  CG  :   -0.426:       28
+
+:  1246: A   4 LYS  N   : A   4 LYS  C   :   -0.814:       15
+
+:  1246: A 101 ALA  N   : A 101 ALA  CB  :   -0.782:       14
+:  1246: A 102 CYS  N   : A 101 ALA  N   :   -0.427:       12
+
+:  1246: A  19 THR  N   : A  19 THR  C   :   -0.742:        8
+
+:  1246: A  -5 THR HG21 : A  61 GLU  OE1 :   -0.630:       55
+:  1246: A  62 ASN  N   : A  60 ASP  OD1 :   -0.500:       31
+:  1246: A  60 ASP  OD1 : A  60 ASP  C   :   -0.475:       31
+:  1246: A  62 ASN  HB2 : A  60 ASP  OD1 :   -0.441:       31
+:  1246: A  -5 THR  HB  : A  62 ASN  ND2 :   -0.414:       55
+:  1246: A  -3 PHE  HB3 : A  -5 THR  OG1 :   -0.401:       55
+
+:  1246: A  85 LEU HD22 : A  90 ASP  HB3 :   -0.535:       22
+
+:  1246: A  86 LYS  HD3 : A  86 LYS  N   :   -0.511:       30
+:  1246: A  69 THR  O   : A  86 LYS  NZ  :   -0.426:       34
+
+:  1246: A  78 THR HG22 : A  75 ILE  O   :   -0.508:       16
+
+:  1246: A  30 PRO  C   : A  31 ASN  C   :   -0.491:        7
+
+:  1246: A   9 LEU  HB3 : A  94 LEU HD13 :   -0.491:       13
+:  1246: A  68 LEU HD13 : A  94 LEU HD23 :   -0.450:       13
+
+:  1246: A  20 VAL HG13 : A  10 PHE  CZ  :   -0.451:       12
+
+:  1246: A   5 LYS  HG2 : A  93 ASP  OD2 :   -0.443:       24
+
+:  1246: A  64 MET  O   : A  64 MET  HG3 :   -0.437:       20
+#sum2 ::22.47 clashscore : 20.73 clashscore B<40 
+#summary::1246 atoms:1206 atoms B<40:147906 potential dots:9244.0 A^2:28 bumps:25 bumps B<40:325.8 score

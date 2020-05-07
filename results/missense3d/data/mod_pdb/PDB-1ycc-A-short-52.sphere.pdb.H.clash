@@ -1,0 +1,29 @@
+
+:  1038: A  25 PRO  CA  : A  24 GLY  C   :   -1.020:        8
+
+:  1038: A  10 PHE  CE1 : A  10 PHE  CG  :   -1.019:        9
+:  1038: A  10 PHE  CZ  : A  20 VAL HG13 :   -0.451:       12
+
+:  1038: A  13 ARG  C   : A  13 ARG  CB  :   -0.965:       14
+
+:  1038: A  55 LYS  HG3 : A  57 VAL  CG2 :   -0.748:       28
+:  1038: A  57 VAL HG23 : A  55 LYS  HG3 :   -0.724:       28
+:  1038: A  39 HIS  HA  : A  57 VAL  O   :   -0.576:       25
+:  1038: A  55 LYS  CG  : A  57 VAL  CG2 :   -0.555:       28
+:  1038: A  55 LYS  CE  : A  57 VAL HG22 :   -0.483:       28
+:  1038: A  63 ASN  OD1 : A  57 VAL  CG1 :   -0.446:       30
+:  1038: A  57 VAL HG23 : A  55 LYS  CG  :   -0.426:       28
+
+:  1038: A 102 CYS  O   : A 102 CYS  CA  :   -0.733:       15
+
+:  1038: A  78 THR HG22 : A  75 ILE  O   :   -0.508:       16
+
+:  1038: A  62 ASN  N   : A  60 ASP  OD1 :   -0.500:       31
+:  1038: A  60 ASP  OD1 : A  60 ASP  C   :   -0.475:       31
+:  1038: A  60 ASP  OD1 : A  62 ASN  HB2 :   -0.441:       31
+
+:  1038: A  64 MET  O   : A  64 MET  HG3 :   -0.437:       20
+
+:  1038: A  69 THR  O   : A  86 LYS  NZ  :   -0.426:       34
+#sum2 ::17.34 clashscore : 17.34 clashscore B<40 
+#summary::1038 atoms:1038 atoms B<40:123851 potential dots:7741.0 A^2:18 bumps:18 bumps B<40:251.7 score

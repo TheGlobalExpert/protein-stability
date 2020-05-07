@@ -1,0 +1,16 @@
+
+:  1905: A 155 THR  N   : A 154 ARG  CA  :   -0.885:       23
+
+:  1905: A 157 THR  N   : A 156 GLY  CA  :   -0.823:       21
+:  1905: A 157 THR  N   : A 157 THR  C   :   -0.783:       21
+
+:  1905: A 159 ASP  C   : A 159 ASP  N   :   -0.660:       24
+
+:  1905: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1905: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+
+:  1905: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1905: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::4.20 clashscore : 4.53 clashscore B<40 
+#summary::1905 atoms:1765 atoms B<40:225415 potential dots:14090.0 A^2:8 bumps:8 bumps B<40:735.1 score

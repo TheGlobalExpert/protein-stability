@@ -1,0 +1,42 @@
+
+:  1893: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1893: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1893: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1893: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1893: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1893: A 141 GLN  HG2 : A 137 ARG  CZ  :   -0.450:       39
+
+:  1893: A 154 ARG  CG  : A 154 ARG  NE  :   -1.050:       39
+:  1893: A 154 ARG  NE  : A 154 ARG  CB  :   -0.680:       39
+:  1893: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.462:       50
+
+:  1893: A 124 LYS  CG  : A 124 LYS  CA  :   -1.009:       13
+:  1893: A 123 GLN  CA  : A 124 LYS  N   :   -0.873:       17
+:  1893: A 124 LYS  CA  : A 125 ARG  N   :   -0.862:       22
+:  1893: A 124 LYS  CG  : A 124 LYS  CE  :   -0.862:        9
+:  1893: A 125 ARG  N   : A 125 ARG  C   :   -0.759:       22
+:  1893: A 124 LYS  CG  : A 124 LYS  N   :   -0.425:       17
+:  1893: A 124 LYS  N   : A 123 GLN  N   :   -0.424:       20
+
+:  1893: A  13 LEU  CD1 : A  13 LEU  CB  :   -1.005:       29
+:  1893: A  13 LEU  CD1 : A  13 LEU  CA  :   -0.502:       29
+
+:  1893: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1893: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1893: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1893: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1893: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+
+:  1893: A  18 TYR  C   : A  19 LYS  CA  :   -0.963:       26
+
+:  1893: A   5 GLU  OE1 : A   1 MET  HA  :   -0.635:       38
+:  1893: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1893: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1893: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1893: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1893: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::15.85 clashscore : 11.48 clashscore B<40 
+#summary::1893 atoms:1742 atoms B<40:223831 potential dots:13990.0 A^2:30 bumps:20 bumps B<40:553.1 score

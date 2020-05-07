@@ -1,0 +1,32 @@
+
+:  1254: A  74 VAL  N   : A  73 ALA  CA  :   -0.960:       25
+:  1254: A  75 ASN  CA  : A  74 VAL  C   :   -0.951:       24
+:  1254: A  72 GLY  O   : A  73 ALA  CA  :   -0.499:       26
+
+:  1254: A 123 GLN  C   : A 123 GLN  CB  :   -0.929:       24
+:  1254: A 123 GLN  N   : A 122 ARG  CA  :   -0.859:       20
+:  1254: A 123 GLN  N   : A 123 GLN  CB  :   -0.814:       24
+:  1254: A 123 GLN  C   : A 123 GLN  N   :   -0.703:       20
+:  1254: A 123 GLN  N   : A 123 GLN  CG  :   -0.448:       27
+
+:  1254: A  41 ARG  C   : A  41 ARG  N   :   -0.693:       16
+
+:  1254: A  91 ASP  O   : A  92 ALA  N   :   -0.692:       12
+
+:  1254: A 117 GLN  HB2 : A 112 TRP  CZ3 :   -0.564:       18
+:  1254: A 112 TRP  CD1 : A 116 CYS  HB2 :   -0.411:       12
+
+:  1254: A  64 TRP  O   : A  77 ALA  HB3 :   -0.498:       24
+:  1254: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.479:       24
+:  1254: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.429:       15
+:  1254: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.400:       17
+
+:  1254: A  62 ARG  HD2 : A  62 ARG HH11 :   -0.477:       29
+
+:  1254: A  53 ASP  HB3 : A  58 GLN  HB3 :   -0.461:       12
+
+:  1254: A  33 LYS  HG2 : A 124 TYR  HE1 :   -0.438:       20
+
+:  1254: A  97 LYS  O   : A 101 ARG  HG3 :   -0.416:       16
+#sum2 ::15.95 clashscore : 15.95 clashscore B<40 
+#summary::1254 atoms:1254 atoms B<40:152971 potential dots:9561.0 A^2:20 bumps:20 bumps B<40:383.5 score

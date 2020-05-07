@@ -1,0 +1,20 @@
+
+:   670: A 122 ARG  HD2 : A 120 ASP  OD1 :   -1.187:      101
+:   670: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.810:      101
+:   670: A 119 ARG  O   : A 120 ASP  N   :   -0.629:       49
+
+:   670: A   2 VAL  CA  : A   2 VAL  CG1 :   -0.984:       19
+
+:   670: A  56 ILE  CG1 : A  56 ILE  CG2 :   -0.931:       14
+
+:   670: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:   670: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:   670: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:   670: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:   670: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:   670: A 126 GLN  NE2 : A 126 GLN  HA  :   -0.423:       89
+#sum2 ::16.42 clashscore : 11.97 clashscore B<40 
+#summary::670 atoms:585 atoms B<40:82511 potential dots:5157.0 A^2:11 bumps:7 bumps B<40:164.7 score

@@ -1,0 +1,17 @@
+
+:   653: A   8 ASP  OD1 : A   8 ASP  CB  :   -0.767:        0
+:   653: A   8 ASP  OD1 : A   8 ASP  CA  :   -0.416:        0
+
+:   653: A  18 ILE HG12 : A   4 ILE HG12 :   -0.609:        0
+:   653: A   4 ILE HD11 : A  44 LEU  CD2 :   -0.598:        0
+:   653: A  44 LEU  CD2 : A   4 ILE  CD1 :   -0.589:        0
+:   653: A  44 LEU HD23 : A   4 ILE HD13 :   -0.571:        0
+:   653: A   4 ILE  CD1 : A  44 LEU HD23 :   -0.566:        0
+:   653: A   4 ILE HD11 : A  44 LEU HD21 :   -0.437:        0
+
+:   653: A  37 ILE HG23 : A   6 LEU HD11 :   -0.480:        0
+
+:   653: A  29 PHE  CD2 : A  25 TYR  CZ  :   -0.437:        0
+:   653: A  29 PHE  HD2 : A  25 TYR  CZ  :   -0.433:        0
+#sum2 ::16.85 clashscore : 16.85 clashscore B<40 
+#summary::653 atoms:653 atoms B<40:74406 potential dots:4650.0 A^2:11 bumps:11 bumps B<40:185.2 score

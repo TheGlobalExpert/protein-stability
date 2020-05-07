@@ -1,0 +1,30 @@
+
+:  1306: A  57 ASN HD21 : A  65 GLN  NE2 :   -0.868:       27
+
+:  1306: A 118 TRP  O   : A 118 TRP  CA  :   -0.760:       50
+:  1306: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.478:       52
+
+:  1306: A  13 LYS  C   : A  13 LYS  N   :   -0.725:       36
+:  1306: A  13 LYS  O   : A  16 LYS  HB2 :   -0.605:       36
+:  1306: A  23 LEU  HG  : A  16 LYS  CG  :   -0.476:       35
+
+:  1306: A  87 ASP  CB  : A  87 ASP  OD1 :   -0.665:       57
+
+:  1306: A   8 VAL HG21 : A  36 TYR  CD2 :   -0.613:       36
+
+:  1306: A  85 LEU  O   : A  89 ILE HG13 :   -0.496:       27
+
+:  1306: A 103 TYR  HD1 : A  99 VAL HG11 :   -0.482:       35
+:  1306: A  99 VAL  O   : A  99 VAL HG12 :   -0.406:       37
+
+:  1306: A  56 ASN  OD1 : A  56 ASN  C   :   -0.469:       45
+
+:  1306: A  63 ASP  OD2 : A  50 TYR  OH  :   -0.469:       27
+
+:  1306: A  25 GLU  HB2 : A  22 SER  O   :   -0.423:       26
+
+:  1306: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.407:       28
+
+:  1306: A  48 THR  HA  : A  42 VAL  O   :   -0.404:       29
+#sum2 ::12.25 clashscore : 10.29 clashscore B<40 
+#summary::1306 atoms:1166 atoms B<40:154648 potential dots:9666.0 A^2:16 bumps:12 bumps B<40:449.7 score

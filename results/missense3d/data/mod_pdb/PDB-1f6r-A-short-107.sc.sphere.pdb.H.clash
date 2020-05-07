@@ -1,0 +1,56 @@
+
+:  1248: A  60 TRP  CH2 : A  95 ILE HG12 :   -1.023:        0
+:  1248: A  60 TRP  CZ2 : A  95 ILE HG12 :   -0.934:        0
+:  1248: A  95 ILE HG12 : A  60 TRP  CZ3 :   -0.830:        0
+:  1248: A  95 ILE HG12 : A  60 TRP  CE2 :   -0.702:        0
+:  1248: A  95 ILE  CG1 : A  60 TRP  CZ3 :   -0.614:        0
+:  1248: A  60 TRP  CH2 : A  95 ILE  CG1 :   -0.591:        0
+:  1248: A  60 TRP  CH2 : A  95 ILE  HA  :   -0.554:        0
+:  1248: A  95 ILE HG12 : A  60 TRP  CE3 :   -0.553:        0
+:  1248: A  60 TRP  CD2 : A  95 ILE HG12 :   -0.502:        0
+:  1248: A  60 TRP  CE3 : A  95 ILE  CG1 :   -0.423:        0
+
+:  1248: A  11 GLU  CG  : A  11 GLU  OE1 :   -0.761:        0
+:  1248: A  11 GLU  OE1 : A  11 GLU  CB  :   -0.421:        0
+:  1248: A   7 GLU  O   : A  11 GLU  CG  :   -0.421:        0
+
+:  1248: A  26 TRP  HZ2 : A  96 LEU HD11 :   -0.723:        0
+
+:  1248: A  36 TYR  CZ  : A  31 PHE  HB2 :   -0.713:        0
+:  1248: A  31 PHE  CD2 : A 118 TRP  HH2 :   -0.647:        0
+:  1248: A  31 PHE  HB2 : A  36 TYR  OH  :   -0.519:        0
+:  1248: A 118 TRP  CD1 : A  28 CYS  HB2 :   -0.510:        0
+:  1248: A  36 TYR  CD2 : A   8 VAL HG21 :   -0.417:        0
+:  1248: A 118 TRP  CG  : A  28 CYS  HB2 :   -0.407:        0
+:  1248: A  31 PHE  HB2 : A  36 TYR  CE2 :   -0.405:        0
+:  1248: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.403:        0
+
+:  1248: A  18 TYR  CE2 : A  93 LYS  HG2 :   -0.659:        0
+:  1248: A  93 LYS  HG2 : A  18 TYR  CZ  :   -0.557:        0
+:  1248: A  18 TYR  CD1 : A  93 LYS  HE2 :   -0.436:        0
+:  1248: A  93 LYS  HE2 : A  18 TYR  CE1 :   -0.422:        0
+
+:  1248: A  56 ASN  OD1 : A  56 ASN  C   :   -0.628:        0
+
+:  1248: A  16 LYS  HB2 : A  13 LYS  O   :   -0.583:        0
+:  1248: A  16 LYS  CG  : A  23 LEU  HG  :   -0.455:        0
+:  1248: A  23 LEU  HA  : A  23 LEU HD23 :   -0.417:        0
+
+:  1248: A 103 TYR  HB2 : A  99 VAL  CG1 :   -0.575:        0
+:  1248: A  99 VAL  O   : A  99 VAL HG12 :   -0.459:        0
+:  1248: A  99 VAL HG11 : A 103 TYR  HD1 :   -0.411:        0
+
+:  1248: A  34 SER  OG  : A  52 LEU HD12 :   -0.503:        0
+
+:  1248: A 119 LEU HD23 : A 116 ASP  HA  :   -0.479:        0
+:  1248: A 116 ASP  O   : A 119 LEU  HB2 :   -0.476:        0
+
+:  1248: A  89 ILE HG13 : A  85 LEU  O   :   -0.478:        0
+
+:  1248: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.427:        0
+
+:  1248: A  27 VAL HG21 : A   9 PHE  HD1 :   -0.406:        0
+
+:  1248: A 107 HIS  CG  : A 101 ILE HG13 :   -0.400:        0
+#sum2 ::32.05 clashscore : 32.05 clashscore B<40 
+#summary::1248 atoms:1248 atoms B<40:146272 potential dots:9142.0 A^2:40 bumps:40 bumps B<40:290.7 score

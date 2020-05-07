@@ -1,0 +1,85 @@
+
+:  1967: A  13 PRO  N   : A  13 PRO  CD  :   -1.463:        0
+:  1967: A  10 GLY  C   : A  13 PRO  HD2 :   -0.527:        0
+
+:  1967: A  17 PRO  N   : A  17 PRO  CD  :   -1.430:        0
+:  1967: A  17 PRO  CD  : A  16 GLY  C   :   -0.427:        0
+:  1967: A  17 PRO  CD  : A  16 GLY  CA  :   -0.401:        0
+
+:  1967: A   3 ILE HD12 : A  30 LEU HD11 :   -1.042:        0
+:  1967: A  30 LEU HD11 : A   3 ILE  CD1 :   -0.774:        0
+:  1967: A   3 ILE HD12 : A  30 LEU  CD1 :   -0.404:        0
+
+:  1967: A 128 VAL  CG2 : A 128 VAL  CG1 :   -0.997:        0
+
+:  1967: A  98 LYS  CD  : A  98 LYS  CB  :   -0.971:        0
+:  1967: A  98 LYS  CE  : A  98 LYS  CB  :   -0.548:        0
+:  1967: A  98 LYS  CD  : A  98 LYS  CA  :   -0.545:        0
+
+:  1967: A 160 LYS  N   : A 160 LYS  CB  :   -0.835:        0
+
+:  1967: A 147 LEU HD22 : A  53 PHE  CD1 :   -0.821:        0
+:  1967: A 147 LEU HD22 : A  53 PHE  CE1 :   -0.802:        0
+:  1967: A  53 PHE  CE2 : A  57 LEU HD11 :   -0.588:        0
+
+:  1967: A  84 GLU  OE1 : A  11 ARG  HD3 :   -0.790:        0
+:  1967: A  84 GLU  OE2 : A 107 ALA  HB1 :   -0.526:        0
+:  1967: A  84 GLU  OE1 : A  11 ARG  CD  :   -0.493:        0
+
+:  1967: A 132 HIS  CB  : A 132 HIS  ND1 :   -0.776:        0
+
+:  1967: A 146 ILE HD13 : A  52 LEU HD13 :   -0.695:        0
+
+:  1967: A  60 LEU HD23 : A  25 VAL HG22 :   -0.690:        0
+:  1967: A  25 VAL HG22 : A  60 LEU  CD2 :   -0.645:        0
+:  1967: A  60 LEU  CD2 : A  25 VAL  CG2 :   -0.623:        0
+:  1967: A  60 LEU HD23 : A  25 VAL  CG2 :   -0.480:        0
+:  1967: A  25 VAL HG12 : A  26 ASP  O   :   -0.406:        0
+
+:  1967: A   1 MET  O   : A   2 LYS  N   :   -0.688:        0
+
+:  1967: A  83 PHE  CZ  : A  68 LEU HD13 :   -0.681:        0
+
+:  1967: A  99 PRO  HB3 : A   4 ALA  HB2 :   -0.636:        0
+:  1967: A  99 PRO  CB  : A   4 ALA  HB2 :   -0.434:        0
+
+:  1967: A  49 ARG  HG2 : A 150 VAL  CG2 :   -0.619:        0
+
+:  1967: A  48 ARG  HG3 : A  48 ARG HH21 :   -0.608:        0
+:  1967: A  48 ARG  NH2 : A  48 ARG  HG3 :   -0.490:        0
+
+:  1967: A 153 ASP  OD2 : A 149 LYS  HE3 :   -0.577:        0
+
+:  1967: A  34 GLU  OE2 : A  39 ARG  NH1 :   -0.545:        0
+:  1967: A  34 GLU  CD  : A  39 ARG HH11 :   -0.520:        0
+
+:  1967: A 151 THR  HB  : A  19 VAL HG11 :   -0.475:        0
+
+:  1967: A 133 LYS  O   : A 133 LYS  HG3 :   -0.466:        0
+
+:  1967: A  44 LEU HD12 : A  41 SER  HB2 :   -0.465:        0
+
+:  1967: A  96 LYS  NZ  : A  96 LYS  CB  :   -0.458:        0
+
+:  1967: A  92 LEU HD13 : A 102 ILE HD13 :   -0.446:        0
+
+:  1967: A  15 ILE  N   : A  14 VAL  N   :   -0.440:        0
+
+:  1967: A 100 ASP  N   : A 101 VAL  N   :   -0.435:        0
+
+:  1967: A 152 ARG  CZ  : A 156 VAL HG21 :   -0.433:        0
+
+:  1967: A   6 ILE HD11 : A  88 PHE  HA  :   -0.426:        0
+
+:  1967: A  62 ASP  OD1 : A  63 TYR  N   :   -0.408:        0
+
+:  1967: A 130 ALA  HA  : A 104 ALA  O   :   -0.405:        0
+
+:  1967: A  87 ASN  HB3 : A  20 ILE HD12 :   -0.405:        0
+
+:  1967: A  95 LEU HD23 : A  64 VAL HG23 :   -0.402:        0
+:  1967: A  95 LEU HD13 : A  24 VAL  CG2 :   -0.401:        0
+
+:  1967: A  29 SER  O   : A  32 LYS  HB2 :   -0.400:        0
+#sum2 ::25.93 clashscore : 25.93 clashscore B<40 
+#summary::1967 atoms:1967 atoms B<40:232154 potential dots:14510.0 A^2:51 bumps:51 bumps B<40:506.9 score

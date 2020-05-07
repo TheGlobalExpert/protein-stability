@@ -1,0 +1,14 @@
+
+:  1039: A  34 PRO  C   : A  34 PRO  CB  :   -0.846:       18
+
+:  1039: A  67 ALA  HB3 : A  68 PRO  HD3 :   -0.731:       24
+:  1039: A  68 PRO  CD  : A  67 ALA  N   :   -0.475:       24
+:  1039: A  67 ALA  HA  : A  72 ILE HD12 :   -0.450:       24
+
+:  1039: A   3 LYS  O   : A   4 ILE  N   :   -0.665:       20
+
+:  1039: A  81 PHE  HB2 : A  23 ILE HG23 :   -0.465:       12
+
+:  1039: A  76 PRO  C   : A  75 ILE  HA  :   -0.440:       16
+#sum2 ::6.74 clashscore : 6.84 clashscore B<40 
+#summary::1039 atoms:1024 atoms B<40:122448 potential dots:7653.0 A^2:7 bumps:7 bumps B<40:328.6 score

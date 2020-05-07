@@ -1,0 +1,5 @@
+SGFILE missense3d/data/mod_pdb/PDB-1lni-A-5VAL.sc.pdb              
+NUMCYS      1
+NUMSGA      1
+DISMAX   3.300
+REMARK Res  Seq C Atm  SS    Res  Seq C Atm  SS  distance   Gap

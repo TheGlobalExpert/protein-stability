@@ -1,0 +1,12 @@
+
+:   559: A  15 GLU  CA  : A  15 GLU  CG  :   -0.945:       21
+:   559: A   4 LYS  HD2 : A  15 GLU  CG  :   -0.532:       26
+:   559: A  17 THR  HA  : A   3 TYR  O   :   -0.427:       13
+:   559: A  17 THR  HA  : A   4 LYS  HA  :   -0.425:       13
+
+:   559: A  28 LYS  HE3 : A  28 LYS  N   :   -0.595:       19
+:   559: A  24 ALA  O   : A  28 LYS  NZ  :   -0.426:       17
+
+:   559: A  52 PHE  HE2 : A  27 GLU  HG3 :   -0.495:       21
+#sum2 ::12.52 clashscore : 12.52 clashscore B<40 
+#summary::559 atoms:559 atoms B<40:65009 potential dots:4063.0 A^2:7 bumps:7 bumps B<40:175.5 score

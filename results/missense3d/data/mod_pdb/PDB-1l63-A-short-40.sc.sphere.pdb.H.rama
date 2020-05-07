@@ -1,0 +1,44 @@
+#residue:score%:phi:psi:evaluation:type
+A  15 LEU:50.54:-93.51:0.35:Favored:General case
+A  16 LYS:51.58:-124.56:144.44:Favored:General case
+A  17 ILE:14.29:-50.27:137.46:Favored:General case
+A  18 TYR:12.17:-140.97:174.95:Favored:General case
+A  19 LYS:48.72:-104.89:135.73:Favored:General case
+A  20 ASP:2.20:-77.25:-171.73:Favored:General case
+A  21 THR:69.56:-62.86:-25.37:Favored:General case
+A  22 GLU:48.68:-93.52:-1.69:Favored:General case
+A  23 GLY:62.59:91.70:11.77:Favored:Glycine
+A  24 TYR:19.33:-93.25:151.24:Favored:General case
+A  25 TYR:14.09:-66.81:119.76:Favored:General case
+A  26 THR:31.98:-135.13:165.87:Favored:General case
+A  27 ILE:31.94:-154.37:159.37:Favored:General case
+A  28 GLY:25.66:68.64:-128.58:Favored:Glycine
+A  30 GLY:73.47:69.27:24.76:Favored:Glycine
+A  31 HIS:11.22:-81.96:102.94:Favored:General case
+A  32 LEU:39.89:-63.67:130.25:Favored:General case
+A  33 LEU:8.61:-94.37:-48.31:Favored:General case
+A  34 THR:19.00:-162.53:155.53:Favored:General case
+A  35 LYS:38.83:-95.02:-4.93:Favored:General case
+A  36 SER:95.90:-71.61:147.40:Favored:Pre-proline
+A  37 PRO:26.91:-73.16:-12.15:Favored:Proline
+A  38 SER:31.67:-85.51:121.36:Favored:General case
+A  39 LEU:68.28:-62.60:-23.69:Favored:General case
+A  40 ASN:35.58:-80.36:-36.46:Favored:General case
+A  41 ALA:74.64:-64.76:-31.12:Favored:General case
+A  42 ALA:89.06:-66.11:-43.75:Favored:General case
+A  43 LYS:86.26:-66.66:-37.05:Favored:General case
+A  44 SER:74.28:-62.59:-50.61:Favored:General case
+A  45 GLU:88.73:-59.35:-46.21:Favored:General case
+A  46 LEU:72.97:-55.98:-49.89:Favored:General case
+A  47 ASP:84.11:-62.72:-36.03:Favored:General case
+A  48 LYS:98.22:-63.43:-43.36:Favored:General case
+A  49 ALA:87.01:-65.96:-36.90:Favored:General case
+A  50 ILE:19.09:-91.87:-27.10:Favored:General case
+A  51 GLY:46.88:84.89:25.96:Favored:Glycine
+A  52 ARG:24.99:-159.66:166.32:Favored:General case
+A  53 ASN:9.65:-78.53:105.78:Favored:General case
+A  54 THR:18.14:-97.76:-17.38:Favored:General case
+A  55 ASN:21.02:54.07:37.31:Favored:General case
+A  56 GLY:69.75:71.48:10.24:Favored:Glycine
+A  57 VAL:55.61:-131.34:136.50:Favored:General case
+A  58 ILE:20.23:-126.16:167.20:Favored:General case

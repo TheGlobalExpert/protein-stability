@@ -1,0 +1,16 @@
+
+:  1112: A  72 ASP  C   : A  73 ALA  CA  :   -0.964:       23
+:  1112: A  73 ALA  CA  : A  72 ASP  O   :   -0.401:       20
+
+:  1112: A 138 TRP  CE2 : A 138 TRP  CE3 :   -0.958:       17
+
+:  1112: A 161 TYR  OH  : A 161 TYR  CE2 :   -0.744:       15
+
+:  1112: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1112: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1112: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1112: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::7.19 clashscore : 7.92 clashscore B<40 
+#summary::1112 atoms:1010 atoms B<40:131717 potential dots:8232.0 A^2:8 bumps:8 bumps B<40:415 score

@@ -1,0 +1,19 @@
+
+:  1206: A  27 PRO  CA  : A  27 PRO  CB  :   -1.477:       13
+:  1206: A  27 PRO  CA  : A  27 PRO  N   :   -1.305:       12
+:  1206: A  27 PRO  CA  : A  27 PRO  CG  :   -0.774:       18
+:  1206: A  27 PRO  CA  : A  26 GLY  C   :   -0.551:       11
+:  1206: A  26 GLY  CA  : A  27 PRO  CA  :   -0.530:       10
+:  1206: A  27 PRO  CB  : A  27 PRO  C   :   -0.431:       13
+
+:  1206: A   3 SER  C   : A   3 SER  CB  :   -0.875:       18
+:  1206: A   3 SER  N   : A   3 SER  CB  :   -0.804:       18
+:  1206: A   3 SER  C   : A   3 SER  N   :   -0.733:       17
+
+:  1206: A  52 TYR  HA  : A  72 THR  O   :   -0.463:        7
+
+:  1206: A  29 PRO  HD3 : A  21 LEU HD13 :   -0.431:       12
+
+:  1206: A  35 VAL HG11 : A  32 GLN  OE1 :   -0.408:       11
+#sum2 ::9.95 clashscore : 9.95 clashscore B<40 
+#summary::1206 atoms:1206 atoms B<40:140475 potential dots:8780.0 A^2:12 bumps:12 bumps B<40:382.2 score

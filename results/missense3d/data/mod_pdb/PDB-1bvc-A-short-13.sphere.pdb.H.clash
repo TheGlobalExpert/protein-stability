@@ -1,0 +1,9 @@
+
+:  1229: A 104 LEU  C   : A 105 GLU  CA  :   -0.953:        6
+
+:  1229: A   1 VAL  CA  : A   1 VAL  CG2 :   -0.919:       12
+:  1229: A   1 VAL  CG2 : A   1 VAL  C   :   -0.409:       12
+
+:  1229: A  32 LEU  CB  : A  32 LEU  N   :   -0.853:        5
+#sum2 ::3.25 clashscore : 3.25 clashscore B<40 
+#summary::1229 atoms:1229 atoms B<40:143677 potential dots:8980.0 A^2:4 bumps:4 bumps B<40:506 score

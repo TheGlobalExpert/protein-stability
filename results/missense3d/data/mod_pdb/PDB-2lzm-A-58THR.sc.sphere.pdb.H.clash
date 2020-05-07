@@ -1,0 +1,43 @@
+
+:   956: A  62 GLU  OE1 : A  50 ILE HG21 :   -0.894:        0
+:   956: A  50 ILE  CG2 : A  62 GLU  OE1 :   -0.819:        0
+:   956: A  52 ARG HH21 : A  52 ARG  HG3 :   -0.672:        0
+:   956: A  62 GLU  CD  : A  52 ARG  HE  :   -0.611:        0
+:   956: A  52 ARG  HG3 : A  52 ARG  NH2 :   -0.596:        0
+:   956: A  54 CYS  HA  : A  52 ARG HH22 :   -0.519:        0
+:   956: A  50 ILE HD11 : A  66 LEU HD11 :   -0.506:        0
+:   956: A  52 ARG HH21 : A  52 ARG  CG  :   -0.483:        0
+:   956: A  54 CYS  HA  : A  52 ARG  NH2 :   -0.476:        0
+:   956: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.462:        0
+:   956: A  52 ARG  CZ  : A  54 CYS  SG  :   -0.454:        0
+:   956: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.408:        0
+
+:   956: A  72 ASP  CB  : A  72 ASP  N   :   -0.841:        0
+
+:   956: A  14 ARG HH21 : A  14 ARG  CG  :   -0.687:        0
+:   956: A  14 ARG  CG  : A  14 ARG  NH2 :   -0.556:        0
+:   956: A  14 ARG  HG3 : A  14 ARG  NH2 :   -0.518:        0
+
+:   956: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.586:        0
+:   956: A  39 LEU HD22 : A  43 LYS  HD3 :   -0.432:        0
+:   956: A  39 LEU HD23 : A  39 LEU  HA  :   -0.420:        0
+:   956: A  39 LEU  O   : A  39 LEU HD22 :   -0.414:        0
+
+:   956: A  26 THR HG22 : A  27 ILE  N   :   -0.570:        0
+:   956: A  26 THR HG23 : A  31 HIS  C   :   -0.552:        0
+:   956: A  24 TYR  O   : A  19 LYS  HA  :   -0.547:        0
+:   956: A  18 TYR  CZ  : A  26 THR  HB  :   -0.516:        0
+:   956: A  20 ASP  HB2 : A  24 TYR  H   :   -0.516:        0
+:   956: A  20 ASP  OD2 : A  26 THR  OG1 :   -0.510:        0
+:   956: A  18 TYR  OH  : A  26 THR  CG2 :   -0.452:        0
+:   956: A  26 THR  HB  : A  18 TYR  CE1 :   -0.444:        0
+:   956: A  18 TYR  OH  : A  26 THR HG21 :   -0.433:        0
+:   956: A  27 ILE  N   : A  26 THR  CG2 :   -0.433:        0
+:   956: A  31 HIS  O   : A  26 THR HG23 :   -0.417:        0
+
+:   956: A  60 LYS  O   : A  64 GLU  HG3 :   -0.489:        0
+
+:   956: A  29 ILE HG22 : A  29 ILE  O   :   -0.433:        0
+:   956: A  29 ILE HD13 : A  67 PHE  CD1 :   -0.403:        0
+#sum2 ::35.56 clashscore : 35.56 clashscore B<40 
+#summary::956 atoms:956 atoms B<40:111028 potential dots:6939.0 A^2:34 bumps:34 bumps B<40:220.6 score

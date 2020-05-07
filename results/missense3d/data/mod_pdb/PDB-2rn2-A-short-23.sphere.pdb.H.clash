@@ -1,0 +1,32 @@
+
+:  1649: A  76 GLN  CA  : A  77 GLY  N   :   -0.942:       15
+:  1649: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+:  1649: A  77 GLY  N   : A  76 GLN  N   :   -0.431:       15
+
+:  1649: A  60 LYS  CA  : A  60 LYS  CG  :   -0.920:       33
+:  1649: A  60 LYS  CA  : A  60 LYS  CD  :   -0.559:       35
+:  1649: A  60 LYS  HD2 : A  60 LYS  CA  :   -0.551:       35
+
+:  1649: A 108 ASP  CA  : A 109 ALA  N   :   -0.878:       14
+:  1649: A 109 ALA  N   : A 109 ALA  C   :   -0.770:       15
+
+:  1649: A  17 PRO  N   : A  16 ASN  CA  :   -0.868:       24
+:  1649: A  16 ASN  CA  : A  17 PRO  CA  :   -0.599:       24
+
+:  1649: A 105 GLN  C   : A 105 GLN  N   :   -0.748:        9
+
+:  1649: A 128 PRO  HD2 : A 127 HIS  HB3 :   -0.619:       29
+
+:  1649: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.502:       19
+
+:  1649: A  44 ASN  OD1 : A  48 GLU  OE2 :   -0.432:       28
+:  1649: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:  1649: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+:  1649: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.413:       12
+
+:  1649: A  19 PRO  HB3 : A 144 PRO  HG3 :   -0.422:       21
+
+:  1649: A  47 MET  HA  : A  47 MET  CE  :   -0.412:       12
+#sum2 ::11.52 clashscore : 11.53 clashscore B<40 
+#summary::1649 atoms:1648 atoms B<40:195218 potential dots:12200.0 A^2:19 bumps:19 bumps B<40:528.6 score

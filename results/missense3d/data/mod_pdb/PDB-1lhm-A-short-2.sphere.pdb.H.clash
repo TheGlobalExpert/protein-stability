@@ -1,0 +1,10 @@
+
+:  1077: A  25 LEU  N   : A  24 SER  O   :   -0.678:        9
+
+:  1077: A  53 ASP  HB3 : A  58 GLN  HB3 :   -0.461:       12
+
+:  1077: A 126 GLN  HG2 : A 123 GLN  O   :   -0.450:       31
+
+:  1077: A  33 LYS  HG2 : A 124 TYR  HE1 :   -0.438:       20
+#sum2 ::3.71 clashscore : 3.74 clashscore B<40 
+#summary::1077 atoms:1070 atoms B<40:129588 potential dots:8099.0 A^2:4 bumps:4 bumps B<40:427.2 score

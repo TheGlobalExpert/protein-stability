@@ -1,0 +1,14 @@
+
+:   822: A   4 PHE  CD1 : A   4 PHE  CD2 :   -1.016:       18
+
+:   822: A  66 LEU  C   : A  67 PHE  CA  :   -0.929:       14
+:   822: A  67 PHE  CA  : A  67 PHE  CD2 :   -0.487:       15
+
+:   822: A  94 VAL  N   : A  94 VAL  C   :   -0.749:       21
+
+:   822: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:   822: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:   822: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::8.52 clashscore : 9.37 clashscore B<40 
+#summary::822 atoms:747 atoms B<40:99424 potential dots:6214.0 A^2:7 bumps:7 bumps B<40:269.3 score

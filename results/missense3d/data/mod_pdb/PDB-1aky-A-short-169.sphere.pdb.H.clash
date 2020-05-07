@@ -1,0 +1,20 @@
+
+:  1168: A 182 ALA  CA  : A 183 GLN  N   :   -0.859:       19
+:  1168: A 183 GLN  CB  : A 183 GLN  N   :   -0.855:       23
+
+:  1168: A 184 THR  N   : A 184 THR  CB  :   -0.816:       18
+
+:  1168: A  89 ASP  O   : A  90 GLY  N   :   -0.696:       16
+
+:  1168: A  35 THR  OG1 : A  35 THR  CA  :   -0.685:       18
+
+:  1168: A  51 LEU  CD2 : A  51 LEU  CA  :   -0.566:       39
+
+:  1168: A 174 LYS  HG3 : A 170 ALA  O   :   -0.518:       44
+
+:  1168: A 125 LEU HD21 : A 120 VAL  CG1 :   -0.499:       25
+:  1168: A 122 ASP  HA  : A 125 LEU HD12 :   -0.442:       21
+
+:  1168: A 149 PRO  HD2 : A 148 PRO  HA  :   -0.461:       55
+#sum2 ::8.56 clashscore : 8.90 clashscore B<40 
+#summary::1168 atoms:899 atoms B<40:140817 potential dots:8801.0 A^2:10 bumps:8 bumps B<40:327.7 score

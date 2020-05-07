@@ -1,0 +1,41 @@
+#residue:score%:phi:psi:evaluation:type
+A  35 THR:70.99:-66.37:-27.98:Favored:General case
+A  36 GLY:92.71:-63.88:-46.35:Favored:Glycine
+A  37 ASP:87.21:-62.88:-36.88:Favored:General case
+A  38 MET:92.32:-64.65:-44.49:Favored:General case
+A  39 LEU:99.86:-62.97:-41.56:Favored:General case
+A  40 ARG:73.37:-66.20:-30.33:Favored:General case
+A  41 SER:72.09:-70.78:-32.61:Favored:General case
+A  42 GLN:96.05:-63.56:-39.50:Favored:General case
+A  43 ILE:91.82:-63.26:-45.82:Favored:General case
+A  44 ALA:72.01:-64.30:-28.82:Favored:General case
+A  45 LYS:55.59:-78.88:-12.57:Favored:General case
+A  46 GLY:73.32:68.89:24.53:Favored:Glycine
+A  47 THR:23.57:-74.68:164.31:Favored:General case
+A  48 GLN:90.84:-66.41:-39.24:Favored:General case
+A  49 LEU:90.13:-60.58:-39.82:Favored:General case
+A  50 GLY:99.38:-62.58:-42.53:Favored:Glycine
+A  51 LEU:72.97:-71.67:-35.61:Favored:General case
+A  52 GLU:79.22:-69.08:-42.84:Favored:General case
+A  53 ALA:89.97:-63.75:-37.51:Favored:General case
+A  54 LYS:83.60:-58.15:-41.18:Favored:General case
+A  55 LYS:98.08:-63.07:-43.83:Favored:General case
+A  56 ILE:82.65:-67.11:-44.75:Favored:General case
+A  57 MET:95.78:-61.97:-45.02:Favored:General case
+A  58 ASP:66.52:-67.60:-18.36:Favored:General case
+A  59 GLN:50.08:-90.22:-4.76:Favored:General case
+A  60 GLY:74.68:79.91:18.54:Favored:Glycine
+A  61 GLY:44.34:-92.22:-177.51:Favored:Glycine
+A  62 LEU:51.62:-111.60:138.63:Favored:General case
+A  63 VAL:37.88:-74.41:151.39:Favored:General case
+A  64 SER:31.32:-55.78:140.39:Favored:General case
+A  65 ASP:73.88:-55.95:-39.89:Favored:General case
+A  66 ASP:86.54:-59.79:-47.35:Favored:General case
+A  67 ILE:96.99:-62.66:-44.39:Favored:General case
+A  68 MET:79.68:-68.95:-42.83:Favored:General case
+A  69 VAL:98.63:-62.41:-41.34:Favored:General case
+A  70 ASN:97.88:-62.40:-40.78:Favored:General case
+A  71 MET:93.33:-60.93:-45.78:Favored:General case
+A  72 ILE:72.88:-71.61:-41.20:Favored:General case
+A  74 ASP:77.22:-70.24:-36.85:Favored:General case
+A 166 SER:67.18:-67.52:-20.28:Favored:General case

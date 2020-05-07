@@ -1,0 +1,38 @@
+
+:   620: A  14 CYS  SG  : A  38 CYS  SG  :   -1.284:        0
+:   620: A  14 CYS  SG  : A  38 CYS  CB  :   -0.981:        0
+:   620: A  14 CYS  SG  : A  38 CYS  HB3 :   -0.413:        0
+
+:   620: A  41 LYS  HE2 : A  10 TYR  CD2 :   -1.149:        0
+:   620: A  10 TYR  CG  : A  41 LYS  HE2 :   -0.789:        0
+:   620: A  41 LYS  CE  : A  10 TYR  CG  :   -0.603:        0
+:   620: A  41 LYS  HE2 : A  10 TYR  CE2 :   -0.581:        0
+:   620: A  10 TYR  CZ  : A  12 GLY  HA2 :   -0.569:        0
+:   620: A  10 TYR  CD2 : A  41 LYS  CE  :   -0.566:        0
+:   620: A  41 LYS  HD2 : A  10 TYR  HB2 :   -0.526:        0
+:   620: A  41 LYS  HD2 : A  10 TYR  CB  :   -0.483:        0
+
+:   620: A   4 PHE  CD2 : A   4 PHE  CZ  :   -0.972:        0
+:   620: A   6 LEU  N   : A   6 LEU  C   :   -0.798:        0
+:   620: A   4 PHE  O   : A   7 GLU  CG  :   -0.768:        0
+:   620: A   4 PHE  O   : A   7 GLU  HG2 :   -0.678:        0
+:   620: A   7 GLU  HG3 : A   4 PHE  O   :   -0.544:        0
+:   620: A   4 PHE  HB3 : A  42 ARG  CZ  :   -0.529:        0
+:   620: A   6 LEU  N   : A   7 GLU  N   :   -0.425:        0
+
+:   620: A  35 TYR  CZ  : A  40 ALA  HB2 :   -0.698:        0
+:   620: A  35 TYR  OH  : A  40 ALA  N   :   -0.687:        0
+:   620: A  40 ALA  HB2 : A  35 TYR  OH  :   -0.614:        0
+:   620: A  40 ALA  CB  : A  35 TYR  OH  :   -0.465:        0
+:   620: A  40 ALA  CA  : A  35 TYR  OH  :   -0.458:        0
+
+:   620: A  30 CYS  N   : A  29 LEU  O   :   -0.683:        0
+
+:   620: A  34 VAL HG22 : A  19 ILE  CD1 :   -0.470:        0
+
+:   620: A  20 ARG  HB2 : A  33 PHE  CE2 :   -0.437:        0
+:   620: A  20 ARG  O   : A  32 THR  HA  :   -0.411:        0
+
+:   620: A  13 PRO  O   : A  15 LYS  HE2 :   -0.401:        0
+#sum2 ::45.16 clashscore : 45.16 clashscore B<40 
+#summary::620 atoms:620 atoms B<40:72938 potential dots:4559.0 A^2:28 bumps:28 bumps B<40:2.421 score

@@ -1,0 +1,20 @@
+
+:   868: A  30 PHE  CE2 : A  30 PHE  CE1 :   -0.980:       22
+
+:   868: A  12 GLU  CA  : A  13 LYS  N   :   -0.895:       46
+:   868: A  13 LYS  C   : A  13 LYS  N   :   -0.645:       43
+
+:   868: A  22 GLY  O   : A  23 GLN  HG2 :   -0.661:       60
+:   868: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+
+:   868: A  47 VAL HG21 : A  18 ILE HD13 :   -0.550:       24
+
+:   868: A   6 VAL HG21 : A  41 LEU  HB3 :   -0.467:       26
+
+:   868: A   7 LYS  O   : A  43 GLU  HG3 :   -0.467:       50
+
+:   868: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   868: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::11.52 clashscore : 7.50 clashscore B<40 
+#summary::868 atoms:667 atoms B<40:99996 potential dots:6250.0 A^2:10 bumps:5 bumps B<40:219.5 score

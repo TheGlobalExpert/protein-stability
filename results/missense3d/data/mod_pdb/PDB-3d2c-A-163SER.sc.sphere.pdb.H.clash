@@ -1,0 +1,37 @@
+
+:  1136: A 135 ILE  N   : A 134 MET  CA  :   -0.886:        0
+:  1136: A 135 ILE  CB  : A 135 ILE  N   :   -0.810:        0
+:  1136: A 135 ILE  N   : A 135 ILE  CG1 :   -0.487:        0
+
+:  1136: A  15 SER  C   : A  15 SER  N   :   -0.735:        0
+
+:  1136: A  37 TYR  N   : A  37 TYR  C   :   -0.714:        0
+
+:  1136: A  36 LEU  N   : A  35 LYS  O   :   -0.686:        0
+
+:  1136: A 160 LEU HD13 : A  18 ASN  HB3 :   -0.588:        0
+
+:  1136: A 162 SER  HB3 : A 165 VAL  CG2 :   -0.552:        0
+:  1136: A 165 VAL HG23 : A 162 SER  HB3 :   -0.507:        0
+
+:  1136: A 166 TYR  HB3 : A  25 TYR  CE2 :   -0.496:        0
+:  1136: A  25 TYR  O   : A  29 GLN  HG2 :   -0.483:        0
+:  1136: A  25 TYR  CD2 : A 166 TYR  HB3 :   -0.479:        0
+:  1136: A 166 TYR  OH  : A 161 TYR  HA  :   -0.432:        0
+
+:  1136: A 168 LEU  HB2 : A 128 ILE HD13 :   -0.493:        0
+:  1136: A 168 LEU  CB  : A 128 ILE  CD1 :   -0.414:        0
+
+:  1136: A   8 MET  SD  : A  19 PHE  HB3 :   -0.473:        0
+
+:  1136: A 103 GLY  O   : A  77 SER  HA  :   -0.459:        0
+
+:  1136: A 126 THR  OG1 : A 177 GLY  HA2 :   -0.427:        0
+
+:  1136: A   3 HIS  NE2 : A  31 TRP  CZ2 :   -0.411:        0
+
+:  1136: A 147 ARG  HD2 : A 176 GLY  O   :   -0.408:        0
+
+:  1136: A  75 ALA  O   : A 101 THR  HA  :   -0.406:        0
+#sum2 ::18.49 clashscore : 18.49 clashscore B<40 
+#summary::1136 atoms:1136 atoms B<40:137450 potential dots:8591.0 A^2:21 bumps:21 bumps B<40:337.6 score

@@ -1,0 +1,38 @@
+
+:   904: A 104 HIS  H   : A 107 GLU  CD  :   -0.878:        0
+:   904: A 124 LEU  HG  : A 126 THR  H   :   -0.774:        0
+:   904: A 127 THR  OG1 : A 124 LEU HD23 :   -0.747:        0
+:   904: A 124 LEU HD21 : A 126 THR  HB  :   -0.728:        0
+:   904: A 107 GLU  OE1 : A 103 PHE  HB2 :   -0.717:        0
+:   904: A 126 THR  HB  : A 124 LEU  CD2 :   -0.679:        0
+:   904: A  93 TYR  HB3 : A 103 PHE  CZ  :   -0.621:        0
+:   904: A 107 GLU  OE1 : A 103 PHE  CB  :   -0.611:        0
+:   904: A 124 LEU  HG  : A 126 THR  N   :   -0.588:        0
+:   904: A 107 GLU  HB3 : A 124 LEU  CD1 :   -0.548:        0
+:   904: A 107 GLU  HB3 : A 124 LEU HD11 :   -0.547:        0
+:   904: A 126 THR  HB  : A 124 LEU  CG  :   -0.499:        0
+:   904: A 124 LEU HD13 : A 109 PHE  CZ  :   -0.482:        0
+:   904: A 103 PHE  CE1 : A  93 TYR  HB3 :   -0.465:        0
+:   904: A 124 LEU HD13 : A 109 PHE  CE2 :   -0.430:        0
+:   904: A 103 PHE  CZ  : A  93 TYR  CB  :   -0.405:        0
+
+:   904: A 125 LEU HD11 : A  86 LEU HD22 :   -0.721:        0
+:   904: A 108 LYS  CB  : A 125 LEU HD12 :   -0.559:        0
+:   904: A 125 LEU HD12 : A 108 LYS  HB3 :   -0.475:        0
+
+:   904: A 100 ASP  OD2 : A  96 ARG  N   :   -0.616:        0
+:   904: A 100 ASP  OD1 : A 100 ASP  N   :   -0.565:        0
+
+:   904: A  84 VAL  CG1 : A 110 GLN  HG3 :   -0.567:        0
+
+:   904: A 141 VAL  O   : A 142 ASP  CB  :   -0.554:        0
+:   904: A 142 ASP  HB2 : A 141 VAL  O   :   -0.508:        0
+
+:   904: A 116 GLU  CG  : A 116 GLU  O   :   -0.537:        0
+:   904: A 116 GLU  HG2 : A 116 GLU  O   :   -0.463:        0
+
+:   904: A 132 TYR  HA  : A 120 TRP  O   :   -0.465:        0
+
+:   904: A 111 ILE HG21 : A 114 SER  HB3 :   -0.407:        0
+#sum2 ::30.97 clashscore : 30.97 clashscore B<40 
+#summary::904 atoms:904 atoms B<40:102400 potential dots:6400.0 A^2:28 bumps:28 bumps B<40:173 score

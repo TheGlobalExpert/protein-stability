@@ -1,0 +1,27 @@
+
+:  1869: A  19 LYS  CA  : A  18 TYR  C   :   -1.023:       20
+:  1869: A  19 LYS  CA  : A  18 TYR  O   :   -0.425:       24
+
+:  1869: A  13 LEU  CB  : A  13 LEU  CD1 :   -0.986:       40
+
+:  1869: A 124 LYS  CE  : A 124 LYS  CG  :   -0.963:       23
+:  1869: A 124 LYS  CG  : A 124 LYS  CA  :   -0.948:       23
+:  1869: A 125 ARG  N   : A 124 LYS  CA  :   -0.881:       18
+:  1869: A 123 GLN  CA  : A 124 LYS  N   :   -0.855:       18
+:  1869: A 125 ARG  C   : A 125 ARG  N   :   -0.796:       26
+:  1869: A 124 LYS  N   : A 123 GLN  N   :   -0.420:       22
+
+:  1869: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1869: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1869: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1869: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1869: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1869: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1869: A 119 ARG  CD  : A 119 ARG  NH1 :   -0.423:      100
+
+:  1869: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::9.10 clashscore : 8.56 clashscore B<40 
+#summary::1869 atoms:1752 atoms B<40:219737 potential dots:13730.0 A^2:17 bumps:15 bumps B<40:638.3 score

@@ -1,0 +1,30 @@
+
+:   702: A  36 LEU  CA  : A  36 LEU  CG  :   -0.899:        0
+:   702: A  36 LEU  CA  : A  36 LEU  CD2 :   -0.440:        0
+
+:   702: A  83 ASP  CA  : A  83 ASP  CG  :   -0.861:        0
+:   702: A  83 ASP  O   : A  83 ASP  CA  :   -0.732:        0
+:   702: A  83 ASP  CA  : A  83 ASP  OD1 :   -0.408:        0
+
+:   702: A  74 VAL HG12 : A  92 ILE  CD1 :   -0.780:        0
+:   702: A  74 VAL HG12 : A  92 ILE HD12 :   -0.586:        0
+
+:   702: A  67 GLU  CG  : A  67 GLU  OE2 :   -0.768:        0
+
+:   702: A  76 PHE  CG  : A  81 ARG  HD3 :   -0.705:        0
+:   702: A  81 ARG  HG2 : A  81 ARG HH21 :   -0.633:        0
+:   702: A  76 PHE  CB  : A  81 ARG  HD3 :   -0.593:        0
+:   702: A  81 ARG HH21 : A  81 ARG  CG  :   -0.556:        0
+:   702: A  81 ARG  NH2 : A  81 ARG  CG  :   -0.461:        0
+:   702: A  81 ARG  HD3 : A  76 PHE  HB3 :   -0.433:        0
+
+:   702: A  10 GLU  OE1 : A  27 TYR  OH  :   -0.563:        0
+:   702: A  28 LYS  HD2 : A  27 TYR  CZ  :   -0.536:        0
+
+:   702: A  26 MET  CE  : A  15 ILE HD11 :   -0.513:        0
+:   702: A  26 MET  HE2 : A  26 MET  HB2 :   -0.500:        0
+:   702: A  15 ILE HD11 : A  26 MET  HE1 :   -0.428:        0
+
+:   702: A  14 LEU  HB2 : A  72 ILE  CD1 :   -0.448:        0
+#sum2 ::28.49 clashscore : 28.49 clashscore B<40 
+#summary::702 atoms:702 atoms B<40:84266 potential dots:5267.0 A^2:20 bumps:20 bumps B<40:98 score

@@ -1,0 +1,30 @@
+
+:   731: A  91 ASP  CB  : A  91 ASP  C   :   -0.910:        0
+
+:   731: A  86 GLN  CG  : A  86 GLN  NE2 :   -0.880:        0
+
+:   731: A  99 VAL HG22 : A  64 TRP  CE2 :   -0.805:        0
+:   731: A  64 TRP  CD2 : A  99 VAL HG22 :   -0.562:        0
+:   731: A  99 VAL  HA  : A  64 TRP  CH2 :   -0.472:        0
+:   731: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:   731: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+:   731: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:   731: A 110 VAL  N   : A 110 VAL  CB  :   -0.796:        0
+:   731: A 110 VAL  N   : A 110 VAL  CG2 :   -0.434:        0
+
+:   731: A  62 ARG  O   : A  73 ALA  HA  :   -0.665:        0
+
+:   731: A  98 ARG  O   : A  98 ARG  NH2 :   -0.576:        0
+
+:   731: A  74 VAL  O   : A  74 VAL HG12 :   -0.505:        0
+:   731: A  74 VAL  O   : A  74 VAL  CG1 :   -0.496:        0
+
+:   731: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.499:        0
+:   731: A  92 ALA  HA  : A  84 LEU HD22 :   -0.455:        0
+
+:   731: A  54 TYR  CE2 : A  52 THR  HB  :   -0.476:        0
+
+:   731: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+#sum2 ::24.62 clashscore : 24.62 clashscore B<40 
+#summary::731 atoms:731 atoms B<40:89738 potential dots:5609.0 A^2:18 bumps:18 bumps B<40:151.6 score

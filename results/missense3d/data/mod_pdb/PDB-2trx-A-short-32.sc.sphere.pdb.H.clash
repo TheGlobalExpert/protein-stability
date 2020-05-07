@@ -1,0 +1,24 @@
+
+:   914: A  44 GLU  CA  : A  45 ILE  N   :   -0.880:        0
+:   914: A  45 ILE  N   : A  45 ILE  CB  :   -0.790:        0
+
+:   914: A  98 GLN  CB  : A  98 GLN  C   :   -0.874:        0
+
+:   914: A  67 ALA  HB3 : A  68 PRO  HD3 :   -0.803:        0
+:   914: A  68 PRO  CD  : A  67 ALA  N   :   -0.565:        0
+:   914: A  68 PRO  HD2 : A  67 ALA  N   :   -0.525:        0
+:   914: A  68 PRO  HD3 : A  67 ALA  CB  :   -0.487:        0
+:   914: A  67 ALA  HA  : A  72 ILE HD12 :   -0.415:        0
+
+:   914: A  40 PRO  HD3 : A  39 ALA  HB3 :   -0.549:        0
+
+:   914: A  75 ILE HD11 : A  31 TRP  CH2 :   -0.523:        0
+:   914: A  61 ASP  CG  : A  31 TRP  HE1 :   -0.470:        0
+:   914: A  61 ASP  OD2 : A  31 TRP  NE1 :   -0.450:        0
+:   914: A  75 ILE  HA  : A  76 PRO  C   :   -0.400:        0
+
+:   914: A  27 PHE  CE1 : A  58 LEU HD22 :   -0.488:        0
+
+:   914: A  81 PHE  CE2 : A  79 LEU  HB3 :   -0.458:        0
+#sum2 ::16.41 clashscore : 16.41 clashscore B<40 
+#summary::914 atoms:914 atoms B<40:108661 potential dots:6791.0 A^2:15 bumps:15 bumps B<40:205.7 score

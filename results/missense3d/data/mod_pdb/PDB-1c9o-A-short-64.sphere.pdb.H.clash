@@ -1,0 +1,10 @@
+
+:   927: A  22 GLY  C   : A  22 GLY  N   :   -0.725:       13
+
+:   927: A   1 MET  SD  : A  50 GLU  HG3 :   -0.567:       21
+
+:   927: A  41 LEU HD23 : A  65 LYS  HE2 :   -0.512:       16
+
+:   927: A  46 GLU  HG2 : A  66 LEU HD12 :   -0.495:       28
+#sum2 ::4.31 clashscore : 4.34 clashscore B<40 
+#summary::927 atoms:922 atoms B<40:106211 potential dots:6638.0 A^2:4 bumps:4 bumps B<40:320.3 score

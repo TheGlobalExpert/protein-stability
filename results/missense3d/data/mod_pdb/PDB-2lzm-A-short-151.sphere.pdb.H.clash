@@ -1,0 +1,31 @@
+
+:  1369: A  71 VAL  CG2 : A  71 VAL  CG1 :   -1.078:        6
+
+:  1369: A 148 ARG  HD3 : A 164 LEU  CD2 :   -0.991:       50
+:  1369: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1369: A 164 LEU  N   : A 164 LEU  CD1 :   -0.593:       64
+:  1369: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  1369: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1369: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1369: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+:  1369: A 164 LEU  OXT : A 163 ASN  O   :   -0.425:       65
+
+:  1369: A 119 ARG  CZ  : A 119 ARG  CD  :   -0.929:       53
+
+:  1369: A 107 GLY  C   : A 107 GLY  N   :   -0.742:       15
+
+:  1369: A 113 GLY  C   : A 113 GLY  N   :   -0.688:       46
+
+:  1369: A   1 MET  HA  : A   5 GLU  OE1 :   -0.635:       38
+:  1369: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1369: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1369: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1369: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1369: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1369: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1369: A 159 ASP  O   : A 162 LYS  HB2 :   -0.428:       58
+#sum2 ::14.61 clashscore : 4.82 clashscore B<40 
+#summary::1369 atoms:1244 atoms B<40:161808 potential dots:10110.0 A^2:20 bumps:6 bumps B<40:468.2 score

@@ -1,0 +1,21 @@
+
+:  1642: A  79 LEU  CA  : A  79 LEU  CG  :   -0.957:       27
+
+:  1642: A 123 GLN  CG  : A 123 GLN  NE2 :   -0.866:       52
+
+:  1642: A  89 ASP  OD2 : A  89 ASP  CB  :   -0.809:       24
+:  1642: A  89 ASP  CA  : A  89 ASP  OD2 :   -0.513:       24
+
+:  1642: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.608:       30
+:  1642: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.526:       30
+:  1642: A   1 MET  HA  : A   5 GLU  OE1 :   -0.440:       45
+
+:  1642: A 162 LYS  HE2 : A 162 LYS  HB2 :   -0.484:      100
+
+:  1642: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1642: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1642: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::6.70 clashscore : 5.18 clashscore B<40 
+#summary::1642 atoms:1543 atoms B<40:193055 potential dots:12070.0 A^2:11 bumps:8 bumps B<40:629.7 score

@@ -1,0 +1,17 @@
+
+:  1014: A  79 LEU  CA  : A  79 LEU  CG  :   -0.970:       29
+:  1014: A  79 LEU  CA  : A  79 LEU  CD2 :   -0.536:       27
+
+:  1014: A  81 ASN  CB  : A  81 ASN  C   :   -0.847:       28
+
+:  1014: A 136 SER  N   : A 136 SER  CB  :   -0.788:       16
+
+:  1014: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1014: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1014: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1014: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1014: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+#sum2 ::8.88 clashscore : 5.41 clashscore B<40 
+#summary::1014 atoms:925 atoms B<40:121381 potential dots:7586.0 A^2:9 bumps:5 bumps B<40:371.1 score

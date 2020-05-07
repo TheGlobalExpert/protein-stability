@@ -1,0 +1,24 @@
+
+:  1045: A   1 MET  SD  : A   1 MET  CG  :   -0.970:      158
+
+:  1045: A  64 LYS  N   : A  63 LYS  H   :   -0.700:       81
+:  1045: A  63 LYS  NZ  : A  63 LYS  HG3 :   -0.626:       55
+:  1045: A  56 LEU  O   : A  59 LEU  HB3 :   -0.554:       31
+:  1045: A  59 LEU HD13 : A  23 VAL HG22 :   -0.535:       22
+:  1045: A  64 LYS  HD2 : A  62 GLN  HG3 :   -0.519:       56
+:  1045: A  63 LYS  HG2 : A  64 LYS  N   :   -0.489:       81
+:  1045: A  23 VAL  CG1 : A  62 GLN HE21 :   -0.456:       48
+:  1045: A  64 LYS  N   : A  63 LYS  CA  :   -0.410:       81
+:  1045: A  56 LEU HD23 : A  56 LEU  HA  :   -0.409:       20
+:  1045: A  23 VAL HG13 : A  62 GLN  NE2 :   -0.403:       48
+
+:  1045: A   9 LYS  HD2 : A   8 TYR  HD2 :   -0.583:       71
+:  1045: A   9 LYS  HG3 : A   8 TYR  CD2 :   -0.541:       60
+:  1045: A   8 TYR  O   : A   9 LYS  HD3 :   -0.501:       71
+
+:  1045: A  61 LYS  HG3 : A  57 GLN  O   :   -0.500:       50
+:  1045: A  61 LYS  HB3 : A  61 LYS  HE2 :   -0.465:       42
+
+:  1045: A  40 LYS  HB2 : A  40 LYS  HE2 :   -0.451:       54
+#sum2 ::16.27 clashscore : 3.56 clashscore B<40 
+#summary::1045 atoms:843 atoms B<40:119334 potential dots:7458.0 A^2:17 bumps:3 bumps B<40:270.8 score

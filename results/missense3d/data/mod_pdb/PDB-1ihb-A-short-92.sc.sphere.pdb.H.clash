@@ -1,0 +1,54 @@
+
+:  1246: A  63 PRO  CD  : A  63 PRO  N   :   -1.430:        0
+
+:  1246: A  90 LEU HD21 : A  96 VAL HG13 :   -0.894:        0
+:  1246: A  90 LEU  CD2 : A  96 VAL HG13 :   -0.832:        0
+:  1246: A  96 VAL  O   : A 106 PRO  HD2 :   -0.570:        0
+:  1246: A  87 GLN  HG2 : A 121 PHE  CZ  :   -0.510:        0
+:  1246: A  90 LEU HD12 : A 121 PHE  HE2 :   -0.486:        0
+:  1246: A  96 VAL HG11 : A 126 THR  HB  :   -0.426:        0
+
+:  1246: A 110 ALA  CB  : A 110 ALA  N   :   -0.837:        0
+
+:  1246: A  99 GLU  OE2 : A  99 GLU  CG  :   -0.760:        0
+:  1246: A  99 GLU  CG  : A 105 LEU  CD2 :   -0.429:        0
+:  1246: A  97 ASN  C   : A 105 LEU HD22 :   -0.409:        0
+
+:  1246: A  10 ALA  O   : A  10 ALA  CA  :   -0.732:        0
+
+:  1246: A  84 ASP  O   : A  88 THR HG23 :   -0.690:        0
+:  1246: A  91 GLU  HG2 : A  88 THR  HA  :   -0.651:        0
+:  1246: A  91 GLU  HG2 : A  88 THR  O   :   -0.634:        0
+:  1246: A  58 LEU HD13 : A  92 PHE  HE2 :   -0.627:        0
+:  1246: A  88 THR  CG2 : A  84 ASP  O   :   -0.612:        0
+:  1246: A  91 GLU  CG  : A  88 THR  HA  :   -0.590:        0
+:  1246: A  91 GLU  CD  : A  88 THR  HA  :   -0.580:        0
+:  1246: A  85 THR HG22 : A  89 LEU HD22 :   -0.573:        0
+:  1246: A  91 GLU  HG2 : A  88 THR  CA  :   -0.550:        0
+:  1246: A  88 THR  C   : A  91 GLU  HG2 :   -0.509:        0
+:  1246: A  92 PHE  CD1 : A  91 GLU  HG3 :   -0.503:        0
+:  1246: A  92 PHE  CE2 : A  58 LEU HD13 :   -0.503:        0
+:  1246: A  88 THR  O   : A  92 PHE  HD1 :   -0.494:        0
+:  1246: A  89 LEU  CD1 : A  57 LEU HD11 :   -0.494:        0
+:  1246: A  92 PHE  CD2 : A  57 LEU  HB3 :   -0.474:        0
+:  1246: A  89 LEU HD12 : A  89 LEU  HA  :   -0.452:        0
+:  1246: A  88 THR  O   : A  91 GLU  CG  :   -0.424:        0
+:  1246: A  85 THR  HA  : A  88 THR HG23 :   -0.400:        0
+
+:  1246: A  75 HIS  CE1 : A  98 ILE HG23 :   -0.542:        0
+
+:  1246: A  25 LEU HD22 : A  59 ARG  HG3 :   -0.531:        0
+
+:  1246: A  34 GLN  N   : A  34 GLN  CG  :   -0.510:        0
+
+:  1246: A  29 VAL HG22 : A  30 ASN  N   :   -0.509:        0
+:  1246: A  29 VAL  CG2 : A  30 ASN  N   :   -0.435:        0
+
+:  1246: A  43 GLN  HA  : A  73 VAL HG22 :   -0.505:        0
+
+:  1246: A  55 ARG  HG2 : A  51 GLU  O   :   -0.493:        0
+:  1246: A  55 ARG  NH2 : A  22 THR HG22 :   -0.404:        0
+
+:  1246: A  54 ARG HH21 : A  54 ARG  HD3 :   -0.416:        0
+#sum2 ::31.30 clashscore : 31.30 clashscore B<40 
+#summary::1246 atoms:1246 atoms B<40:148722 potential dots:9295.0 A^2:39 bumps:39 bumps B<40:313.9 score

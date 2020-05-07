@@ -1,0 +1,13 @@
+
+:  1181: A  32 ALA  HA  : A  82 LYS  HE2 :   -0.877:       78
+:  1181: A  82 LYS  HB2 : A  31 ALA  CB  :   -0.440:       71
+
+:  1181: A  17 ALA  HB2 : A  22 MET  CE  :   -0.546:       80
+
+:  1181: A  56 TRP  CZ2 : A  33 LYS  HE2 :   -0.496:       75
+
+:  1181: A  76 LYS  HE3 : A  73 THR  HA  :   -0.409:       49
+
+:  1181: A  79 LEU HD23 : A  79 LEU  HA  :   -0.405:       19
+#sum2 ::5.08 clashscore : 0.97 clashscore B<40 
+#summary::1181 atoms:1031 atoms B<40:133329 potential dots:8333.0 A^2:6 bumps:1 bumps B<40:394.2 score

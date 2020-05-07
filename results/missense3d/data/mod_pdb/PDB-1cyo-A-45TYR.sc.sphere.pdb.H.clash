@@ -1,0 +1,33 @@
+
+:   960: A  45 TYR  OH  : A  57 ASN  HB3 :   -1.262:        0
+:   960: A  45 TYR  OH  : A  57 ASN  CB  :   -1.036:        0
+:   960: A  57 ASN  HB3 : A  45 TYR  HH  :   -0.697:        0
+:   960: A  57 ASN  HB3 : A  45 TYR  CZ  :   -0.645:        0
+
+:   960: A  18 SER  HB3 : A  47 ARG HH22 :   -1.073:        0
+:   960: A  18 SER  HB3 : A  47 ARG  NH2 :   -0.997:        0
+:   960: A  36 LEU  HB3 : A  43 GLU  HG3 :   -0.554:        0
+:   960: A  36 LEU HD13 : A  47 ARG  HD3 :   -0.445:        0
+:   960: A  47 ARG  HG2 : A  43 GLU  O   :   -0.436:        0
+
+:   960: A   9 LEU  CG  : A   9 LEU  CA  :   -0.900:        0
+:   960: A   9 LEU  O   : A   9 LEU  CA  :   -0.726:        0
+:   960: A   9 LEU  CD1 : A   9 LEU  CA  :   -0.449:        0
+
+:   960: A  76 ILE  N   : A  76 ILE  CB  :   -0.810:        0
+
+:   960: A  88 THR  C   : A  88 THR  N   :   -0.677:        0
+:   960: A  88 THR  O   : A  88 THR  OG1 :   -0.541:        0
+
+:   960: A  74 PHE  CZ  : A  35 PHE  HB2 :   -0.636:        0
+:   960: A  35 PHE  HB2 : A  74 PHE  CE1 :   -0.412:        0
+
+:   960: A  24 ILE HD11 : A  12 ILE HD13 :   -0.528:        0
+
+:   960: A  61 VAL HG22 : A  61 VAL  O   :   -0.524:        0
+
+:   960: A  26 HIS  CE1 : A  55 THR HG23 :   -0.508:        0
+
+:   960: A  23 LEU  C   : A  23 LEU HD12 :   -0.448:        0
+#sum2 ::21.88 clashscore : 21.88 clashscore B<40 
+#summary::960 atoms:960 atoms B<40:113738 potential dots:7109.0 A^2:21 bumps:21 bumps B<40:199 score

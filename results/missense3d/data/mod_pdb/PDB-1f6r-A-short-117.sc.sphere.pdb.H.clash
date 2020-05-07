@@ -1,0 +1,41 @@
+
+:   869: A  53 PHE  CA  : A  53 PHE  CG  :   -0.956:        0
+
+:   869: A  11 GLU  HG3 : A   7 GLU  O   :   -0.865:        0
+
+:   869: A 102 ASN  CG  : A 102 ASN  CA  :   -0.861:        0
+
+:   869: A  36 TYR  CZ  : A  31 PHE  HB2 :   -0.713:        0
+:   869: A  31 PHE  CD2 : A 118 TRP  HH2 :   -0.647:        0
+:   869: A  31 PHE  HB2 : A  36 TYR  OH  :   -0.519:        0
+:   869: A 118 TRP  CD1 : A  28 CYS  HB2 :   -0.510:        0
+:   869: A  36 TYR  CD2 : A   8 VAL HG21 :   -0.417:        0
+:   869: A 118 TRP  CG  : A  28 CYS  HB2 :   -0.407:        0
+:   869: A  31 PHE  HB2 : A  36 TYR  CE2 :   -0.405:        0
+:   869: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.403:        0
+
+:   869: A  14 ASP  C   : A  14 ASP  N   :   -0.670:        0
+
+:   869: A 123 LEU HD22 : A  13 LYS  HE3 :   -0.664:        0
+:   869: A  13 LYS  HE3 : A 123 LEU  CD2 :   -0.659:        0
+:   869: A  16 LYS  HB2 : A  13 LYS  O   :   -0.583:        0
+:   869: A 122 LYS  HB2 : A 121 GLU  O   :   -0.506:        0
+:   869: A 123 LEU  HB3 : A 122 LYS  O   :   -0.487:        0
+:   869: A 123 LEU  CD1 : A  13 LYS  HE3 :   -0.459:        0
+:   869: A  16 LYS  CG  : A  23 LEU  HG  :   -0.455:        0
+:   869: A  13 LYS  HE3 : A 123 LEU HD13 :   -0.427:        0
+:   869: A 121 GLU  O   : A 122 LYS  CB  :   -0.421:        0
+:   869: A  23 LEU  HA  : A  23 LEU HD23 :   -0.417:        0
+
+:   869: A  34 SER  OG  : A  52 LEU HD12 :   -0.503:        0
+
+:   869: A 119 LEU HD23 : A 116 ASP  HA  :   -0.479:        0
+:   869: A 116 ASP  O   : A 119 LEU  HB2 :   -0.476:        0
+
+:   869: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.427:        0
+
+:   869: A  27 VAL HG21 : A   9 PHE  HD1 :   -0.406:        0
+
+:   869: A 107 HIS  CG  : A 101 ILE HG13 :   -0.400:        0
+#sum2 ::32.22 clashscore : 32.22 clashscore B<40 
+#summary::869 atoms:869 atoms B<40:101507 potential dots:6344.0 A^2:28 bumps:28 bumps B<40:140.5 score

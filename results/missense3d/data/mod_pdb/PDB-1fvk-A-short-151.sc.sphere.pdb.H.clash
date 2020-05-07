@@ -1,0 +1,57 @@
+
+:  1947: A  48 LYS  CD  : A  48 LYS  CB  :   -0.970:        0
+
+:  1947: A 184 TYR  CD2 : A 184 TYR  CB  :   -0.970:        0
+
+:  1947: A  48 LYS  CB  : A  48 LYS  CE  :   -0.631:        0
+
+:  1947: A 108 ILE  CG1 : A 108 ILE  CG2 :   -0.968:        0
+:  1947: A 108 ILE  CG2 : A 108 ILE  CD1 :   -0.458:        0
+
+:  1947: A  13 GLU  CA  : A  14 LYS  N   :   -0.848:        0
+
+:  1947: A  54 VAL  CB  : A  54 VAL  C   :   -0.840:        0
+
+:  1947: A  23 LEU HD13 : A  25 PHE  CE2 :   -0.776:        0
+:  1947: A  23 LEU HD13 : A  25 PHE  HE2 :   -0.578:        0
+:  1947: A  23 LEU HD13 : A  25 PHE  CZ  :   -0.423:        0
+
+:  1947: A 172 ASP  CB  : A 172 ASP  OD1 :   -0.758:        0
+
+:  1947: A  87 LYS  N   : A  87 LYS  C   :   -0.751:        0
+
+:  1947: A  64 MET  HG3 : A  63 PHE  CD1 :   -0.741:        0
+:  1947: A  61 VAL HG21 : A  63 PHE  CZ  :   -0.652:        0
+:  1947: A  63 PHE  HD1 : A  64 MET  HG3 :   -0.562:        0
+:  1947: A 150 VAL HG13 : A  63 PHE  HZ  :   -0.492:        0
+
+:  1947: A 163 PRO  O   : A 166 MET  HG3 :   -0.729:        0
+
+:  1947: A   8 GLN  OE1 : A   7 LYS  HB3 :   -0.640:        0
+:  1947: A   8 GLN  CD  : A   8 GLN  H   :   -0.504:        0
+
+:  1947: A  34 TYR  HB2 : A  97 GLN  NE2 :   -0.634:        0
+:  1947: A  97 GLN HE21 : A  34 TYR  HB2 :   -0.582:        0
+
+:  1947: A  27 SER  HA  : A  60 HIS  CD2 :   -0.535:        0
+:  1947: A  27 SER  HA  : A  60 HIS  NE2 :   -0.485:        0
+
+:  1947: A  43 SER  O   : A  47 LYS  HG3 :   -0.489:        0
+
+:  1947: A 180 ASP  OD1 : A  49 LYS  NZ  :   -0.486:        0
+
+:  1947: A  28 PHE  HB2 : A  72 LEU HD13 :   -0.472:        0
+
+:  1947: A  30 CYS  SG  : A  33 CYS  N   :   -0.462:        0
+
+:  1947: A 171 MET  O   : A 175 VAL HG23 :   -0.459:        0
+
+:  1947: A  26 PHE  CE1 : A  58 LYS  HG2 :   -0.445:        0
+
+:  1947: A 176 GLN  OE1 : A 176 GLN  HA  :   -0.427:        0
+
+:  1947: A  59 TYR  CD1 : A 138 GLN  HG2 :   -0.418:        0
+
+:  1947: A  94 GLU  HG3 : A  90 VAL  O   :   -0.402:        0
+#sum2 ::16.44 clashscore : 16.44 clashscore B<40 
+#summary::1947 atoms:1947 atoms B<40:233416 potential dots:14590.0 A^2:32 bumps:32 bumps B<40:524.8 score

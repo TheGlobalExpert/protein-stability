@@ -1,0 +1,10 @@
+
+:   435: A  42 LEU  CA  : A  41 GLN  C   :   -0.960:       27
+
+:   435: A 153 ARG  CB  : A 153 ARG  N   :   -0.842:       27
+
+:   435: A 137 LEU HD12 : A 133 LYS  HA  :   -0.580:       31
+
+:   435: A 142 SER  H   : A 143 PRO  HD2 :   -0.439:       29
+#sum2 ::9.20 clashscore : 9.41 clashscore B<40 
+#summary::435 atoms:425 atoms B<40:52465 potential dots:3279.0 A^2:4 bumps:4 bumps B<40:24.41 score

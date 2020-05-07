@@ -1,0 +1,35 @@
+
+:  1103: A  72 GLN  CG  : A  72 GLN  NE2 :   -0.878:        0
+:  1103: A  72 GLN  NE2 : A  72 GLN  CB  :   -0.528:        0
+
+:  1103: A  75 ARG  N   : A  74 VAL  CA  :   -0.824:        0
+:  1103: A  74 VAL HG22 : A  49 LEU HD23 :   -0.445:        0
+
+:  1103: A 135 GLU  HA  : A 138 ARG  NH1 :   -0.701:        0
+:  1103: A 135 GLU  HA  : A 138 ARG  CZ  :   -0.482:        0
+
+:  1103: A  16 ASN  CA  : A  17 PRO  CA  :   -0.599:        0
+
+:  1103: A  22 TYR  CD1 : A  22 TYR  C   :   -0.551:        0
+:  1103: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.546:        0
+:  1103: A  51 ALA  CB  : A   9 THR  HB  :   -0.448:        0
+
+:  1103: A 128 PRO  HD2 : A 127 HIS  HB3 :   -0.525:        0
+
+:  1103: A  27 ARG HH12 : A 129 GLU  CD  :   -0.494:        0
+:  1103: A 129 GLU  OE1 : A  27 ARG  NH1 :   -0.401:        0
+
+:  1103: A  47 MET  HA  : A  47 MET  CE  :   -0.470:        0
+
+:  1103: A  50 MET  HA  : A  53 ILE HD12 :   -0.460:        0
+
+:  1103: A 148 ASP  OD1 : A  42 THR  OG1 :   -0.454:        0
+
+:  1103: A  68 SER  HB3 : A   8 PHE  CD1 :   -0.441:        0
+:  1103: A  68 SER  HB2 : A 119 GLU  OE1 :   -0.400:        0
+
+:  1103: A  67 LEU HD13 : A 118 TRP  CZ3 :   -0.425:        0
+
+:  1103: A  19 PRO  HB3 : A 144 PRO  HG3 :   -0.418:        0
+#sum2 ::18.13 clashscore : 18.13 clashscore B<40 
+#summary::1103 atoms:1103 atoms B<40:133491 potential dots:8343.0 A^2:20 bumps:20 bumps B<40:327.5 score

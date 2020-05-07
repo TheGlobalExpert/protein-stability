@@ -1,0 +1,29 @@
+
+:  1481: A 210 TYR  CZ  : A 210 TYR  CD1 :   -0.991:       19
+
+:  1481: A 129 TRP  CE3 : A 129 TRP  CE2 :   -0.976:       19
+
+:  1481: A 356 THR  OG1 : A 359 GLU  HG3 :   -0.933:       31
+
+:  1481: A 330 MET  CA  : A 331 PRO  N   :   -0.911:       14
+:  1481: A 331 PRO  CD  : A 330 MET  CA  :   -0.584:       14
+
+:  1481: A 211 SER  CA  : A 212 ILE  N   :   -0.908:       20
+:  1481: A 212 ILE  CA  : A 213 ALA  N   :   -0.782:       21
+
+:  1481: A  45 GLU  OE2 : A 341 TYR  OH  :   -0.579:       51
+:  1481: A  45 GLU  HG3 : A  42 LYS  HB3 :   -0.576:       39
+
+:  1481: A 351 ALA  HB1 : A 199 ILE HD13 :   -0.482:       30
+
+:  1481: A 339 PHE  HA  : A 368 ILE HG12 :   -0.476:       17
+
+:  1481: A 204 MET  HE3 : A 204 MET  HB3 :   -0.438:       33
+
+:  1481: A 344 ARG HH11 : A 344 ARG  HD3 :   -0.437:       49
+
+:  1481: A 168 ALA  O   : A 181 VAL  HA  :   -0.420:       17
+
+:  1481: A 370 LYS  HA  : A 370 LYS  HD3 :   -0.415:       46
+#sum2 ::10.13 clashscore : 8.57 clashscore B<40 
+#summary::1481 atoms:1401 atoms B<40:181594 potential dots:11350.0 A^2:15 bumps:12 bumps B<40:462.9 score

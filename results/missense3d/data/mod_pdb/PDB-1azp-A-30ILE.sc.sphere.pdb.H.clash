@@ -1,0 +1,41 @@
+
+:   996: A   1 MET  CA  : A   1 MET  CG  :   -0.926:        0
+:   996: A   1 MET  C   : A   1 MET  CG  :   -0.509:        0
+
+:   996: A  65 LYS  CA  : A  66 LYS  N   :   -0.879:        0
+:   996: A  65 LYS  N   : A  66 LYS  N   :   -0.530:        0
+
+:   996: A  14 GLU  HG2 : A   5 LYS  HB3 :   -0.834:        0
+:   996: A  14 GLU  CG  : A   5 LYS  HB3 :   -0.662:        0
+:   996: A   3 LYS  HE3 : A  14 GLU  HB3 :   -0.533:        0
+:   996: A   4 VAL  O   : A  14 GLU  HA  :   -0.527:        0
+:   996: A  14 GLU  HG2 : A   5 LYS  CB  :   -0.526:        0
+:   996: A   5 LYS  NZ  : A   5 LYS  CB  :   -0.446:        0
+:   996: A  14 GLU  OE2 : A   5 LYS  HE2 :   -0.436:        0
+
+:   996: A   6 PHE  HE1 : A  15 VAL HG12 :   -0.710:        0
+:   996: A  15 VAL HG12 : A   6 PHE  CE1 :   -0.467:        0
+
+:   996: A   7 LYS  HD3 : A   7 LYS  O   :   -0.695:        0
+:   996: A   7 LYS  HD3 : A   7 LYS  C   :   -0.512:        0
+
+:   996: A  35 ASP  HB3 : A  19 LYS  HD2 :   -0.679:        0
+
+:   996: A  36 ASP  HB2 : A  34 TYR  CE2 :   -0.535:        0
+
+:   996: A  30 ILE HD12 : A  47 GLU  HA  :   -0.518:        0
+:   996: A  30 ILE  CD1 : A  47 GLU  HA  :   -0.514:        0
+:   996: A  30 ILE  CD1 : A  55 LEU  CD2 :   -0.508:        0
+:   996: A  55 LEU HD21 : A  30 ILE HD11 :   -0.500:        0
+:   996: A  55 LEU HD21 : A  30 ILE  CD1 :   -0.487:        0
+:   996: A  30 ILE HD13 : A  55 LEU HD23 :   -0.440:        0
+
+:   996: A  23 VAL HG12 : A  58 LEU HD13 :   -0.471:        0
+
+:   996: A   9 LYS  C   : A  11 GLU  H   :   -0.450:        0
+
+:   996: A  16 ASP  OD2 : A  18 SER  OG  :   -0.447:        0
+
+:   996: A  13 LYS  HE3 : A  13 LYS  HB2 :   -0.426:        0
+#sum2 ::27.11 clashscore : 27.11 clashscore B<40 
+#summary::996 atoms:996 atoms B<40:113017 potential dots:7064.0 A^2:27 bumps:27 bumps B<40:196 score

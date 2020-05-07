@@ -1,0 +1,33 @@
+
+:   549: A  76 GLN  C   : A  76 GLN  CB  :   -0.884:        0
+:   549: A  76 GLN  CD  : A  76 GLN  CB  :   -0.868:        0
+
+:   549: A  80 GLN  CG  : A  80 GLN  OE1 :   -0.744:        0
+
+:   549: A  94 ASP  OD2 : A  92 THR  OG1 :   -0.742:        0
+
+:   549: A 153 VAL  HB  : A 154 GLU  OE2 :   -0.730:        0
+:   549: A 154 GLU  OE2 : A 153 VAL  CB  :   -0.685:        0
+:   549: A 154 GLU  HB2 : A 152 GLN  HB3 :   -0.611:        0
+:   549: A 154 GLU  N   : A 154 GLU  OE2 :   -0.603:        0
+:   549: A 154 GLU  H   : A 154 GLU  CD  :   -0.562:        0
+:   549: A 154 GLU  O   : A 155 VAL  OXT :   -0.524:        0
+:   549: A 153 VAL  CA  : A 154 GLU  OE2 :   -0.450:        0
+:   549: A 154 GLU  OE2 : A 153 VAL  N   :   -0.408:        0
+
+:   549: A  81 TRP  CE3 : A  85 TRP  CH2 :   -0.710:        0
+:   549: A  81 TRP  CE3 : A  85 TRP  HH2 :   -0.644:        0
+:   549: A  81 TRP  HE3 : A  85 TRP  CH2 :   -0.582:        0
+:   549: A  81 TRP  HB3 : A  85 TRP  CE2 :   -0.571:        0
+:   549: A  81 TRP  HB3 : A  85 TRP  CZ2 :   -0.508:        0
+
+:   549: A  73 TYR  HH  : A 104 TRP  HE1 :   -0.559:        0
+:   549: A  77 GLY  HA3 : A 104 TRP  CH2 :   -0.504:        0
+:   549: A  49 LEU  CD1 : A  73 TYR  HE2 :   -0.445:        0
+
+:   549: A  82 ILE  CG2 : A  83 HIS  N   :   -0.546:        0
+:   549: A  83 HIS  N   : A  82 ILE HG23 :   -0.471:        0
+
+:   549: A  99 LYS  NZ  : A  99 LYS  HB3 :   -0.477:        0
+#sum2 ::41.89 clashscore : 41.89 clashscore B<40 
+#summary::549 atoms:549 atoms B<40:66047 potential dots:4128.0 A^2:23 bumps:23 bumps B<40:15.7 score

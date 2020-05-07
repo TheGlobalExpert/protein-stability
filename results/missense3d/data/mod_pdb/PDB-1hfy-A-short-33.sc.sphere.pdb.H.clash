@@ -1,0 +1,71 @@
+
+:  1584: A  61 CYS  SG  : A  77 CYS  SG  :   -1.294:        0
+:  1584: A  50 TYR  CD1 : A  77 CYS  HB3 :   -0.553:        0
+:  1584: A  77 CYS  HB3 : A  50 TYR  CE1 :   -0.525:        0
+
+:  1584: A  60 TRP  CH2 : A  95 ILE HG12 :   -1.004:        0
+:  1584: A  60 TRP  CZ2 : A  95 ILE HG12 :   -1.001:        0
+:  1584: A  60 TRP  CH2 : A  95 ILE  HA  :   -0.978:        0
+:  1584: A  95 ILE  HA  : A  60 TRP  HH2 :   -0.827:        0
+:  1584: A  95 ILE HG12 : A  60 TRP  CZ3 :   -0.743:        0
+:  1584: A  95 ILE HG12 : A  60 TRP  CE2 :   -0.740:        0
+:  1584: A  99 VAL  CG2 : A 103 TYR  HB2 :   -0.734:        0
+:  1584: A  60 TRP  CH2 : A  95 ILE  CG1 :   -0.712:        0
+:  1584: A 103 TYR  HB2 : A  99 VAL HG21 :   -0.695:        0
+:  1584: A  95 ILE  CG1 : A  60 TRP  CZ3 :   -0.629:        0
+:  1584: A  95 ILE  CA  : A  60 TRP  CH2 :   -0.579:        0
+:  1584: A  99 VAL HG22 : A  95 ILE  O   :   -0.530:        0
+:  1584: A  73 CYS  HB2 : A  60 TRP  O   :   -0.526:        0
+:  1584: A 104 TRP  CE2 : A 103 TYR  HD2 :   -0.481:        0
+:  1584: A  60 TRP  CD2 : A  95 ILE HG12 :   -0.458:        0
+:  1584: A  95 ILE HG12 : A  60 TRP  CE3 :   -0.445:        0
+:  1584: A  56 ASN  OD1 : A  56 ASN  C   :   -0.423:        0
+:  1584: A  60 TRP  HD1 : A  56 ASN  CG  :   -0.422:        0
+
+:  1584: A  72 ILE  CB  : A  72 ILE  CD1 :   -0.949:        0
+
+:  1584: A  27 VAL  CG1 : A 118 TRP  HB3 :   -0.803:        0
+:  1584: A  24 PRO  HD2 : A  22 SER  HB2 :   -0.650:        0
+:  1584: A 118 TRP  HB3 : A  27 VAL HG13 :   -0.638:        0
+:  1584: A  24 PRO  HG3 : A 119 LEU HD23 :   -0.604:        0
+:  1584: A  23 LEU  HB3 : A  24 PRO  HD3 :   -0.568:        0
+:  1584: A  24 PRO  HG3 : A 119 LEU  CD2 :   -0.512:        0
+:  1584: A 118 TRP  HB3 : A  27 VAL HG11 :   -0.508:        0
+:  1584: A  24 PRO  HA  : A  27 VAL HG12 :   -0.456:        0
+:  1584: A  28 CYS  HB2 : A 118 TRP  CE2 :   -0.449:        0
+:  1584: A  28 CYS  SG  : A 118 TRP  CZ2 :   -0.425:        0
+:  1584: A  23 LEU HD23 : A   9 PHE  CZ  :   -0.412:        0
+
+:  1584: A 109 ALA  HA  : A 112 SER  OG  :   -0.777:        0
+
+:  1584: A  14 ASP  CB  : A  14 ASP  OD2 :   -0.762:        0
+
+:  1584: A  10 GLN  CG  : A  10 GLN  OE1 :   -0.751:        0
+
+:  1584: A  15 LEU  HG  : A  89 ILE HG23 :   -0.656:        0
+
+:  1584: A  41 ILE HD11 : A  81 LEU  CD1 :   -0.592:        0
+:  1584: A  39 GLN  HG2 : A  81 LEU  O   :   -0.519:        0
+:  1584: A  41 ILE HD11 : A  81 LEU HD11 :   -0.428:        0
+
+:  1584: A  58 LYS  HG3 : A  59 ILE HG12 :   -0.580:        0
+:  1584: A  59 ILE HD13 : A  58 LYS  O   :   -0.481:        0
+
+:  1584: A 117 GLN  HG2 : A 114 LYS  O   :   -0.574:        0
+
+:  1584: A  18 TYR  CZ  : A  93 LYS  HB3 :   -0.551:        0
+
+:  1584: A  31 PHE  HB2 : A  36 TYR  OH  :   -0.526:        0
+:  1584: A  36 TYR  CZ  : A  31 PHE  HB2 :   -0.521:        0
+
+:  1584: A  98 LYS  CD  : A  94 LYS  O   :   -0.475:        0
+
+:  1584: A  33 THR HG22 : A  54 GLN  HG2 :   -0.442:        0
+
+:  1584: A  34 SER  OG  : A  52 LEU  HA  :   -0.424:        0
+
+:  1584: A  11 LYS  HB3 : A  85 LEU HD12 :   -0.421:        0
+
+:  1584: A 102 ASN  HA  : A 105 LEU  O   :   -0.402:        0
+#sum2 ::32.20 clashscore : 32.20 clashscore B<40 
+#summary::1584 atoms:1584 atoms B<40:186204 potential dots:11640.0 A^2:51 bumps:51 bumps B<40:317 score

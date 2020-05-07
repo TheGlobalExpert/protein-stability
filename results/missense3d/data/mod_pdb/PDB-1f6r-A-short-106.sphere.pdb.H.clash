@@ -1,0 +1,36 @@
+
+:  1242: A  11 GLU  CB  : A  11 GLU  C   :   -0.941:       39
+
+:  1242: A  90 MET  C   : A  90 MET  N   :   -0.803:       23
+:  1242: A  85 LEU  O   : A  89 ILE HG13 :   -0.496:       27
+:  1242: A  90 MET  C   : A  89 ILE  C   :   -0.407:       24
+
+:  1242: A   7 GLU  C   : A   7 GLU  N   :   -0.800:       39
+:  1242: A   8 VAL HG21 : A  36 TYR  CD2 :   -0.613:       36
+:  1242: A   7 GLU  N   : A   8 VAL  N   :   -0.435:       39
+
+:  1242: A 116 ASP  O   : A 119 LEU  HB2 :   -0.509:       60
+:  1242: A 116 ASP  HA  : A 119 LEU HD23 :   -0.486:       61
+
+:  1242: A 103 TYR  HD1 : A  99 VAL HG11 :   -0.482:       35
+:  1242: A  99 VAL  O   : A  99 VAL HG12 :   -0.406:       37
+
+:  1242: A 118 TRP  HD1 : A 115 LEU  HA  :   -0.478:       52
+
+:  1242: A  23 LEU  HG  : A  16 LYS  CG  :   -0.476:       35
+
+:  1242: A  27 VAL HG21 : A   9 PHE  HD1 :   -0.473:       38
+
+:  1242: A  56 ASN  OD1 : A  56 ASN  C   :   -0.469:       45
+
+:  1242: A  58 LYS  CG  : A  58 LYS  NZ  :   -0.465:       62
+
+:  1242: A  25 GLU  HB2 : A  22 SER  O   :   -0.423:       26
+
+:  1242: A 110 LEU HD13 : A  32 HIS  CD2 :   -0.407:       28
+
+:  1242: A  48 THR  HA  : A  42 VAL  O   :   -0.404:       29
+
+:  1242: A   1 GLU  O   : A   2 GLN  CA  :   -0.402:       55
+#sum2 ::16.10 clashscore : 13.35 clashscore B<40 
+#summary::1242 atoms:1049 atoms B<40:149032 potential dots:9314.0 A^2:20 bumps:14 bumps B<40:405.1 score

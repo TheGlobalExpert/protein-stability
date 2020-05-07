@@ -1,0 +1,52 @@
+
+:  1435: A  88 SER  HB3 : A  56 HIS  NE2 :   -1.199:        0
+:  1435: A  88 SER  CB  : A  56 HIS  NE2 :   -0.919:        0
+:  1435: A  81 ALA  HB3 : A  84 LEU HD21 :   -0.881:        0
+:  1435: A  56 HIS  CE1 : A  84 LEU HD23 :   -0.696:        0
+:  1435: A  84 LEU  CD2 : A  81 ALA  HB3 :   -0.690:        0
+:  1435: A  88 SER  HB3 : A  56 HIS  CD2 :   -0.573:        0
+:  1435: A  56 HIS  HE1 : A  84 LEU  HA  :   -0.555:        0
+
+:  1435: A   7 ILE  C   : A   7 ILE  CB  :   -0.869:        0
+:  1435: A  96 LEU HD22 : A   7 ILE HD11 :   -0.466:        0
+:  1435: A   7 ILE  C   : A   7 ILE  CG1 :   -0.431:        0
+
+:  1435: A  73 GLU  HG2 : A  50 LEU HD13 :   -0.707:        0
+:  1435: A  50 LEU  CD1 : A  73 GLU  HG2 :   -0.693:        0
+:  1435: A  73 GLU  CG  : A  50 LEU  CD1 :   -0.518:        0
+:  1435: A  50 LEU HD12 : A  73 GLU  CD  :   -0.504:        0
+:  1435: A  50 LEU HD13 : A  73 GLU  CG  :   -0.404:        0
+
+:  1435: A  20 THR HG23 : A  10 HIS  CE1 :   -0.620:        0
+:  1435: A  10 HIS  CE1 : A  20 THR  CG2 :   -0.475:        0
+:  1435: A  10 HIS  ND1 : A  20 THR HG23 :   -0.455:        0
+
+:  1435: A  59 PHE  HZ  : A  29 LEU  CD1 :   -0.619:        0
+:  1435: A  29 LEU HD13 : A  57 LEU HD12 :   -0.612:        0
+:  1435: A  29 LEU HD13 : A  57 LEU  CD1 :   -0.584:        0
+:  1435: A  29 LEU  CD1 : A  59 PHE  CZ  :   -0.506:        0
+
+:  1435: A  15 ASP  OD1 : A  13 ASN  HB3 :   -0.614:        0
+
+:  1435: A  11 PHE  CE1 : A   9 VAL HG12 :   -0.609:        0
+:  1435: A  11 PHE  CE1 : A   9 VAL  CG1 :   -0.537:        0
+
+:  1435: A  77 MET  HG3 : A  52 CYS  O   :   -0.608:        0
+:  1435: A  80 LEU HD12 : A  77 MET  CE  :   -0.608:        0
+:  1435: A  90 LEU HD11 : A  77 MET  HB3 :   -0.586:        0
+:  1435: A  77 MET  HA  : A  77 MET  CE  :   -0.527:        0
+:  1435: A  80 LEU HD12 : A  77 MET  HE3 :   -0.501:        0
+:  1435: A  90 LEU HD12 : A  74 GLU  HG3 :   -0.447:        0
+
+:  1435: A  55 CYS  HA  : A  43 PHE  CE2 :   -0.558:        0
+
+:  1435: A  36 ASN  HB2 : A  38 LEU HD13 :   -0.518:        0
+:  1435: A  32 VAL  O   : A  36 ASN  ND2 :   -0.498:        0
+:  1435: A  28 SER  O   : A  32 VAL HG23 :   -0.487:        0
+:  1435: A  95 CYS  HA  : A  28 SER  HA  :   -0.432:        0
+
+:  1435: A  27 ASP  HB2 : A  24 LYS  O   :   -0.467:        0
+
+:  1435: A  39 ASP  CG  : A  39 ASP  O   :   -0.434:        0
+#sum2 ::26.48 clashscore : 26.48 clashscore B<40 
+#summary::1435 atoms:1435 atoms B<40:165987 potential dots:10370.0 A^2:38 bumps:38 bumps B<40:395.5 score

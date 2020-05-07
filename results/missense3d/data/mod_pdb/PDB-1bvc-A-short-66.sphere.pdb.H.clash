@@ -1,0 +1,13 @@
+
+:  1530: A 103 TYR  CD1 : A 103 TYR  CZ  :   -1.031:        7
+:  1530: A 102 LYS  O   : A 103 TYR  N   :   -0.697:        5
+
+:  1530: A  35 SER  CA  : A  36 HIS  N   :   -0.878:        6
+
+:  1530: A  98 LYS  C   : A  98 LYS  N   :   -0.725:       10
+
+:  1530: A  10 VAL  N   : A   9 LEU  O   :   -0.678:        7
+
+:  1530: A 139 ARG  CD  : A 139 ARG  NH1 :   -0.437:        6
+#sum2 ::3.92 clashscore : 3.92 clashscore B<40 
+#summary::1530 atoms:1530 atoms B<40:182915 potential dots:11430.0 A^2:6 bumps:6 bumps B<40:610.9 score

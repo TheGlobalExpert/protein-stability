@@ -1,0 +1,15 @@
+
+:  1019: A  47 ARG  NH1 : A  18 SER  HB3 :   -0.739:       44
+:  1019: A  47 ARG HH12 : A  18 SER  HB3 :   -0.633:       44
+:  1019: A  47 ARG  HG2 : A  43 GLU  O   :   -0.436:       29
+
+:  1019: A  11 GLU  C   : A  11 GLU  CG  :   -0.455:       14
+
+:  1019: A  24 ILE  HB  : A  53 ASP  HA  :   -0.417:       10
+
+:  1019: A  61 VAL HG22 : A  61 VAL  O   :   -0.417:       11
+
+:  1019: A  72 LYS  O   : A  75 ILE HG22 :   -0.407:       15
+:  1019: A  28 LYS  HD3 : A  75 ILE  CD1 :   -0.401:       27
+#sum2 ::7.85 clashscore : 6.05 clashscore B<40 
+#summary::1019 atoms:991 atoms B<40:117837 potential dots:7365.0 A^2:8 bumps:6 bumps B<40:364.7 score

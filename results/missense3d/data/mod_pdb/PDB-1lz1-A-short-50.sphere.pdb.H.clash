@@ -1,0 +1,21 @@
+
+:   669: A 109 TRP  CE3 : A 109 TRP  CH2 :   -0.989:       24
+
+:   669: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   669: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   669: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   669: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   669: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   669: A 114 ASN  ND2 : A 110 VAL HG12 :   -0.572:       39
+
+:   669: A  35 GLU  CA  : A  34 TRP  O   :   -0.526:       21
+
+:   669: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:   669: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:   669: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+#sum2 ::16.44 clashscore : 8.39 clashscore B<40 
+#summary::669 atoms:596 atoms B<40:82503 potential dots:5156.0 A^2:11 bumps:5 bumps B<40:212.5 score

@@ -1,0 +1,39 @@
+
+:  1055: A  18 ILE  O   : A  18 ILE HD12 :   -1.284:        0
+:  1055: A  18 ILE HD12 : A  18 ILE  C   :   -1.220:        0
+:  1055: A  18 ILE  CD1 : A  18 ILE  C   :   -0.874:        0
+:  1055: A  18 ILE  O   : A  18 ILE  CD1 :   -0.864:        0
+:  1055: A  29 ASP  OD2 : A  28 LYS  NZ  :   -0.638:        0
+:  1055: A  18 ILE  CD1 : A  28 LYS  HB3 :   -0.562:        0
+:  1055: A  28 LYS  HG3 : A  29 ASP  N   :   -0.496:        0
+:  1055: A  19 ASP  O   : A  28 LYS  HE3 :   -0.431:        0
+
+:  1055: A  59 ILE  C   : A  59 ILE  CB  :   -0.897:        0
+:  1055: A  59 ILE  CG1 : A  59 ILE  C   :   -0.518:        0
+:  1055: A  59 ILE  C   : A  59 ILE HG13 :   -0.452:        0
+
+:  1055: A   7 PHE  CE1 : A  27 TYR  HE1 :   -0.875:        0
+:  1055: A  27 TYR  CE1 : A   7 PHE  CE1 :   -0.726:        0
+:  1055: A  27 TYR  CE1 : A   7 PHE  HE1 :   -0.624:        0
+:  1055: A   7 PHE  HE1 : A  27 TYR  CZ  :   -0.428:        0
+:  1055: A  27 TYR  HH  : A   7 PHE  HE1 :   -0.421:        0
+
+:  1055: A  33 LYS  N   : A  33 LYS  CB  :   -0.828:        0
+:  1055: A  33 LYS  CE  : A  56 TRP  CZ2 :   -0.504:        0
+:  1055: A  33 LYS  CE  : A  33 LYS  CB  :   -0.415:        0
+
+:  1055: A  22 MET  CE  : A  17 ALA  HB2 :   -0.722:        0
+:  1055: A  17 ALA  HB2 : A  22 MET  HE3 :   -0.529:        0
+:  1055: A  17 ALA  HB2 : A  22 MET  HE2 :   -0.471:        0
+
+:  1055: A  34 PHE  HZ  : A  47 ARG HH22 :   -0.534:        0
+
+:  1055: A  69 ASP  OD1 : A  67 SER  OG  :   -0.461:        0
+
+:  1055: A  31 ALA  CB  : A  82 LYS  HB2 :   -0.450:        0
+
+:  1055: A  44 LEU HD23 : A  44 LEU  HA  :   -0.408:        0
+
+:  1055: A  24 GLY  HA3 : A  16 HIS  CE1 :   -0.401:        0
+#sum2 ::25.59 clashscore : 25.59 clashscore B<40 
+#summary::1055 atoms:1055 atoms B<40:123071 potential dots:7692.0 A^2:27 bumps:27 bumps B<40:243.7 score

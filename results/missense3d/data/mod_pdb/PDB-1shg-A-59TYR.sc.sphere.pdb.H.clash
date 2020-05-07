@@ -1,0 +1,50 @@
+
+:   868: A  46 VAL HG22 : A  31 LEU HD22 :   -0.991:        0
+:   868: A  46 VAL HG22 : A  31 LEU  CD2 :   -0.907:        0
+:   868: A  31 LEU HD22 : A  46 VAL  CG2 :   -0.841:        0
+
+:   868: A  51 GLY  HA3 : A  23 VAL HG13 :   -0.842:        0
+:   868: A  51 GLY  CA  : A  23 VAL HG13 :   -0.578:        0
+:   868: A  51 GLY  HA3 : A  23 VAL  CG1 :   -0.563:        0
+
+:   868: A  21 ARG  CG  : A  21 ARG  NE  :   -0.828:        0
+
+:   868: A   9 VAL HG12 : A  60 LYS  HA  :   -0.826:        0
+:   868: A  60 LYS  HE3 : A  42 TRP  CH2 :   -0.685:        0
+:   868: A  58 VAL HG21 : A  42 TRP  CE3 :   -0.541:        0
+:   868: A  58 VAL  CG2 : A  42 TRP  CE3 :   -0.487:        0
+:   868: A  58 VAL HG21 : A  42 TRP  HE3 :   -0.469:        0
+:   868: A  58 VAL  CG2 : A  42 TRP  CZ3 :   -0.423:        0
+
+:   868: A  48 ASP  OD1 : A  47 ASN  HB3 :   -0.768:        0
+:   868: A  48 ASP  N   : A  48 ASP  OD1 :   -0.554:        0
+:   868: A  48 ASP  H   : A  47 ASN  HB3 :   -0.423:        0
+
+:   868: A  54 PRO  HD3 : A  15 TYR  CZ  :   -0.644:        0
+:   868: A  25 MET  HG2 : A  15 TYR  HB3 :   -0.484:        0
+:   868: A  54 PRO  HD3 : A  15 TYR  CE2 :   -0.481:        0
+:   868: A  15 TYR  CE1 : A  54 PRO  CG  :   -0.473:        0
+:   868: A  24 THR HG23 : A  15 TYR  O   :   -0.462:        0
+
+:   868: A  62 ASP  O   : A  62 ASP  OD1 :   -0.615:        0
+
+:   868: A  39 LYS  HE2 : A  40 ASP  OD1 :   -0.607:        0
+:   868: A  40 ASP  HB2 : A  41 TRP  HD1 :   -0.426:        0
+:   868: A  22 GLU  HG2 : A  41 TRP  HZ3 :   -0.412:        0
+
+:   868: A  10 LEU HD11 : A  28 GLY  HA2 :   -0.534:        0
+
+:   868: A  59 TYR  HB2 : A  12 LEU HD21 :   -0.521:        0
+:   868: A  59 TYR  CB  : A  12 LEU HD21 :   -0.412:        0
+
+:   868: A  16 GLN  CD  : A  16 GLN  N   :   -0.502:        0
+
+:   868: A  44 VAL  O   : A  50 GLN  HA  :   -0.502:        0
+
+:   868: A   6 LYS  HB2 : A   6 LYS  HE3 :   -0.481:        0
+
+:   868: A  36 SER  HB3 : A  33 LEU HD21 :   -0.479:        0
+
+:   868: A  45 GLU  HA  : A  49 ARG  O   :   -0.455:        0
+#sum2 ::38.02 clashscore : 38.02 clashscore B<40 
+#summary::868 atoms:868 atoms B<40:99421 potential dots:6214.0 A^2:33 bumps:33 bumps B<40:92.83 score

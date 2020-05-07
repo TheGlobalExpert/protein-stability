@@ -1,0 +1,21 @@
+
+:  1449: A  99 LYS  C   : A  99 LYS  CB  :   -0.900:       19
+
+:  1449: A  38 GLY  CA  : A  39 TYR  N   :   -0.878:       13
+:  1449: A  39 TYR  N   : A  39 TYR  CB  :   -0.837:       12
+
+:  1449: A 104 TRP  CH2 : A  77 GLY  HA3 :   -0.631:       18
+
+:  1449: A 128 PRO  HD2 : A 127 HIS  HB3 :   -0.619:       29
+
+:  1449: A  66 ILE  CG2 : A   6 GLU  HG2 :   -0.502:       19
+
+:  1449: A  44 ASN  OD1 : A  48 GLU  OE2 :   -0.432:       28
+:  1449: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:  1449: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+:  1449: A  51 ALA  HB2 : A  22 TYR  HB2 :   -0.413:       12
+
+:  1449: A  47 MET  HA  : A  47 MET  CE  :   -0.412:       12
+#sum2 ::7.59 clashscore : 7.60 clashscore B<40 
+#summary::1449 atoms:1448 atoms B<40:173455 potential dots:10840.0 A^2:11 bumps:11 bumps B<40:491.3 score

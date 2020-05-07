@@ -1,0 +1,10 @@
+
+:   641: A  73 LYS  C   : A  73 LYS  CB  :   -0.894:        0
+:   641: A  73 LYS  CB  : A  73 LYS  N   :   -0.839:        0
+:   641: A  73 LYS  C   : A  73 LYS  N   :   -0.722:        0
+
+:   641: A 136 PRO  C   : A 136 PRO  CB  :   -0.882:        0
+
+:   641: A  68 MET  CE  : A  35 THR  HB  :   -0.578:        0
+#sum2 ::7.80 clashscore : 7.80 clashscore B<40 
+#summary::641 atoms:641 atoms B<40:77244 potential dots:4828.0 A^2:5 bumps:5 bumps B<40:147.5 score

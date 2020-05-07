@@ -1,0 +1,18 @@
+
+:  1280: A  66 LEU  CB  : A  66 LEU  CD2 :   -0.993:       19
+
+:  1280: A 145 ARG  C   : A 145 ARG  CB  :   -0.898:       15
+:  1280: A 145 ARG  C   : A 145 ARG  CG  :   -0.650:       22
+:  1280: A 145 ARG  C   : A 145 ARG  HG2 :   -0.443:       22
+
+:  1280: A 151 THR  C   : A 151 THR  N   :   -0.750:       11
+
+:  1280: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1280: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.525:       21
+
+:  1280: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1280: A   1 MET  C   : A   1 MET  CG  :   -0.407:       30
+#sum2 ::7.03 clashscore : 6.68 clashscore B<40 
+#summary::1280 atoms:1197 atoms B<40:154197 potential dots:9637.0 A^2:9 bumps:8 bumps B<40:465.9 score

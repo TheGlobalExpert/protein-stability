@@ -1,0 +1,28 @@
+
+:  1323: A  58 LYS  CA  : A  58 LYS  CG  :   -0.907:       37
+:  1323: A  59 ILE  N   : A  58 LYS  CA  :   -0.859:       21
+:  1323: A  59 ILE  N   : A  58 LYS  N   :   -0.447:       19
+
+:  1323: A  65 GLN  CB  : A  65 GLN  N   :   -0.869:       26
+:  1323: A  64 ASP  N   : A  65 GLN  N   :   -0.520:       22
+
+:  1323: A  27 VAL  CG1 : A 118 TRP  HB3 :   -0.727:       17
+:  1323: A 118 TRP  HB3 : A  27 VAL HG13 :   -0.594:       17
+
+:  1323: A  99 VAL  CG2 : A 103 TYR  HB2 :   -0.571:       30
+
+:  1323: A  63 ASP  HB2 : A  57 ASN  HB2 :   -0.532:       22
+:  1323: A  63 ASP  OD2 : A  57 ASN  ND2 :   -0.424:       25
+
+:  1323: A  81 LEU  CD1 : A  41 ILE HD11 :   -0.520:       27
+:  1323: A  39 GLN  HG2 : A  81 LEU  O   :   -0.488:       34
+
+:  1323: A  15 LEU  HG  : A  89 ILE HG23 :   -0.514:        9
+
+:  1323: A  60 TRP  O   : A  73 CYS  HB2 :   -0.479:       11
+
+:  1323: A  80 PHE  CZ  : A  75 ILE HG21 :   -0.462:        4
+
+:  1323: A  77 CYS  HB3 : A  50 TYR  CD1 :   -0.438:        7
+#sum2 ::12.09 clashscore : 12.70 clashscore B<40 
+#summary::1323 atoms:1260 atoms B<40:160002 potential dots:10000.0 A^2:16 bumps:16 bumps B<40:436.2 score

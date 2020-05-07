@@ -1,0 +1,10 @@
+
+:   727: A   7 THR  CG2 : A   7 THR  CA  :   -0.945:       17
+:   727: A   8 VAL  CB  : A   8 VAL  N   :   -0.888:       14
+:   727: A   8 VAL HG21 : A   8 VAL  CB  :   -0.873:       27
+:   727: A   8 VAL  N   : A   7 THR  CA  :   -0.858:       12
+
+:   727: A  12 ILE HD13 : A   5 THR  HB  :   -0.429:       26
+:   727: A   5 THR  HB  : A  12 ILE  CD1 :   -0.427:       26
+#sum2 ::8.25 clashscore : 8.40 clashscore B<40 
+#summary::727 atoms:714 atoms B<40:84962 potential dots:5310.0 A^2:6 bumps:6 bumps B<40:241.6 score

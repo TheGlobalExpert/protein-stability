@@ -1,0 +1,11 @@
+
+:   772: A 107 ILE  CA  : A 107 ILE  O   :   -0.723:        5
+
+:   772: A  22 ALA  N   : A  21 VAL  O   :   -0.698:        7
+:   772: A  22 ALA  CA  : A  21 VAL  O   :   -0.415:        7
+
+:   772: A  54 GLU  HG3 : A  51 THR  OG1 :   -0.543:       16
+
+:   772: A  50 LYS  HE2 : A  50 LYS  HB2 :   -0.495:       24
+#sum2 ::6.48 clashscore : 6.48 clashscore B<40 
+#summary::772 atoms:772 atoms B<40:92707 potential dots:5794.0 A^2:5 bumps:5 bumps B<40:276.2 score

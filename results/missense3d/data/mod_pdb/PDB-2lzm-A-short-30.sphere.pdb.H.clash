@@ -1,0 +1,45 @@
+
+:  1727: A  20 ASP  HB3 : A  22 GLU  H   :   -1.052:       42
+:  1727: A  20 ASP  HB2 : A  24 TYR  H   :   -1.025:       32
+:  1727: A  20 ASP  HB3 : A  22 GLU  N   :   -0.797:       42
+:  1727: A  20 ASP  HB2 : A  24 TYR  N   :   -0.689:       32
+:  1727: A 136 SER  O   : A 137 ARG  N   :   -0.671:       21
+:  1727: A  24 TYR  O   : A  19 LYS  HA  :   -0.475:       26
+:  1727: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1727: A 141 GLN  HG2 : A 137 ARG  CZ  :   -0.450:       39
+
+:  1727: A 164 LEU  CD2 : A 148 ARG  HD3 :   -0.991:       50
+:  1727: A 164 LEU HD21 : A 148 ARG  HD3 :   -0.693:       50
+:  1727: A 164 LEU  CD1 : A 164 LEU  N   :   -0.593:       64
+:  1727: A 164 LEU  N   : A 164 LEU HD13 :   -0.567:       64
+:  1727: A 164 LEU  CD2 : A 148 ARG  CD  :   -0.516:       50
+:  1727: A 148 ARG  HD3 : A 164 LEU HD23 :   -0.503:       50
+:  1727: A 148 ARG  CD  : A 164 LEU HD23 :   -0.438:       50
+
+:  1727: A  96 ARG  CA  : A  95 ARG  C   :   -0.980:       17
+
+:  1727: A 150 ILE  CG1 : A 150 ILE  CA  :   -0.909:       19
+
+:  1727: A  43 LYS  HE2 : A  39 LEU HD13 :   -0.650:       48
+:  1727: A  43 LYS  HD3 : A  39 LEU  O   :   -0.441:       42
+
+:  1727: A  41 ALA  H   : A  38 SER  HB2 :   -0.643:       26
+
+:  1727: A  50 ILE HG22 : A  52 ARG  HG2 :   -0.571:       48
+:  1727: A  52 ARG  HG3 : A  52 ARG HH11 :   -0.548:       48
+:  1727: A  52 ARG  HG2 : A  50 ILE  CG2 :   -0.496:       48
+:  1727: A  52 ARG  NH1 : A  52 ARG  HG3 :   -0.473:       48
+
+:  1727: A  60 LYS  O   : A  64 GLU  HG3 :   -0.558:       32
+
+:  1727: A 158 TRP  CE3 : A   1 MET  HG2 :   -0.507:       30
+:  1727: A   1 MET  HG2 : A 158 TRP  CD2 :   -0.442:       30
+
+:  1727: A  21 THR HG22 : A  21 THR  O   :   -0.506:       52
+
+:  1727: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+
+:  1727: A  16 LYS  HG3 : A  17 ILE  N   :   -0.434:       48
+:  1727: A  16 LYS  HE2 : A  56 GLY  O   :   -0.423:       56
+#sum2 ::17.95 clashscore : 7.80 clashscore B<40 
+#summary::1727 atoms:1539 atoms B<40:202838 potential dots:12680.0 A^2:31 bumps:12 bumps B<40:555.4 score

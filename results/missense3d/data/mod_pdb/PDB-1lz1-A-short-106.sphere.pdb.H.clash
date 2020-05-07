@@ -1,0 +1,38 @@
+
+:  1468: A 120 ASP  OD1 : A 122 ARG  HD2 :   -1.187:      101
+:  1468: A 120 ASP  OD1 : A 122 ARG  CD  :   -0.810:      101
+:  1468: A 122 ARG  HB3 : A 126 GLN  NE2 :   -0.419:       89
+
+:  1468: A 112 TRP  CH2 : A 107 ARG  NH1 :   -0.870:      106
+:  1468: A 112 TRP  HH2 : A 107 ARG HH12 :   -0.762:      106
+:  1468: A 107 ARG  NH1 : A 112 TRP  CZ3 :   -0.738:      106
+:  1468: A 107 ARG  NH1 : A 112 TRP  HH2 :   -0.708:      106
+:  1468: A 112 TRP  HZ3 : A 107 ARG HH11 :   -0.478:      106
+
+:  1468: A 111 ALA  O   : A 115 ARG  HG2 :   -0.767:       46
+
+:  1468: A  81 CYS  CA  : A  81 CYS  O   :   -0.756:       13
+
+:  1468: A  79 LEU  CA  : A  79 LEU  O   :   -0.751:       19
+
+:  1468: A  62 ARG  NH1 : A  62 ARG  NE  :   -0.720:       57
+:  1468: A  62 ARG  NH1 : A  62 ARG  CD  :   -0.410:       57
+
+:  1468: A  74 VAL HG12 : A  74 VAL  O   :   -0.573:       68
+:  1468: A  74 VAL  CG1 : A  74 VAL  O   :   -0.509:       68
+
+:  1468: A  84 LEU  CD2 : A  92 ALA  HA  :   -0.495:       22
+:  1468: A  84 LEU HD22 : A  92 ALA  HA  :   -0.465:       22
+
+:  1468: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+
+:  1468: A 113 ARG  HD2 : A 110 VAL  HA  :   -0.428:       40
+:  1468: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:  1468: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1468: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+
+:  1468: A 102 ASP  HB3 : A 103 PRO  HD2 :   -0.402:       88
+#sum2 ::15.67 clashscore : 5.44 clashscore B<40 
+#summary::1468 atoms:1287 atoms B<40:174215 potential dots:10890.0 A^2:23 bumps:7 bumps B<40:499.1 score

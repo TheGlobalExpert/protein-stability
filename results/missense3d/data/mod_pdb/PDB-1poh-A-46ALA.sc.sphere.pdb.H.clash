@@ -1,0 +1,44 @@
+
+:  1064: A  32 GLU  OE2 : A  32 GLU  O   :   -1.015:        0
+:  1064: A  32 GLU  OE2 : A  32 GLU  C   :   -0.950:        0
+:  1064: A  32 GLU  CD  : A  32 GLU  C   :   -0.949:        0
+:  1064: A  32 GLU  OE2 : A  33 ILE  N   :   -0.445:        0
+:  1064: A  32 GLU  CD  : A  33 ILE  N   :   -0.434:        0
+
+:  1064: A   2 PHE  CD2 : A   2 PHE  CB  :   -0.986:        0
+:  1064: A   1 MET  CA  : A   2 PHE  N   :   -0.893:        0
+:  1064: A  66 GLU  HG2 : A   1 MET  HB2 :   -0.604:        0
+
+:  1064: A   5 GLU  CG  : A   5 GLU  CA  :   -0.936:        0
+
+:  1064: A  83 GLU  N   : A  83 GLU  C   :   -0.718:        0
+
+:  1064: A   7 THR  C   : A   7 THR  N   :   -0.714:        0
+
+:  1064: A  61 VAL HG12 : A  37 SER  HB2 :   -0.658:        0
+
+:  1064: A  27 LYS  HG3 : A  23 VAL  O   :   -0.630:        0
+:  1064: A  23 VAL HG12 : A  27 LYS  HE3 :   -0.614:        0
+:  1064: A  19 ALA  O   : A  23 VAL HG23 :   -0.547:        0
+:  1064: A  27 LYS  HE3 : A  23 VAL  CG1 :   -0.415:        0
+
+:  1064: A  85 GLU  N   : A  85 GLU  C   :   -0.611:        0
+:  1064: A  85 GLU  OE1 : A  85 GLU  OXT :   -0.551:        0
+
+:  1064: A  80 LEU HD22 : A  25 GLU  CD  :   -0.604:        0
+:  1064: A  84 LEU HD11 : A  80 LEU HD11 :   -0.425:        0
+:  1064: A  84 LEU HD13 : A  80 LEU  O   :   -0.411:        0
+
+:  1064: A  17 ARG  N   : A  18 PRO  HD2 :   -0.575:        0
+:  1064: A  17 ARG  N   : A  18 PRO  CD  :   -0.463:        0
+:  1064: A  18 PRO  HG2 : A  15 HIS  O   :   -0.406:        0
+
+:  1064: A  35 VAL HG23 : A  44 ALA  HB2 :   -0.559:        0
+:  1064: A  44 ALA  HA  : A  50 LEU HD21 :   -0.426:        0
+:  1064: A  50 LEU HD23 : A  42 ALA  HB3 :   -0.416:        0
+
+:  1064: A   3 GLN  HB3 : A  64 SER  CB  :   -0.492:        0
+:  1064: A  64 SER  HB3 : A   3 GLN  HB3 :   -0.471:        0
+:  1064: A   3 GLN  HA  : A  63 ILE  O   :   -0.412:        0
+#sum2 ::28.20 clashscore : 28.20 clashscore B<40 
+#summary::1064 atoms:1064 atoms B<40:126666 potential dots:7917.0 A^2:30 bumps:30 bumps B<40:180 score

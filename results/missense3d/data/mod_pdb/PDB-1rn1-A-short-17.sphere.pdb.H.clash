@@ -1,0 +1,10 @@
+
+:  1159: A  71 GLY  C   : A  71 GLY  N   :   -0.682:       31
+
+:  1159: A  22 ALA  O   : A  26 LEU HD13 :   -0.515:       31
+
+:  1159: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+
+:  1159: A  79 VAL  CG1 : A  56 TYR  HB3 :   -0.434:       15
+#sum2 ::3.45 clashscore : 3.53 clashscore B<40 
+#summary::1159 atoms:1133 atoms B<40:137476 potential dots:8592.0 A^2:4 bumps:4 bumps B<40:477.8 score

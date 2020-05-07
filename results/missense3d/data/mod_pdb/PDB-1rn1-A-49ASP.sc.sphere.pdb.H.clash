@@ -1,0 +1,66 @@
+
+:   795: A 100 PHE  CZ  : A  92 HIS  NE2 :   -1.599:        0
+:   795: A  92 HIS  CE1 : A 100 PHE  CZ  :   -1.561:        0
+:   795: A  92 HIS  CE1 : A 100 PHE  CE2 :   -1.243:        0
+:   795: A  92 HIS  CD2 : A 100 PHE  CE1 :   -1.177:        0
+:   795: A 100 PHE  CE1 : A  92 HIS  CE1 :   -1.135:        0
+:   795: A  92 HIS  NE2 : A 100 PHE  CE1 :   -1.102:        0
+:   795: A 100 PHE  CZ  : A  92 HIS  CD2 :   -0.898:        0
+:   795: A 100 PHE  HZ  : A  92 HIS  NE2 :   -0.866:        0
+:   795: A  92 HIS  HE1 : A 100 PHE  CE2 :   -0.853:        0
+:   795: A  92 HIS  CG  : A 100 PHE  CE1 :   -0.836:        0
+:   795: A 100 PHE  HE1 : A  92 HIS  CD2 :   -0.752:        0
+:   795: A  92 HIS  ND1 : A 100 PHE  CE1 :   -0.662:        0
+:   795: A 100 PHE  HD1 : A  91 THR  C   :   -0.620:        0
+:   795: A  92 HIS  CE1 : A 100 PHE  CD2 :   -0.548:        0
+:   795: A  92 HIS  CE1 : A 100 PHE  CD1 :   -0.462:        0
+:   795: A  92 HIS  ND1 : A 100 PHE  CD1 :   -0.416:        0
+
+:   795: A  40 HIS  NE2 : A  58 GLU  CD  :   -1.065:        0
+:   795: A  40 HIS  CE1 : A  58 GLU  CD  :   -1.000:        0
+:   795: A  58 GLU  OE1 : A  40 HIS  NE2 :   -0.777:        0
+:   795: A  40 HIS  HE2 : A  58 GLU  CD  :   -0.774:        0
+:   795: A  40 HIS  NE2 : A  58 GLU  CG  :   -0.688:        0
+:   795: A  58 GLU  OE2 : A  40 HIS  CE1 :   -0.672:        0
+:   795: A  40 HIS  CE1 : A  58 GLU  CG  :   -0.607:        0
+:   795: A  40 HIS  HD2 : A  41 LYS  O   :   -0.586:        0
+:   795: A  58 GLU  HG2 : A  40 HIS  CD2 :   -0.585:        0
+:   795: A  40 HIS  C   : A  40 HIS  CD2 :   -0.513:        0
+:   795: A  58 GLU  OE2 : A  40 HIS  HE1 :   -0.490:        0
+:   795: A  40 HIS  NE2 : A  58 GLU  HG2 :   -0.476:        0
+
+:   795: A  11 TYR  CD2 : A  11 TYR  CB  :   -0.965:        0
+
+:   795: A  61 ILE  CD1 : A  61 ILE  CB  :   -0.946:        0
+:   795: A  60 PRO  CA  : A  61 ILE  N   :   -0.890:        0
+:   795: A  61 ILE  CB  : A  61 ILE  N   :   -0.794:        0
+:   795: A  61 ILE  N   : A  61 ILE  CG2 :   -0.449:        0
+
+:   795: A  99 ASN  HB2 : A  96 SER  O   :   -0.877:        0
+:   795: A  96 SER  O   : A  99 ASN  CB  :   -0.517:        0
+
+:   795: A  13 SER  CA  : A  13 SER  O   :   -0.776:        0
+
+:   795: A  97 GLY  C   : A  97 GLY  N   :   -0.739:        0
+
+:   795: A  56 TYR  CE2 : A  54 SER  HB3 :   -0.714:        0
+:   795: A  52 VAL  O   : A  56 TYR  OH  :   -0.698:        0
+:   795: A  55 PRO  HA  : A  54 SER  HB2 :   -0.696:        0
+:   795: A  56 TYR  HE1 : A  52 VAL HG23 :   -0.508:        0
+:   795: A  54 SER  HB2 : A  55 PRO  CA  :   -0.438:        0
+
+:   795: A   2 CYS  O   : A   3 ASP  N   :   -0.683:        0
+
+:   795: A  50 PHE  HD2 : A  87 ALA  O   :   -0.656:        0
+:   795: A  50 PHE  CD2 : A  87 ALA  HB1 :   -0.459:        0
+
+:   795: A 104 THR  OXT : A   4 TYR  HA  :   -0.447:        0
+:   795: A 104 THR HG22 : A 104 THR  O   :   -0.435:        0
+
+:   795: A  43 ASN  O   : A  44 ASN  CB  :   -0.425:        0
+
+:   795: A  81 ASN  OD1 : A  81 ASN  C   :   -0.414:        0
+
+:   795: A  78 VAL HG22 : A  59 TRP  O   :   -0.413:        0
+#sum2 ::62.89 clashscore : 62.89 clashscore B<40 
+#summary::795 atoms:795 atoms B<40:100026 potential dots:6252.0 A^2:50 bumps:50 bumps B<40:-63.12 score

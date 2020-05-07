@@ -1,0 +1,16 @@
+
+:   968: A  44 VAL  CG2 : A  44 VAL  CG1 :   -1.011:       12
+
+:   968: A   2 ASP  C   : A   2 ASP  N   :   -0.780:       18
+
+:   968: A  15 ARG HH11 : A  15 ARG  HG2 :   -0.760:       27
+:   968: A  38 TYR  CD2 : A  15 ARG  HG3 :   -0.507:       21
+
+:   968: A   7 GLN  HG2 : A  11 ILE HD12 :   -0.514:       18
+
+:   968: A  33 LYS  HA  : A  68 CYS  O   :   -0.457:        8
+:   968: A  69 ASN  OD1 : A  33 LYS  HG3 :   -0.429:       21
+
+:   968: A  79 LEU HD11 : A  66 SER  HB3 :   -0.455:       10
+#sum2 ::8.26 clashscore : 8.34 clashscore B<40 
+#summary::968 atoms:959 atoms B<40:114410 potential dots:7151.0 A^2:8 bumps:8 bumps B<40:301.1 score

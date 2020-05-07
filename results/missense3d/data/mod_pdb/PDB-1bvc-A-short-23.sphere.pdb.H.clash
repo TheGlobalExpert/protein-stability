@@ -1,0 +1,12 @@
+
+:  1244: A  89 LEU  CD1 : A  89 LEU  CD2 :   -0.971:       11
+
+:  1244: A  36 HIS  CB  : A  36 HIS  CD2 :   -0.918:        7
+
+:  1244: A  77 LYS  N   : A  77 LYS  CB  :   -0.859:        8
+
+:  1244: A  54 GLU  HG3 : A  51 THR  OG1 :   -0.543:       16
+
+:  1244: A  45 ARG  CD  : A  45 ARG  NH1 :   -0.432:       15
+#sum2 ::4.02 clashscore : 4.02 clashscore B<40 
+#summary::1244 atoms:1244 atoms B<40:148511 potential dots:9282.0 A^2:5 bumps:5 bumps B<40:465.7 score

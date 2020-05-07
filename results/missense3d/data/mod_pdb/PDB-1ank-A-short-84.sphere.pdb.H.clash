@@ -1,0 +1,121 @@
+
+:  2506: A  77 CYS  SG  : A  72 ILE  HA  :   -1.181:       48
+:  2506: A  72 ILE HD13 : A 101 ILE HD13 :   -0.843:       26
+:  2506: A 101 ILE HD13 : A  72 ILE  CD1 :   -0.651:       26
+:  2506: A  73 ALA  HB2 : A  72 ILE  O   :   -0.512:       28
+:  2506: A  81 PHE  HZ  : A 101 ILE  CG2 :   -0.507:       28
+:  2506: A  72 ILE HD13 : A 101 ILE  CD1 :   -0.462:       26
+:  2506: A  77 CYS  SG  : A  72 ILE  CA  :   -0.453:       48
+:  2506: A  72 ILE  O   : A  73 ALA  CB  :   -0.441:       28
+:  2506: A  72 ILE  CD1 : A 101 ILE  CD1 :   -0.425:       26
+
+:  2506: A 137 PHE  CD2 : A 137 PHE  CB  :   -0.999:        8
+
+:  2506: A 163 THR  CB  : A 163 THR  C   :   -0.963:        5
+:  2506: A 163 THR  C   : A 163 THR  CG2 :   -0.450:        5
+
+:  2506: A 113 ASP  CA  : A 113 ASP  CG  :   -0.877:        8
+:  2506: A 113 ASP  CA  : A 113 ASP  OD1 :   -0.425:        5
+
+:  2506: A 115 LEU  C   : A 115 LEU  CB  :   -0.870:        3
+
+:  2506: A  47 LYS  CA  : A  48 GLN  N   :   -0.861:        8
+:  2506: A  48 GLN  N   : A  48 GLN  C   :   -0.722:        8
+
+:  2506: A  35 LEU  O   : A  39 VAL HG13 :   -0.784:        4
+
+:  2506: A 117 VAL  CA  : A 117 VAL  O   :   -0.784:        2
+
+:  2506: A  49 ALA  HB2 : A  35 LEU HD22 :   -0.410:        2
+
+:  2506: A  71 ARG HH12 : A  76 ASP  HB2 :   -0.772:       44
+:  2506: A  71 ARG  HD3 : A  71 ARG  O   :   -0.711:       24
+:  2506: A  71 ARG  C   : A  71 ARG  HD3 :   -0.564:       24
+
+:  2506: A 157 LYS  H   : A 157 LYS  NZ  :   -0.762:       16
+:  2506: A 157 LYS  HZ2 : A 157 LYS  H   :   -0.534:       16
+:  2506: A 157 LYS  H   : A 157 LYS  HZ3 :   -0.483:       16
+
+:  2506: A 122 GLY  N   : A 122 GLY  C   :   -0.743:        4
+:  2506: A 123 ARG  HD2 : A 159 ASP  OD2 :   -0.490:       13
+:  2506: A 122 GLY  N   : A 123 ARG  N   :   -0.448:        4
+:  2506: A 121 VAL  N   : A 122 GLY  N   :   -0.404:        5
+
+:  2506: A  82 LEU  O   : A  29 ILE HG12 :   -0.738:       10
+:  2506: A  83 LEU HD22 : A  86 PHE  HB3 :   -0.552:       16
+:  2506: A  29 ILE HG13 : A  83 LEU HD23 :   -0.544:       16
+:  2506: A   5 LEU HD21 : A  82 LEU HD11 :   -0.445:        6
+:  2506: A  29 ILE  O   : A  29 ILE HG13 :   -0.416:       10
+
+:  2506: A  78 ARG  HD3 : A  78 ARG  H   :   -0.735:       41
+:  2506: A  27 PRO  HD2 : A  80 GLY  O   :   -0.707:       15
+:  2506: A  78 ARG  H   : A  78 ARG  CD  :   -0.467:       41
+:  2506: A  78 ARG  C   : A  80 GLY  H   :   -0.410:       37
+
+:  2506: A 154 THR  N   : A 154 THR  C   :   -0.727:       10
+
+:  2506: A  90 ILE  HB  : A  91 PRO  HD3 :   -0.680:       16
+:  2506: A  90 ILE  O   : A  93 ALA  HB3 :   -0.617:       11
+:  2506: A 178 LEU HD21 : A  93 ALA  HB2 :   -0.564:        4
+:  2506: A  89 THR  CB  : A  91 PRO  HD2 :   -0.461:       16
+:  2506: A  90 ILE HD12 : A  90 ILE HG23 :   -0.442:        3
+:  2506: A 182 TYR  HE2 : A 178 LEU HD22 :   -0.434:        5
+:  2506: A  91 PRO  HD2 : A  89 THR  HB  :   -0.424:       16
+:  2506: A  92 GLN  HB2 : A  89 THR  H   :   -0.424:        4
+:  2506: A  89 THR  O   : A  92 GLN  HB2 :   -0.402:        4
+
+:  2506: A  98 GLU  C   : A  98 GLU  N   :   -0.665:       21
+
+:  2506: A 209 LEU  CD2 : A 196 VAL HG11 :   -0.629:        9
+:  2506: A 109 PHE  HA  : A 196 VAL HG23 :   -0.599:        7
+:  2506: A 205 VAL  O   : A 209 LEU  HG  :   -0.581:       13
+:  2506: A 196 VAL HG11 : A 209 LEU HD21 :   -0.547:        9
+:  2506: A 109 PHE  HE2 : A  16 GLN  HG3 :   -0.484:       12
+:  2506: A 206 ARG  O   : A 209 LEU  HB2 :   -0.430:       14
+:  2506: A 109 PHE  CD1 : A 109 PHE  N   :   -0.425:        7
+:  2506: A 209 LEU HD23 : A 209 LEU  HA  :   -0.417:       11
+
+:  2506: A 183 SER  HB2 : A 180 GLY  O   :   -0.619:       14
+
+:  2506: A 127 ALA  HB3 : A 128 PRO  HD3 :   -0.616:       12
+:  2506: A 129 SER  OG  : A 126 HIS  ND1 :   -0.474:        4
+:  2506: A 128 PRO  O   : A 129 SER  CB  :   -0.437:       16
+
+:  2506: A  37 ALA  HA  : A  40 LYS  HE2 :   -0.586:        9
+
+:  2506: A  23 LYS  HG3 : A  19 PHE  CE1 :   -0.583:       25
+:  2506: A  23 LYS  CG  : A  19 PHE  CE1 :   -0.414:       25
+
+:  2506: A  34 MET  HB3 : A  67 LEU HD23 :   -0.563:        8
+
+:  2506: A 175 THR  HB  : A 171 TYR  CD1 :   -0.548:        4
+
+:  2506: A 116 ILE  N   : A 116 ILE HD13 :   -0.546:        7
+
+:  2506: A 132 VAL  HB  : A 125 VAL HG12 :   -0.517:       10
+:  2506: A 133 TYR  N   : A 132 VAL  CG2 :   -0.418:        5
+:  2506: A 132 VAL HG23 : A 133 TYR  N   :   -0.410:        5
+
+:  2506: A  21 MET  HG3 : A  26 ILE  O   :   -0.505:       21
+
+:  2506: A  24 TYR  CD1 : A  24 TYR  N   :   -0.470:       28
+
+:  2506: A  69 LYS  HE2 : A  65 ILE  CG2 :   -0.464:       19
+
+:  2506: A   4 ILE HG21 : A  87 PRO  HD2 :   -0.448:        7
+
+:  2506: A  36 ARG  NH2 : A 156 ARG  NH1 :   -0.440:       13
+
+:  2506: A  97 LYS  C   : A  99 ALA  H   :   -0.432:       19
+:  2506: A  99 ALA  H   : A 100 GLY  H   :   -0.409:       19
+
+:  2506: A 111 VAL HG21 : A  11 ALA  HA  :   -0.416:        2
+:  2506: A 198 GLY  HA3 : A 111 VAL  CG2 :   -0.415:        2
+
+:  2506: A 146 ASP  OD1 : A 131 ARG  HD2 :   -0.411:       14
+
+:  2506: A 158 ASP  N   : A 158 ASP  OD1 :   -0.403:        2
+
+:  2506: A 201 PRO  O   : A 202 VAL  C   :   -0.400:        5
+#sum2 ::33.12 clashscore : 31.89 clashscore B<40 
+#summary::2506 atoms:2446 atoms B<40:296533 potential dots:18530.0 A^2:83 bumps:78 bumps B<40:429.2 score

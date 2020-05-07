@@ -1,0 +1,40 @@
+
+:  1582: A   1 MET  CA  : A   1 MET  CG  :   -1.037:       42
+:  1582: A   1 MET  CG  : A   1 MET  C   :   -0.408:       42
+
+:  1582: A 100 ASN  ND2 : A 100 ASN  CB  :   -0.917:       12
+
+:  1582: A  62 HIS  CD2 : A  62 HIS  CB  :   -0.917:       28
+:  1582: A  62 HIS  CD2 : A 113 GLN  O   :   -0.503:       28
+
+:  1582: A  60 LYS  CA  : A  61 GLU  N   :   -0.868:       26
+:  1582: A  61 GLU  CG  : A  61 GLU  CA  :   -0.824:       33
+:  1582: A  61 GLU  CG  : A  61 GLU  C   :   -0.412:       33
+
+:  1582: A 139 ALA  N   : A 139 ALA  CB  :   -0.841:       17
+
+:  1582: A 140 ALA  N   : A 140 ALA  CB  :   -0.796:       18
+
+:  1582: A  83 HIS  CB  : A  83 HIS  N   :   -0.774:       30
+
+:  1582: A 105 GLN  C   : A 105 GLN  N   :   -0.748:        9
+
+:  1582: A  39 TYR  CE1 : A  39 TYR  OH  :   -0.737:       19
+
+:  1582: A  77 GLY  HA3 : A 104 TRP  CH2 :   -0.631:       18
+
+:  1582: A 127 HIS  HB3 : A 128 PRO  HD2 :   -0.619:       29
+
+:  1582: A   6 GLU  HG2 : A  66 ILE  CG2 :   -0.502:       19
+
+:  1582: A   2 LEU HD23 : A   2 LEU  HA  :   -0.467:       28
+
+:  1582: A  44 ASN  OD1 : A  48 GLU  OE2 :   -0.432:       28
+:  1582: A  44 ASN  O   : A  48 GLU  HG3 :   -0.404:       20
+
+:  1582: A  51 ALA  CB  : A   9 THR  HB  :   -0.431:       10
+:  1582: A  22 TYR  HB2 : A  51 ALA  HB2 :   -0.413:       12
+
+:  1582: A  47 MET  HA  : A  47 MET  CE  :   -0.412:       12
+#sum2 ::13.91 clashscore : 12.71 clashscore B<40 
+#summary::1582 atoms:1573 atoms B<40:189135 potential dots:11820.0 A^2:22 bumps:20 bumps B<40:410.7 score

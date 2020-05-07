@@ -1,0 +1,6 @@
+KVFinder Input = missense3d/data/mod_pdb/PDB-1c8c-A-short.sc.pdb
+KVFinder Output = PDB-1c8c-A-short.sc.KVFinder.output.pdb
+
+#KVFinder Results:
+
+#Interface Residues for Each Cavity: 

@@ -1,0 +1,41 @@
+
+:  1073: A 128 CYS  SG  : A   6 CYS  SG  :   -0.769:        0
+
+:  1073: A 109 TRP  CA  : A 109 TRP  O   :   -0.756:        0
+
+:  1073: A 111 ALA  N   : A 110 VAL  O   :   -0.706:        0
+:  1073: A 110 VAL  O   : A 111 ALA  CA  :   -0.407:        0
+
+:  1073: A  93 VAL HG21 : A  15 LEU  CD1 :   -0.632:        0
+:  1073: A  97 LYS  HB3 : A  20 TYR  CZ  :   -0.590:        0
+:  1073: A  17 MET  SD  : A  93 VAL HG13 :   -0.517:        0
+:  1073: A  20 TYR  CE1 : A  97 LYS  HD3 :   -0.458:        0
+:  1073: A  15 LEU HD12 : A  93 VAL HG21 :   -0.457:        0
+:  1073: A  93 VAL HG21 : A  15 LEU HD13 :   -0.427:        0
+:  1073: A  97 LYS  HE3 : A  93 VAL  CG1 :   -0.405:        0
+
+:  1073: A  30 CYS  HA  : A 124 TYR  CE2 :   -0.613:        0
+:  1073: A 124 TYR  HE2 : A  33 LYS  CB  :   -0.551:        0
+:  1073: A  33 LYS  HG2 : A 124 TYR  HE2 :   -0.494:        0
+:  1073: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.468:        0
+:  1073: A 124 TYR  HE2 : A  33 LYS  CG  :   -0.444:        0
+:  1073: A 124 TYR  HB3 : A  29 MET  HB3 :   -0.435:        0
+:  1073: A  30 CYS  HA  : A 124 TYR  CZ  :   -0.420:        0
+:  1073: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.409:        0
+
+:  1073: A  28 TRP  HH2 : A 100 VAL  CG1 :   -0.560:        0
+
+:  1073: A  34 TRP  CE2 : A 115 ARG  HD2 :   -0.555:        0
+:  1073: A  34 TRP  CZ2 : A 115 ARG  HD2 :   -0.462:        0
+:  1073: A 115 ARG  HB3 : A  34 TRP  NE1 :   -0.448:        0
+:  1073: A 115 ARG  HD2 : A  34 TRP  CD2 :   -0.448:        0
+
+:  1073: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.495:        0
+
+:  1073: A 106 ILE  O   : A 106 ILE HG13 :   -0.467:        0
+:  1073: A 106 ILE HG12 : A 112 TRP  NE1 :   -0.450:        0
+:  1073: A 106 ILE HG12 : A 112 TRP  CD1 :   -0.425:        0
+
+:  1073: A  35 GLU  HB3 : A  58 GLN  CG  :   -0.410:        0
+#sum2 ::27.03 clashscore : 27.03 clashscore B<40 
+#summary::1073 atoms:1073 atoms B<40:127215 potential dots:7951.0 A^2:29 bumps:29 bumps B<40:291.6 score

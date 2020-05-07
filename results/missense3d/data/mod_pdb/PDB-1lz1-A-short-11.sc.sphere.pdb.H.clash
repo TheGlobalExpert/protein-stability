@@ -1,0 +1,32 @@
+
+:  1201: A 101 ARG  CZ  : A 101 ARG  CD  :   -1.023:        0
+:  1201: A 101 ARG  CD  : A 101 ARG  NH2 :   -0.454:        0
+:  1201: A  98 ARG  HA  : A 101 ARG  CZ  :   -0.411:        0
+
+:  1201: A   7 GLU  OE2 : A   1 LYS  NZ  :   -0.843:        0
+
+:  1201: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.719:        0
+:  1201: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.605:        0
+:  1201: A  38 TYR  OH  : A  33 LYS  HD3 :   -0.604:        0
+:  1201: A  33 LYS  CA  : A  38 TYR  CE2 :   -0.431:        0
+:  1201: A  38 TYR  OH  : A  33 LYS  CD  :   -0.420:        0
+:  1201: A  33 LYS  HB2 : A  38 TYR  CE2 :   -0.403:        0
+
+:  1201: A 100 VAL HG11 : A  28 TRP  HH2 :   -0.645:        0
+:  1201: A 100 VAL HG11 : A  28 TRP  CH2 :   -0.618:        0
+:  1201: A 100 VAL  CG1 : A  28 TRP  HH2 :   -0.541:        0
+
+:  1201: A 126 GLN  HA  : A 126 GLN  OE1 :   -0.574:        0
+
+:  1201: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.548:        0
+
+:  1201: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.499:        0
+:  1201: A  92 ALA  HA  : A  84 LEU HD22 :   -0.455:        0
+
+:  1201: A  99 VAL HG11 : A 109 TRP  CH2 :   -0.436:        0
+
+:  1201: A 106 ILE  HB  : A  23 ILE HD13 :   -0.435:        0
+
+:  1201: A  30 CYS  HB2 : A 124 TYR  CE2 :   -0.416:        0
+#sum2 ::16.65 clashscore : 16.65 clashscore B<40 
+#summary::1201 atoms:1201 atoms B<40:141830 potential dots:8864.0 A^2:20 bumps:20 bumps B<40:396 score

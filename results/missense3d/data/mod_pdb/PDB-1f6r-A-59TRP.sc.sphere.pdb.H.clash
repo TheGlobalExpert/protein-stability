@@ -1,0 +1,54 @@
+
+:  1082: A  95 ILE HG12 : A  60 TRP  CE2 :   -1.363:        0
+:  1082: A  60 TRP  CZ2 : A  95 ILE HG12 :   -1.183:        0
+:  1082: A  95 ILE  CG1 : A  60 TRP  CE2 :   -0.964:        0
+:  1082: A  60 TRP  CZ2 : A  95 ILE  CG1 :   -0.848:        0
+:  1082: A  95 ILE HG12 : A  60 TRP  NE1 :   -0.816:        0
+:  1082: A  60 TRP  HZ3 : A  72 ILE  CG2 :   -0.802:        0
+:  1082: A  72 ILE HG21 : A  60 TRP  HZ3 :   -0.790:        0
+:  1082: A  72 ILE  HB  : A  60 TRP  CE3 :   -0.750:        0
+:  1082: A  60 TRP  CZ2 : A  95 ILE  HA  :   -0.590:        0
+:  1082: A  72 ILE  CG2 : A  60 TRP  CZ3 :   -0.570:        0
+:  1082: A  72 ILE  HB  : A  60 TRP  HE3 :   -0.548:        0
+:  1082: A  72 ILE HG21 : A  60 TRP  CZ3 :   -0.544:        0
+:  1082: A  95 ILE  CG1 : A  60 TRP  NE1 :   -0.484:        0
+:  1082: A  60 TRP  NE1 : A  95 ILE  CD1 :   -0.463:        0
+:  1082: A  72 ILE  HB  : A  60 TRP  CZ3 :   -0.445:        0
+:  1082: A  60 TRP  CH2 : A  95 ILE  HA  :   -0.435:        0
+:  1082: A  95 ILE HD11 : A  60 TRP  CD1 :   -0.427:        0
+
+:  1082: A 103 TYR  CD1 : A  99 VAL HG11 :   -1.083:        0
+:  1082: A 103 TYR  HD1 : A  99 VAL HG11 :   -0.986:        0
+:  1082: A 103 TYR  CD1 : A  99 VAL  CG1 :   -0.608:        0
+:  1082: A  99 VAL  O   : A  99 VAL HG12 :   -0.459:        0
+
+:  1082: A  85 LEU  CD2 : A  85 LEU  CB  :   -0.981:        0
+:  1082: A  89 ILE HG13 : A  85 LEU  O   :   -0.478:        0
+:  1082: A  85 LEU  CD2 : A  85 LEU  CA  :   -0.454:        0
+
+:  1082: A  90 MET  HE3 : A  87 ASP  O   :   -0.923:        0
+:  1082: A  87 ASP  O   : A  90 MET  CE  :   -0.572:        0
+
+:  1082: A  29 THR  C   : A  29 THR  CB  :   -0.909:        0
+:  1082: A  29 THR  C   : A  29 THR  CG2 :   -0.537:        0
+
+:  1082: A  30 THR  CA  : A  30 THR  O   :   -0.732:        0
+
+:  1082: A  26 TRP  HZ2 : A  96 LEU HD11 :   -0.723:        0
+
+:  1082: A  18 TYR  CE2 : A  93 LYS  HG2 :   -0.659:        0
+:  1082: A  93 LYS  HG2 : A  18 TYR  CZ  :   -0.557:        0
+:  1082: A  18 TYR  CD1 : A  93 LYS  HE2 :   -0.436:        0
+:  1082: A  93 LYS  HE2 : A  18 TYR  CE1 :   -0.422:        0
+
+:  1082: A  47 SER  HB2 : A  56 ASN HD21 :   -0.650:        0
+:  1082: A  56 ASN HD21 : A  47 SER  CB  :   -0.613:        0
+:  1082: A  47 SER  HB2 : A  56 ASN  ND2 :   -0.407:        0
+
+:  1082: A  34 SER  OG  : A  52 LEU HD12 :   -0.503:        0
+
+:  1082: A  63 ASP  OD1 : A  63 ASP  C   :   -0.448:        0
+
+:  1082: A 107 HIS  CG  : A 101 ILE HG13 :   -0.400:        0
+#sum2 ::36.97 clashscore : 36.97 clashscore B<40 
+#summary::1082 atoms:1082 atoms B<40:128570 potential dots:8036.0 A^2:40 bumps:40 bumps B<40:187.6 score

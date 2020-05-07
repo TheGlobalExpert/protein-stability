@@ -1,0 +1,19 @@
+
+:   663: A  40 THR  CA  : A  40 THR  CG2 :   -0.980:        0
+:   663: A  40 THR  O   : A  40 THR  CA  :   -0.743:        0
+:   663: A  40 THR  CG2 : A  40 THR  N   :   -0.431:        0
+
+:   663: A  43 ASN  CB  : A  43 ASN  C   :   -0.903:        0
+
+:   663: A  47 LEU  HG  : A  51 LYS  HE3 :   -0.815:        0
+
+:   663: A  18 ILE HG12 : A   4 ILE HG12 :   -0.609:        0
+:   663: A   4 ILE HD11 : A  44 LEU  CD2 :   -0.598:        0
+:   663: A  44 LEU  CD2 : A   4 ILE  CD1 :   -0.589:        0
+:   663: A  44 LEU HD23 : A   4 ILE HD13 :   -0.571:        0
+:   663: A   4 ILE  CD1 : A  44 LEU HD23 :   -0.566:        0
+:   663: A   4 ILE HD11 : A  44 LEU HD21 :   -0.437:        0
+
+:   663: A  37 ILE HG23 : A   6 LEU HD11 :   -0.480:        0
+#sum2 ::18.10 clashscore : 18.10 clashscore B<40 
+#summary::663 atoms:663 atoms B<40:76262 potential dots:4766.0 A^2:12 bumps:12 bumps B<40:134.2 score

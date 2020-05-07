@@ -1,0 +1,21 @@
+
+:  1368: A  39 ARG  NH1 : A  39 ARG  NH2 :   -0.797:       57
+
+:  1368: A  35 LEU  CA  : A  35 LEU  O   :   -0.781:       25
+:  1368: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.443:       23
+
+:  1368: A 111 GLU  O   : A 111 GLU  CA  :   -0.765:       17
+
+:  1368: A  86 GLU  OE1 : A  86 GLU  CG  :   -0.741:       20
+
+:  1368: A  97 TYR  N   : A  96 ALA  O   :   -0.682:       13
+
+:  1368: A  87 THR  CG2 : A  87 THR  N   :   -0.412:       25
+
+:  1368: A  29 MET  HG3 : A  25 TYR  CZ  :   -0.410:       17
+
+:  1368: A 109 ALA  HB3 : A 119 HIS  HB3 :   -0.407:       16
+
+:  1368: A  85 ARG  NH2 : A  83 ASP  OD1 :   -0.400:      158
+#sum2 ::7.31 clashscore : 6.17 clashscore B<40 
+#summary::1368 atoms:1297 atoms B<40:162068 potential dots:10130.0 A^2:10 bumps:8 bumps B<40:471.7 score

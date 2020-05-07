@@ -1,0 +1,12 @@
+
+:  1333: A  18 SER  CA  : A  17 THR  C   :   -0.979:       14
+
+:  1333: A  29 MET  C   : A  29 MET  CB  :   -0.894:       11
+:  1333: A  29 MET  HG3 : A  25 TYR  CZ  :   -0.402:       15
+
+:  1333: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.502:       29
+:  1333: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.426:       29
+
+:  1333: A  85 ARG  NH2 : A  83 ASP  OD1 :   -0.447:      158
+#sum2 ::4.50 clashscore : 3.92 clashscore B<40 
+#summary::1333 atoms:1275 atoms B<40:156721 potential dots:9795.0 A^2:6 bumps:5 bumps B<40:479.8 score

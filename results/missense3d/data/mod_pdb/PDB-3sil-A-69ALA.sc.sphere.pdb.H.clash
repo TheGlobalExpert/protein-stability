@@ -1,0 +1,58 @@
+
+:  2290: A 357 TYR  CZ  : A 357 TYR  CD1 :   -1.013:        0
+:  2290: A 357 TYR  HB3 : A 368 PHE  CE2 :   -0.634:        0
+:  2290: A 357 TYR  HB3 : A 368 PHE  HE2 :   -0.435:        0
+
+:  2290: A 364 GLY  HA2 : A  35 TYR  CZ  :   -0.990:        0
+:  2290: A 364 GLY  HA2 : A  35 TYR  CE1 :   -0.854:        0
+:  2290: A  35 TYR  CZ  : A 364 GLY  CA  :   -0.825:        0
+:  2290: A  35 TYR  CE2 : A 364 GLY  CA  :   -0.751:        0
+:  2290: A  35 TYR  CE2 : A 364 GLY  HA3 :   -0.556:        0
+:  2290: A 364 GLY  HA2 : A  35 TYR  CE2 :   -0.488:        0
+
+:  2290: A 282 GLY  N   : A 282 GLY  C   :   -0.747:        0
+
+:  2290: A 100 ASP  HA  : A  38 ILE HG21 :   -0.685:        0
+:  2290: A  60 ALA  O   : A  56 ARG  NH2 :   -0.603:        0
+:  2290: A  37 ARG  C   : A  38 ILE HG12 :   -0.505:        0
+:  2290: A  37 ARG  HD3 : A  56 ARG  CZ  :   -0.457:        0
+:  2290: A  37 ARG  CB  : A  38 ILE HG12 :   -0.455:        0
+:  2290: A 100 ASP  OD2 : A  99 MET  HG3 :   -0.409:        0
+
+:  2290: A  33 THR HG23 : A  57 HIS  HA  :   -0.664:        0
+
+:  2290: A   9 PHE  CZ  : A  71 ALA  HB2 :   -0.590:        0
+
+:  2290: A  87 TYR  CZ  : A  84 ILE  HB  :   -0.549:        0
+:  2290: A  87 TYR  CD1 : A  84 ILE HG21 :   -0.431:        0
+:  2290: A  87 TYR  HB3 : A  90 ARG  NH2 :   -0.401:        0
+
+:  2290: A 175 LEU HD21 : A 119 GLY  HA3 :   -0.525:        0
+
+:  2290: A 191 PHE  CE1 : A 104 ILE HG13 :   -0.505:        0
+:  2290: A 191 PHE  CZ  : A 104 ILE HD12 :   -0.467:        0
+:  2290: A 191 PHE  CD2 : A 218 TRP  CH2 :   -0.454:        0
+:  2290: A 104 ILE HD12 : A 191 PHE  CE2 :   -0.449:        0
+:  2290: A 191 PHE  HD2 : A 218 TRP  CH2 :   -0.432:        0
+
+:  2290: A  14 GLU  OE1 : A  82 LYS  NZ  :   -0.491:        0
+
+:  2290: A 348 ARG  CD  : A 348 ARG  NH2 :   -0.479:        0
+:  2290: A  43 THR  O   : A 348 ARG  CD  :   -0.420:        0
+:  2290: A 348 ARG  NH2 : A 105 VAL HG11 :   -0.417:        0
+
+:  2290: A  73 SER  HB2 : A  80 TRP  CE3 :   -0.473:        0
+
+:  2290: A 121 TRP  HB2 : A  97 ARG  CZ  :   -0.472:        0
+
+:  2290: A  15 HIS  NE2 : A  32 THR HG22 :   -0.467:        0
+
+:  2290: A  41 MET  HE2 : A 359 VAL HG22 :   -0.463:        0
+
+:  2290: A  18 ASP  OD1 : A  18 ASP  C   :   -0.463:        0
+
+:  2290: A  86 ILE  HB  : A  68 THR  HB  :   -0.446:        0
+
+:  2290: A 342 TYR  HE1 : A 309 ARG  NH2 :   -0.406:        0
+#sum2 ::16.59 clashscore : 16.59 clashscore B<40 
+#summary::2290 atoms:2290 atoms B<40:274516 potential dots:17160.0 A^2:38 bumps:38 bumps B<40:815.7 score

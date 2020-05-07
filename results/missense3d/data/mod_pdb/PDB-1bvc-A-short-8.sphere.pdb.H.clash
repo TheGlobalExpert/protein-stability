@@ -1,0 +1,10 @@
+
+:  1002: A 140 LYS  CD  : A 140 LYS  CB  :   -1.089:       19
+:  1002: A 139 ARG  CA  : A 139 ARG  CG  :   -0.907:        6
+:  1002: A 140 LYS  CD  : A 140 LYS  NZ  :   -0.900:       24
+:  1002: A 140 LYS  N   : A 140 LYS  CB  :   -0.892:       10
+:  1002: A 139 ARG  CA  : A 140 LYS  N   :   -0.858:        8
+
+:  1002: A  85 GLU  CA  : A  86 LEU  N   :   -0.888:       12
+#sum2 ::5.99 clashscore : 5.99 clashscore B<40 
+#summary::1002 atoms:1002 atoms B<40:120875 potential dots:7555.0 A^2:6 bumps:6 bumps B<40:339.8 score

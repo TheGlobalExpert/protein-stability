@@ -1,0 +1,38 @@
+
+:   706: A  24 LYS  CD  : A  24 LYS  CB  :   -0.979:        0
+:   706: A  24 LYS  CB  : A  24 LYS  N   :   -0.844:        0
+:   706: A  24 LYS  CD  : A  24 LYS  NZ  :   -0.806:        0
+
+:   706: A  46 HIS  HB3 : A  50 CYS  H   :   -0.952:        0
+:   706: A  50 CYS  CB  : A  49 LYS  O   :   -0.871:        0
+:   706: A  49 LYS  O   : A  50 CYS  SG  :   -0.836:        0
+:   706: A  50 CYS  HB3 : A  49 LYS  O   :   -0.659:        0
+:   706: A  50 CYS  SG  : A  51 VAL  N   :   -0.649:        0
+:   706: A  46 HIS  HE1 : A  48 LYS  HB2 :   -0.648:        0
+:   706: A  48 LYS  HB2 : A  46 HIS  CE1 :   -0.549:        0
+:   706: A  52 GLU  HG2 : A  49 LYS  HG2 :   -0.446:        0
+:   706: A  50 CYS  SG  : A  49 LYS  C   :   -0.408:        0
+
+:   706: A  16 LYS  CB  : A  16 LYS  C   :   -0.942:        0
+
+:   706: A 139 ILE HD13 : A  54 TYR  CD2 :   -0.888:        0
+:   706: A  53 LYS  O   : A  54 TYR  HB2 :   -0.615:        0
+:   706: A  54 TYR  CD2 : A 139 ILE  CD1 :   -0.570:        0
+:   706: A 139 ILE HD13 : A 139 ILE  HA  :   -0.475:        0
+
+:   706: A 112 ALA  CA  : A 113 TYR  N   :   -0.852:        0
+
+:   706: A  34 PHE  N   : A  33 THR  CA  :   -0.833:        0
+:   706: A  34 PHE  N   : A  34 PHE  C   :   -0.784:        0
+
+:   706: A 111 VAL  C   : A 111 VAL  N   :   -0.822:        0
+
+:   706: A 103 LEU  O   : A 103 LEU  CA  :   -0.741:        0
+
+:   706: A 109 ALA  HB2 : A  41 THR HG22 :   -0.710:        0
+
+:   706: A  84 LYS  NZ  : A  85 TYR  CE2 :   -0.612:        0
+:   706: A  84 LYS  NZ  : A  85 TYR  CZ  :   -0.601:        0
+:   706: A  84 LYS  NZ  : A  85 TYR  OH  :   -0.506:        0
+#sum2 ::36.83 clashscore : 36.83 clashscore B<40 
+#summary::706 atoms:706 atoms B<40:86238 potential dots:5390.0 A^2:26 bumps:26 bumps B<40:-16.64 score

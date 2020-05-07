@@ -1,0 +1,21 @@
+
+:  1077: A  79 LEU  CD1 : A  79 LEU  CD2 :   -1.077:       22
+
+:  1077: A 112 TRP  CB  : A 112 TRP  CD1 :   -0.857:       16
+
+:  1077: A 115 ARG  HG2 : A 111 ALA  O   :   -0.767:       46
+:  1077: A 115 ARG  O   : A 115 ARG  CB  :   -0.437:       21
+
+:  1077: A  25 LEU  N   : A  24 SER  O   :   -0.702:       12
+:  1077: A  25 LEU HD23 : A 130 VAL HG21 :   -0.473:       24
+:  1077: A  25 LEU  HA  : A  25 LEU HD12 :   -0.411:       27
+
+:  1077: A  14 ARG  CZ  : A  14 ARG  CB  :   -0.617:       27
+:  1077: A  14 ARG  CZ  : A  14 ARG  HB3 :   -0.610:       27
+
+:  1077: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:  1077: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:  1077: A  15 LEU HD23 : A  15 LEU  HA  :   -0.453:       16
+#sum2 ::11.14 clashscore : 11.01 clashscore B<40 
+#summary::1077 atoms:999 atoms B<40:129922 potential dots:8120.0 A^2:12 bumps:11 bumps B<40:358.7 score

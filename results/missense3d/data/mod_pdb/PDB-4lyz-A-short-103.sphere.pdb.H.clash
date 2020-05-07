@@ -1,0 +1,79 @@
+
+:   984: A  17 LEU  CD1 : A  12 MET  CE  :   -1.171:        4
+:   984: A  17 LEU  CD1 : A  12 MET  HE3 :   -1.039:        4
+:   984: A  12 MET  HE2 : A  17 LEU  CD1 :   -0.939:        4
+:   984: A  12 MET  CE  : A  17 LEU HD13 :   -0.929:        4
+:   984: A  17 LEU HD13 : A  12 MET  HE2 :   -0.839:        4
+:   984: A  17 LEU HD12 : A  12 MET  CE  :   -0.834:        4
+:   984: A  12 MET  CE  : A  28 TRP  HB3 :   -0.743:        7
+:   984: A  28 TRP  HB3 : A  12 MET  HE1 :   -0.576:        7
+:   984: A  99 VAL HG12 : A  96 LYS  O   :   -0.502:        6
+:   984: A  92 VAL  O   : A  96 LYS  HG3 :   -0.489:        5
+:   984: A  99 VAL HG11 : A  20 TYR  CD2 :   -0.483:        3
+:   984: A  20 TYR  HB2 : A  17 LEU  HA  :   -0.480:        6
+:   984: A  20 TYR  HE2 : A  99 VAL  CG1 :   -0.465:        4
+:   984: A  12 MET  HE3 : A  17 LEU HD12 :   -0.407:        4
+:   984: A  12 MET  HE3 : A  17 LEU HD11 :   -0.406:        4
+:   984: A  20 TYR  HD2 : A  99 VAL HG11 :   -0.406:        3
+
+:   984: A  31 ALA  O   : A  35 GLU  HB2 :   -1.022:        7
+:   984: A  31 ALA  O   : A  35 GLU  CB  :   -0.559:        7
+:   984: A  35 GLU  HG3 : A  57 GLN  HB2 :   -0.511:        2
+:   984: A 109 VAL HG13 : A 110 ALA  N   :   -0.499:       10
+:   984: A  35 GLU  OE2 : A 110 ALA  HB3 :   -0.471:        5
+:   984: A  52 ASP  HB3 : A  57 GLN  OE1 :   -0.464:        8
+:   984: A 110 ALA  N   : A 109 VAL  CG1 :   -0.424:       10
+
+:   984: A  97 LYS  O   : A 101 ASP  OD1 :   -0.959:        7
+:   984: A  63 TRP  HH2 : A 101 ASP  OD2 :   -0.753:        5
+:   984: A  97 LYS  O   : A 101 ASP  CG  :   -0.640:        7
+:   984: A  58 ILE HD12 : A  83 LEU  CD1 :   -0.630:        6
+:   984: A  98 ILE HG12 : A  63 TRP  CE2 :   -0.621:        8
+:   984: A  98 ILE HD12 : A  95 ALA  HA  :   -0.588:        6
+:   984: A 101 ASP  OD2 : A  63 TRP  CH2 :   -0.517:        5
+:   984: A  91 SER  O   : A  95 ALA  N   :   -0.478:        8
+:   984: A  58 ILE  CG2 : A  63 TRP  CB  :   -0.442:        3
+:   984: A  63 TRP  HA  : A  63 TRP  CE3 :   -0.417:        5
+
+:   984: A 106 ASN  HB3 : A 112 ARG HH21 :   -0.928:        9
+:   984: A 106 ASN  O   : A 112 ARG  NH2 :   -0.911:        7
+:   984: A 103 ASN  O   : A 106 ASN  HB2 :   -0.877:        9
+:   984: A 112 ARG HH21 : A 106 ASN  CB  :   -0.723:        9
+:   984: A 106 ASN  HB3 : A 112 ARG  NH2 :   -0.567:        9
+:   984: A 108 TRP  HE3 : A 105 MET  HA  :   -0.539:        7
+:   984: A 112 ARG HH21 : A 106 ASN  C   :   -0.506:        6
+:   984: A 105 MET  O   : A 111 TRP  CE3 :   -0.495:        6
+:   984: A 112 ARG  NH2 : A 106 ASN  C   :   -0.490:        6
+:   984: A 112 ARG HH21 : A 106 ASN  CA  :   -0.469:        6
+:   984: A 106 ASN  O   : A 112 ARG  CZ  :   -0.460:        7
+:   984: A 111 TRP  O   : A 116 LYS  N   :   -0.449:       14
+:   984: A 105 MET  HA  : A 108 TRP  CE3 :   -0.445:        7
+:   984: A 116 LYS  HB3 : A 112 ARG  O   :   -0.415:        3
+:   984: A 106 ASN  C   : A 108 TRP  H   :   -0.400:        7
+
+:   984: A  56 LEU  N   : A  55 ILE HG23 :   -0.857:        8
+:   984: A  56 LEU  N   : A  55 ILE  CG2 :   -0.815:        8
+:   984: A  56 LEU HD12 : A  56 LEU  HA  :   -0.401:        7
+
+:   984: A  36 SER  CB  : A  36 SER  N   :   -0.847:        6
+
+:   984: A  51 THR  N   : A  51 THR  C   :   -0.771:        5
+
+:   984: A  25 LEU  O   : A  25 LEU HD23 :   -0.628:        5
+:   984: A  25 LEU  O   : A  25 LEU  CD2 :   -0.413:        5
+
+:   984: A  74 ASN  CA  : A  74 ASN  ND2 :   -0.614:        5
+:   984: A  74 ASN  ND2 : A  77 ASN  N   :   -0.444:        5
+
+:   984: A  75 LEU  HB2 : A  62 TRP  O   :   -0.613:        6
+:   984: A  61 ARG  HG2 : A  62 TRP  CE2 :   -0.539:        6
+:   984: A  75 LEU HD23 : A  62 TRP  O   :   -0.414:        4
+
+:   984: A  27 ASN  HB2 : A  24 SER  O   :   -0.570:        8
+
+:   984: A  93 ASN  HB2 : A  89 THR  O   :   -0.546:        6
+
+:   984: A  48 ASP  OD1 : A  50 SER  HB3 :   -0.516:        9
+:   984: A  50 SER  OG  : A  59 ASN  ND2 :   -0.419:        6
+#sum2 ::65.04 clashscore : 65.04 clashscore B<40 
+#summary::984 atoms:984 atoms B<40:120404 potential dots:7525.0 A^2:64 bumps:64 bumps B<40:-27.63 score

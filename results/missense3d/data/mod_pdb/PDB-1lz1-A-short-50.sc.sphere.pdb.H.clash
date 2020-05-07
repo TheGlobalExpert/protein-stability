@@ -1,0 +1,23 @@
+
+:   668: A  49 ASP  O   : A  62 ARG  NH1 :   -0.704:        0
+:   668: A  62 ARG HH22 : A  49 ASP  CG  :   -0.679:        0
+:   668: A  62 ARG  O   : A  73 ALA  HA  :   -0.665:        0
+:   668: A  62 ARG  NH2 : A  49 ASP  CG  :   -0.603:        0
+:   668: A  49 ASP  OD2 : A  62 ARG  NH2 :   -0.519:        0
+:   668: A  51 SER  HB3 : A  62 ARG  NH2 :   -0.517:        0
+:   668: A  49 ASP  OD1 : A  49 ASP  C   :   -0.417:        0
+
+:   668: A  35 GLU  CA  : A  34 TRP  O   :   -0.526:        0
+:   668: A  35 GLU  OE2 : A 111 ALA  HB3 :   -0.510:        0
+
+:   668: A  74 VAL  O   : A  74 VAL HG12 :   -0.505:        0
+:   668: A  74 VAL  O   : A  74 VAL  CG1 :   -0.496:        0
+
+:   668: A  54 TYR  CE2 : A  52 THR  HB  :   -0.476:        0
+
+:   668: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.439:        0
+:   668: A  64 TRP  HB2 : A  59 ILE  CG2 :   -0.403:        0
+
+:   668: A  43 THR  HA  : A  53 ASP  O   :   -0.425:        0
+#sum2 ::22.46 clashscore : 22.46 clashscore B<40 
+#summary::668 atoms:668 atoms B<40:81906 potential dots:5119.0 A^2:15 bumps:15 bumps B<40:191.5 score

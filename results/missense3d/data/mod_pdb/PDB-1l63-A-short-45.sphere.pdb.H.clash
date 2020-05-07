@@ -1,0 +1,14 @@
+
+:   975: A  57 VAL HG23 : A  16 LYS  HE3 :   -0.784:      100
+:   975: A  16 LYS  HE3 : A  57 VAL  CG2 :   -0.555:      100
+:   975: A  16 LYS  HE2 : A  56 GLY  O   :   -0.542:      100
+:   975: A  16 LYS  HD2 : A  57 VAL HG22 :   -0.518:      100
+:   975: A  16 LYS  HD2 : A  57 VAL  CG2 :   -0.424:      100
+
+:   975: A  21 THR  OG1 : A  21 THR  CA  :   -0.771:       39
+
+:   975: A  72 ASP  OD1 : A  72 ASP  CB  :   -0.733:       41
+
+:   975: A  52 ARG  HG2 : A  50 ILE HG22 :   -0.416:       29
+#sum2 ::8.21 clashscore : 2.35 clashscore B<40 
+#summary::975 atoms:850 atoms B<40:112627 potential dots:7039.0 A^2:8 bumps:2 bumps B<40:329.6 score

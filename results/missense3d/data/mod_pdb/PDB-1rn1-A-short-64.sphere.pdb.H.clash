@@ -1,0 +1,20 @@
+
+:   821: A 102 GLU  CA  : A 101 VAL  C   :   -1.037:       22
+:   821: A 101 VAL  C   : A 101 VAL  N   :   -0.845:       22
+:   821: A 101 VAL  O   : A 102 GLU  CA  :   -0.517:       21
+
+:   821: A  25 GLN  N   : A  24 TYR  CA  :   -0.866:       18
+
+:   821: A  80 PHE  CB  : A  80 PHE  N   :   -0.828:       14
+
+:   821: A  37 SER  C   : A  37 SER  N   :   -0.721:       25
+
+:   821: A  58 GLU  N   : A  57 TYR  O   :   -0.653:       13
+
+:   821: A  36 ASN  N   : A  35 SER  N   :   -0.595:       31
+
+:   821: A  22 ALA  O   : A  26 LEU HD13 :   -0.515:       31
+
+:   821: A  59 TRP  HA  : A  60 PRO  HD3 :   -0.479:       15
+#sum2 ::12.18 clashscore : 12.45 clashscore B<40 
+#summary::821 atoms:803 atoms B<40:100717 potential dots:6295.0 A^2:10 bumps:10 bumps B<40:227.6 score

@@ -1,0 +1,38 @@
+
+:  1588: A  72 ILE  CB  : A  72 ILE  CD1 :   -0.932:       16
+
+:  1588: A 109 ALA  HA  : A 112 SER  OG  :   -0.776:       39
+
+:  1588: A  14 ASP  CB  : A  14 ASP  OD2 :   -0.752:       37
+
+:  1588: A  27 VAL  CG1 : A 118 TRP  HB3 :   -0.727:       17
+:  1588: A 118 TRP  HB3 : A  27 VAL HG13 :   -0.594:       17
+
+:  1588: A  10 GLN  OE1 : A  10 GLN  CG  :   -0.720:       47
+
+:  1588: A  24 PRO  HD2 : A  22 SER  HB2 :   -0.626:       15
+:  1588: A  24 PRO  HD3 : A  23 LEU  HB3 :   -0.555:       15
+
+:  1588: A  58 LYS  HG3 : A  59 ILE HG12 :   -0.604:       37
+:  1588: A  58 LYS  O   : A  59 ILE HD13 :   -0.419:       27
+
+:  1588: A  99 VAL  CG2 : A 103 TYR  HB2 :   -0.571:       30
+
+:  1588: A 117 GLN  HG2 : A 114 LYS  O   :   -0.528:       21
+
+:  1588: A  81 LEU  CD1 : A  41 ILE HD11 :   -0.520:       27
+:  1588: A  39 GLN  HG2 : A  81 LEU  O   :   -0.488:       34
+
+:  1588: A  15 LEU  HG  : A  89 ILE HG23 :   -0.514:        9
+
+:  1588: A  60 TRP  O   : A  73 CYS  HB2 :   -0.479:       11
+
+:  1588: A  77 CYS  HB3 : A  50 TYR  CD1 :   -0.438:        7
+
+:  1588: A  63 ASP  OD2 : A  57 ASN  ND2 :   -0.424:       25
+
+:  1588: A  18 TYR  HD2 : A  96 LEU HD23 :   -0.414:        9
+
+:  1588: A  94 LYS  O   : A  98 LYS  CD  :   -0.402:       36
+#sum2 ::12.59 clashscore : 12.73 clashscore B<40 
+#summary::1588 atoms:1492 atoms B<40:186513 potential dots:11660.0 A^2:20 bumps:19 bumps B<40:509.9 score

@@ -1,0 +1,29 @@
+
+:  1079: A   6 CYS  SG  : A 128 CYS  SG  :   -0.769:        0
+
+:  1079: A  25 LEU  N   : A  24 SER  O   :   -0.678:        0
+:  1079: A  12 LEU  HB2 : A  25 LEU HD11 :   -0.495:        0
+
+:  1079: A  93 VAL HG21 : A  15 LEU  CD1 :   -0.632:        0
+:  1079: A  17 MET  SD  : A  93 VAL HG13 :   -0.517:        0
+:  1079: A  15 LEU HD12 : A  93 VAL HG21 :   -0.457:        0
+:  1079: A  93 VAL HG21 : A  15 LEU HD13 :   -0.427:        0
+
+:  1079: A 126 GLN  HG2 : A 123 GLN  O   :   -0.600:        0
+
+:  1079: A 121 VAL  O   : A 124 TYR  HD2 :   -0.567:        0
+
+:  1079: A  34 TRP  CE2 : A 115 ARG  HD2 :   -0.555:        0
+:  1079: A  34 TRP  CZ2 : A 115 ARG  HD2 :   -0.462:        0
+:  1079: A 115 ARG  HD2 : A  34 TRP  CD2 :   -0.448:        0
+
+:  1079: A  33 LYS  HB2 : A  38 TYR  OH  :   -0.468:        0
+:  1079: A  38 TYR  CZ  : A  33 LYS  HB2 :   -0.409:        0
+
+:  1079: A  54 TYR  HD2 : A  85 LEU HD21 :   -0.461:        0
+
+:  1079: A  35 GLU  HB3 : A  58 GLN  CG  :   -0.410:        0
+
+:  1079: A  95 ALA  HB1 : A  59 ILE HD13 :   -0.403:        0
+#sum2 ::15.76 clashscore : 15.76 clashscore B<40 
+#summary::1079 atoms:1079 atoms B<40:129531 potential dots:8096.0 A^2:17 bumps:17 bumps B<40:327.9 score

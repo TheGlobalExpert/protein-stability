@@ -1,0 +1,104 @@
+
+:  2055: A  53 PRO  N   : A  53 PRO  CD  :   -1.600:        0
+:  2055: A  53 PRO  CD  : A  53 PRO  CB  :   -1.103:        0
+:  2055: A  53 PRO  CD  : A  53 PRO  CA  :   -0.935:        0
+:  2055: A  53 PRO  CD  : A  52 ILE  C   :   -0.630:        0
+:  2055: A  99 LEU HD13 : A  52 ILE  CD1 :   -0.597:        0
+:  2055: A  52 ILE HD11 : A  99 LEU HD13 :   -0.560:        0
+:  2055: A  52 ILE  HA  : A  53 PRO  CD  :   -0.507:        0
+:  2055: A  53 PRO  CD  : A  52 ILE  CA  :   -0.481:        0
+
+:  2055: A  21 PRO  N   : A  21 PRO  CD  :   -1.457:        0
+:  2055: A  20 VAL  HB  : A 232 ILE HG12 :   -0.575:        0
+:  2055: A  20 VAL  O   : A 232 ILE  HA  :   -0.521:        0
+:  2055: A  20 VAL  O   : A 232 ILE HG23 :   -0.479:        0
+:  2055: A  21 PRO  CD  : A  20 VAL  C   :   -0.443:        0
+
+:  2055: A 207 PRO  N   : A 207 PRO  CD  :   -1.416:        0
+:  2055: A 208 PRO  N   : A 208 PRO  CD  :   -1.410:        0
+:  2055: A 208 PRO  CD  : A 207 PRO  C   :   -0.614:        0
+:  2055: A 207 PRO  CD  : A 206 ALA  C   :   -0.578:        0
+:  2055: A 207 PRO  HA  : A 208 PRO  CD  :   -0.499:        0
+:  2055: A 208 PRO  CD  : A 207 PRO  CA  :   -0.407:        0
+:  2055: A 207 PRO  HB2 : A   8 PHE  CE1 :   -0.404:        0
+
+:  2055: A 203 TYR  CB  : A 203 TYR  CD1 :   -0.974:        0
+
+:  2055: A 211 SER  HB3 : A 175 TYR  CZ  :   -0.906:        0
+:  2055: A 175 TYR  CE2 : A 211 SER  HB3 :   -0.699:        0
+:  2055: A 211 SER  CB  : A 175 TYR  CZ  :   -0.633:        0
+:  2055: A 211 SER  CB  : A 175 TYR  OH  :   -0.587:        0
+:  2055: A 211 SER  O   : A 212 PHE  HB3 :   -0.581:        0
+:  2055: A 175 TYR  OH  : A 211 SER  HB3 :   -0.559:        0
+:  2055: A 212 PHE  HE2 : A 180 ALA  CB  :   -0.534:        0
+:  2055: A 180 ALA  C   : A 212 PHE  CE2 :   -0.521:        0
+:  2055: A 211 SER  O   : A 212 PHE  CB  :   -0.512:        0
+:  2055: A 175 TYR  OH  : A 211 SER  OG  :   -0.509:        0
+:  2055: A 212 PHE  HE2 : A 180 ALA  HB1 :   -0.489:        0
+:  2055: A 212 PHE  CZ  : A 181 GLY  HA2 :   -0.485:        0
+:  2055: A 175 TYR  CD2 : A 175 TYR  C   :   -0.467:        0
+:  2055: A 175 TYR  C   : A 175 TYR  HD2 :   -0.428:        0
+:  2055: A 181 GLY  HA2 : A 212 PHE  CE1 :   -0.418:        0
+:  2055: A 177 LEU HD11 : A 181 GLY  HA3 :   -0.406:        0
+:  2055: A 212 PHE  CD2 : A 212 PHE  C   :   -0.405:        0
+
+:  2055: A  36 ILE  C   : A  36 ILE  CB  :   -0.852:        0
+:  2055: A  36 ILE  CG2 : A  36 ILE  C   :   -0.616:        0
+
+:  2055: A 268 SER  CB  : A 268 SER  N   :   -0.848:        0
+
+:  2055: A 188 ARG  CB  : A 188 ARG  C   :   -0.845:        0
+:  2055: A 188 ARG  CB  : A 188 ARG  NE  :   -0.412:        0
+
+:  2055: A 267 ARG  CG  : A 267 ARG  NE  :   -0.814:        0
+
+:  2055: A 226 ALA  HB3 : A 193 LEU HD23 :   -0.748:        0
+:  2055: A 226 ALA  CB  : A 193 LEU HD23 :   -0.557:        0
+:  2055: A 226 ALA  HB3 : A 193 LEU  CD2 :   -0.446:        0
+
+:  2055: A 164 ARG  N   : A 164 ARG  C   :   -0.738:        0
+
+:  2055: A 134 GLU  OE2 : A 133 VAL HG12 :   -0.731:        0
+:  2055: A 152 PHE  CD1 : A 133 VAL HG23 :   -0.452:        0
+
+:  2055: A  11 LEU  CD1 : A  18 ALA  HB2 :   -0.687:        0
+
+:  2055: A 236 ALA  HB2 : A 215 SER  HB2 :   -0.602:        0
+:  2055: A 236 ALA  O   : A 240 ILE HG13 :   -0.404:        0
+
+:  2055: A 196 LEU HD11 : A 156 PRO  HA  :   -0.572:        0
+:  2055: A 182 VAL HG11 : A 156 PRO  HG2 :   -0.491:        0
+:  2055: A 182 VAL HG22 : A 179 ARG  O   :   -0.482:        0
+:  2055: A 182 VAL  CG1 : A 156 PRO  HG2 :   -0.463:        0
+:  2055: A 182 VAL  O   : A 183 THR HG22 :   -0.460:        0
+:  2055: A 156 PRO  HA  : A 196 LEU  CD1 :   -0.449:        0
+:  2055: A 182 VAL  CG1 : A 156 PRO  CG  :   -0.431:        0
+:  2055: A 183 THR  HA  : A 186 GLU  OE1 :   -0.417:        0
+
+:  2055: A   7 LEU HD22 : A  96 PRO  HG2 :   -0.565:        0
+:  2055: A  96 PRO  HG2 : A   7 LEU  CD2 :   -0.498:        0
+
+:  2055: A 176 LEU HD23 : A 176 LEU  C   :   -0.548:        0
+
+:  2055: A  22 PHE  HA  : A  49 GLU  O   :   -0.540:        0
+:  2055: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.511:        0
+:  2055: A  22 PHE  CD1 : A  22 PHE  C   :   -0.409:        0
+
+:  2055: A 158 ALA  HB2 : A 155 PRO  HG2 :   -0.536:        0
+
+:  2055: A 220 VAL  O   : A 224 ILE HD13 :   -0.529:        0
+:  2055: A 224 ILE HD12 : A 224 ILE  N   :   -0.468:        0
+:  2055: A 224 ILE  N   : A 224 ILE  CD1 :   -0.416:        0
+
+:  2055: A  19 PHE  HE2 : A 259 VAL HG13 :   -0.519:        0
+:  2055: A  19 PHE  CE1 : A 262 MET  HB3 :   -0.508:        0
+:  2055: A 259 VAL HG13 : A  19 PHE  CE2 :   -0.402:        0
+:  2055: A 259 VAL HG23 : A 255 LEU  O   :   -0.400:        0
+
+:  2055: A 127 LEU HD11 : A 153 ILE HG13 :   -0.449:        0
+
+:  2055: A 125 SER  HB2 : A 151 ILE HD11 :   -0.431:        0
+
+:  2055: A 159 ASP  OD2 : A 159 ASP  CA  :   -0.415:        0
+#sum2 ::37.96 clashscore : 37.96 clashscore B<40 
+#summary::2055 atoms:2055 atoms B<40:246642 potential dots:15420.0 A^2:78 bumps:78 bumps B<40:335.4 score

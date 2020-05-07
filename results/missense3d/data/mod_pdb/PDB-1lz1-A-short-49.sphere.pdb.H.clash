@@ -1,0 +1,28 @@
+
+:   644: A  77 CYS  CA  : A  78 HIS  N   :   -0.853:       15
+
+:   644: A  84 LEU  O   : A  84 LEU  CA  :   -0.780:       14
+
+:   644: A  80 SER  CA  : A  80 SER  OG  :   -0.773:       16
+
+:   644: A  79 LEU  C   : A  79 LEU  N   :   -0.741:       15
+
+:   644: A  35 GLU  N   : A  34 TRP  O   :   -0.723:       21
+:   644: A  35 GLU  CA  : A  34 TRP  O   :   -0.526:       21
+
+:   644: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   644: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   644: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   644: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   644: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   644: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:   644: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:   644: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:   644: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+#sum2 ::23.29 clashscore : 14.47 clashscore B<40 
+#summary::644 atoms:553 atoms B<40:81133 potential dots:5071.0 A^2:15 bumps:8 bumps B<40:164.7 score

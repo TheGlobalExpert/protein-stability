@@ -1,0 +1,17 @@
+
+:  1275: A 158 TRP  CG  : A 158 TRP  CA  :   -0.942:       20
+
+:  1275: A 138 TRP  CA  : A 139 TYR  N   :   -0.858:       14
+
+:  1275: A   7 LEU  CB  : A   7 LEU  N   :   -0.813:       15
+
+:  1275: A 145 ARG  C   : A 145 ARG  CG  :   -0.663:       24
+
+:  1275: A  85 LYS  HB3 : A  86 PRO  HD3 :   -0.538:       24
+:  1275: A  86 PRO  CD  : A  85 LYS  N   :   -0.462:       24
+
+:  1275: A 126 TRP  HB3 : A 154 ARG  HA  :   -0.437:       23
+
+:  1275: A  92 ASP  O   : A  96 ARG  HG3 :   -0.411:       14
+#sum2 ::6.27 clashscore : 6.85 clashscore B<40 
+#summary::1275 atoms:1168 atoms B<40:148956 potential dots:9310.0 A^2:8 bumps:8 bumps B<40:476.9 score

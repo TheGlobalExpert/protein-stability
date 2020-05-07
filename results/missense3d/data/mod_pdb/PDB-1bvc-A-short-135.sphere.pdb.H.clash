@@ -1,0 +1,12 @@
+
+:  1817: A  43 PHE  CD1 : A  43 PHE  CD2 :   -1.001:        8
+
+:  1817: A  20 ASP  C   : A  20 ASP  N   :   -0.769:        7
+:  1817: A  20 ASP  N   : A  19 ALA  N   :   -0.413:        7
+
+:  1817: A  63 LYS  O   : A  64 HIS  N   :   -0.705:        6
+:  1817: A  64 HIS  CA  : A  63 LYS  O   :   -0.488:        6
+
+:  1817: A 151 TYR  CZ  : A 153 GLY  HA3 :   -0.519:       12
+#sum2 ::3.30 clashscore : 3.30 clashscore B<40 
+#summary::1817 atoms:1817 atoms B<40:211144 potential dots:13200.0 A^2:6 bumps:6 bumps B<40:815.7 score

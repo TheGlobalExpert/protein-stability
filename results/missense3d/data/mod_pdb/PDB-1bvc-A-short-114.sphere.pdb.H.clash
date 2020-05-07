@@ -1,0 +1,9 @@
+
+:  1499: A   7 TRP  CZ2 : A   7 TRP  CD2 :   -0.999:        8
+
+:  1499: A  59 GLU  C   : A  60 ASP  CA  :   -0.983:        7
+:  1499: A  60 ASP  CA  : A  59 GLU  O   :   -0.433:        8
+
+:  1499: A  38 GLU  CG  : A  38 GLU  CA  :   -0.873:        9
+#sum2 ::2.67 clashscore : 2.67 clashscore B<40 
+#summary::1499 atoms:1499 atoms B<40:176949 potential dots:11060.0 A^2:4 bumps:4 bumps B<40:621 score

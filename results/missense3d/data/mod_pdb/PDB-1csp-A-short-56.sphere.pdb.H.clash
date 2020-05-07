@@ -1,0 +1,16 @@
+
+:   533: A   9 PHE  CG  : A   9 PHE  CE2 :   -0.992:       21
+
+:   533: A   2 LEU  N   : A   2 LEU  CB  :   -0.944:       25
+:   533: A   2 LEU  N   : A   2 LEU  CG  :   -0.453:       27
+
+:   533: A  20 VAL  O   : A  20 VAL  CA  :   -0.776:       51
+:   533: A  22 GLY  O   : A  23 GLN  HG2 :   -0.661:       60
+:   533: A  23 GLN  HB2 : A  20 VAL HG13 :   -0.451:       59
+:   533: A  20 VAL  N   : A  20 VAL  O   :   -0.438:       51
+
+:   533: A  49 PHE  HE2 : A  26 VAL HG21 :   -0.465:       29
+
+:   533: A  25 ASP  HB3 : A  17 PHE  HB3 :   -0.458:       39
+#sum2 ::16.89 clashscore : 10.87 clashscore B<40 
+#summary::533 atoms:460 atoms B<40:64288 potential dots:4018.0 A^2:9 bumps:5 bumps B<40:74.3 score

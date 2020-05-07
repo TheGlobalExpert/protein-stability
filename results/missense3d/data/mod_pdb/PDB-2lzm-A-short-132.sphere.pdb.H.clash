@@ -1,0 +1,21 @@
+
+:  1134: A  78 ILE  CG1 : A  78 ILE  CG2 :   -0.980:       17
+
+:  1134: A 104 PHE  C   : A 104 PHE  N   :   -0.732:       13
+
+:  1134: A 119 ARG HH11 : A 119 ARG  HB3 :   -0.729:       46
+
+:  1134: A  85 LYS  C   : A  85 LYS  N   :   -0.712:       19
+
+:  1134: A  92 ASP  O   : A  92 ASP  CA  :   -0.702:       15
+
+:  1134: A 127 ASP  OD2 : A 154 ARG  HD3 :   -0.507:       53
+:  1134: A 154 ARG  CZ  : A 154 ARG  CB  :   -0.455:       50
+:  1134: A 154 ARG HH11 : A 154 ARG  HD2 :   -0.455:       53
+
+:  1134: A 137 ARG HH12 : A  22 GLU  CD  :   -0.466:       47
+:  1134: A 137 ARG  CZ  : A 141 GLN  HG2 :   -0.450:       39
+
+:  1134: A 106 MET  HE3 : A 106 MET  HB3 :   -0.444:       33
+#sum2 ::9.70 clashscore : 5.81 clashscore B<40 
+#summary::1134 atoms:1032 atoms B<40:133883 potential dots:8368.0 A^2:11 bumps:6 bumps B<40:393.7 score

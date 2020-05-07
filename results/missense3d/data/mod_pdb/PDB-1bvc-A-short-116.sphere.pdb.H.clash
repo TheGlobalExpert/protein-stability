@@ -1,0 +1,15 @@
+
+:  1196: A  77 LYS  CG  : A  77 LYS  CA  :   -1.023:        9
+
+:  1196: A 137 LEU  CA  : A 138 PHE  N   :   -0.855:        7
+:  1196: A 138 PHE  CA  : A 139 ARG  N   :   -0.848:        7
+:  1196: A 139 ARG  N   : A 139 ARG  CB  :   -0.830:        6
+
+:  1196: A  75 ILE  C   : A  75 ILE  CB  :   -0.851:        7
+:  1196: A  75 ILE  CB  : A  75 ILE  N   :   -0.801:        7
+:  1196: A  75 ILE  C   : A  75 ILE  N   :   -0.738:        7
+:  1196: A  75 ILE  CG2 : A  75 ILE  C   :   -0.469:        8
+
+:  1196: A  71 ALA  C   : A  71 ALA  N   :   -0.702:        6
+#sum2 ::7.53 clashscore : 7.53 clashscore B<40 
+#summary::1196 atoms:1196 atoms B<40:144196 potential dots:9012.0 A^2:9 bumps:9 bumps B<40:444.4 score

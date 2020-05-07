@@ -1,0 +1,26 @@
+
+:   919: A 113 ARG  CZ  : A 113 ARG  CD  :   -1.022:      100
+:   919: A 113 ARG  N   : A 112 TRP  CA  :   -0.822:       18
+
+:   919: A  86 GLN  CG  : A  86 GLN  NE2 :   -0.885:       27
+
+:   919: A 114 ASN  N   : A 114 ASN  CB  :   -0.826:       20
+:   919: A 114 ASN  OD1 : A 110 VAL HG12 :   -0.420:       69
+
+:   919: A  62 ARG  O   : A  73 ALA  HA  :   -0.639:       45
+:   919: A  49 ASP  O   : A  62 ARG  NH2 :   -0.575:       49
+:   919: A  49 ASP  CG  : A  62 ARG HH12 :   -0.543:       57
+
+:   919: A  74 VAL  O   : A  74 VAL HG12 :   -0.573:       68
+:   919: A  74 VAL  O   : A  74 VAL  CG1 :   -0.509:       68
+
+:   919: A  92 ALA  HA  : A  84 LEU  CD2 :   -0.495:       22
+:   919: A  92 ALA  HA  : A  84 LEU HD22 :   -0.465:       22
+
+:   919: A  45 TYR  CE1 : A  47 ALA  HA  :   -0.423:       51
+
+:   919: A  54 TYR  CE2 : A  52 THR  HB  :   -0.421:       15
+
+:   919: A  76 ALA  HB3 : A  64 TRP  CE3 :   -0.411:       19
+#sum2 ::16.32 clashscore : 8.52 clashscore B<40 
+#summary::919 atoms:822 atoms B<40:112476 potential dots:7030.0 A^2:15 bumps:7 bumps B<40:259.2 score

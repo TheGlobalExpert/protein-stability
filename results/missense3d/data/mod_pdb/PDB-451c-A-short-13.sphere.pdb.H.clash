@@ -1,0 +1,18 @@
+
+:  1022: A  41 GLU  CG  : A  41 GLU  CA  :   -0.974:       25
+:  1022: A  40 ALA  O   : A  41 GLU  CA  :   -0.437:       16
+
+:  1022: A  32 ALA  CA  : A  33 LYS  N   :   -0.856:        7
+:  1022: A  33 LYS  N   : A  33 LYS  CB  :   -0.776:       11
+
+:  1022: A  34 PHE  N   : A  34 PHE  CB  :   -0.834:       19
+
+:  1022: A  58 PRO  C   : A  58 PRO  N   :   -0.695:       12
+
+:  1022: A  17 ALA  HB2 : A  22 MET  CE  :   -0.546:       80
+
+:  1022: A  76 LYS  HE3 : A  73 THR  HA  :   -0.409:       49
+
+:  1022: A  79 LEU HD23 : A  79 LEU  HA  :   -0.405:       19
+#sum2 ::8.81 clashscore : 7.48 clashscore B<40 
+#summary::1022 atoms:936 atoms B<40:120215 potential dots:7513.0 A^2:9 bumps:7 bumps B<40:280.4 score

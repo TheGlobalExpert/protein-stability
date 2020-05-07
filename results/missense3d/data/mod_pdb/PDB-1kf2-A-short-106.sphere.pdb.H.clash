@@ -1,0 +1,9 @@
+
+:  1355: A  35 LEU HD21 : A  11 GLN  HG2 :   -0.502:       29
+:  1355: A  11 GLN  HG2 : A  35 LEU  CD2 :   -0.426:       29
+
+:  1355: A  85 ARG  NH2 : A  83 ASP  OD1 :   -0.447:      158
+
+:  1355: A  29 MET  HG3 : A  25 TYR  CZ  :   -0.402:       15
+#sum2 ::2.95 clashscore : 2.30 clashscore B<40 
+#summary::1355 atoms:1305 atoms B<40:158086 potential dots:9880.0 A^2:4 bumps:3 bumps B<40:539.7 score

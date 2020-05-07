@@ -1,0 +1,82 @@
+
+:  1914: A  21 PRO  N   : A  21 PRO  CD  :   -1.457:        0
+:  1914: A  20 VAL  HB  : A 232 ILE HG12 :   -0.575:        0
+:  1914: A  20 VAL  O   : A 232 ILE  HA  :   -0.521:        0
+:  1914: A  20 VAL  O   : A 232 ILE HG23 :   -0.479:        0
+:  1914: A  21 PRO  CD  : A  20 VAL  C   :   -0.443:        0
+
+:  1914: A  22 PHE  CZ  : A  22 PHE  CD1 :   -0.991:        0
+:  1914: A  22 PHE  HA  : A  49 GLU  O   :   -0.540:        0
+:  1914: A  49 GLU  HB3 : A  22 PHE  HB2 :   -0.511:        0
+:  1914: A  22 PHE  CD1 : A  22 PHE  C   :   -0.409:        0
+
+:  1914: A 139 PHE  C   : A 139 PHE  CB  :   -0.895:        0
+
+:  1914: A 124 ASP  OD2 : A   3 ARG  HD2 :   -0.827:        0
+:  1914: A   3 ARG  HD2 : A 124 ASP  CG  :   -0.750:        0
+:  1914: A 124 ASP  OD1 : A   3 ARG  NH2 :   -0.623:        0
+:  1914: A   3 ARG  HD2 : A 124 ASP  OD1 :   -0.532:        0
+
+:  1914: A 136 SER  O   : A 136 SER  CA  :   -0.749:        0
+
+:  1914: A 226 ALA  HB3 : A 193 LEU HD23 :   -0.748:        0
+:  1914: A 193 LEU  CD1 : A 176 LEU HD23 :   -0.640:        0
+:  1914: A 193 LEU  CD1 : A 176 LEU  CD2 :   -0.557:        0
+:  1914: A 226 ALA  CB  : A 193 LEU HD23 :   -0.557:        0
+:  1914: A 193 LEU HD12 : A 176 LEU HD21 :   -0.497:        0
+:  1914: A 193 LEU HD11 : A 176 LEU HD23 :   -0.466:        0
+:  1914: A 176 LEU  CD2 : A 193 LEU HD12 :   -0.464:        0
+:  1914: A 226 ALA  HB3 : A 193 LEU  CD2 :   -0.446:        0
+
+:  1914: A 199 LYS  HA  : A 199 LYS  HE2 :   -0.714:        0
+:  1914: A 199 LYS  HA  : A 199 LYS  CE  :   -0.462:        0
+:  1914: A 199 LYS  HE2 : A 199 LYS  CA  :   -0.420:        0
+
+:  1914: A   4 TYR  CZ  : A 173 TYR  CE2 :   -0.696:        0
+:  1914: A 173 TYR  HE2 : A   4 TYR  CZ  :   -0.686:        0
+:  1914: A   4 TYR  CE1 : A 173 TYR  CD2 :   -0.457:        0
+:  1914: A 173 TYR  HE2 : A   4 TYR  OH  :   -0.439:        0
+
+:  1914: A 146 HIS  O   : A 147 ASN  N   :   -0.691:        0
+
+:  1914: A  11 LEU  CD1 : A  18 ALA  HB2 :   -0.687:        0
+
+:  1914: A   2 GLU  HA  : A   2 GLU  OE1 :   -0.644:        0
+:  1914: A   5 GLU  CB  : A   2 GLU  HG3 :   -0.416:        0
+
+:  1914: A 196 LEU HD11 : A 156 PRO  HA  :   -0.572:        0
+:  1914: A 182 VAL  CG1 : A 156 PRO  HG2 :   -0.463:        0
+:  1914: A 156 PRO  HA  : A 196 LEU  CD1 :   -0.449:        0
+:  1914: A 182 VAL  CG1 : A 156 PRO  CG  :   -0.431:        0
+
+:  1914: A   7 LEU HD22 : A  96 PRO  HG2 :   -0.565:        0
+:  1914: A  96 PRO  HG2 : A   7 LEU  CD2 :   -0.498:        0
+
+:  1914: A 177 LEU HD11 : A 181 GLY  HA3 :   -0.553:        0
+
+:  1914: A  16 GLU  HG2 : A 267 ARG  HG2 :   -0.537:        0
+
+:  1914: A 158 ALA  HB2 : A 155 PRO  HG2 :   -0.536:        0
+
+:  1914: A 220 VAL  O   : A 224 ILE HD13 :   -0.529:        0
+:  1914: A 224 ILE HD12 : A 224 ILE  N   :   -0.468:        0
+:  1914: A 224 ILE  N   : A 224 ILE  CD1 :   -0.416:        0
+
+:  1914: A 211 GLY  O   : A 212 PHE  CB  :   -0.512:        0
+
+:  1914: A  19 PHE  CE1 : A 262 MET  HB3 :   -0.508:        0
+
+:  1914: A 229 ALA  CB  : A 207 ALA  HB1 :   -0.497:        0
+:  1914: A   8 PHE  CE1 : A 207 ALA  HB3 :   -0.451:        0
+
+:  1914: A 152 PHE  CE2 : A 169 TYR  HB3 :   -0.471:        0
+:  1914: A 152 PHE  CD1 : A 133 VAL HG23 :   -0.452:        0
+:  1914: A 152 PHE  HZ  : A 140 ARG  HD3 :   -0.411:        0
+
+:  1914: A 157 ASN  H   : A 157 ASN  ND2 :   -0.451:        0
+
+:  1914: A 127 LEU HD11 : A 153 ILE HG13 :   -0.449:        0
+
+:  1914: A 125 SER  HB2 : A 151 ILE HD11 :   -0.431:        0
+#sum2 ::29.26 clashscore : 29.26 clashscore B<40 
+#summary::1914 atoms:1914 atoms B<40:224615 potential dots:14040.0 A^2:56 bumps:56 bumps B<40:460.9 score
