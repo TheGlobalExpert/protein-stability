@@ -142,7 +142,7 @@ def Missense3D_training_data():
 
 class FoldX(object):
 
-    def __init__(self, pdb_id, mode=None, mutation=None):
+    def __init__(self, pdb_id, mode=None, mutation=None, temp=25, pH=7):
         self.output_file = pdb_id + "_Repair_0_ST.fxout"
         self.repaired_id = pdb_id + "_Repair.pdb"
         self.position_scan_file = "PS_" + self.repaired_id[:-4] + "_scanning_output.txt"
@@ -152,6 +152,8 @@ class FoldX(object):
         self.output_dir = "/project/home/student1/FYP/files/foldx_stability"
         self.position_scan_dir = "/project/home/student1/FYP/files/foldx_position_scan"
         self.mutation = mutation
+        self.temp = temp + 273
+        self.pH = pH
 
         if mode == "stability":
             self.stability()
@@ -190,11 +192,13 @@ class FoldX(object):
 
         os.system("module load foldx")
 
-        os.system("foldx --command=PositionScan --out-pdb=false --pdb-dir={} --pdb={} --output-dir={} --positions={}".format(
+        os.system("foldx --command=PositionScan --out-pdb=false --pdb-dir={} --pdb={} --output-dir={} --positions={} --temperature={} --pH={}".format(
                                                                         self.repaired_dir,
                                                                         self.repaired_id,
                                                                         self.position_scan_dir,
-                                                                        self.mutation))
+                                                                        self.mutation,
+                                                                        self.temp,
+                                                                        self.pH))
 
         #print("Run FoldX point mutation for " + self.pdb_id + " with mutation " + self.mutation)
 

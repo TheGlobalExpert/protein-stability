@@ -3,26 +3,17 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 
-data = pd.read_csv("FoldX_predictions.csv")
+
+data = pd.read_csv("../results/master.csv")
+data = pd.read_csv("../data/FoldX_predictions.csv")
 
 x = list(data["ddG"])
 y = list(data["FoldX_dGG"])
 
+
 #clean # XXX:
 
-for i in range(len(x)):
-    if x[i][-1] == ")":
-        x[i] = x[i][:-3]
 
-indexes = []
-for i in range(len(x)):
-    print(len(y))
-    if math.isnan(y[i]) == True:
-        indexes.append(i)
-
-for i in reversed(indexes):
-    del x[i]
-    del y[i]
 
 
 import itertools
@@ -66,7 +57,7 @@ plt.plot(x_hori, y_hori, linestyle="dashed", label="Ideal")
 plt.ylim(-3,8)
 plt.xlim(-3,6)
 plt.legend(loc="upper right")
-plt.title("Scatter plot of FoldX predicted ddG verus \nexperimentally determined ddG (HotMusic dataset)")
+plt.title("New dataset (ProTherm+HotMusic)")
 
 plt.show()
 
