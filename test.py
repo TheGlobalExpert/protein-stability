@@ -1,6 +1,6 @@
 from tools import *
 import pandas as pd
-from pypdb import describe_pdb
+#from pypdb import describe_pdb
 
 """
 data = pd.read_csv("data/processed_hotmusic.csv")
@@ -43,9 +43,28 @@ for i in range(data.shape[0]):
     print(i)
 
 data.info()
+data = pd.read_csv("foldx2.csv")
 
 for i in range(data.shape[0]):
 
-    data.loc[i, "foldx_ddG"] = FoldX(data.loc[i, "PDB"], mode=position_scan, mutation=mut_info, temp=data.loc[i, "Temp"], pH=data.loc[i, "pH"]).ddG
+    if pd.isna(data.loc[i, "foldx_ddG"]) == True:
 
-    data.to_csv("foldx2.csv")
+        try:
+            mut_info = data.loc[i, "Variation"][0] + data.loc[i, "chain"] + data.loc[i, "Variation"][1:]
+            print(mut_info)
+
+            foldx = FoldX(data.loc[i, "PDB"], mode="position_scan", mutation=mut_info, temp=data.loc[i, "Temp"], pH=data.loc[i, "pH"])
+
+            data.loc[i, "foldx_ddG"] = foldx.ddG
+
+        except:
+            print("FIALED")
+
+
+
+
+    #data.to_csv("foldx2.csv")
+
+
+data = pd.read_csv("foldx2.csv")
+data.info()
