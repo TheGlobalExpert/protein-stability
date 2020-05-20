@@ -3,33 +3,12 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 
-data = pd.read_csv("FoldX_predictions.csv")
+data = pd.read_csv("../results/master.csv")
 
 x = list(data["ddG"])
-y = list(data["FoldX_dGG"])
-
-#clean # XXX:
-
-for i in range(len(x)):
-    if x[i][-1] == ")":
-        x[i] = x[i][:-3]
-
-indexes = []
-for i in range(len(x)):
-    print(len(y))
-    if math.isnan(y[i]) == True:
-        indexes.append(i)
-
-for i in reversed(indexes):
-    del x[i]
-    del y[i]
+y = list(data["foldx_ddG"])
 
 
-import itertools
-
-#lists = sorted(zip(*[x, y]))
-#x, y = list(zip(*lists))
-#x = x[:10]
 #y = y[:10]
 
 for i in range(len(x)):
@@ -59,21 +38,21 @@ def check_absolutes(real_threshold, foldx_threshold, x, y):
             if y[i] >= real_threshold:
                 true_positive = true_positive + 1
             elif y[i] <= real_threshold:
-                false_positive = false_positive + 1
+                false_positive = false_negative + 1
             else:
                 exit()
         else: #negative
             if y[i] <= real_threshold:
                 true_negative = true_negative + 1
             elif y[i] >= real_threshold:
-                false_negative = false_negative + 1
+                false_negative = false_positive + 1
             else:
                 exit()
 
     return true_positive, false_positive, true_negative, false_negative
 
 def ROC_values(real_threshold, x, y):
-    thresholds = list(np.arange(-10,10, 0.1))
+    thresholds = list(np.arange(-20,20, 0.1))
 
     TPR = []
     FPR = []
@@ -100,10 +79,10 @@ def ROC_values(real_threshold, x, y):
 
 #---Data---
 
-missense3d_x = np.load("results/missense3d_x.npy")
-missense3d_y = np.load("results/missense3d_y.npy")
+missense3d_x = np.load("../results/missense3d_x.npy")
+missense3d_y = np.load("../results/missense3d_y.npy")
 
-thresholds = np.load("results/roc_thresholds.npy")
+thresholds = np.load("../results/roc_thresholds.npy")
 
 x_hori = list(np.arange(0,1.1, 0.1))
 y_hori = list(np.arange(0,1.1, 0.1))

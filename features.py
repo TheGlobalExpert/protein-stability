@@ -6,7 +6,7 @@ from tools import Master_results
 import math
 import matplotlib.style as style
 
-data = Master_results()
+data = pd.read_csv("results/master.csv")
 print(data)
 
 labels = "Disulphide breakage,Buried Pro introduced,Clash,Buried hydropilic introduced,Buried charge introduced,Secondary structure altered,Buried charge switch,Disallowed phi/psi,Buried charge replaced,Buried Gly replaced,Buried H-bond breakage,Buried salt bridge breakage,Cavity altered,Buried / exposed switch,Cis pro replaced,Gly in a bend".split(",")
@@ -17,7 +17,7 @@ plot_threshold = False
 plot_combined = True
 plot_abs = True
 
-#plt.style.use("seaborn")
+plt.style.use("seaborn")
 
 def plot_bar_chart(threshold, data):
 
@@ -51,8 +51,8 @@ def plot_bar_chart(threshold, data):
 
     for i in range(data.shape[0]):
         print(i)
-        print([char for char in data.loc[i, "one_hot_features"]][:-1])
-        features = np.array([char for char in data.loc[i, "one_hot_features"]][:-1]).astype(np.float)
+        #print([char for char in data.loc[i, "one_hot_features"]][:-1])
+        features = np.array(data.loc[i, labels]).astype(np.float)
         print(features)
 
         if data.loc[i, "true_damage"] == 1.0:
@@ -78,52 +78,23 @@ def plot_bar_chart(threshold, data):
     ratios = TPR/FPR
 
 
-    barWidth = 0.4
-    r1 = np.arange(len(TPR))
-    r2 = [x + barWidth for x in r1]
-    if plot_threshold == True:
-        fig, ax1 = plt.subplots(figsize=(8,7))
-
-
-        ax1.bar(r1, TPR, align='center', alpha=0.5, width=barWidth, edgecolor='white', label='TPR')
-        ax1.bar(r2, FPR, align='center', alpha=0.5, width=barWidth, edgecolor='white', label='FPR')
-
-        ax1.set_ylabel('Positive rate (%)', fontweight='bold')
-        ax1.set_xticks([r + barWidth/2 for r in range(len(FPR))])
-        ax1.set_xticklabels(labels)
-        fig.autofmt_xdate(bottom=0.2, rotation=45, ha='right')
-
-        ax2 = ax1.twinx()
-        ax2.plot([r + barWidth/2 for r in range(len(FPR))], ratios, color="black", label="Ratio", marker="s", markerfacecolor="white")
-        ax2.set_ylabel('TPR/FPR ratio', fontweight='bold', rotation=270, labelpad=13)
-
-        marker_x = [r + barWidth/2 for r in range(len(FPR))]
-        for i, ratio in enumerate(ratios):
-            ax2.text(marker_x[i], ratio, str(round(ratio,1)),
-                bbox={'facecolor':'white','alpha':1,'edgecolor':'black','pad':1.5}, ha='center', va='center')
-
-
-        plt.title('Threshold = ' + str(threshold))
-        fig.legend(loc=4)
-        fig.tight_layout()
-        plt.show()
-
     return ratios, TPR, FPR, n_positive, n_negative, abs_postive, abs_negative
 
-
+fig, (ax1, ax2) = plt.subplots(2, figsize=(13,7))
 
 if plot_abs == True:
     barWidth = 0.13
 
-    colours = ["green", "blue", "red"]
+    colours = ["darkorange", "orangered", "firebrick"]
 
-    fig, ax1 = plt.subplots(figsize=(8,7))
+    #fig, ax1 = plt.subplots(figsize=(8,7))
 
+    ax1.set_title("A", loc="left", fontweight="bold")
     ax1.set_ylabel('Positive rate (%)', fontweight='bold')
     ax1.set_xticks([r + barWidth/2 for r in range(len(labels))])
     ax1.set_xticklabels(labels)
     fig.autofmt_xdate(bottom=0.2, rotation=45, ha='right')
-    ax2 = ax1.twinx()
+    #ax2 = ax1.twinx()
 
     r1 = np.arange(len(labels))
     r1 = [x - 2*barWidth for x in r1]
@@ -165,16 +136,17 @@ if plot_abs == True:
         """
 
         bars_positives = ax1.bar(x_pos[0], abs_postive, align='center', alpha=1, width=barWidth, edgecolor='white', color=colour, label=str(threshold))
-        bars_negatives = ax1.bar(x_pos[1], abs_negative, align='center', alpha=0.5, width=barWidth, edgecolor='white', color=colour)
+        bars_negatives = ax1.bar(x_pos[1], abs_negative, align='center', alpha=0.6, width=barWidth, edgecolor='white', color=colour)
 
         ax1.set_ylabel('Absolute positives', fontweight='bold')
         ax1.set_xticks([r + barWidth/2 for r in range(len(FPRs))])
         ax1.set_xticklabels(labels, fontsize=10)
+        ax1.set_xlim(-0.75, 16)
         fig.autofmt_xdate(bottom=0.2, rotation=45, ha='right')
 
 
-        ax2.plot([r + barWidth/2 for r in range(len(FPRs))], ratios, color=colour, label="Ratio", alpha=0.5)
-        ax2.set_ylabel('TPR/FPR ratio', fontweight='bold', rotation=270, labelpad=13)
+        #ax2.plot([r + barWidth/2 for r in range(len(FPRs))], ratios, color=colour, label="Ratio", alpha=0.5)
+        #ax2.set_ylabel('TPR/FPR ratio', fontweight='bold', rotation=270, labelpad=13)
 
         marker_x = [r + barWidth/2 for r in range(len(FPRs))]
 
@@ -189,21 +161,21 @@ if plot_abs == True:
                          bbox={'facecolor': 'white', 'alpha': 0.2, 'edgecolor': 'black', 'pad': 1.5}, ha='center',
                          va='center')
         """
-
+        """
         for i, ratio in enumerate(ratios):
             ax2.text(marker_x[i], ratio, str(round(ratio,1)),
                 bbox={'facecolor':'white','alpha':0.2,'edgecolor':'black','pad':1.5}, ha='center', va='center')
+        """
 
+    ax1.hlines(5, -1, 16,  color='black')
 
-    ax1.hlines(5, 0, 16,  color='r')
-
-    ax1.text(15, 42, "Solid bar = True Positives\nLight bar = False Positives", ha='center', va='center')
-    ax2.set_ylim(bottom=0)
-    plt.title("Absolute number of structural features observed (HotMusic+ProTherm)")
-    leg = ax1.legend(loc=2, title="\u0394\u0394G threshold\n    (kcal/mol)")
+    ax1.text(6, 38, "Solid bar = True Positives\nLight bar = False Positives", ha='center', va='center')
+    #ax2.set_ylim(bottom=0)
+    ##plt.title("Absolute number of structural features observed (HotMusic+ProTherm)")
+    leg = ax1.legend(loc=2, title="\u0394\u0394G threshold\n    (kcal/mol)", facecolor="white", framealpha=1)
     #leg._legend_box.align = "right"
     fig.tight_layout()
-    plt.show()
+    #plt.show()
 
 
 
@@ -213,15 +185,16 @@ if plot_combined == True:
 
     barWidth = 0.13
 
-    colours = ["green", "blue", "red"]
+    colours = ["darkorange", "orangered", "firebrick"]
 
-    fig, ax1 = plt.subplots(figsize=(8,7))
+    #fig, ax1 = plt.subplots(figsize=(8,7))
 
-    ax1.set_ylabel('Positive rate (%)', fontweight='bold')
-    ax1.set_xticks([r + barWidth/2 for r in range(len(labels))])
-    ax1.set_xticklabels(labels)
+    ax2.set_title("B", loc="left", fontweight="bold")
+    ax2.set_ylabel('Positive rate (%)', fontweight='bold')
+    ax2.set_xticks([r + barWidth/2 for r in range(len(labels))])
+    ax2.set_xticklabels(labels)
     fig.autofmt_xdate(bottom=0.2, rotation=45, ha='right')
-    ax2 = ax1.twinx()
+    ax3 = ax2.twinx()
 
     r1 = np.arange(len(labels))
     r1 = [x - 2*barWidth for x in r1]
@@ -246,17 +219,17 @@ if plot_combined == True:
         for FPR in FPRs:
             CIs_negatives.append(1.96 * math.sqrt((FPR * (1 - FPR) / n_negative)))
 
-        bars_positives = ax1.bar(x_pos[0], TPRs, yerr=CIs_positives, align='center', alpha=1, width=barWidth, edgecolor='white', color=colour, label=str(threshold))
-        bars_negatives = ax1.bar(x_pos[1], FPRs, yerr=CIs_negatives, align='center', alpha=0.5, width=barWidth, edgecolor='white', color=colour)
+        bars_positives = ax2.bar(x_pos[0], 100*TPRs, yerr=100*np.array(CIs_positives), align='center', alpha=1, width=barWidth, edgecolor='white', color=colour, label=str(threshold))
+        bars_negatives = ax2.bar(x_pos[1], 100*FPRs, yerr=100*np.array(CIs_negatives), align='center', alpha=0.5, width=barWidth, edgecolor='white', color=colour)
 
-        ax1.set_ylabel('Positives ratio', fontweight='bold')
-        ax1.set_xticks([r + barWidth/2 for r in range(len(FPRs))])
-        ax1.set_xticklabels(labels, fontsize=10)
+        #ax2.set_ylabel('Positives ratio', fontweight='bold')
+        ax2.set_xticks([r + barWidth/2 for r in range(len(FPRs))])
+        ax2.set_xticklabels(labels, fontsize=10)
         fig.autofmt_xdate(bottom=0.2, rotation=45, ha='right')
 
-
-        ax2.plot([r + barWidth/2 for r in range(len(FPRs))], ratios, color=colour, label="Ratio", alpha=0.3)
-        ax2.set_ylabel('TPR/FPR ratio', fontweight='bold', rotation=270, labelpad=13)
+        ax3.plot([r + barWidth/2 for r in range(len(FPRs))], ratios, linewidth=2.5, color="black", alpha=1)
+        ax3.plot([r + barWidth/2 for r in range(len(FPRs))], ratios, color=colour, label="Ratio", alpha=1)
+        ax3.set_ylabel('TPR/FPR ratio', fontweight='bold', rotation=270, labelpad=13)
 
         marker_x = [r + barWidth/2 for r in range(len(FPRs))]
         """
@@ -265,11 +238,13 @@ if plot_combined == True:
                 bbox={'facecolor':'white','alpha':0.2,'edgecolor':'black','pad':1.5}, ha='center', va='center')
         """
 
-    ax1.text(8, 0.1, "Solid bar = True Positives Ratio (TPR)\nLight bar = False Positives Ratio (FPR)", ha='center', va='center')
+    ax2.text(6, 7, "Solid bar = True Positives Rate (TPR)\nLight bar = False Positives Rate (FPR)", ha='center', va='center')
     ax2.set_ylim(bottom=0)
-    ax1.set_ylim(bottom=0)
-    plt.title("TPRs and FPRs with error bars - 95% confidence intervals (HotMusic+ProTherm)")
-    leg = ax1.legend(loc=2, title="\u0394\u0394G threshold\n    (kcal/mol)")
+    ax3.set_ylim(bottom=0)
+    ax2.set_xlim(-0.75, 16)
+    ax3.grid(False)
+    #plt.title("TPRs and FPRs with error bars - 95% confidence intervals (HotMusic+ProTherm)")
+    leg = ax2.legend(loc=2, title="\u0394\u0394G threshold\n    (kcal/mol)")
     #leg._legend_box.align = "right"
     fig.tight_layout()
     plt.show()
