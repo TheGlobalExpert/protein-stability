@@ -6,6 +6,8 @@ Final Year Project for Biocheminstry degree at Imperial College London looking i
 
 ## Getting Started
 
+![Workflow](https://github.com/cch1999/protein-stability/blob/master/figs/protein-stability-pipeline%20(1).png)
+
 ### Programs used
 
 * [Missense3D](http://www.sbg.bio.ic.ac.uk/~missense3d/) - A binary classifier of disease causing mutants and structural changes
