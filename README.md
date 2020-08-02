@@ -1,12 +1,10 @@
-# Structural explanations for protein thermal stability using temperature sensitive mutants
+# Deriving structural explanations for protein thermal stability using temperature sensitive mutants
 
 [Paper](https://github.com/cch1999/protein-stability/blob/master/figs/final_report.pdf) | [Poster](https://github.com/cch1999/protein-stability/blob/master/figs/poster_charlie_harris.pdf)
 
 Final Year Project for Biocheminstry degree at Imperial College London looking into which kinds of structural features account for protein stability.
 
 ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Programs used
 
