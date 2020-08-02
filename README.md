@@ -1,6 +1,6 @@
 # Deriving structural explanations for protein thermal stability using temperature sensitive mutants
 
-[Paper](https://github.com/cch1999/protein-stability/blob/master/figs/final_report.pdf) | [Poster](https://github.com/cch1999/protein-stability/blob/master/figs/poster_charlie_harris.pdf)
+[Paper](https://github.com/cch1999/protein-stability/blob/master/figs/final_report.pdf) | [Poster](https://github.com/cch1999/protein-stability/blob/master/figs/poster.pdf)
 
 Final Year Project for Biocheminstry degree at Imperial College London looking into which kinds of structural changes account for protein instability.
 
