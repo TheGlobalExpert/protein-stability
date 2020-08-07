@@ -19,11 +19,11 @@ plot_abs = True
 
 plt.style.use("seaborn")
 
-def plot_bar_chart(threshold, data):
+def plot_bar_chart(threshold, data, source):
 
     for i in range(data.shape[0]):
 
-        ddG = data.loc[i, "ddG"]
+        ddG = data.loc[i, source]
 
         try:
             ddG = ddG.iloc[0]
@@ -80,9 +80,11 @@ def plot_bar_chart(threshold, data):
 
     return ratios, TPR, FPR, n_positive, n_negative, abs_postive, abs_negative
 
-fig, (ax1, ax2) = plt.subplots(2, figsize=(13,10))
+fig, (ax1, ax2) = plt.subplots(2, figsize=(13,7))
+
 
 if plot_abs == True:
+    """
     barWidth = 0.2
 
     colours = ["C0", "C2"]
@@ -115,7 +117,7 @@ if plot_abs == True:
 
         TPR_sig = []
         FPR_sig = []
-        """
+
 
         for TPR in TPRs:
 
@@ -132,7 +134,7 @@ if plot_abs == True:
                 FPR_sig.append(True)
             else:
                 FPR_sig.append(False)
-        """
+
 
         bars_positives = ax1.bar(x_pos[0], abs_postive, align='center', alpha=1, width=barWidth, edgecolor='white', color=colour, label=str(threshold))
         bars_negatives = ax1.bar(x_pos[1], abs_negative, align='center', alpha=0.6, width=barWidth, edgecolor='white', color=colour)
@@ -152,19 +154,17 @@ if plot_abs == True:
         print(FPR_sig)
         print(TPR_sig)
 
-        """
+
         for i, ratio in enumerate(ratios):
             if FPR_sig[i] == True and TPR_sig[i] == True:
                 ax2.scatter(marker_x[i], ratio)
                 ax2.text(marker_x[i], ratio, str(round(ratio, 1)),
                          bbox={'facecolor': 'white', 'alpha': 0.2, 'edgecolor': 'black', 'pad': 1.5}, ha='center',
-                         va='center')
-        """
-        """
+
         for i, ratio in enumerate(ratios):
             ax2.text(marker_x[i], ratio, str(round(ratio,1)),
                 bbox={'facecolor':'white','alpha':0.2,'edgecolor':'black','pad':1.5}, ha='center', va='center')
-        """
+
 
     ax1.hlines(5, -1, 16,  color='black')
 
@@ -175,9 +175,7 @@ if plot_abs == True:
     #leg._legend_box.align = "right"
     fig.tight_layout()
     #plt.show()
-
-
-
+    """
 
 
 if plot_combined == True:
@@ -194,6 +192,7 @@ if plot_combined == True:
     ax2.set_xticklabels(labels)
     fig.autofmt_xdate(bottom=0.2, rotation=45, ha='right')
     ax3 = ax2.twinx()
+    ax2.grid(False)
 
     r1 = np.arange(len(labels))
     r1 = [x - barWidth for x in r1]
@@ -202,56 +201,49 @@ if plot_combined == True:
     r4 = [x + barWidth for x in r3]
 
 
-    x_positions = [[r1, r3], [r2, r4]]
+    x_positions = [[r1, r2], [r3, r4]]
+
+    sources = ["ddG", "foldx_ddG"]
 
     for threshold, x_pos, colour in zip(thresholds, x_positions, colours):
 
-        ratios, TPRs, FPRs, n_positive, n_negative, abs_postive, abs_negative = plot_bar_chart(threshold, data)
+        ratios, TPRs, FPRs, n_positive, n_negative, abs_postive, abs_negative = plot_bar_chart(threshold, data, "ddG")
 
-        CIs_positives = []
-        CIs_negatives = []
+        ratios_exp = ratios
 
-        for TPR in TPRs:
-            CIs_positives.append(1.96 * math.sqrt((TPR * (1 - TPR) / n_positive)))
+        bars_exp = ax2.bar(x_pos[0], ratios, align='center', alpha=1, width=barWidth, edgecolor='white', color=colour, label=str(threshold))
 
-        for FPR in FPRs:
-            CIs_negatives.append(1.96 * math.sqrt((FPR * (1 - FPR) / n_negative)))
+        ratios, TPRs, FPRs, n_positive, n_negative, abs_postive, abs_negative = plot_bar_chart(threshold, data, "foldx_ddG")
 
-        bars_positives = ax2.bar(x_pos[0], 100*TPRs, yerr=100*np.array(CIs_positives), align='center', alpha=1, width=barWidth, edgecolor='white', color=colour, label=str(threshold))
-        bars_negatives = ax2.bar(x_pos[1], 100*FPRs, yerr=100*np.array(CIs_negatives), align='center', alpha=0.5, width=barWidth, edgecolor='white', color=colour)
+        ratios_foldx = ratios
+
+        bars_foldx = ax2.bar(x_pos[1], ratios, align='center', alpha=0.5, width=barWidth, edgecolor='white', color=colour)
 
         #ax2.set_ylabel('Positives ratio', fontweight='bold')
         ax2.set_xticks([r + barWidth/2 for r in range(len(FPRs))])
         ax2.set_xticklabels(labels, fontsize=10)
         fig.autofmt_xdate(bottom=0.2, rotation=45, ha='right')
 
-        ax3.plot([r + barWidth/2 for r in range(len(FPRs))], ratios, linewidth=2.5, color="black", alpha=1)
-        ax3.plot([r + barWidth/2 for r in range(len(FPRs))], ratios, color=colour, label="Ratio", alpha=1)
-
-
+        #ax3.plot([r + barWidth/2 for r in range(len(FPRs))], ratios_foldx/ratios_exp, linewidth=2.5, color="black", alpha=1)
+        ax3.plot([r + barWidth/2 for r in range(len(FPRs))], ratios_foldx/ratios_exp, color=colour, label="Ratio", alpha=1)
+        ax3.set_ylabel('TPR/FPR ratio', fontweight='bold', rotation=270, labelpad=13)
+        ax3.set_yscale("log")
 
         marker_x = [r + barWidth/2 for r in range(len(FPRs))]
+        """
+        for i, ratio in enumerate(ratios):
+            ax3.text(marker_x[i], ratio, str(round(ratio,1)),
+                bbox={'facecolor':'white','alpha':0.2,'edgecolor':'black','pad':1.5}, ha='center', va='center')
+        """
 
-        #for i, ratio in enumerate(ratios):
-            #ax3.text(marker_x[i], ratio, str(round(ratio,1)),
-                #bbox={'facecolor':'white','alpha':0.2,'edgecolor':'black','pad':1.5}, ha='center', va='center')
 
-
-    ax2.text(6, 7, "Solid bar = True Positives Rate (TPR)\nLight bar = False Positives Rate (FPR)", ha='center', va='center')
+    ax2.text(4.5, 15, "Solid bar = Experimentally determined ratios\nLight bar = FoldX predicted ratios", ha='center', va='center')
     ax2.set_ylim(bottom=0)
-    ax3.set_ylim(bottom=0)
+    ax3.set_ylim(bottom=0.1, top=100)
     ax2.set_xlim(-0.75, 16)
-    #ax3.set_yscale("log")
-    ax3.grid(False)
-    ax3.set_ylabel('TPR/FPR ratio', fontweight='bold', rotation=270, labelpad=15)
-    #ax3.set_ylim(bottom=0.1, top=100)
-
-    ax3.hlines(1, -1, 16,  color='black')
 
     #plt.title("TPRs and FPRs with error bars - 95% confidence intervals (HotMusic+ProTherm)")
     leg = ax2.legend(loc=2, title="\u0394\u0394G threshold\n    (kcal/mol)")
     #leg._legend_box.align = "right"
     fig.tight_layout()
-    plt.savefig("figs/features.png", dpi=400)
     plt.show()
-    #plt.savefig("test.png", bbox_inches="tight")

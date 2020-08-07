@@ -107,6 +107,7 @@ for threshold in thresholds:
 missense_TPR = []
 missense_FPR = []
 
+thresholds = [1.0, 1.5, 2.0]
 
 for threshold in thresholds:
 
@@ -135,7 +136,7 @@ missense3d_toi = [100,103, 105, 107, 110, 112,114,116, 118, 120]
 
 plt.figure(figsize = (6,6))
 plt.plot(foldx_FPR,foldx_TPR, label="FoldX")
-plt.plot(missense_FPR,missense_TPR, label="Missense3D")
+plt.scatter(missense_FPR,missense_TPR, color=  "orange", label="Missense3D")
 #plt.plot(x_hori, y_hori, linestyle="dashed")
 plt.xlabel("False Positive Rate")
 plt.ylabel("True Postive Rate")
