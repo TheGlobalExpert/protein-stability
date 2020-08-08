@@ -1,5 +1,4 @@
 [![MIT License](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square)](https://github.com/cch1999/protein-stability/blob/master/LICENSE)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/charlie-harris-388285156/)
 
 
