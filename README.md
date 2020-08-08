@@ -1,3 +1,7 @@
+[![MIT License][license-shield]][https://github.com/cch1999/protein-stability/blob/master/LICENSE]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/feed/]
+
+
 # Deriving structural explanations for protein thermal stability using temperature sensitive mutants
 
 [Paper](https://github.com/cch1999/protein-stability/blob/master/figs/final_report.pdf) | [Poster](https://github.com/cch1999/protein-stability/blob/master/figs/poster.pdf)
