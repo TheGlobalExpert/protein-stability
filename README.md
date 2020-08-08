@@ -32,6 +32,10 @@ biopython
 
 * **Charles Harris** - [cch1999](https://github.com/cch1999)
 
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
 ## Acknowledgments
 
 * The author would like to acknowledge the help and supervision of Prof Michael Sternberg and Dr Suhail Islam during this project. 
