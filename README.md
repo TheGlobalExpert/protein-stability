@@ -30,7 +30,7 @@ biopython
 
 ## Author
 
-* **Charles Harris** - [cch1999](https://github.com/cch1999)
+* **Charles Harris** - [cch1999](https://github.com/cch1999) - ch5417@ic.ac.uk
 
 ## License
 
