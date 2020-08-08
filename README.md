@@ -1,5 +1,6 @@
 [![MIT License][license-shield]][https://github.com/cch1999/protein-stability/blob/master/LICENSE]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/feed/]
+
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/charlie-harris-388285156/]
 
 
 # Deriving structural explanations for protein thermal stability using temperature sensitive mutants
