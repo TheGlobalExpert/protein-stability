@@ -1,3 +1,10 @@
+#################################################################
+#                                                               #
+#    Linear regression analysis between our FoldX predicted     #
+#           and experimentally determined folding ddGs          #
+#                                                               #
+#################################################################
+
 from tools import HotMusic_data, FoldX
 import pandas as pd
 from tqdm import tqdm
